@@ -1,5 +1,3 @@
 # Metaverse University
 
-The University is [here](https://www.roblox.com/games/6233302798/Metauni) on Roblox.
-
-* Some background on [Roblox as Metaverse](https://www.wired.co.uk/article/metaverse) and this [video](https://www.youtube.com/watch?v=G00GlCJc0mU).
+The University is [here](https://www.roblox.com/games/6233302798/Metauni) on Roblox, which is a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU)).
