@@ -1,6 +1,6 @@
 # Free University of the Metaverse
 
-The Free University is on Roblox, a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU)). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). In its current iteration localised voice chat is based on [Discord](https://www.discord.com), a popular real-time communication platform.
+The Free University is on [Roblox](https://www.roblox.com/), a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU)). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). In its current iteration localised voice chat is based on [Discord](https://www.discord.com), a popular real-time communication platform.
 
 ## Instructions
 
