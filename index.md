@@ -32,7 +32,6 @@ for _,zone in pairs(zones) do
 					local plr = Players:GetPlayerFromCharacter(hit.Parent)
 					if plr then
 						if PlayerZones[plr.Name] ~= zone.Name then
-							print(plr.Name.." entered "..zone.Name)
 							PlayerZones[plr.Name] = zone.Name
 
 							local HS = game:GetService("HttpService")
