@@ -10,7 +10,7 @@ The Free University is on Roblox, a utility platform for persistent large-scale 
 4. Manually enter any Discord voice channel (e.g. General).
 5. Enter the [Rising Sea Roblox](https://www.roblox.com/games/6224932973/The-Rising-Sea).
 
-You should notice transparent volumes around floating white billboards (currently abstracts of papers, or lecture notes). Those volumes, when touched, will transition your Discord into an appropriate location-specific voice channel. Leaving the volume will not leave the channel (you can manually reset to General, or use the reset volume near your spawn point) so you can take a walk and enjoy the view...
+You should notice transparent volumes around floating white billboards (currently abstracts of papers, or lecture notes). Those volumes, when touched, will transition your Discord into an appropriate location-specific voice channel. Leaving the volume will not leave the channel (you can manually reset to General, or use the reset volume near your spawn point) so you can take a walk together and enjoy the view...
 
 ## Setup
 
