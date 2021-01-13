@@ -8,6 +8,8 @@ The Free University is [on Roblox](https://www.roblox.com/games/6233302798/Metau
 2. Manually enter any Discord voice channel
 3. Move around the Roblox world
 
+The current test server is [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) and associated [Discord channel](https://discord.gg/zg3K3NMK).
+
 ## Setup
 
 Currently a Discord bot (running on Repl.it) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game scripts detect Touched events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False` and you should probably make it large (i.e. so the Player's whole body enters the zone). You need ot enable Http requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions. Put `ZonesScript` into `ServerScriptService` where
