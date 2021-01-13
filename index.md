@@ -1,14 +1,14 @@
 # Free University of the Metaverse
 
-The Free University is on Roblox, a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU)). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). In its current iteration localised voice chat is based on Discord, a popular real-time communication platform.
+The Free University is on Roblox, a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU)). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). In its current iteration localised voice chat is based on [Discord](https://www.discord.com), a popular real-time communication platform.
 
 ## Instructions
 
-1. When you enter an enabled Discord server register your Roblox username with `!register <username>`.
-2. Manually enter any Discord voice channel
-3. Move around the Roblox world
-
-The current test server is [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) and associated [Discord channel](https://discord.gg/zg3K3NMK).
+1. Create Roblox and Discord accounts
+2. Enter the Rising Sea [Discord channel](https://discord.gg/zg3K3NMK)
+3. Register your Roblox username with `!register <username>`.
+4. Manually enter any Discord voice channel (e.g. General)
+5. Click "play" on the [Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) Roblox.
 
 ## Setup
 
