@@ -6,9 +6,9 @@ The Free University is on Roblox, a utility platform for persistent large-scale 
 
 1. Create Roblox and Discord accounts
 2. Enter the Rising Sea [Discord channel](https://discord.gg/zg3K3NMK)
-3. Register your Roblox username with `!register <username>`.
+3. Register your Roblox username with `!register <username>`
 4. Manually enter any Discord voice channel (e.g. General)
-5. Click "play" on the [Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) Roblox.
+5. Enter the [Rising Sea Roblox](https://www.roblox.com/games/6224932973/The-Rising-Sea)
 
 ## Setup
 
