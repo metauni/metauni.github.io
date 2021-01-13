@@ -7,3 +7,7 @@ The Free University is [on Roblox](https://www.roblox.com/games/6233302798/Metau
 1. When you enter an enabled Discord server register your Roblox username with `!register <username>`.
 2. Manually enter any Discord voice channel
 3. Move around the Roblox world
+
+## Setup
+
+Currently a Discord bot (running on Repl.it) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game scripts detect Touched events when a player enters a zone, and triggers the webhook.
