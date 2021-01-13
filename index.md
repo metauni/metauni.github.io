@@ -35,7 +35,7 @@ for _,zone in pairs(zones) do
 							PlayerZones[plr.Name] = zone.Name
 
 							local HS = game:GetService("HttpService")
-							local WebhookURL = "https://discord.com/api/webhooks/798867486211964929/XKosEqZ6v622J7iSdyS_vrDuxq1JHj6nsUGVFnbzhzp3iQLNC11eZNA61gjVj9orPiBf"
+							local WebhookURL = "<your webhook URL here>"
 							local MessageData = {
 								["content"] = "MoverBot: "..plr.Name.." "..zone.Name
 							}
