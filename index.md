@@ -6,7 +6,7 @@ The Free University is on [Roblox](https://www.roblox.com/), a utility platform 
 
 ## Instructions
 
-Currently the only active server is my personal corner of the Free University, here are instructions to visit:
+Currently the only active server is [my](http://therisingsea.org/) personal corner of the Free University, here are instructions to visit:
 
 1. Create Roblox and Discord accounts.
 2. Enter the Rising Sea [Discord channel](https://discord.gg/zg3K3NMK).
@@ -14,13 +14,13 @@ Currently the only active server is my personal corner of the Free University, h
 4. Manually enter any Discord voice channel (e.g. General).
 5. Enter the [Rising Sea Roblox](https://www.roblox.com/games/6224932973/The-Rising-Sea).
 
-You should notice transparent volumes around floating white billboards (currently abstracts of papers, or lecture notes). Those volumes, when touched, will transition your Discord into an appropriate location-specific voice channel. Leaving the volume will not leave the channel (you can manually reset to General, or use the reset volume near your spawn point) so you can take a walk together and enjoy the view...
+You should notice almost transparent zones near floating white billboards or other points of interest. Those zones, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel, so feel free to take a walk and pick some apples...
 
 ## Setup
 
-Here's how this is currently setup, if you want to replicate it. Please do [email me](mailto://daniel.murfet@gmail.com) if you need a hand setting anything up (or just find me in the Rising Sea Roblox) and I'm happy to add a portal to your Roblox.
+Here's how this is currently setup, so you can replicate and improve it! Please [email me](mailto://daniel.murfet@gmail.com) if you need a hand setting anything up (or just find me in the Rising Sea Roblox). I'll probably be happy to add a portal to your Roblox from mine, especially if you're a student.
 
-A Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game scripts detect Touched events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False` and you should probably make it large (i.e. so the Player's whole body enters the zone). You need ot enable Http requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. Put `ZonesScript` into `ServerScriptService` where
+The details: a Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False` and you should probably make it large (i.e. so the Player's whole body enters the zone). You need to enable Http requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. Put `ZonesScript` into `ServerScriptService` where
 
 ```
 local PlayerZones = {}
