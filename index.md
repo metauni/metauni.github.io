@@ -74,3 +74,4 @@ for _,zone in pairs(zones) do
 	end
 end
 ```
+The Discord bot has now [migrated to MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e), note that you will need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `CLusters > Connect > Connect your application` and selecting Python.
