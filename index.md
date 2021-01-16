@@ -20,8 +20,8 @@ You should notice almost transparent zones near floating white billboards or oth
 
 Upcoming events:
 
+* **Friday 22/1/2021**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory.
 * Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
-* Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory.
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
