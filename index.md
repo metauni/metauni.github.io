@@ -76,3 +76,5 @@ for _,zone in pairs(zones) do
 end
 ```
 The Discord bot has now [migrated to MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e), note that you will need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `CLusters > Connect > Connect your application` and selecting Python.
+
+Currently the slide presenter is set up for 4:3 slides, and this should work across a range of devices (e.g. phones, tablets, laptops). This is the "standard" setting in Mac Keynote. It is a bit harder to make 16:9 work on all devices, so we're avoiding that for the moment (TODO!).
