@@ -28,7 +28,7 @@ Upcoming events:
 ## History
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
-* 16/1/20201 - Update with clickable documents, audio plinths and working teleports.
+* 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
 
 ## Setup
 
