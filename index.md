@@ -25,6 +25,11 @@ Upcoming events:
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
+## History
+
+* 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
+* 16/1/20201 - Update with clickable documents, audio plinths and working teleports.
+
 ## Setup
 
 Here's how this is currently setup, so you can replicate it and make your own node.
