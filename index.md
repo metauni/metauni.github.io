@@ -4,7 +4,7 @@ The Free University of the Metaverse (metauni) is on [Roblox](https://www.roblox
 
 ## Instructions
 
-Currently the only active server is [my](http://therisingsea.org/) personal corner of the Free University, here are instructions to visit:
+Currently the only active server on metauni is the Rising Sea. Here are instructions for visiting:
 
 1. Create Roblox and Discord accounts.
 2. Enter the Rising Sea [Discord channel](https://discord.gg/zg3K3NMK).
