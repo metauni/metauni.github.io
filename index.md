@@ -31,6 +31,7 @@ Upcoming events:
 * 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
 * 16/1/2021 - Quick [video](https://youtu.be/vkaBQw9-OBY) on understanding "Publish to Roblox".
 * 17/1/2021 - Rewrote Discord bot to use MongoDB, fixed some bugs, implemented slide presentations ([video](https://youtu.be/9-fyJvrTRzA)).
+* 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
 
 ## Setup
 
