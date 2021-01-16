@@ -22,6 +22,7 @@ Upcoming events:
 
 * Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
 * Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory.
+* Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
 ## Setup
