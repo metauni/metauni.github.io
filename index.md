@@ -16,7 +16,7 @@ You should notice almost transparent zones near floating white billboards or oth
 
 ## Setup
 
-Here's how this is currently setup, so you can replicate and improve it! Please [email me](mailto://daniel.murfet@gmail.com) if you need a hand setting anything up (or just find me in the Rising Sea Roblox). I'll probably be happy to add a portal to your Roblox from mine, especially if you're a student.
+Here's how this is currently setup, so you can replicate it and make your own node.
 
 The details: a Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False` and you should probably make it large (i.e. so the Player's whole body enters the zone). You need to enable Http requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. Put `ZonesScript` into `ServerScriptService` where
 
