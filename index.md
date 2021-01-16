@@ -16,6 +16,14 @@ In its current iteration localised voice chat in metauni is based on [Discord](h
 
 You should notice almost transparent zones near floating white billboards or other points of interest. Those zones, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel, so feel free to take a walk and pick some apples...
 
+## Events
+
+Upcoming events:
+
+* Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
+* Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory.
+* Talk by Ziling Ye on Chinese history.
+
 ## Setup
 
 Here's how this is currently setup, so you can replicate it and make your own node.
