@@ -81,4 +81,4 @@ The Discord bot has now [migrated to MongoDB](https://towardsdatascience.com/cre
 
 Currently the slide presenter is set up for 4:3 slides, and this should work across a range of devices (e.g. phones, tablets, laptops). This is the "standard" setting in Mac Keynote. It is a bit harder to make 16:9 work on all devices, so we're avoiding that for the moment (TODO!).
 
-If you want to set up all the other bells and whistles you see in the Rising Sea Metauni node, [download it]([Metauni demonstration node](Backup18-1-2021.rbxl)) and copy the code to your own Roblox.
+If you want to set up all the other bells and whistles you see in the Rising Sea Metauni node, [download it](Backup18-1-2021.rbxl) and copy the code to your own Roblox.
