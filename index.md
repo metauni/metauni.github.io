@@ -32,6 +32,7 @@ Upcoming events:
 * 16/1/2021 - Quick [video](https://youtu.be/vkaBQw9-OBY) on understanding "Publish to Roblox".
 * 17/1/2021 - Rewrote Discord bot to use MongoDB, fixed some bugs, implemented slide presentations ([video](https://youtu.be/9-fyJvrTRzA)).
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
+* 18/1/2021 - First release of [Metauni demonstration node](Backup18-1-2021.rbxl) (the Rising Sea world Roblox file).
 
 ## Setup
 
@@ -79,3 +80,5 @@ end
 The Discord bot has now [migrated to MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e), note that you will need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `CLusters > Connect > Connect your application` and selecting Python.
 
 Currently the slide presenter is set up for 4:3 slides, and this should work across a range of devices (e.g. phones, tablets, laptops). This is the "standard" setting in Mac Keynote. It is a bit harder to make 16:9 work on all devices, so we're avoiding that for the moment (TODO!).
+
+If you want to set up all the other bells and whistles you see in the Rising Sea Metauni node, [download it]([Metauni demonstration node](Backup18-1-2021.rbxl)) and copy the code to your own Roblox.
