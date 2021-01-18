@@ -34,7 +34,7 @@ Upcoming events:
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
 * 18/1/2021 - First release of [Metauni demonstration node](http://www.metauni.org/Backup18-1-2021.rbxl) (the Rising Sea world Roblox file).
 * 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
-* 18/1/2021 - Instructions for [building your own node](http://www.google.com) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive.
+* 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive.
 
 ## Setup
 
