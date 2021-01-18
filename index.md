@@ -9,7 +9,7 @@ The purpose of this page: help others set up metauni nodes, coordinate the devel
 In its current iteration localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Currently the only active server on metauni is the Rising Sea. Here are instructions for visiting:
 
 1. Create Roblox and Discord accounts.
-2. Enter the Rising Sea [Discord channel](https://discord.gg/zg3K3NMK).
+2. Enter the Rising Sea [Discord channel](https://discord.gg/9yBaAxPSK8).
 3. Register your Roblox username with `!register <username>`.
 4. Manually enter any Discord voice channel (e.g. General).
 5. Enter the [Rising Sea Roblox](https://www.roblox.com/games/6224932973/The-Rising-Sea).
