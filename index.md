@@ -20,7 +20,7 @@ You should comply with the [Roblox community rules](https://en.help.roblox.com/h
 
 ### Troubleshooting
 
-If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN.
+If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. The Discord-Roblox integration can be a bit weird when you sign in for the first time, please try switching zones a few times (by walking in between two of them) and hopefully this works itself out. If not, you can manually join the `zTalk` channel on Discord to hear talks.
 
 ## Events
 
