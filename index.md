@@ -26,7 +26,7 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 
 Upcoming events:
 
-* **Friday 22/1/2021 10am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory.
+* **Friday 22/1/2021 10am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)).
 * Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
