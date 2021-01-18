@@ -31,6 +31,8 @@ Upcoming events:
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
+
 ## History
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
