@@ -16,6 +16,8 @@ In its current iteration localised voice chat in metauni is based on [Discord](h
 
 You should notice almost transparent zones near floating white billboards or other points of interest. Those zones, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel, so feel free to take a walk and pick some apples...
 
+You should comply with the [Roblox community rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) while on their platform, and that includes the developer rules if you are creating your own nodes. These rules are in place to protect the children who spend a lot of time in Roblox, and seem to me well-intentioned and reasonable. However this does mean that you should **refrain from using the in-game chat or images to share URLs** or post Discord information inside your node. This coordination should happen on Discord or through some other channel.
+
 ## Events
 
 Upcoming events:
