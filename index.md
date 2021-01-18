@@ -2,7 +2,7 @@
 
 The Free University of the Metaverse (metauni) is a public network (like the World Wide Web) built out of [Roblox](https://www.roblox.com/) nodes (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). Roblox is a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! 
 
-The purpose of this page: help others set up metauni nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events (sign up [here](http://tinyletter.com/adminmetauni) for the mailing list).
+The purpose of this page: help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events (sign up [here](http://tinyletter.com/adminmetauni) for the mailing list).
 
 ## Instructions
 
