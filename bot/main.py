@@ -16,7 +16,7 @@ from discord import ChannelType
 
 # The .env file contains database login credentials and bot id
 
-# Set up database (TODO: insecure)
+# Set up database
 # following https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e
 
 cluster = MongoClient(
@@ -31,7 +31,7 @@ bot = commands.Bot(
     case_insensitive=True  # Commands aren't case-sensitive
 )
 
-bot.author_id = 685660505435668486
+bot.author_id = # YOUR DISCORD ID HERE
 
 
 @bot.event
@@ -74,7 +74,7 @@ async def on_message(message):
         # I think that message.guild.members is broken
         # so we use a workaround looking for voice channel members
 
-        print("---- new message ----")
+        # print("---- new message ----")
         channel_list = message.guild.voice_channels
 
         msg_split = message.content.split(" ")
@@ -82,9 +82,9 @@ async def on_message(message):
         channel_to_move = msg_split[2]
 
         discord_id = -1
-        print("discord from roblox")
-        print(discord_from_roblox)
-        print("")
+        # print("discord from roblox")
+        # print(discord_from_roblox)
+        # print("")
 
         if user_to_move in discord_from_roblox:
             # use cached value
@@ -96,12 +96,12 @@ async def on_message(message):
             mydoc = collection.find(myquery)
 
             for x in mydoc:
-                print(x)
+                # print(x)
                 if '_id' in x:
                     discord_id = x['_id']
 
-        print("got discord ID")
-        print(discord_id)
+        # print("got discord ID")
+        # print(discord_id)
 
         if discord_id != -1:
             # Move the user to the designated channel
@@ -114,9 +114,9 @@ async def on_message(message):
                     foundchannel = True
                     channel = c
 
-                print(c.name)
-                print(c.members)
-                print("")
+                # print(c.name)
+                # print(c.members)
+                # print("")
 
                 for u in c.members:
                     if (u.id == discord_id):
@@ -124,7 +124,7 @@ async def on_message(message):
                         user = u
 
             if (founduser and foundchannel):
-                print("moving user " + str(u.id) + " to " + c.name)
+                # print("moving user " + str(u.id) + " to " + c.name)
                 await user.move_to(channel)
 
 
