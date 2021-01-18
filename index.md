@@ -40,45 +40,8 @@ Upcoming events:
 
 Here's how this is currently setup, so you can replicate it and make your own node.
 
-The details: a Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False` and you should probably make it large (i.e. so the Player's whole body enters the zone). You need to enable Http requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. Put `ZonesScript` into `ServerScriptService` where
+The details: a Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False` and you should probably make it large (i.e. so the Player's whole body enters the zone). You need to enable Http requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. You'll need `ZonesScript` in `ServerScriptService` the code for which you can find in the Metauni demonstration Roblox file (see above).
 
-```
-local PlayerZones = {}
-local Players = game:GetService("Players")
-
--- Attach Touched events to baseparts in each zone
--- based on https://developer.roblox.com/en-us/articles/detecting-collisions
--- and https://developer.roblox.com/en-us/api-reference/function/Players/GetPlayerFromCharacter
-zones = game.Workspace.Zones:GetChildren()
-
-for _,zone in pairs(zones) do
-	for _,obj in pairs(zone:GetDescendants()) do
-		if obj:IsA("BasePart") then
-			obj.Touched:Connect(function(hit)
-				local humanoid = hit.Parent:FindFirstChildWhichIsA("Humanoid")
-				if humanoid then
-					-- A player touched a zone
-					
-					local plr = Players:GetPlayerFromCharacter(hit.Parent)
-					if plr then
-						if PlayerZones[plr.Name] ~= zone.Name then
-							PlayerZones[plr.Name] = zone.Name
-
-							local HS = game:GetService("HttpService")
-							local WebhookURL = "<your webhook URL here>"
-							local MessageData = {
-								["content"] = "MoverBot: "..plr.Name.." "..zone.Name
-							}
-							MessageData = HS:JSONEncode(MessageData)
-							HS:PostAsync(WebhookURL,MessageData)
-						end
-					end
-				end
-			end)
-		end
-	end
-end
-```
 The Discord bot has now [migrated to MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e), note that you will need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `CLusters > Connect > Connect your application` and selecting Python.
 
 Currently the slide presenter is set up for 4:3 slides, and this should work across a range of devices (e.g. phones, tablets, laptops). This is the "standard" setting in Mac Keynote. It is a bit harder to make 16:9 work on all devices, so we're avoiding that for the moment (TODO!).
