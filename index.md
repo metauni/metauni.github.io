@@ -33,6 +33,7 @@ Upcoming events:
 * 17/1/2021 - Rewrote Discord bot to use MongoDB, fixed some bugs, implemented slide presentations ([video](https://youtu.be/9-fyJvrTRzA)).
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
 * 18/1/2021 - First release of [Metauni demonstration node](http://www.metauni.org/Backup18-1-2021.rbxl) (the Rising Sea world Roblox file).
+* 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
 
 ## Setup
 
