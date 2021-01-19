@@ -42,6 +42,8 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 * 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
 * 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive.
 
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) and [Billy Price](https://billyprice.me/).
+
 ## Setup
 
 Here's how this is currently setup, so you can replicate it and make your own node.
