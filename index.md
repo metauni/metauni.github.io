@@ -2,6 +2,17 @@ The Free University of the Metaverse (metauni) is a public network (like the Wor
 
 The purpose of this page is to help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events (sign up [here](http://tinyletter.com/adminmetauni) for the mailing list). Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. You can contact us at <admin@metauni.org>.
 
+## Events
+
+Upcoming events:
+
+* **Friday 22/1/2021 10am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)).
+* Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
+* Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
+* Talk by Ziling Ye on Chinese history.
+
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send "?" using the in-game chat and a question mark bubble will appear over your head for the speaker to see.
+
 ## Instructions
 
 In its current iteration localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Currently the only active server on metauni is the Rising Sea. Here are instructions for visiting:
@@ -20,22 +31,13 @@ Some notes on in-game controls and features:
 
 * To interact with in-world GUI elements, such as buttons, you simply (left) click on them. Most of the white floating displays can be clicked on for a more readable popup view, including the presenter display in the talk zone.
 
+* To use the in-game chat press "/". 
+
 You should comply with the [Roblox community rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) while on their platform, and that includes the developer rules if you are creating your own nodes. These rules are in place to protect the children who spend a lot of time in Roblox, and seem to me well-intentioned and reasonable. However this does mean that you should **refrain from using the in-game chat or images to share URLs** or post Discord information inside your node. This coordination should happen on Discord or through some other channel. Finally, *do not under any circumstances climb the knot*.
 
 ### Troubleshooting
 
 If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. The Discord-Roblox integration can be a bit weird when you sign in for the first time, please try switching zones a few times (by walking in between two of them) and hopefully this works itself out. If not, you can manually join the `zTalk` channel on Discord to hear talks.
-
-## Events
-
-Upcoming events:
-
-* **Friday 22/1/2021 10am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)).
-* Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
-* Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
-* Talk by Ziling Ye on Chinese history.
-
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## History
 
