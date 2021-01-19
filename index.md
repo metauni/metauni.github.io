@@ -1,8 +1,6 @@
-*The physical universe is a legacy platform.*
-
 The Free University of the Metaverse (metauni) is a public network (like the World Wide Web) built out of [Roblox](https://www.roblox.com/) nodes (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). Roblox is a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! 
 
-The purpose of this page: help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events (sign up [here](http://tinyletter.com/adminmetauni) for the mailing list). Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. You can contact us at <admin@metauni.org>.
+The purpose of this page is to help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events (sign up [here](http://tinyletter.com/adminmetauni) for the mailing list). Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. You can contact us at <admin@metauni.org>.
 
 ## Instructions
 
@@ -26,10 +24,12 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 
 Upcoming events:
 
-* **Friday 22/1/2021 10am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory.
+* **Friday 22/1/2021 10am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)).
 * Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
+
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## History
 
@@ -42,10 +42,12 @@ Upcoming events:
 * 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
 * 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive.
 
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) and [Billy Price](https://billyprice.me/).
+
 ## Setup
 
 Here's how this is currently setup, so you can replicate it and make your own node.
 
-The details: a Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False`. You need to enable HTTP requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. You'll need `ZonesScript` in `ServerScriptService` the code for which you can find in the Metauni demonstration Roblox file (see above). The Discord bot has now [migrated to MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e), note that you will need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `CLusters > Connect > Connect your application` and selecting Python. If you want to set up all the other bells and whistles you see in the Rising Sea Metauni node, [download it](http://www.metauni.org/Backup18-1-2021.rbxl) and copy the code to your own Roblox.
+A Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False`. You need to enable HTTP requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. You'll need `ZonesScript` in `ServerScriptService` the code for which you can find in the Metauni demonstration Roblox file (see above). The Discord bot hosts its database on [MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) (you may need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `CLusters > Connect > Connect your application` and selecting Python). If you want to set up all the other bells and whistles you see in the Rising Sea node, [download it](http://www.metauni.org/Backup18-1-2021.rbxl) and copy the code to your own Roblox.
 
 Currently the slide presenter is set up for 4:3 slides, and this should work across a range of devices (e.g. phones, tablets, laptops). This is the "standard" setting in Mac Keynote. It is a bit harder to make 16:9 work on all devices, so we're avoiding that for the moment (TODO!).
