@@ -16,7 +16,7 @@ Some notes on in-game controls and features:
 
 * You should notice translucent boxes on the ground near the white floating displays or other points of interest. Those zones, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "General" button that has appeared on your GUI in the top right corner.
 
-* By default you move your player with the arrow keys and you can look around by holding down the right mouse button, or doing a two-finger drag on a trackpad. The control scheme can be changed in Settings (press Escape in-game to access) and you may prefer `Click to Move` for your `Movement Mode`.
+* By default you move your player with the arrow keys (or WASD) and you can look around by holding down the right mouse button, or doing a two-finger drag on a trackpad. The control scheme can be changed in Settings (press Escape in-game to access) and you may prefer `Click to Move` for your `Movement Mode`.
 
 * To interact with in-world GUI elements, such as buttons, you simply (left) click on them. Most of the white floating displays can be clicked on for a more readable popup view, including the presenter display in the talk zone.
 
