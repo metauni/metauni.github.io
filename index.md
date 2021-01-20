@@ -11,7 +11,7 @@ Upcoming events:
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send "?" using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically events consist of a talk, question and discussion time, followed by *challenges* with unique in-game items as prizes. To collect your prize please email <admin@metauni.org> with your Roblox username in the subject line.
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send `?` using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically events consist of a talk, question and discussion time, followed by *challenges* with unique in-game items as prizes. To collect your prize please email <admin@metauni.org> with your Roblox username in the subject line.
 
 ## Instructions
 
@@ -31,7 +31,7 @@ Some notes on in-game controls and features:
 
 * To interact with in-world GUI elements, such as buttons, you simply (left) click on them. Most of the white floating displays can be clicked on for a more readable popup view, including the presenter display in the talk zone.
 
-* To use the in-game chat press "/". 
+* To use the in-game chat press `/`. 
 
 You should comply with the [Roblox community rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules) while on their platform, and that includes the developer rules if you are creating your own nodes. These rules are in place to protect the children who spend a lot of time in Roblox, and seem to me well-intentioned and reasonable. However this does mean that you should **refrain from using the in-game chat or images to share URLs** or post Discord information inside your node. This coordination should happen on Discord or through some other channel. Finally, *do not under any circumstances climb the knot*.
 
