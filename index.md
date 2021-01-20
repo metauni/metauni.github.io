@@ -14,7 +14,7 @@ Upcoming events:
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send `?` using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically events consist of a talk, question and discussion time, followed by challenges with unique in-game items as prizes. For the history of challenge winners and instructions for collecting a prize, see the [challenges](http://metauni.org/posts/challenges/challenges) page.
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question send `?` using the in-game chat and a question mark bubble will appear over your head. Typically events consist of a talk, question time, and [challenges](http://metauni.org/posts/challenges/challenges) with unique in-game items as prizes.
 
 ## Instructions
 
