@@ -2,8 +2,8 @@
 
 ## Winners
 
-* **22/1/2021** `#1A - Ascend the knot`
-* **22/1/2021** `#1B - Find 3 Guqin players`
+* `#1A - Ascend the knot` *unclaimed*
+* `#1B - Find 3 Guqin players` *unclaimed*
 
 ## Collecting prizes
 
