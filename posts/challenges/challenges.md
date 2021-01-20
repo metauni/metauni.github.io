@@ -1,9 +1,11 @@
 # Challenges
 
-## Winners
+## History
 
-* `#1A` *unclaimed*
-* `#1B` *unclaimed*
+| ID | Winner | Prize | Transaction ID |
+| -- | ------ | ----- | -------------- |
+| `#1A` | *unclaimed* | | |
+| `#1B` | *unclaimed* | | |
 
 ## Collecting prizes
 
