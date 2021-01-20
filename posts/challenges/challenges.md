@@ -3,8 +3,7 @@
 Prizes are unique Roblox items.
 
 | ID | Difficulty | Winner | Prize | Transaction ID |
-| -- | ---------- | ------ | ----- | -------------- |
-| :-: | :-: | :-: | :-: | :-: |
+| :--: | :----------: | :------: | :-----: | :--------------: |
 | `#1A` | 10 | *unclaimed* | ![](prize1a.png) | |
 | `#1B` | 10 | *unclaimed* | ![](prize1b.png) | |
 | `#2A - Ext speed run` | 30 | *unclaimed* | | |
