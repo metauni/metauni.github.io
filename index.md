@@ -11,7 +11,7 @@ Upcoming events:
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send "?" using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically at the end of events there are challenges, with unique in-game items as prizes - to collect your prize please email <admin@metauni.org> with your Roblox username in the subject line.
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send "?" using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically events consist of a talk, question and discussion time, followed by *challenges* with unique in-game items as prizes. To collect your prize please email <admin@metauni.org> with your Roblox username in the subject line.
 
 ## Instructions
 
