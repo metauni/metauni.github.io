@@ -53,10 +53,6 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) and [Billy Price](https://billyprice.me/).
 
-## Setup
+## Hosting your own metauni node
 
-Here's how this is currently setup, so you can replicate it and make your own node.
-
-A Discord bot [running on Repl.it](https://repl.it/@dmurfet/MetaUni) `robloxvoicebot` translates information coming from a Discord webhook into the Discord API to move users between voice channels. Within the Roblox game a script detects `Touched` events when a player enters a zone, and triggers the webhook. The zones should be groups within a folder `Workspace > Zones`. Zones can contain multiple base parts, make each part `CanCollide = False`. You need to enable HTTP requests in Roblox Studio `Game Settings > Security`. You will need to make Discord voice channels with the same name as the regions, and make whatever channel the webhook is operating in private. You'll need `ZonesScript` in `ServerScriptService` the code for which you can find in the Metauni demonstration Roblox file (see above). The Discord bot hosts its database on [MongoDB](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) (you may need to whitelist the IP repl.it is connecting from and generate the connection string by clicking on `Clusters > Connect > Connect your application` and selecting Python). If you want to set up all the other bells and whistles you see in the Rising Sea node, [download it](http://www.metauni.org/Backup18-1-2021.rbxl) and copy the code to your own Roblox.
-
-Currently the slide presenter is set up for 4:3 slides, and this should work across a range of devices (e.g. phones, tablets, laptops). This is the "standard" setting in Mac Keynote. It is a bit harder to make 16:9 work on all devices, so we're avoiding that for the moment (TODO!).
+Currently a Metauni node consists of code inside a Roblox game, talking to a Discord webhook, talking to a Discord bot hosted on Repl.it and talking to a database backend on MongoDB. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list for notifications).
