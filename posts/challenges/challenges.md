@@ -2,8 +2,8 @@
 
 ## Winners
 
-* `#1A - Ascend the knot` *unclaimed*
-* `#1B - Find 3 Guqin players` *unclaimed*
+* `#1A` *unclaimed*
+* `#1B` *unclaimed*
 
 ## Collecting prizes
 
