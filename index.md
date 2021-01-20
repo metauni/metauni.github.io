@@ -15,6 +15,8 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Instructions
 
+### How do I get in?
+
 In its current iteration localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Currently the only active server on metauni is the Rising Sea. Here are instructions for visiting:
 
 1. Create Roblox and Discord accounts.
@@ -39,6 +41,10 @@ You should comply with the [Roblox community rules](https://en.help.roblox.com/h
 
 If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. The Discord-Roblox integration can be a bit weird when you sign in for the first time, please try switching zones a few times (by walking in between two of them) or manually changing voice channels once in Discord (then the bot may notice that you exist). If all else fails, you can manually join the `zTalk` channel on Discord to hear talks.
 
+### How do I host my own node?
+
+Currently a Metauni node consists of code inside a Roblox game, talking to a Discord webhook, talking to a Discord bot hosted on Repl.it and talking to a database backend on MongoDB. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list for notifications).
+
 ## History
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
@@ -52,7 +58,3 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 * 20/1/2021 - Development update: implemented "gather all" for voice channels ([video](https://youtu.be/GJunGvBGo6Y)) and implemented the challenge system, with the first two challenges for Friday's talk `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) and [Billy Price](https://billyprice.me/).
-
-## Hosting your own metauni node
-
-Currently a Metauni node consists of code inside a Roblox game, talking to a Discord webhook, talking to a Discord bot hosted on Repl.it and talking to a database backend on MongoDB. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list for notifications).
