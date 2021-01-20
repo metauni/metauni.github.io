@@ -2,10 +2,10 @@
 
 Prizes are unique Roblox items.
 
-| ID | Winner | Prize | Transaction ID |
-| -- | ------ | ----- | -------------- |
-| `#1A` | *unclaimed* | | |
-| `#1B` | *unclaimed* | | |
+| ID | Difficulty | Winner | Prize | Transaction ID |
+| -- | ---------- | ------ | ----- | -------------- |
+| `#1A` | 10 | *unclaimed* | | |
+| `#1B` | 10 | *unclaimed* | | |
 
 ## Collecting prizes
 
