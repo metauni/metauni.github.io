@@ -11,7 +11,7 @@ Upcoming events:
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
 
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send `?` using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically events consist of a talk, question and discussion time, followed by *challenges* with unique in-game items as prizes. To collect your prize please email <admin@metauni.org> with your Roblox username in the subject line.
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question during a talk, please send `?` using the in-game chat and a question mark bubble will appear over your head for the speaker to see. Typically events consist of a talk, question and discussion time, followed by challenges with unique in-game items as prizes. For the history of challenge winners and instructions for collecting a prize, see the [challenges](http://metauni.org/posts/challenges/challenges) page.
 
 ## Instructions
 
@@ -49,6 +49,7 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 * 18/1/2021 - First release of [Metauni demonstration node](http://www.metauni.org/Backup18-1-2021.rbxl) (the Rising Sea world Roblox file).
 * 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
 * 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive.
+* 20/1/2021 - Development update: implemented "gather all" for voice channels ([video](https://youtu.be/GJunGvBGo6Y)) and implemented the challenge system, with the first two challenges for Friday's talk `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) and [Billy Price](https://billyprice.me/).
 
