@@ -1,6 +1,6 @@
 # Challenges
 
-## History
+Prizes are unique Roblox items.
 
 | ID | Winner | Prize | Transaction ID |
 | -- | ------ | ----- | -------------- |
