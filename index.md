@@ -6,8 +6,8 @@ The purpose of this page is to help others set up metauni nodes and demonstrate 
 
 Upcoming events:
 
-* **Friday 22/1/2021 10-11am AEDT (Melbourne time)**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)).
-* **Friday 29/1/2021 10am-12pm AEDT (Melbourne time)**: Drop in session for getting help with [setting up your own node](http://metauni.org/posts/make-your-own/make-your-own).
+* **Friday 22/1/2021 10-11am AEDT**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)).
+* **Friday 29/1/2021 10am-12pm AEDT**: Drop in session for getting help with [setting up your own node](http://metauni.org/posts/make-your-own/make-your-own).
 * Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
 * Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA.
 * Talk by Ziling Ye on Chinese history.
