@@ -55,9 +55,9 @@ Currently a metauni node consists of code inside a Roblox game, talking to a Dis
 * 16/1/2021 - Quick [video](https://youtu.be/vkaBQw9-OBY) on understanding "Publish to Roblox".
 * 17/1/2021 - Rewrote Discord bot to use MongoDB, fixed some bugs, implemented slide presentations ([video](https://youtu.be/9-fyJvrTRzA)).
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
-* 18/1/2021 - First release of [Metauni demonstration node](http://www.metauni.org/Backup18-1-2021.rbxl) (the Rising Sea world Roblox file).
 * 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
-* 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive.
+* 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive (now superceded by Billy's excellent guide, see below).
 * 20/1/2021 - Development update: implemented "gather all" for voice channels ([video](https://youtu.be/GJunGvBGo6Y)) and implemented the challenge system, with the first two challenges for Friday's talk `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
+* 20/1/2021 - Billy has posted [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node.
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) and [Billy Price](https://billyprice.me/).
