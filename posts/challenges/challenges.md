@@ -2,8 +2,9 @@
 
 ## Winners
 
-* `#1A - Ascend the knot`
-* `#1B - 
+* **22/1/2021** `#1A - Ascend the knot`
+* **22/1/2021** `#1B - Find 3 Guqin players`
+
 ## Collecting prizes
 
 If you won a challenge, email <admin@metauni.org> with your Roblox username and you will receive an email with a Roblox gift card. Click the "View my digital gift card" link in the email, copy the digital gift card number to your clipboard. Do **not click on the link to redeem on Roblox**. Instead go to [Roblox](https://www.roblox.com) and click on the hamburger menu in the top left, then on "Get Premium":
