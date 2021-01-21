@@ -12,7 +12,9 @@ You can contact us at <admin@metauni.org>. To receive announcements subscribe to
 
 ## Events
 
-Events typically consist of a talk (30min) question time (10min) and [challenges](http://metauni.org/posts/challenges/challenges) (20+min) with unique in-game items as prizes. Upcoming events:
+Events typically consist of a talk (30min) question time (10min) and [challenges](http://metauni.org/posts/challenges/challenges) (20+min) with unique in-game items as prizes. 
+
+Upcoming events:
 
 * **22/1/2021 10-11am AEDT**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)) {`#1A`, `#1B`}.
 * **29/1/2021 10am-12pm AEDT**: Drop in session for getting help with [setting up your own node](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}.
