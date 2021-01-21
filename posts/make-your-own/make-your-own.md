@@ -147,3 +147,7 @@ For someone (e.g. you) to join your node and use voice chat, they need to join y
 
 You can now open either your publish game from your profile on [Roblox](https://www.roblox.com), or open the `TEST` tab in RobloxStudio and click `Play`. You need to first manually join any voice channel in your discord server, in order for the bot to find and move you. After you walk into a zone in Roblox, the Webhook should send a message in the private channel like `MoverBot: metaunidemo zone1`. The repl.it bot reads this message, finds the discord user associated with the Roblox account, and moves them to the `zone1` voice channel.
 ![](zone-demo.gif)
+
+## Follow the rules
+
+Roblox has a stringent process for examining uploaded images and audio, and will temporarily block your account if it finds infringing items. You can read the rules [here](https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages). If you make sure that your images do not contain URLs or email addresses (or anything that looks like them) or photos of individuals or other information that Roblox might think is aimed at identifying minors in the real world, you should be fine.
