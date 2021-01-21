@@ -12,7 +12,7 @@ You can contact us at <admin@metauni.org>. To receive announcements subscribe to
 
 ## Events
 
-Upcoming events:
+Typically events consist of a talk, question time, and [challenges](http://metauni.org/posts/challenges/challenges) with unique in-game items as prizes. Upcoming events:
 
 * **22/1/2021 10-11am AEDT**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0)) {`#1A`, `#1B`}.
 * **29/1/2021 10am-12pm AEDT**: Drop in session for getting help with [setting up your own node](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}.
@@ -20,7 +20,7 @@ Upcoming events:
 * Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
 * Talk by Ziling Ye on Chinese history.
 
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question send `?` using the in-game chat and a question mark bubble will appear over your head. Typically events consist of a talk, question time, and [challenges](http://metauni.org/posts/challenges/challenges) with unique in-game items as prizes.
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question send `?` using the in-game chat and a question mark bubble will appear over your head. 
 
 ## Instructions
 
