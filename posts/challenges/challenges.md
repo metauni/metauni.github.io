@@ -9,6 +9,8 @@ Prizes are unique Roblox items.
 | `#2A - Ext speed run` | 30 | *unclaimed* | | |
 | `#2B - Climb the tower` | 15 | *unclaimed* | | |
 
+From the second talk one of the challenges (`A` series) will be mathematical challenges of various difficulty, ranging from high-school math to calculations with mixed Hodge structures. The other challenge (`B` series) will be a more video-game style minigame.
+
 ## Collecting prizes
 
 To collect your prize, you "buy" it from one of the metauni administrator accounts using Robux provided in a Roblox gift card (believe it or not this seems to be the simplest way to transfer an item). 
