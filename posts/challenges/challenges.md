@@ -6,8 +6,12 @@ Prizes are unique Roblox items.
 | :--: | :----------: | :------: | :-----: | :--------------: |
 | `#1A` | 10 | *unclaimed* | ![](prize1a.png) | |
 | `#1B` | 5 | *unclaimed* | ![](prize1b.png) | |
-| `#2A - Ext speed run` | 30 | *unclaimed* | | |
+| `#2A - Temperment` | 30 | *unclaimed* | | |
 | `#2B - Climb the tower` | 15 | *unclaimed* | | |
+| `#3A - ` | | *unclaimed* | | |
+| `#3B - ` | | *unclaimed* | | |
+| `#4A - ` | | *unclaimed* | | |
+| `#4B - 孔明灯` | | *unclaimed* | | |
 
 From the second talk one of the challenges (`A` series) will be mathematical challenges of various difficulty, ranging from high-school math to calculations with mixed Hodge structures. The other challenge (`B` series) will be a more video-game style minigame.
 
