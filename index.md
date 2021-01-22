@@ -2,6 +2,7 @@
   <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">Rising Sea node</a> |
   <a href="https://discord.gg/9yBaAxPSK8">Rising Sea Discord</a> |
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Host your own node</a>
+  <img src="talk1banner_sml.png">
 </p>
 
 The Free University of the Metaverse (metauni) is a public network (like the World Wide Web) built out of [Roblox](https://www.roblox.com/) nodes (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). Roblox is a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! 
