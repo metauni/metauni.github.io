@@ -1,8 +1,6 @@
 # Rules of Roblox
 
-## Follow the rules
-
-When creating the content for your node it is important to remember that while higher education and corporate usage is on Roblox's roadmap, at the moment they make their money from **kids playing games** and so they have a stringent process for examining uploaded images and audio. It is likely that from time to time you *will* have your account locked for violating their Terms of Use or Community Rules (we have). 
+When creating the content for your node it is important to remember that while higher education and corporate usage is on Roblox's roadmap, at the moment they make their money from **kids playing games** and so they have a stringent process for examining uploaded images and audio. It is likely that from time to time you *will* have your account locked for violating their Terms of Use or Community Rules (we have).
 
 When this happens you may be locked out of Roblox Studio. Just go to the Roblox homepage and log into your account, and will see a "Moderation Message" explaining your violation. If you agree to follow the rules in future they unlock your account (which happens instantly in our experience). The messages are listed [here](https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages) along with further explanation of what causes each message. While this is disconcerting there is no reason to panic:
 
