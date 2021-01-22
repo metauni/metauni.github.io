@@ -63,6 +63,10 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 
 Currently a metauni node consists of code inside a Roblox game, talking to a Discord webhook, talking to a Discord bot hosted on Repl.it and talking to a database backend on MongoDB. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list for notifications).
 
+### Does metauni violate Roblox rules?
+
+Not as far as I undertand their rules, see [here](http://metauni.org/posts/challenges/challenges) for more details.
+
 ## History
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
