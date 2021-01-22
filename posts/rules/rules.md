@@ -17,6 +17,22 @@ Here are some of the rule violations you are likely to encounter in preparing ac
 * Photos of people (they are afraid of users identifying other users)
 * We have observed that even the word "Talk" on a `SurfaceGui > TextLabel` is enough to cause problems (not Moderation Messages but weird behaviour in Roblox Studio). In general if you observe strange behaviour, think about whether or not you could have introduced something their AIs dislike.
 
+## Is the metauni Discord system against the rules?
+
+No, or so we believe.
+
+Of course there is nothing to stop you using Discord while running Roblox, and for many purposes (such as talks) it is already very useful even if there is no integration whatsoever with Roblox (so everyone is in a single voice channel). It is certainly against the Roblox rules to advertise or encourage people to use Discord (or provide links) within the world itself (see [this](https://devforum.roblox.com/t/reminder-regarding-permissible-links/61736) Developer Forum post)
+
+> Linking of Discord servers and references to Discord on the Roblox website are not allowed. Since Discord’s Terms of Service only allows people aged 13 or older to use their platform and Roblox is a platform for all ages, we cannot risk unfairly exposing underage users to platforms such as Discord. In light of this, we will continue to ban the advertisement of discord servers, any references to Discord will not be permitted through our chat systems. We understand the argument can be made that YouTube, Twitter, and Twitch all have similar policies regarding users under 13, but these platforms also allow users to browse without logging in, while Discord requires you to have an account so people aged 12 and under cannot see the information you are linking. This is the primary reason we are not able to allow it.
+
+The current metauni setup involves Roblox communicating via `HTTPService` with a Discord bot to move users between voice channels as they navigate the world, and this communication could be blocked if the Roblox administrators decide it is against their rules. But all we are doing is sending location information from Roblox to Discord, and there are certainly no rules against that (perhaps the *intent* of that information matters, and they can interpret their rules however they wish).
+
+The relevant passage from the Community Rules is
+
+> **Building your game.** When building your game, it’s important to do the following: Filter all chat and text. Developers must pass all chat and/or game text through Roblox’s filtering system. Roblox scans all chat communication and player inputted text for the safety of our users and legal compliance reasons, including the Children's Online Privacy Protection Act (COPPA). All chat and content must also be reportable through the Report Abuse system.
+
+My reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens). 
+
 ## Quotes from the rules
 
 An important passage from the Terms of Use:
