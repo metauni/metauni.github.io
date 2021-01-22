@@ -2,6 +2,8 @@
   <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">Rising Sea node</a> |
   <a href="https://discord.gg/9yBaAxPSK8">Rising Sea Discord</a> |
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Host your own node</a>
+</p>
+<p align="center">
   <img src="talk1banner_sml.png">
 </p>
 
