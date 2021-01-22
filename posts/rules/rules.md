@@ -31,7 +31,7 @@ The relevant passage from the Community Rules is
 
 > **Building your game.** When building your game, it’s important to do the following: Filter all chat and text. Developers must pass all chat and/or game text through Roblox’s filtering system. Roblox scans all chat communication and player inputted text for the safety of our users and legal compliance reasons, including the Children's Online Privacy Protection Act (COPPA). All chat and content must also be reportable through the Report Abuse system.
 
-My reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens). 
+Our reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens). 
 
 ## Quotes from the rules
 
