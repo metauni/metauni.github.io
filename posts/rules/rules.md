@@ -8,7 +8,9 @@ When creating the content for your node it is important to remember that while h
 
 * The [Moderation Messages](https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages).
 
-It is likely that from time to time you *will* inadvertently have your account locked for violating their Terms of Use or Community Rules while uploading content in Roblox Studio (we have). When this happens you may be locked out of Roblox Studio. Just go to the Roblox homepage and log into your account, and will see a "Moderation Message" explaining your violation. If you agree to follow the rules in future they unlock your account (which happens instantly in our experience). The messages are listed  along with further explanation of what causes each message. While this is disconcerting there is no reason to panic: Roblox only deletes accounts for the most serious violations or people who are acting maliciously. However this uncertainty does mean that you should **avoid editing your world immediately prior to an event**. 
+It is likely that from time to time you *will* inadvertently have your account locked for violating their Terms of Use or Community Rules while uploading content in Roblox Studio (we have). When this happens you may be locked out of Roblox Studio. Just go to the Roblox homepage and log into your account, and will see a "Moderation Message" explaining your violation. If you agree to follow the rules in future they unlock your account (which happens instantly in our experience). The messages are listed  along with further explanation of what causes each message. While this is disconcerting there is no reason to panic: Roblox only deletes accounts for the most serious violations or people who are acting maliciously. 
+
+This uncertainty does mean that you should **avoid editing your world immediately prior to an event**. 
 
 Here are some of the rule violations you are likely to encounter in preparing academic content for Roblox:
 
