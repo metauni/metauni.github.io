@@ -1,5 +1,7 @@
 # How To Create Your Own metauni Node
 
+Before you post content to your node, please [review the rules](http://metauni.org/posts/rules/rules) surrounding Roblox.
+
 ## Accounts
 You will need to create the following accounts. Roblox and Discord are mandatory for compatibility - but MongoDB and repl.it may be substituted for your preferred database and persistent server.
 - [Roblox](https://www.roblox.com)
