@@ -1,8 +1,14 @@
 # Rules of Roblox
 
-When creating the content for your node it is important to remember that while higher education and corporate usage is on Roblox's roadmap, at the moment they make their money from **kids playing games** and so they have a stringent process for examining uploaded images and audio. It is likely that from time to time you *will* have your account locked for violating their Terms of Use or Community Rules (we have).
+When creating the content for your node it is important to remember that while higher education and corporate usage is on Roblox's roadmap, at the moment they make their money from **kids playing games** and so they have a stringent process for examining uploaded images and audio. To avoid getting your account locked, you should familiarise yourself with:
 
-When this happens you may be locked out of Roblox Studio. Just go to the Roblox homepage and log into your account, and will see a "Moderation Message" explaining your violation. If you agree to follow the rules in future they unlock your account (which happens instantly in our experience). The messages are listed [here](https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages) along with further explanation of what causes each message. While this is disconcerting there is no reason to panic:
+* Roblox [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
+
+* Roblox [Community Rules](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Rules).
+
+* The [Moderation Messages](https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages).
+
+It is likely that from time to time you *will* inadvertently have your account locked for violating their Terms of Use or Community Rules while uploading content in Roblox Studio (we have). When this happens you may be locked out of Roblox Studio. Just go to the Roblox homepage and log into your account, and will see a "Moderation Message" explaining your violation. If you agree to follow the rules in future they unlock your account (which happens instantly in our experience). The messages are listed  along with further explanation of what causes each message. While this is disconcerting there is no reason to panic:
 
 > **I got a warning, am I on the road to deletion?**
 > Not likely, Roblox only deletes accounts for the most serious violations or people who are maliciously acting on our community.
