@@ -8,6 +8,10 @@ When creating the content for your node it is important to remember that while h
 
 * The [Moderation Messages](https://en.help.roblox.com/hc/en-us/articles/360020870412-Understanding-Moderation-Messages).
 
+Some relevant passages:
+
+> **Ownership of UGC and License Grant to Roblox.** For any UGC that you have ever Provided or that you will Provide (whether created solely by you or together with others) (a) between you and us or you and users, you retain all copyrights that you may hold in the UGC, and (b) in consideration of using the Service and the potential to earn Robux as discussed in the Robux section, you grant us a perpetual, irrevocable, worldwide, non-exclusive, royalty-free right and license (with the right to sublicense to any person or entity, whether a user of the Service or not) to host, store, transfer, publicly display, publicly perform (including by means of digital audio transmissions and on a through-to-the-audience basis), reproduce (including in timed synchronization to visual images), modify, create derivative works of, distribute, and use in any way the UGC that you Provide, in whole or in part, including modifications and derivative works, in any media or formats (tangible or intangible) and through any media, items or channels (online, offline, or others, now known or hereafter developed), including for publicity and marketing purposes (except that you are not granting us any license to make new or derivative video games using your UGC). 
+
 It is likely that from time to time you *will* inadvertently have your account locked for violating their Terms of Use or Community Rules while uploading content in Roblox Studio (we have). When this happens you may be locked out of Roblox Studio. Just go to the Roblox homepage and log into your account, and will see a "Moderation Message" explaining your violation. If you agree to follow the rules in future they unlock your account (which happens instantly in our experience). The messages are listed  along with further explanation of what causes each message. While this is disconcerting there is no reason to panic:
 
 > **I got a warning, am I on the road to deletion?**
