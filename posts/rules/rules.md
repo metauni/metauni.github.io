@@ -19,7 +19,7 @@ Here are some of the rule violations you are likely to encounter in preparing ac
 
 ## Is the metauni Discord system against the rules?
 
-No, or so we believe.
+No, or so we believe. However be aware that Discord requires users to be at least 13 years old.
 
 Of course there is nothing to stop you using Discord while running Roblox, and for many purposes (such as talks) it is already very useful even if there is no integration whatsoever with Roblox (so everyone is in a single voice channel). It is certainly against the Roblox rules to advertise or encourage people to use Discord (or provide links) within the world itself (see [this](https://devforum.roblox.com/t/reminder-regarding-permissible-links/61736) Developer Forum post):
 
