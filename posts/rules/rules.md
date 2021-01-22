@@ -22,8 +22,6 @@ Here are some of the rule violations you are likely to encounter in preparing ac
 * Photos of people (they are afraid of users identifying other users)
 * We have observed that even the word "Talk" on a `SurfaceGui > TextLabel` is enough to cause problems (not Moderation Messages but weird behaviour in Roblox Studio). In general if you observe strange behaviour, think about whether or not you could have introduced something their AIs dislike.
 
-## Didn't you say something about freedom?
-
 ## Quotes from the rules
 
 An important passage from the Terms of Use:
