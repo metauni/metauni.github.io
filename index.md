@@ -65,7 +65,7 @@ Currently a metauni node consists of code inside a Roblox game, talking to a Dis
 
 ### Does metauni violate Roblox rules?
 
-Not as far as I undertand their rules, but as Roblox is a platform we share with millions of children, it is important to be aware of the limitations in place for their safety. See our [rules page](http://metauni.org/posts/challenges/challenges) for more details.
+Not as far as I undertand their rules, but as Roblox is a platform we share with millions of children, it is important to be aware of the limitations in place for their safety. See our [rules page](http://metauni.org/posts/rules/rules) for more details.
 
 ## History
 
