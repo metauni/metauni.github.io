@@ -1,7 +1,5 @@
 # How To Create Your Own metauni Node
 
-_This guide is out of date, and a much shorter guide with an improved discord bot is coming soon. There is an event running soon to help you set up your own node (check the Events section of the main page)_
-
 Before you post content to your node, please [review the rules](http://metauni.org/posts/rules/rules) surrounding Roblox.
 
 ## Accounts
