@@ -21,8 +21,8 @@ Events typically consist of a talk (30min) question time (10min) and [challenges
 Upcoming events:
 
 * **29/1/2021 10am-12pm AEDT**: Drop in session for getting help with [setting up your own node](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}.
-* **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/), subject TBA {`#2A`, `#2B`}.
-* Talk by [Adam Dorr](http://www.adamdorr.com/about/) on energy policy.
+* **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
+* **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on disruption in energy.
 * Talk by Ziling Ye on Chinese history.
 
 Past events:
