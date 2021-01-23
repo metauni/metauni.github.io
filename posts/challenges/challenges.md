@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="winner.png">
-</p>
-
 # Challenges
 
 Prizes are unique Roblox items. You can see the challenges [in action](https://youtu.be/xNqGxgiP0Cc?t=1440) at our first event.
@@ -18,6 +14,10 @@ Prizes are unique Roblox items. You can see the challenges [in action](https://y
 | `#4B - 孔明灯` | | | | |
 
 From the second talk one of the challenges (`A` series) will be mathematical challenges of various difficulty, ranging from high-school math to calculations with mixed Hodge structures. The other challenge (`B` series) will be a more video-game style minigame.
+
+<p align="center">
+  <img src="winner.png">
+</p>
 
 ## Collecting prizes
 
