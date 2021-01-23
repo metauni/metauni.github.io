@@ -29,7 +29,7 @@ Past events:
 
 * **22/1/2021 10-11am AEDT**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
 
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks. If you have a question send `?` using the in-game chat and a question mark bubble will appear over your head. 
+There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Instructions
 
