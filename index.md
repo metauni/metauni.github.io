@@ -16,7 +16,7 @@ You can contact us at <admin@metauni.org>. To receive announcements subscribe to
 
 ## Events
 
-Events typically consist of a talk (30min) question time (10min) and [challenges](http://metauni.org/posts/challenges/challenges) (20+min) with unique in-game items as prizes. 
+Events typically consist of a talk (30min) question time (10min) and [challenges](http://metauni.org/posts/challenges/challenges) (20+min) with unique in-game items as prizes. You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works.
 
 Upcoming events:
 
