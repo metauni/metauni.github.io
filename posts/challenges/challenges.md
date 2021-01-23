@@ -4,8 +4,8 @@ Prizes are unique Roblox items.
 
 | ID | Difficulty | Winner | Prize | Transaction ID |
 | :--: | :----------: | :------: | :-----: | :--------------: |
-| `#1A` | 10 | *unclaimed* | ![](prize1a.png) | |
-| `#1B` | 5 | *unclaimed* | ![](prize1b.png) | |
+| `#1A` | 10 | `Fleetwood_Obdurate` | ![](prize1a.png) | |
+| `#1B` | 5 | `noneedforthneeds` | ![](prize1b.png) | |
 | `#2A - Temperment` | 30 | *unclaimed* | | |
 | `#2B - Climb the tower` | 15 | *unclaimed* | | |
 | `#3A - ` | | *unclaimed* | | |
