@@ -6,8 +6,8 @@ Prizes are unique Roblox items.
 | :--: | :----------: | :------: | :-----: | :--------------: |
 | `#1A` | 10 | `Fleetwood_Obdurate` | ![](prize1a.png) | |
 | `#1B` | 5 | `noneedforthneeds` | ![](prize1b.png) | |
-| `#2A` | 30 | | | |
-| `#2B` | 15 | | | |
+| `#2A` | | | | |
+| `#2B` | | | | |
 | `#3A` | | | | |
 | `#3B` | | | | |
 | `#4A` | | | | |
