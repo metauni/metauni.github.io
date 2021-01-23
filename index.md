@@ -79,4 +79,7 @@ Not as we currently understand them, but see our page on [Roblox rules](http://m
 * 20/1/2021 - Development update: implemented "gather all" for voice channels ([video](https://youtu.be/GJunGvBGo6Y)) and implemented the challenge system, with the first two challenges for Friday's talk `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
 * 20/1/2021 - Billy has posted [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node.
 
-Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic` for the music:
+
+* "Pop with Toys" in our [event video](https://youtu.be/xNqGxgiP0Cc) and on the audio plinth near the knot.
+* "Forgotten Sacrifice" in the hidden cave.
