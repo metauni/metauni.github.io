@@ -4,8 +4,8 @@ Prizes are unique Roblox items.
 
 | ID | Difficulty | Winner | Prize | Transaction ID |
 | :--: | :----------: | :------: | :-----: | :--------------: |
-| `#1A` | 10 | `Fleetwood_Obdurate` | ![](prize1a.png) | |
-| `#1B` | 5 | `noneedforthneeds` | ![](prize1b.png) | |
+| `#1A - Ascend the knot` | 10 | `Fleetwood_Obdurate` | ![](prize1a.png) | |
+| `#1B - Find 3 Guqin players` | 5 | `noneedforthneeds` | ![](prize1b.png) | |
 | `#2A` | | | | |
 | `#2B` | | | | |
 | `#3A` | | | | |
