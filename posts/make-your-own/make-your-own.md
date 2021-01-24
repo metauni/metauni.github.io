@@ -149,3 +149,7 @@ For someone (e.g. you) to join your node and use voice chat, they need to join y
 
 You can now open either your publish game from your profile on [Roblox](https://www.roblox.com), or open the `TEST` tab in RobloxStudio and click `Play`. You need to first manually join any voice channel in your discord server, in order for the bot to find and move you. After you walk into a zone in Roblox, the Webhook should send a message in the private channel like `MoverBot: metaunidemo zone1`. The repl.it bot reads this message, finds the discord user associated with the Roblox account, and moves them to the `zone1` voice channel.
 ![](zone-demo.gif)
+
+## Building tips
+
+Be careful with the select tool, it does not have a distance filter! So if you drag to select a bunch of objects, be vigilant that you haven't selected parts halfway across the world (often this will manifest as trees or other objects being moved, or unanchored, so they fall over).
