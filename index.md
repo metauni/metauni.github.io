@@ -83,3 +83,4 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 
 * "Pop with Toys" in our [event video](https://youtu.be/xNqGxgiP0Cc) and on the audio plinth near the knot.
 * "Forgotten Sacrifice" in the hidden cave.
+* "The Deification Of Naram-Sin" at the solar peak.
