@@ -152,4 +152,4 @@ You can now open either your publish game from your profile on [Roblox](https://
 
 ## Building tips
 
-Be careful with the select tool, it does not have a distance filter! So if you drag to select a bunch of objects, be vigilant that you haven't selected parts halfway across the world (often this will manifest as trees or other objects being moved, or unanchored, so they fall over).
+Be careful with the select tool, it does not have a distance filter! So if you drag to select a bunch of objects, be vigilant that you haven't selected parts halfway across the world (often this will manifest as trees or other objects being moved, or unanchored, so they fall over). To avoid problems like this you should get into the habit of using the Lock tool on parts of the world you aren't currently editing.
