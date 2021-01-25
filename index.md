@@ -6,7 +6,7 @@
 
 The Free University of the Metaverse (metauni) is a public network (like the World Wide Web) built out of [Roblox](https://www.roblox.com/) nodes (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin). Roblox is a utility platform for persistent large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! 
 
-The purpose of this page is to help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events. Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. 
+The purpose of this page is to help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events. Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. To receive announcements subscribe to the mailing list or follow us on social media.
 
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
@@ -14,8 +14,6 @@ The purpose of this page is to help others set up metauni nodes and demonstrate 
   <a href="https://instagram.com/metauni">Instagram</a> |
   <a href="https://twitter.com/_metauni">Twitter</a>
 </p>
-
-To receive announcements subscribe to the mailing list or follow us on social media.
 
 <p align="center">
   <img src="talk1banner_sml.png">
