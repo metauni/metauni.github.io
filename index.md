@@ -45,7 +45,7 @@ In its current iteration localised voice chat in metauni is based on [Discord](h
 1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts.
 2. Enter the Rising Sea [Discord channel](https://discord.gg/9yBaAxPSK8).
 3. On your first visit to the Discord channel register your Roblox username with `!register <username>`.
-4. Manually enter any Discord voice channel (e.g. General). *Please use headphones* to avoid feedback.
+4. Manually enter any Discord voice channel (e.g. General). Please use headphones to avoid feedback.
 5. Enter the [Rising Sea node](https://www.roblox.com/games/6224932973/The-Rising-Sea) of metauni by clicking on "Play".
 
 Some notes on in-game controls and features:
