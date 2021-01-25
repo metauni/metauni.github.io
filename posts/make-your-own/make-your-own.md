@@ -1,6 +1,6 @@
 # How To Create Your Own metauni Node
 
-Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). Before you post content to your node, please [review the rules](http://metauni.org/posts/rules/rules) surrounding Roblox.
+Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules).
 
 ## Accounts
 You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
