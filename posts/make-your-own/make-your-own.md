@@ -12,7 +12,7 @@ You will need to create the following accounts. Roblox and Discord are mandatory
 **Recommended**: _Open up a notepad or textedit document to copy things down as we go_
 
 ## Creating your Discord server
-We will first make a Discord server for your Roblox world. Visitors to your Roblox world can join your Discord to talk to eachother over a Discord voice channel.
+We will first make a Discord server for your Roblox world. Visitors to your Roblox world can join your Discord to talk to each other over a Discord voice channel.
 
 1. **Download the [Discord](https://discord.com/) desktop app** if you haven't already, and create a new server with the (+) button.![](new-discord-server.png)
 
