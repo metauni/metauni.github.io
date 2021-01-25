@@ -27,7 +27,7 @@ Upcoming events:
 
 * **29/1/2021 10am-12pm AEDT**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}.
 * **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
-* **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on disruption in energy.
+* **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy).
 * Talk by Ziling Ye on Chinese history.
 
 Past events:
