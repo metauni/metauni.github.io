@@ -3,7 +3,7 @@
 Creating a metauni node is easy and requires no coding experience (although there are a few steps at the moment). It can be done using freely available tools. Before you post content to your node, please [review the rules](http://metauni.org/posts/rules/rules) surrounding Roblox.
 
 ## Accounts
-You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted for your own preferred persistent server and database.
+You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
 - [Roblox](https://www.roblox.com)
 - [Discord](https://discord.com/) - for joining and hosting voice channels
 - [repl.it](https://repl.it) - controls the discord bot and hosts the database
