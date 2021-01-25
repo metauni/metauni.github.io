@@ -23,12 +23,12 @@ The purpose of this page is to help others set up metauni nodes and demonstrate 
 
 Events typically consist of a talk (30min) question time (10min) and [challenges](http://metauni.org/posts/challenges/challenges) (20+min) with unique in-game items as prizes. You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works. To receive announcements subscribe to the mailing list or follow us on social media.
 
-Upcoming events:
+Upcoming events (challenges in `block`):
 
 * **29/1/2021 10am-12pm AEDT**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}.
 * **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
-* **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy).
-* Stories from Chinese history by award-winning playwright Ziling Ye.
+* **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
+* Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
 Past events:
 
