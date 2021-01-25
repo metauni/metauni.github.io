@@ -42,7 +42,7 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 In its current iteration localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Currently the only active server on metauni is the Rising Sea. Here are instructions for visiting:
 
-1. Create Roblox and Discord accounts.
+1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts.
 2. Enter the Rising Sea [Discord channel](https://discord.gg/9yBaAxPSK8).
 3. On your first visit to the Discord channel register your Roblox username with `!register <username>`.
 4. Manually enter any Discord voice channel (e.g. General). *Please use headphones* to avoid feedback.
