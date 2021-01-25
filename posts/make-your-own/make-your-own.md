@@ -12,7 +12,7 @@ You will need to create the following accounts. Roblox and Discord are mandatory
 **Recommended**: _Open up a Notepad or TextEdit document to copy things down as we go_
 
 ## Creating your Discord server
-We will first make a Discord server for your Roblox world. Visitors to your Roblox world can join your Discord to talk to each other over a Discord voice channel. Note that Roblox has strict rules that you **cannot advertise Discord channels in-world** either on objects within the game or in the chat, to protect the millions of children on their platform. This means that you should put your Roblox and Discord information together on your webpage, or in some other place outside the Metaverse.
+We will first make a Discord server for your Roblox world. Visitors to your Roblox world can join your Discord to talk to each other over a Discord voice channel. Note that Roblox has strict rules that you **cannot advertise Discord channels in-world** either on objects within the game or in the chat, to protect the millions of children on their platform. This means that you must put your Roblox and Discord information on your webpage, or in some other place outside the Metaverse.
 
 1. **Download the [Discord](https://discord.com/) desktop app** if you haven't already, and create a new server with the (+) button.![](new-discord-server.png)
 
