@@ -9,7 +9,7 @@ You will need to create the following accounts. Roblox and Discord are mandatory
 - [repl.it](https://repl.it) - controls the discord bot and hosts the database
 - [uptimerobot](https://uptimerobot.com) - pings the repl.it to keep it alive.
 
-**Recommended**: _Open up a notepad or textedit document to copy things down as we go_
+**Recommended**: _Open up a Notepad or TextEdit document to copy things down as we go_
 
 ## Creating your Discord server
 We will first make a Discord server for your Roblox world. Visitors to your Roblox world can join your Discord to talk to each other over a Discord voice channel.
