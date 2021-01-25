@@ -8,7 +8,14 @@ The Free University of the Metaverse (metauni) is a public network (like the Wor
 
 The purpose of this page is to help others set up metauni nodes and demonstrate best practices through our own nodes, coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events. Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. 
 
-You can contact us at <admin@metauni.org>. To receive announcements subscribe to the [mailing list](http://tinyletter.com/adminmetauni) or follow us on social media (Twitter: `@_metauni`, Instagram `@metauni`).
+<p align="center">
+  <a href="mailto:admin@metauni.org">Email</a> |
+  <a href="http://tinyletter.com/adminmetauni">Mailing list</a> |
+  <a href="https://instagram.com/metauni">Instagram</a> |
+  <a href="https://twitter.com/_metauni">Twitter</a>
+</p>
+
+To receive announcements subscribe to the mailing list or follow us on social media.
 
 <p align="center">
   <img src="talk1banner_sml.png">
