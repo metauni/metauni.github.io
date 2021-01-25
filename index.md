@@ -25,7 +25,7 @@ Events typically consist of a talk (30min) question time (10min) and [challenges
 
 Upcoming events (challenges in `block`):
 
-* **29/1/2021 10am-12pm AEDT**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}.
+* **29/1/2021 10am-12pm AEDT**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own). DM will also do a live build of Lucas's talk venue in the Roblox Studio {`no challenge`}.
 * **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
 * **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
