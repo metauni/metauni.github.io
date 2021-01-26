@@ -25,7 +25,7 @@ Go to the Applications tab of the [Discord Developer Portal](https://discord.com
 
  ![](zonechatbot-settings.png)
 
-3. **Add the bot to your Discord server**
+1.3) **Add the bot to your Discord server**
 Go to the `Oauth2 Generator` under the `Oauth2` tab of your `ZoneChat` app. Under `scope` select `bot`, and then enable the following permissions
 - `Move Members` - to move users between zone voice-channels
 - `Send Messages` - for logging
@@ -39,7 +39,7 @@ If successful, you should see your Discord server has a new member.
 
 ![](zonechat-added.png)
 
-4. **Add a private log channel to your server for the zone-chat bot**
+1.4) **Add a private log channel to your server for the zone-chat bot**
 Click the (+) to create a text channel under `TEXT CHANNELS`, and name it (we called this one `zonechatbot`). Make it a private channel and allow the bot to access it if you have the option. This is a channel for the bot to send any necessary log messages.
 
 ![](create-channel.png)
@@ -53,34 +53,34 @@ Now click the (+) next to `ROLES/MEMBERS` and add the **role** of your bot, then
 
 ![](zonechat-enable.png)
 
-## repl.it - Making the bot backend
+## 2. repl.it - Making the bot backend
 
-5. **Fork the ZoneChat repl.it**
+2.1) **Fork the ZoneChat repl.it**
 Go to [repl.it/@BillyPrice/ZoneChat](https://repl.it/@BillyPrice/ZoneChat) and click `Fork` at the very top. Rename it and make it private if you want.
 If this bot is updated in the future (check the date at the top of the main.py file) - you can simply copy and paste the main.py file into your repl.it and rerun `!setup`.
 
-6. **Create a file called `.env` for your Discord Bot Token**
+2.2) **Create a file called `.env` for your Discord Bot Token**
 Copy and paste this line into the `.env` file, replacing `<token>` with your actual bot's token (from the `Bot` tab of the Discord developer page)
 ```
 DISCORD_BOT_SECRET=<token>
 ```
 On repl.it, files called `.env` are only visible to owners and invited collaborators to that project - even if it is set to public - so it is safe to store our token here.
 
-7. **Run your repl.it**
+2.3) **Run your repl.it**
 Click the green `Run` button at the top of the page and pray everything works. It should install various package dependencies before printing "I'm awake!". The console below will print diagnostic information - so pay attention to it if you are having problems. You will need the repl.co URL that appears above the console for the next step.
 
 ![](zonechat-run.png)
 
-8. **Set up UptimeRobot**
+2.4) **Set up UptimeRobot**
 You can leave your bot running on repl.it without having the tab open, but it will eventually shutdown with no activity. To keep it awake, we use [UptimeRobot](https://uptimerobot.com), which sends a request to your bot's url every 30mins to keep it awake. Follow step 4 of [this guide from repl.it](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) to set up uptimerobot for your bot. The URL/IP field is your repl.co URL from the last step.
 
-9. **Run the !setup command in the log channel**
+2.5) **Run the !setup command in the log channel**
 Since bots are typically used amongst many discord servers simultaneously, they don't store a canonical server (also called a guild in the Discord API). To let it remember which server/guild and log channel to remember for its use, we can just run the command !setup in the intended log channel on our server (the private channel we made before). This only needs to be done once, but can be repeated later if you want to use a different channel, or if something breaks.
 
 We've now setup all of the backend - it's time to create your Roblox world!
 
-## Roblox Studio
-10. **Download Roblox** by clicking play on any Roblox game ([here's The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea)) and **Roblox Studio** via the `Start Creating` button at [roblox.com/create](https://www.roblox.com/create).
+## 3. Roblox Studio
+3.1) **Download Roblox** by clicking play on any Roblox game ([here's The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea)) and **Roblox Studio** via the `Start Creating` button at [roblox.com/create](https://www.roblox.com/create).
   - Mac - Run the `.dmg` file and drag Roblox to `Applications`. It will install Roblox Studio when you open it.
   - Windows - ??
 
@@ -88,23 +88,23 @@ We've now setup all of the backend - it's time to create your Roblox world!
 
 ![](join-error.png)
 
-11. **Download the `metauni-node-template` from the [metauni-dev repository](https://github.com/metauni/metauni-dev) and open it in Roblox Studio**.
+3.2) **Download the `metauni-node-template` from the [metauni-dev repository](https://github.com/metauni/metauni-dev) and open it in Roblox Studio**.
 The repository page has README, which contains a breakdown of the important contents of the template file. You can clone or download a zip of the repository using the green `Code` button.
 
 ![](code-button.png)
 
-12. **Paste the Bot URL**
+3.3) **Paste the Bot URL**
 Open the `ZonesScript` under `ServerScriptService` and find the variable `BotURL` (should be the first line). Now paste your repl.co URL from earlier between the two quotes and save the file. This script sends HTTP requests to the specified URL when a player enters a zone.
 
 ![](bot-url.png)
 
-13. **Allow HTTP Requests**
+3.4) **Allow HTTP Requests**
 We need to give our script permission to send these requests. Go to `File -> Game Settings` and enable `Allow HTTP Requests`, then click `Save` (navigating to another menu discards this change).
 
-14. **Publish your node**
+3.5) **Publish your node**
 Go to `File -> Game Settings` and click `Publish` when prompted. Name and describe your place as you please, ideally similar to your Discord server. Then click `Publish` again.
 
-15. **Make your node public**
+3.6) **Make your node public**
 Go to `File -> Game Settings -> Permissions` and set it to public. Save your changes.
 You can then find your node through your profile on [Roblox](https://www.roblox.com). Navigate to your profile, either by clicking your avatar on the home page or using the menu at the top left of any page
 
@@ -114,7 +114,7 @@ Then go to **creations** to find your published game. You will already have a de
 
 ![](creations.png)
 
-## Test it out!
+## 4. Test it out!
 Great, you are ready to design, test and share your metauni node! You don't actually have to publish your game to test it out - you can do this locally within RobloxStudio. Just go to the test tab and click `Play`.
 
 ![](play-test.png)
