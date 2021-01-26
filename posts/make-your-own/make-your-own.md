@@ -11,14 +11,14 @@ You will need to create the following accounts. Roblox and Discord are mandatory
 
 **Recommended**: _Open up a Notepad or TextEdit document to copy things down as we go_
 
-## Creating your Discord server
+## 1. Creating your Discord server
 We will first make a Discord server for your Roblox world. Visitors to your Roblox world can join your Discord to talk to each other over a Discord voice channel. Note that Roblox has strict rules that you **cannot advertise Discord channels in-world** either on objects within the game or in the chat, to protect the millions of children on their platform. This means that you must put your Roblox and Discord information on your webpage, or in some other place outside the Metaverse.
 
-1. **Download the [Discord](https://discord.com/) desktop app** if you haven't already, and create a new server with the (+) button.
+1.1) **Download the [Discord](https://discord.com/) desktop app** if you haven't already, and create a new server with the (+) button.
 
 ![](new-discord-server.png)
 
-2. **Create the ZoneChat discord bot**
+1.2) **Create the ZoneChat discord bot**
 Go to the Applications tab of the [Discord Developer Portal](https://discord.com/developers/applications). Select `New Application` in the top left and name your app, we'll call ours `ZoneChat`. Then go to the `Bot` tab and add a bot to your app. This new bot has a token/secret, which you should now copy and save for later use. 
 
 - Keep this token private. If anyone knows this token they can control your bot and therefore your Discord server. If you think a token has been compromised you can regenerate a new one with the `Regenerate` button, rendering the old one useless.
