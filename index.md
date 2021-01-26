@@ -26,7 +26,7 @@ Events typically consist of a talk (30min) question time (10min) and [challenges
 Upcoming events (challenges in `block`):
 
 * **Friday 29/1/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}. The schedule:
-    1. 0:00-0:10 - **Intro to metauni**, Roblox + Discord in [Rising Sea node](https://www.roblox.com/games/6224932973/The-Rising-Sea) (DM and BP)
+    1. 0:00-0:10 - **Intro to metauni**, Roblox + Discord in [Rising Sea node](https://www.roblox.com/games/6224932973/The-Rising-Sea) at the usual talk spot (DM and BP)
     2. 0:10-0:30 - **Build your own node** (you! with live help if needed). As soon as you have your node running, send the place ID in the chat and it'll get added live to the metauni hub world, early birds get prime positions...
     3. 0:30-2:00 - **Livestream** of DM building the Poincare Bowl (location for Lucas's talk next week) in Roblox Studio. Follow along and learn the basics of setting up your own node.
 * **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
