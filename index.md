@@ -48,6 +48,8 @@ In its current iteration localised voice chat in metauni is based on [Discord](h
 4. Manually enter any Discord voice channel (e.g. General). Please use headphones to avoid feedback.
 5. Enter the [Rising Sea node](https://www.roblox.com/games/6224932973/The-Rising-Sea) of metauni by clicking on "Play".
 
+This setup should work on PC, Mac, iOS and Android. Moreover, you can run the Discord and Roblox applications on different devices (i.e. run audio via Discord through your phone but Roblox on your computer).
+
 Some notes on in-game controls and features:
 
 * The translucent boxes on the ground near points of interest are *voice chat zones* which, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "General" button that has appeared on your GUI in the top right corner.
