@@ -95,6 +95,6 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 Music in the Rising Sea node:
 
 * "Pop with Toys" by Lucas Cantor - in our [event video](https://youtu.be/xNqGxgiP0Cc) and on the audio plinth near the knot.
-* "Forgotten Sacrifice" by Lucas Cantor - in the hidden cave.
-* "The Deification Of Naram-Sin" by Lucas Cantor - at the solar peak.
-* "[A Metric Based on Insects](https://obduratefleet.bandcamp.com/album/obdurate)" by Will Troiani - in the blind tunnels.
+* "Forgotten Sacrifice" by Lucas Cantor - in the Cave of Forgotten Sacrifice
+* "The Deification Of Naram-Sin" by Lucas Cantor - at the Solar Peak.
+* "[A Metric Based on Insects](https://obduratefleet.bandcamp.com/album/obdurate)" by Will Troiani - in the Blind Cave.
