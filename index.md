@@ -21,7 +21,7 @@ The purpose of this page is to help others set up metauni nodes and demonstrate 
 
 ## Events
 
-Events typically consist of a talk (30min) question time (10min) and [challenges](http://metauni.org/posts/challenges/challenges) (20+min) with unique in-game items as prizes. You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works. To receive announcements subscribe to the mailing list or follow us on social media.
+Events typically consist of a talk followed by [challenges](http://metauni.org/posts/challenges/challenges) with unique in-game items as prizes. You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works. To receive announcements subscribe to the mailing list or follow us on social media.
 
 Upcoming events (challenges in `block`):
 
