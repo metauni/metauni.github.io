@@ -101,7 +101,7 @@ Open the `ZonesScript` under `ServerScriptService` and find the variable `BotURL
 3.4) **Allow HTTP Requests and Third Party Teleports**
 We need to give our script permission to send these requests. Go to `File -> Game Settings` and enable `Allow HTTP Requests`. While you're there enable `Allow Third Party Teleports` (otherwise teleporting from your world to the Metauni hub will not function). Then then click `Save` (navigating to another menu discards this change).
 
-![](thirdpartyteleports.png)
+![](thirdpartyteleport.png)
 
 3.5) **Publish your node**
 Go to `File -> Game Settings` and click `Publish` when prompted. Name and describe your place as you please, ideally similar to your Discord server. Then click `Publish` again.
