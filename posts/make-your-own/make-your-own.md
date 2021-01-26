@@ -129,7 +129,7 @@ Now we can test it out. Before entering a zone, you must first manually join any
 
 As you create more zones with different names in your Roblox world, you can simply walk into the zone to generate the corresponding voice channel in your Discord.
 
-Next you'll want to start populating your world with useful objects, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository.
+Next you'll want to start populating your world with useful objects. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [this video instruction](https://youtu.be/rHaRz8J79S4).
 
 ## "I need help!"
 
