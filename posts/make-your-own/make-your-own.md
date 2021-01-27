@@ -24,6 +24,10 @@ Go to the Applications tab of the [Discord Developer Portal](https://discord.com
 - Keep this token private. If anyone knows this token they can control your bot and therefore your Discord server. If you think a token has been compromised you can regenerate a new one with the `Regenerate` button, rendering the old one useless.
 
  ![](zonechatbot-settings.png)
+ 
+ - On the same screen you need to enable `Server Members Intent`
+ 
+ ![](server-members-intent.png)
 
 1.3) **Add the bot to your Discord server**
 Go to the `Oauth2 Generator` under the `Oauth2` tab of your `ZoneChat` app. Under `scope` select `bot`, and then enable the following permissions
