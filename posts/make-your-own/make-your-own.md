@@ -135,6 +135,16 @@ Now we can test it out. Before entering a zone, you must first manually join any
 
 As you create more zones with different names in your Roblox world, you can simply walk into the zone to generate the corresponding voice channel in your Discord.
 
+## 5. Next steps (optional)
+
+So your Roblox node is up and running, and it is integrated with your Discord sever. Now what do you do?
+
+ - **Add your Discord link**. The Roblox page for your node can optionally link directly to your Discord server. The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/360000910966-Social-Media-Links-for-Games). Navigate to your game (_not_ the places within it) in `Games` under `Create` and then click `Social Links` on the left. You do not need to include the word "Discord" in the Title field (and in any case the moderation may prevent you) as the link will appear with a large Discord icon.
+
+ - **Link from hub**. Find your game on Roblox.com as in step (3.6) above, and copy your place ID from the URL (for example, [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) has place ID `6224932973`). Then email your place ID, preferred text label to <admin@metauni.org> and we'll link you from the [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub).
+ 
+
+ 
 Next you'll want to start populating your world with useful objects. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [this video instruction](https://youtu.be/rHaRz8J79S4).
 
 ## "I need help!"
