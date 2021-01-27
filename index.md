@@ -77,6 +77,10 @@ Currently a metauni node consists of code inside a Roblox game talking to a Disc
 
 Not as we currently understand them, but see our page on [Roblox rules](http://metauni.org/posts/rules/rules) for more information.
 
+## Node directory
+
+* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Outside of planned events feel free to use this as a meeting place, it's meant to be public space.
+
 ## History
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
