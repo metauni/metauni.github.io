@@ -55,7 +55,7 @@ This setup should work on PC, Mac, iOS and Android. Moreover, you can run the Di
 
 Some notes on in-game controls and features:
 
-* The translucent boxes on the ground near points of interest are *voice chat zones* which, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "General" button that has appeared on your GUI in the top right corner.
+* The translucent boxes on the ground near points of interest are *voice chat zones* which, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "Reset" button that has appeared on your GUI in the top right corner.
 
 * By default you move your player with the arrow keys (or WASD) and you can look around by holding down the right mouse button, or doing a two-finger drag on a trackpad. The control scheme can be changed in Settings (press Escape in-game to access) and you may prefer `Click to Move` for your `Movement Mode`.
 
@@ -67,7 +67,7 @@ You should comply with the [Roblox community rules](https://en.help.roblox.com/h
 
 ### Troubleshooting
 
-If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. You may have problems using Firefox on the Roblox site.
+If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. You may have problems using Firefox on the Roblox site. If you use "!register" while already in a Roblox zone, you may have to click "Reset" in the top right hand corner of your GUI to join the voice channel.
 
 ### How do I host my own node?
 
