@@ -79,7 +79,7 @@ Not as we currently understand them, but see our page on [Roblox rules](http://m
 
 ## Node directory
 
-* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Outside of planned events feel free to use this as a meeting place, it's meant to be public space.
+* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Think of this as a public garden with math in it: outside of planned events feel free to use it as a meeting place.
 
 ## History
 
