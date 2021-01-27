@@ -143,7 +143,7 @@ So your Roblox node is up and running, and it is integrated with your Discord se
 
  - **Link from hub**. Find your game on Roblox.com as in step (3.6) above and email the URL to <admin@metauni.org> (for example, [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) has URL `https://www.roblox.com/games/6224932973/The-Rising-Sea` and place ID `6224932973`) along with a preferred text label (and optionally also a Discord invite link) so we can link to you from the [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) and list you under `Node directory` on the metauni frontpage. The Discord link is optional if you added a Discord link to the Roblox page as above (but to begin with users may not know to look for this, so we recommend both doing that and putting a link on the metauni page).
 
-- **Adding useful stuff**. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [these video instructions](https://youtu.be/rHaRz8J79S4).
+ - **Adding useful stuff**. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [these video instructions](https://youtu.be/rHaRz8J79S4).
 
 ## "I need help!"
 
