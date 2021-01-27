@@ -98,13 +98,13 @@ Open the `ZonesScript` under `ServerScriptService` and find the variable `BotURL
 
 ![](bot-url.png)
 
-3.4) **Allow HTTP Requests and Third Party Teleports**
+3.4) **Publish your node**
+Go to `File -> Game Settings` and click `Publish` when prompted. Name and describe your place as you please, ideally similar to your Discord server. Then click `Publish` again.
+
+3.5) **Allow HTTP Requests and Third Party Teleports**
 We need to give our script permission to send these requests. Go to `File -> Game Settings` and enable `Allow HTTP Requests`. While you're there enable `Allow Third Party Teleports` (otherwise teleporting from your world to the Metauni hub will not function). Then then click `Save` (navigating to another menu discards this change).
 
 ![](thirdpartyteleport.png)
-
-3.5) **Publish your node**
-Go to `File -> Game Settings` and click `Publish` when prompted. Name and describe your place as you please, ideally similar to your Discord server. Then click `Publish` again.
 
 3.6) **Make your node public**
 Go to `File -> Game Settings -> Permissions` and set it to public. Save your changes.
@@ -135,4 +135,4 @@ Next you'll want to start populating your world with useful objects. You are enc
 
 ## "I need help!"
 
-Come chat with us in [The Rising Sea Discord](https://discord.gg/9yBaAxPSK8) if you run into any troubles setting up your bot and Roblox world.
+Come chat with us in [The Rising Sea Discord](https://discord.gg/9yBaAxPSK8) if you run into any troubles setting up your bot and Roblox world. Some common problems:
