@@ -11,6 +11,7 @@ The purpose of this page is to help others set up metauni nodes and demonstrate 
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="http://tinyletter.com/adminmetauni">Mailing list</a> |
+  <a href="https://youtube.com/channel/UCJTk6uSbSsclXN8v3b27_QQ">YouTube</a> |
   <a href="https://instagram.com/metauni">Instagram</a> |
   <a href="https://twitter.com/_metauni">Twitter</a>
 </p>
