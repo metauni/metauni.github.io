@@ -37,6 +37,8 @@ The relevant passage from the Community Rules is
 
 Our reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens).
 
+Ultimately metauni is an idea, one particular implementation of which uses Roblox + Discord. Hopefully this implementation remains viable, but the idea can survive the death of any particular implementation.
+
 ## Quotes from the rules
 
 An important passage from the Terms of Use:
