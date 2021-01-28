@@ -1,6 +1,7 @@
-# How To Create Your Own metauni Node with zone-based voice chat
+# Create Your Own metauni Node with zone-based voice chat
 
 Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules).
+
 
 ## The goal
 We want to use discord to implement automated zone-based voice chat in Roblox. When a user steps into a zone inside a Roblox MetaUni node, they should automatically be moved to the corresponding voice channel in discord. In the context of a large, virtual gathering of people, this facilitates a much more natural way for people to gather and talk to eachother in smaller groups.
@@ -21,7 +22,7 @@ Here's a diagram illustrating how our roblox-replit-discord system operates. In 
   - The bot looks up the ID of whoever registered the name `robloxname` in the database and retrieves the `User`
   - The bot, which has access and permissions on the discord server, moves `User` to the voice channel called `zone1`. If `User` has not connected to any voice channel, this fails silently.
 
-
+# The guide
 
 ## 0. Accounts
 You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
