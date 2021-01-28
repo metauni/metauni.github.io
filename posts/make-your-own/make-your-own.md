@@ -165,11 +165,11 @@ The following diagram illustrating how the Roblox-Repl.it-Discord system that yo
 ![](system.jpeg)
 
 - The green arrows describe how `User` tells our bot what their roblox name is.
-  - `User` says `!register robloxname` in the discord server.
-  - `ZoneChatBot` sees this, triggering a command on repl.it (where our bot is hosted)
-  - The bot records this association `robloxname -> (discord ID of user)` in a database (also hosted on repl.it)
-- The red arrows describe how a roblox avatar entering a zone called `zone1` triggers the voice channel change
-  - `robloxname` enters `zone1` in the roblox world
-  - This triggers `ZonesScript`, which sends an HTTP request to our bot on repl.it, telling it to move `robloxname` to `zone1`
+  - `User` says `!register robloxname` in the Discord server.
+  - `ZoneChatBot` sees this, triggering a command on Repl.it (where our bot is hosted)
+  - The bot records this association `robloxname -> (Discord ID of user)` in a database (also hosted on Repl.it)
+- The red arrows describe how a Roblox avatar entering a zone called `zone1` triggers the voice channel change
+  - `robloxname` enters `zone1` in the Roblox world
+  - This triggers `ZonesScript`, which sends an HTTP request to our bot on Repl.it, telling it to move `robloxname` to `zone1`
   - The bot looks up the ID of whoever registered the name `robloxname` in the database and retrieves the `User`
-  - The bot, which has access and permissions on the discord server, moves `User` to the voice channel called `zone1`. If `User` has not connected to any voice channel, this fails silently.
+  - The bot, which has access and permissions on the Discord server, moves `User` to the voice channel called `zone1`. If `User` has not connected to any voice channel, this fails silently.
