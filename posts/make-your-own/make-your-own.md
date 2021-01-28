@@ -1,4 +1,4 @@
-# Create your own metauni node with zone-based voice chat
+# Create your own metauni node
 
 Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). If you want to dive straight into setting up your node, no problem: skip to **The Guide** below. 
 
