@@ -1,6 +1,6 @@
 # Rules of Roblox
 
-When creating the content for your node it is important to remember that while higher education and corporate usage is on Roblox's roadmap, at the moment they make their money from kids playing games and so they have a stringent process for examining uploaded images and audio (and [they need it](https://techcrunch.com/2018/07/18/roblox-responds-to-the-hack-that-allowed-a-childs-avatar-to-be-raped-in-its-game/)). To avoid getting your account locked, you should familiarise yourself with:
+When creating the content for your node it is important to remember that while higher education and corporate usage is on Roblox's roadmap (see p.31 and p.131 of their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)) at the moment they make their money from kids playing games and so they have a stringent process for examining uploaded images and audio (and [they need it](https://techcrunch.com/2018/07/18/roblox-responds-to-the-hack-that-allowed-a-childs-avatar-to-be-raped-in-its-game/)). To avoid getting your account locked, you should familiarise yourself with:
 
 * Roblox [Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use).
 
