@@ -1,6 +1,27 @@
-# How To Create Your Own metauni Node
+# How To Create Your Own metauni Node with zone-based voice chat
 
 Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules).
+
+## The goal
+We want to use discord to implement automated zone-based voice chat in Roblox. When a user steps into a zone inside a Roblox MetaUni node, they should automatically be moved to the corresponding voice channel in discord. In the context of a large, virtual gathering of people, this facilitates a much more natural way for people to gather and talk to eachother in smaller groups.
+![](goal.jpeg)
+
+
+## The system
+Here's a diagram illustrating how our roblox-replit-discord system operates. In this example we have a discord user called `User`, who's roblox username is `robloxname`.
+![](system.jpeg)
+
+- The green arrows describe how `User` tells our bot what their roblox name is.
+  - `User` says `!register robloxname` in the discord server.
+  - `ZoneChatBot` sees this, triggering a command on repl.it (where our bot is hosted)
+  - The bot records this association `robloxname -> (discord ID of user)` in a database (also hosted on repl.it)
+- The red arrows describe how a roblox avatar entering a zone called `zone1` triggers the voice channel change
+  - `robloxname` enters `zone1` in the roblox world
+  - This triggers `ZonesScript`, which sends an HTTP request to our bot on repl.it, telling it to move `robloxname` to `zone1`
+  - The bot looks up the ID of whoever registered the name `robloxname` in the database and retrieves the `User`
+  - The bot, which has access and permissions on the discord server, moves `User` to the voice channel called `zone1`. If `User` has not connected to any voice channel, this fails silently.
+
+
 
 ## Accounts
 You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
