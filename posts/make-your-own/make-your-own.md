@@ -43,7 +43,7 @@ Go to the `Oauth2 Generator` under the `Oauth2` tab of your `ZoneChat` app. Unde
 - `Send Messages` - for logging
 - `Manage Channels` - for creating new zone voice-channels as necessary
 
-Then go to the generated Oauth2 URL and add the bot to your server.
+Then copy the generated Oauth2 URL and **paste it into an open browser window** to add the bot to your server.
 
 ![](oauth2.png)
 
