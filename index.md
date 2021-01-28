@@ -21,7 +21,7 @@ The purpose of this page is to help others set up metauni nodes and demonstrate 
 
 ## Events
 
-Events typically consist of a talk followed by [challenges](http://metauni.org/posts/challenges/challenges) with unique in-game items as prizes. You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works. To receive announcements subscribe to the mailing list or follow us on social media.
+Events typically consist of a talk followed by [challenges](http://metauni.org/posts/challenges/challenges) with unique in-game items as prizes. You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works. To receive announcements subscribe to the mailing list or follow us on Twitter.
 
 Upcoming events (challenges in `block`):
 
@@ -71,7 +71,7 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 
 ### How do I host my own node?
 
-Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on Repl.it. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list for notifications).
+Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on Repl.it. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list or follow us on Twitter for notifications).
 
 ### Does metauni violate Roblox rules?
 
