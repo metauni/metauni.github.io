@@ -1,10 +1,6 @@
-# Create Your Own metauni Node with zone-based voice chat
+# Create your own metauni node with zone-based voice chat
 
-Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules).
-
-
-## The goal
-We want to use discord to implement automated zone-based voice chat in Roblox. When a user steps into a zone inside a Roblox MetaUni node, they should automatically be moved to the corresponding voice channel in discord. In the context of a large, virtual gathering of people, this facilitates a much more natural way for people to gather and talk to eachother in smaller groups.
+Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). If you want to dive straight into setting up your node, skip to The Guide below. In this introductory section we briefly how a metauni node works. We use Roblox to provide a 3D virtual social environment, and Discord to implement an automated zone-based voice chat. When a user steps into a zone inside a metauni node, they should automatically be moved to the corresponding voice channel in discord. In the context of a large, virtual gathering of people, this facilitates a much more natural way for people to gather and talk to eachother in smaller groups.
 ![](goal.jpeg)
 
 
@@ -166,6 +162,8 @@ So your Roblox node is up and running, and it is integrated with your Discord se
  - **Link from hub**. Find your game on Roblox.com as in step (3.6) above and email the URL to <admin@metauni.org> (for example, [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) has URL `https://www.roblox.com/games/6224932973/The-Rising-Sea` and place ID `6224932973`) along with a preferred text label (and optionally also a Discord invite link) so we can link to you from the [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) and list you under `Node directory` on the metauni frontpage. The Discord link is optional if you added a Discord link to the Roblox page as above (but to begin with users may not know to look for this, so we recommend both doing that and putting a link on the metauni page).
 
  - **Adding useful stuff**. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [these video instructions](https://youtu.be/rHaRz8J79S4).
+
+Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules).
 
 ## "I need help!"
 
