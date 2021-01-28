@@ -6,19 +6,7 @@ In this introductory section we briefly explain what a "metauni node" is. It con
 
 ![](goal.jpeg)
 
-## The system
-The following diagram illustrating how the Roblox-Repl.it-Discord system operates. In this example we have a Discord user called `User`, whose Roblox username is `robloxname`.
-![](system.jpeg)
-
-- The green arrows describe how `User` tells our bot what their roblox name is.
-  - `User` says `!register robloxname` in the discord server.
-  - `ZoneChatBot` sees this, triggering a command on repl.it (where our bot is hosted)
-  - The bot records this association `robloxname -> (discord ID of user)` in a database (also hosted on repl.it)
-- The red arrows describe how a roblox avatar entering a zone called `zone1` triggers the voice channel change
-  - `robloxname` enters `zone1` in the roblox world
-  - This triggers `ZonesScript`, which sends an HTTP request to our bot on repl.it, telling it to move `robloxname` to `zone1`
-  - The bot looks up the ID of whoever registered the name `robloxname` in the database and retrieves the `User`
-  - The bot, which has access and permissions on the discord server, moves `User` to the voice channel called `zone1`. If `User` has not connected to any voice channel, this fails silently.
+For more details on how the system operates, see the end of the guide.
 
 # The guide
 
@@ -170,3 +158,18 @@ Before you post content to your node, please [review the Roblox platform rules](
 ## "I need help!"
 
 Come chat with us in [The Rising Sea Discord](https://discord.gg/9yBaAxPSK8) if you run into any troubles setting up your bot and Roblox world. Some common problems:
+
+# Details of the system
+
+The following diagram illustrating how the Roblox-Repl.it-Discord system that you have just constructed operates. In this example we have a Discord user called `User`, whose Roblox username is `robloxname`.
+![](system.jpeg)
+
+- The green arrows describe how `User` tells our bot what their roblox name is.
+  - `User` says `!register robloxname` in the discord server.
+  - `ZoneChatBot` sees this, triggering a command on repl.it (where our bot is hosted)
+  - The bot records this association `robloxname -> (discord ID of user)` in a database (also hosted on repl.it)
+- The red arrows describe how a roblox avatar entering a zone called `zone1` triggers the voice channel change
+  - `robloxname` enters `zone1` in the roblox world
+  - This triggers `ZonesScript`, which sends an HTTP request to our bot on repl.it, telling it to move `robloxname` to `zone1`
+  - The bot looks up the ID of whoever registered the name `robloxname` in the database and retrieves the `User`
+  - The bot, which has access and permissions on the discord server, moves `User` to the voice channel called `zone1`. If `User` has not connected to any voice channel, this fails silently.
