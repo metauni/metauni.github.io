@@ -2,7 +2,7 @@
 
 Prizes are unique Roblox items. You can see the challenges [in action](https://youtu.be/xNqGxgiP0Cc?t=1440) at our first event.
 
-| ID | Difficulty | Winner | Prize | Transaction ID |
+| ID | Difficulty | Winner | Item | Transaction ID |
 | :--: | :----------: | :------: | :-----: | :--------------: |
 | `#1A - Ascend the knot` | 10 | `Fleetwood_Obdurate` | ![](prize1a.png) | |
 | `#1B - Find 3 Guqin players` | 5 | `noneedforthneeds` | ![](prize1b.png) | |
