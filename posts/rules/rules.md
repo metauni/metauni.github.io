@@ -21,9 +21,7 @@ Here are some of the rule violations you are likely to encounter in preparing ac
 
 ## Is the metauni Discord system consistent with the rules?
 
-Yes, or so we believe. The only potential issue is the integration between Roblox and Discord. However note that the usage of Discord servers for voice chat associated with Roblox games is widespread, and there is an [official method](https://en.help.roblox.com/hc/en-us/articles/360000910966-Social-Media-Links-for-Games) for listing your Discord server on your Roblox page (see e.g. [this popular game](https://www.roblox.com/games/331811267/Innovation-Inc-Spaceship) with over 37 million visits, which has an active Discord server featuring voice chat).
-
-However be aware that Discord requires users to be at least 13 years old.
+Yes, or so we believe. The only potential issue is the integration between Roblox and Discord. However note that the usage of Discord servers for voice chat associated with Roblox games is widespread, and there is an [official method](https://en.help.roblox.com/hc/en-us/articles/360000910966-Social-Media-Links-for-Games) for listing your Discord server on your Roblox page (see e.g. [this popular game](https://www.roblox.com/games/331811267/Innovation-Inc-Spaceship) with over 37 million visits, which has an active Discord server featuring voice chat). Note however that Discord requires users to be at least 13 years old, and you **should avoid encouraging anyone to break these rules** in order to visit your metauni node.
 
 Of course there is nothing to stop you using Discord while running Roblox, and for many purposes (such as talks) it is already very useful even if there is no integration whatsoever with Roblox (so everyone is in a single voice channel). It is certainly against the Roblox rules to advertise or encourage people to use Discord (or provide links) within the world itself (see [this](https://devforum.roblox.com/t/reminder-regarding-permissible-links/61736) Developer Forum post):
 
