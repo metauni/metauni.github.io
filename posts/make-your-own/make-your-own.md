@@ -23,7 +23,7 @@ Here's a diagram illustrating how our roblox-replit-discord system operates. In 
 
 
 
-## Accounts
+## 0. Accounts
 You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
 - [Roblox](https://www.roblox.com)
 - [Discord](https://discord.com/) - for joining and hosting voice channels
