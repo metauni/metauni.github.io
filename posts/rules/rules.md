@@ -21,7 +21,9 @@ Here are some of the rule violations you are likely to encounter in preparing ac
 
 ## Is the metauni Discord system against the rules?
 
-No, or so we believe. However be aware that Discord requires users to be at least 13 years old.
+No, or so we believe. The only potential issue is the integration between Roblox and Discord. However note that the usage of Discord servers for voice chat associated with Roblox games is widespread, and there is an [official method](https://en.help.roblox.com/hc/en-us/articles/360000910966-Social-Media-Links-for-Games) for listing your Discord server on your Roblox page (see e.g. [this popular game](https://www.roblox.com/games/331811267/Innovation-Inc-Spaceship) with over 37 million visits, which has an active Discord server featuring voice chat).
+
+However be aware that Discord requires users to be at least 13 years old.
 
 Of course there is nothing to stop you using Discord while running Roblox, and for many purposes (such as talks) it is already very useful even if there is no integration whatsoever with Roblox (so everyone is in a single voice channel). It is certainly against the Roblox rules to advertise or encourage people to use Discord (or provide links) within the world itself (see [this](https://devforum.roblox.com/t/reminder-regarding-permissible-links/61736) Developer Forum post):
 
@@ -33,7 +35,7 @@ The relevant passage from the Community Rules is
 
 > **Building your game.** When building your game, it’s important to do the following: Filter all chat and text. Developers must pass all chat and/or game text through Roblox’s filtering system. Roblox scans all chat communication and player inputted text for the safety of our users and legal compliance reasons, including the Children's Online Privacy Protection Act (COPPA). All chat and content must also be reportable through the Report Abuse system.
 
-Our reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens). 
+Our reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens).
 
 ## Quotes from the rules
 
