@@ -6,9 +6,8 @@ In this introductory section we briefly explain what a "metauni node" is. It con
 
 ![](goal.jpeg)
 
-
 ## The system
-Here's a diagram illustrating how our roblox-replit-discord system operates. In this example we have a discord user called `User`, who's roblox username is `robloxname`.
+The following diagram illustrating how the Roblox-Repl.it-Discord system operates. In this example we have a Discord user called `User`, whose Roblox username is `robloxname`.
 ![](system.jpeg)
 
 - The green arrows describe how `User` tells our bot what their roblox name is.
