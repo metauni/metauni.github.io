@@ -119,7 +119,7 @@ We need to give our script permission to send these requests. Go to `Home > Game
 ![](thirdpartyteleport.png)
 
 3.6) **Make your node public**
-Go to `File -> Game Settings -> Permissions` and set it to public. Save your changes.
+Using the Home tab click on `Game Settings -> Permissions` and set it to public. Save your changes.
 You can then find your node through your profile on [Roblox](https://www.roblox.com). Navigate to your profile, either by clicking your avatar on the home page or using the menu at the top left of any page
 
 ![](roblox-profile.png)
