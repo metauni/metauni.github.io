@@ -1,6 +1,6 @@
 # Create your own metauni node
 
-Creating a metauni node is *free and easy*, requiring no coding experience (there are a few steps though). If you want to dive straight into setting up your node, no problem: skip to **The Guide** below. 
+Creating a metauni node is free and relatively easy, requiring no coding experience. There are however a few steps. In our first Build Your Own Node event the fastest person went from scratch to a functional node connected to the metauni hub in _1hr 20min_. If you want to dive straight into setting up your node, no problem: skip to **The Guide** below. 
 
 In this introductory section we briefly explain what a "metauni node" is. It consists of a Roblox game (Roblox provides a 3D virtual social environment) combined with a Discord server and bot (for voice chat) which are integrated, to provide an automated zone-based voice chat. This means that, provided Discord is running and the user has opened a voice channel, when the user steps into a zone inside the Roblox game they are moved to a corresponding voice channel in Discord. This allows many users to share the same virtual space, while maintaing the ability for conversation in smaller groups.
 
