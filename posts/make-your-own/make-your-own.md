@@ -106,15 +106,15 @@ The repository page has README, which contains a breakdown of the important cont
 ![](code-button.png)
 
 3.3) **Paste the Bot URL**
-Open the `ZonesScript` under `ServerScriptService` and find the variable `BotURL` (should be the first line). Now paste your repl.co URL from earlier between the two quotes and save the file. This script sends HTTP requests to the specified URL when a player enters a zone.
+Find the Explorer window within Roblox Studio (click on the `View` tab and make sure `Explorer` is enabled if you cannot). In the Explorer window you should see `ServerScriptService`. Expand this and open `ZonesScript`. Find the variable `BotURL` (should be the first line). Now paste your repl.co URL from earlier between the two quotes and save the file. This script sends HTTP requests to the specified URL when a player enters a zone.
 
 ![](bot-url.png)
 
 3.4) **Publish your node**
-Go to `File -> Game Settings` and click `Publish` when prompted. Name and describe your place as you please, ideally similar to your Discord server. Then click `Publish` again.
+Go to the `Home` tab, click on `Game Settings` and click `Publish` when prompted. Name and describe your place as you please, ideally similar to your Discord server. Then click `Publish` again.
 
 3.5) **Allow HTTP Requests and Third Party Teleports**
-We need to give our script permission to send these requests. Go to `File -> Game Settings` and enable `Allow HTTP Requests`. While you're there enable `Allow Third Party Teleports` (otherwise teleporting from your world to the Metauni hub will not function). Then then click `Save` (navigating to another menu discards this change).
+We need to give our script permission to send these requests. Go to `Home > Game Settings` again and enable `Allow HTTP Requests`. While you're there enable `Allow Third Party Teleports` (otherwise teleporting from your world to the Metauni hub will not function). Then then click `Save` (navigating to another menu discards this change).
 
 ![](thirdpartyteleport.png)
 
