@@ -26,13 +26,13 @@ Events typically consist of a talk followed by [challenges](http://metauni.org/p
 
 Upcoming events (challenges in `block`):
 
-* **5/2/2021**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
+* **Friday 5/2/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
 * **12/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
-Past events:
+Past events (most recent first):
 
-* **Friday 29/1/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}. The schedule:
+* **29/1/2021**: Build Your Own Node event. Want your own place on metauni? It's easy, we'll walk you through it following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) {`no challenge`}. The schedule:
     1. 0:00-0:30 - **Intro to metauni**, Roblox + Discord in [Rising Sea node](https://www.roblox.com/games/6224932973/The-Rising-Sea) at the usual talk spot (DM and BP) plus **Build Your Own Node** ([video](https://youtu.be/TDmMeR6O350)).
     3. 0:30-2:00 - **Livestream** of JC and DM introducing Roblox Studio, the basics of coding in it, and some of the metauni objects ([video](https://youtu.be/W0SIAygiITs)).
 * **22/1/2021 10-11am AEDT**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
