@@ -27,9 +27,9 @@ Next event:
 
 * **Friday 5/2/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run a pre-event math tutorial (from 20 minutes prior) where you can learn the math needed for challenge `#2A`.
     - `-0:20-0:00` **Will Troiani** an introduction to group theory in music.
-    - `0:00-0:30` **Lucas Cantor** main event.
-    - `0:30-0:40` Question time.
-    - `0:40-1:00` Challenges `#2A`, `#2B`.
+    - ` 0:00-0:30` **Lucas Cantor** main event.
+    - ` 0:30-0:40` Question time.
+    - ` 0:40-1:00` Challenges `#2A`, `#2B`.
 
 Upcoming events (challenges in `block`):
 
