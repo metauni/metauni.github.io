@@ -76,7 +76,7 @@ Not as we currently understand them, but see our page on [Roblox rules](http://m
 
 ## Node directory
 
-The _inner nodes_ (i.e. nodes where we take full responsibility as an organisation for what happens):
+The _inner nodes_ (i.e. nodes where we take full responsibility for what happens):
 
 * [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). A collaboration of Daniel Murfet, Lucas Cantor and Ziling Ye.
 * [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) (no Discord).
