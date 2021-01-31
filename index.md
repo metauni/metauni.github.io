@@ -25,7 +25,7 @@ Events typically consist of a talk followed by [challenges](http://metauni.org/p
 
 Next event:
 
-* **Friday 5/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run an optional pre-event math tutorial (from 20 minutes prior) where you can learn the math needed for challenge `#2A`. The venue is the music tower in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)) (see Instructions below for how to join), there will be directions to the tower posted in-world, you might like to join a few minutes early.
+* **Friday 5/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run an optional pre-event math tutorial (from 20 minutes prior) where you can learn the math needed for challenge `#2A`. The venue is the music tower in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)) (see Instructions below for how to join). There will be directions to the tower posted in-world, you might like to join a few minutes early.
     - `-0:20-0:00` **Will Troiani** an introduction to group theory in music.
     - `0:00-0:30` **Lucas Cantor** main event.
     - `0:30-0:40` Question time.
