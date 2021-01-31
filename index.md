@@ -26,7 +26,7 @@ Events typically consist of a talk followed by [challenges](http://metauni.org/p
 Upcoming events (challenges in `block`):
 
 * **Friday 5/2/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
-* **12/2/2021**: Community builder event
+* **12/2/2021**: Community builder event {`no challenge`}.
 * **19/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
