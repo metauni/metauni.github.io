@@ -78,7 +78,7 @@ Not as we currently understand them, but see our page on [Roblox rules](http://m
 
 The _inner nodes_ (i.e. nodes where we take full responsibility as an organisation for what happens):
 
-* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Think of this as a public garden with math in it: outside of planned events feel free to use it as a meeting place.
+* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)).
 
 * [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) (no Discord).
     
