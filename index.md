@@ -5,7 +5,7 @@
 
 The Free University of the Metaverse (metauni) is a public network (like the World Wide Web) built out of [Roblox](https://www.roblox.com/) nodes (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and works on PC, Mac, iOS and Android. Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! 
 
-The purpose of this page is to help others set up nodes using metauni tools (see the Node directory below) demonstrate best practices through our own nodes, and coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events. Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. 
+The purpose of this page is to help others set up nodes using metauni tools (see the Node Directory below) demonstrate best practices through our own nodes, and coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events. Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. 
 
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
@@ -23,9 +23,16 @@ The purpose of this page is to help others set up nodes using metauni tools (see
 
 Events typically consist of a talk followed by [challenges](http://metauni.org/posts/challenges/challenges). You can [watch the video](https://youtu.be/xNqGxgiP0Cc) of our first event to see how it works. To receive announcements subscribe to the mailing list or follow us on Twitter.
 
+Next event:
+
+* **Friday 5/2/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run a pre-event math tutorial (from 20 minutes prior) where you can learn the math needed for challenge `#2A`.
+    - `-0:20-0:00` **Will Troiani** an introduction to group theory in music.
+    - `0:00-0:30` **Lucas Cantor** main event.
+    - `0:30-0:40` Question time.
+    - `0:40-1:00` Challenges `#2A`, `#2B`.
+
 Upcoming events (challenges in `block`):
 
-* **Friday 5/2/2021 10am-12pm Melbourne (3-5pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}.
 * **12/2/2021**: Community builder event {`no challenge`}.
 * **19/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * **26/2/2021**: Community builder event {`no challenge`}.
