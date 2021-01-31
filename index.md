@@ -85,7 +85,7 @@ The _inner nodes_ (i.e. nodes where we take full responsibility for what happens
 * [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). A collaboration of Daniel Murfet, Lucas Cantor and Ziling Ye.
 * [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) (no Discord).
     
-The _outer nodes_ (nodes created using tools we have provided, but over which we have no control):
+The _outer nodes_ (nodes created using tools we have provided, and to which we may link on the metauni hub, but over which we have no control):
 
 * [MUMS](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)).
 * [LamamuLand](https://www.roblox.com/games/6313737040/Lamamu-Land) ([Discord](https://discord.gg/8mypEUk9)).
