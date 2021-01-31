@@ -29,7 +29,7 @@ Upcoming events (challenges in `block`):
 * **12/2/2021**: Community builder event {`no challenge`}.
 * **19/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * **26/2/2021**: Community builder event {`no challenge`}.
-* Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
+* **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
 Past events (most recent first):
 
