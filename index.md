@@ -54,13 +54,15 @@ This setup should work on PC, Mac, iOS and Android. Moreover, you can run the Di
 
 Some notes on in-game controls and features:
 
-* The translucent boxes on the ground near points of interest are *voice chat zones* which, when entered, will transition your Discord into an appropriate location-specific voice channel. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "Reset" button that has appeared on your GUI in the top right corner.
+* The translucent boxes are *voice chat zones* which transition your Discord into a specific voice channel when entered. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "Reset" in the top right hand corner of your GUI.
 
-* By default you move your player with the arrow keys (or WASD) and you can look around by holding down the right mouse button, or doing a two-finger drag on a trackpad. The control scheme can be changed in Settings (press Escape in-game to access) and you may prefer `Click to Move` for your `Movement Mode`.
+* You move your player with the arrow keys (or WASD) and you can look around by holding down the right mouse button, or doing a two-finger drag on a trackpad. The control scheme can be changed in Settings (press Escape in-game to access).
 
 * To interact with in-world GUI elements, such as buttons, you simply (left) click on them. Most of the white floating displays can be clicked on for a more readable popup view, including the presenter display in the talk zone.
 
 * To use the in-game chat press `/`. It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
+
+* You can access animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
 
 You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) while on their platform, and that includes the developer rules if you are creating your own nodes. These rules are in place to protect the children who spend a lot of time in Roblox, and seem to me well-intentioned and reasonable. However this does mean that you should **refrain from using the in-game chat or images to share URLs** or post Discord information inside your node. This coordination should happen on Discord or through some other channel. Finally, *do not under any circumstances climb the knot*.
 
