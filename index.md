@@ -38,6 +38,8 @@ Upcoming events (challenges in `block`):
 * **26/2/2021**: Community builder event {`no challenge`}.
 * **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
+That will conclude "Season 1" and we'll take a bit of a break.
+
 Past events:
 
 * **29/1/2021**: Build Your Own Node event. In the first part DM and BP introduced the Roblox + Discord integration and walked people through setting up their own independent metauni nodes following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). In the second part JC and DM gave a livestream introducing Roblox Studio, the basics of coding in it, and some of the metauni objects ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
