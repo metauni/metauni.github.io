@@ -76,7 +76,18 @@ Not as we currently understand them, but see our page on [Roblox rules](http://m
 
 ## Node directory
 
+The _inner nodes_ (i.e. nodes where we take full responsibility as an organisation for what happens):
+
 * [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Think of this as a public garden with math in it: outside of planned events feel free to use it as a meeting place.
+
+* [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) (no Discord).
+    
+The _outer nodes_ (nodes created using tools we have provided, but over which we have no control):
+
+* [MUMS](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)).
+* [LamamuLand](https://www.roblox.com/games/6313737040/Lamamu-Land) ([Discord](https://discord.gg/8mypEUk9)).
+* [Bekaby](https://www.roblox.com/games/6313735851/Beks-Game) ([Discord](https://discord.gg/N4x6m2zG)).
+* [Fleetwood Obdurate's place](https://www.roblox.com/games/6275923116/Fleetwood-Obdurates-Place).
 
 ## History
 
