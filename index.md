@@ -92,7 +92,7 @@ The _outer nodes_:
 * [Bekaby](https://www.roblox.com/games/6313735851/Beks-Game) ([Discord](https://discord.gg/N4x6m2zG)).
 * [Fleetwood Obdurate's place](https://www.roblox.com/games/6275923116/Fleetwood-Obdurates-Place) (no Discord).
 
-Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over their content.
+Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over the content of the Roblox worlds or their Discord channels.
  
 ## History
 
