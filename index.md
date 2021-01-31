@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">Rising Sea</a> (<a href="https://discord.gg/9yBaAxPSK8">Discord</a>) | <a href="https://www.roblox.com/games/6233302798/Metauni-Hub">metauni hub</a> |
+  <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">Rising Sea</a> (<a href="https://discord.gg/9yBaAxPSK8">Discord</a>) |
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Create your own node</a>
 </p>
 
