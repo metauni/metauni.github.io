@@ -54,7 +54,7 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 In its current iteration localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are instructions for visiting a metauni node:
 
-1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts.
+1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts and install both programs.
 2. Enter the Discord server for the node (see the Node Directory, e.g. the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 3. On your first visit to the Discord server register your Roblox username with `!register <username>` (possibly the etiquette is to do this in a `#registration` channel).
 4. Manually enter any Discord voice channel (e.g. General). Please use headphones to avoid feedback.
