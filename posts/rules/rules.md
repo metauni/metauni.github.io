@@ -41,7 +41,7 @@ Our reading is that this rule is meant to prevent developers from putting in int
 
 ## Are the metauni whiteboards consistent with the rules?
 
-Yes, we believe so, if they are used for sketching, drawing, diagrams, mathematics etc. However, using a whiteboard to bypass the in-game chat violates the Community Rules (see above), so we believe it is appropriate for administrators to observe carefully how the whiteboards are used and put in place mechanisms to ban users who abuse them. The [guidance on Roblox Developer forums](https://devforum.roblox.com/t/are-you-allowed-to-let-players-draw-in-your-game/231264) is that whiteboards are not against the rules, but it is recommended to give users a way of flagging a drawn image as inappropriate.
+Yes, we believe so, if they are used for sketching, drawing, diagrams, mathematics etc. However, using a whiteboard to bypass the in-game chat violates the Community Rules (see above), so we believe it is appropriate for administrators to observe carefully how the whiteboards are used and put in place mechanisms to flag inappropriate images and restrict access for users who abuse them. The [guidance on Roblox Developer forums](https://devforum.roblox.com/t/are-you-allowed-to-let-players-draw-in-your-game/231264) is that whiteboards are not against the rules, but it is recommended to give users a way of flagging a drawn image as inappropriate.
 
 Further, there are many active and popular games on Roblox using in-world drawing, some created more than five years ago:
 
