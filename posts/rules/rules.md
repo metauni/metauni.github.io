@@ -39,6 +39,18 @@ The relevant passage from the Community Rules is
 
 Our reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens).
 
+## Are the metauni whiteboards consistent with the rules?
+
+Yes, we believe so. However, using a whiteboard to bypass the in-game chat violates the Community Rules (see above), so we believe it is appropriate for administrators to observe carefully how the whiteboards are used and put in place mechanisms to ban users who abuse them. The [guidance on Roblox Developer forums](https://devforum.roblox.com/t/are-you-allowed-to-let-players-draw-in-your-game/231264) is that whiteboards are not against the rules, but it is recommended to give users a way of flagging a drawn image as inappropriate.
+
+Further, there are many active and popular games on Roblox using in-world drawing, some created more than five years ago:
+
+* [Paint 'N Guess](https://www.roblox.com/games/256497097/Paint-N-Guess) (48M+ visits, created 6/2015).
+* [Guess the drawing](https://www.roblox.com/games/3281073759/Guess-the-drawing) (37M+ visits, created 6/2019).
+* [Free Draw 2](https://www.roblox.com/games/1547610457/Free-Draw-2) (47M+ visits, created 3/2018).
+
+On these grounds we believe the metauni whiteboards are consistent with the Roblox rules.
+
 ## Quotes from the rules
 
 An important passage from the Terms of Use:
