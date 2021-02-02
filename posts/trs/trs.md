@@ -1,6 +1,6 @@
 # The Rising Sea node
 
-This node is a collaboration between [Daniel Murfet](http://therisingsea.org/), Ziling Ye and [Lucas Cantor](https://www.lucascantormusic.com/). On this page you will find some eye candy and some comments on our experience running events in this node that might be helpful for others starting to investigate metauni and how it can be used for adventures in the configuration space of intellectual endeavours. This is also a place to cite some influences: Grothendieck (innocence, play and [all that](https://kongliang.wordpress.com/2010/02/27/hello-world/)), [Gwern](https://www.gwern.net/index), Jonathan Blow (https://www.youtube.com/watch?v=qWFScmtiC44).
+This node is a collaboration between [Daniel Murfet](http://therisingsea.org/), Ziling Ye and [Lucas Cantor](https://www.lucascantormusic.com/). On this page you will find some eye candy and some comments on our experience running events in this node that might be helpful for others starting to investigate metauni and how it can be used for adventures in the configuration space of intellectual endeavours. This is also a place to cite some influences: Grothendieck (innocence, play and [all that](https://kongliang.wordpress.com/2010/02/27/hello-world/)), [Gwern](https://www.gwern.net/index), [Jonathan Blow](https://www.youtube.com/watch?v=qWFScmtiC44).
 
 ## Eye candy
 
