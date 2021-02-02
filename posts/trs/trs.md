@@ -1,20 +1,13 @@
-# Challenges
+# The Rising Sea node
 
-Prizes are unique Roblox items.
+This node is a collaboration between [Daniel Murfet](http://therisingsea.org/), Ziling Ye and [Lucas Cantor](https://www.lucascantormusic.com/). On this page you will find some eye candy and some comments on our experience running events in this node that might be helpful for others starting to investigate metauni and how it can be used for adventures in the configuration space of intellectual endeavours. This is also a place to cite some influences: Grothendieck (innocence, play and [all that](https://kongliang.wordpress.com/2010/02/27/hello-world/)), [Gwern](https://www.gwern.net/index), Jonathan Blow (https://www.youtube.com/watch?v=qWFScmtiC44).
 
-| ID | Difficulty | Winner | Prize | Transaction ID |
-| :--: | :----------: | :------: | :-----: | :--------------: |
-| `#1A` | 10 | *unclaimed* | ![](prize1a.png) | |
-| `#1B` | 5 | *unclaimed* | ![](prize1b.png) | |
-| `#2A - Ext speed run` | 30 | *unclaimed* | | |
-| `#2B - Climb the tower` | 15 | *unclaimed* | | |
+## Eye candy
 
-From the second talk one of the challenges (`A` series) will be mathematical challenges of various difficulty, ranging from high-school math to calculations with mixed Hodge structures. The other challenge (`B` series) will be a more video-game style minigame.
+## Remarks
 
-## Collecting prizes
+Here are some of DM's thoughts, in no particular order:
 
-To collect your prize, you "buy" it from one of the metauni administrator accounts using Robux provided in a Roblox gift card (believe it or not this seems to be the simplest way to transfer an item). 
+* The potential for beauty in virtual spaces, especially using a combination of visuals, interaction design, music and art, is much undervalued. In my view, a metauni node should aim to synthesise this with a sense of play and an unapologetic commitment (i.e. no patronising or "dumbing down") to serious and difficult intellectual activity.
 
-If you won a challenge, email <admin@metauni.org> with your Roblox username and you will receive an email with a Roblox gift card and a separate email from <admin@metauni.org> with a link to the prize. Click the "View my digital gift card" link in the first email, and copy the digital gift card number to your clipboard. Then click on the link to redeem on Roblox. Finally use the link provided in the second email to buy the prize with the provided Robux. Once an administrator sees you have completed the transaction the prize item will be delisted from the store.
-
-If you want to verify that you are the sole owner of the prize, get the ID of the item from its URL (e.g. `102611803` from `https://www.roblox.com/catalog/102611803/Verified-Bonafide-Plaidafied`) and then go to `https://api.roblox.com/Marketplace/ProductInfo?assetId=<ITEM-ID>` and look for `"Sales":` in the resulting JSON (yes I know). Note that the Challenge `#1A` prize has two sales as it was used for debugging the above, but one of the sales was to myself and was deleted (promise).
+* In Event 2 (the Build Your Own Node event, [video1](https://youtu.be/TDmMeR6O350), [video2](https://youtu.be/W0SIAygiITs)) we spent hours helping people get through the [instructions](http://metauni.org/posts/make-your-own/make-your-own). If this had been done on Zoom I'm quite certain the ambient spirit would have been bitter frustration, but my sense was that people were having a good time even when they were stuck due to the ambient sense of fun and play that pervades a well-designed virtual world (people would take breaks from following the instructions to try knock over signposts and kick them down into the Well of Past Events, for instance). Like many of the virtues of virtual space, I did not anticipate this, but so far these kinds of surprises have all been in a positive direction (touch wood).
