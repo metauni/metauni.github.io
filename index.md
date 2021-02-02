@@ -118,6 +118,7 @@ Outer nodes may use some of the tools we have provided, and we may link to them 
 * 20/1/2021 - Billy has posted [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node.
 * 26/1/2021 - Over the last week the Discord bot has been rewritten by Billy to use HTTP POST rather than a webhook, and now uses the repl.it database rather than MongoDB, among other improvements. This drastically simplifies the setup process, the guide to which has also been rewritten. The Rising Sea node has two new areas "Solar Peak" and the "Well of Past Events".
 * 27/1/2021 - Social media accounts up and running (Lucas on Instagram, Dan on Twitter).
+* 31/1/2021 - Added new talk area for Ziling Ye's event (The Island). This will be final new area construction for a while in TRS.
 * 1/2/2021 - Working whiteboards (by James) and a new talk area (the Music Tower) for Lucas's event.
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
