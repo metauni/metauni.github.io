@@ -4,7 +4,7 @@
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
 
-Metauni is a network (like the World Wide Web) built out of paired [Roblox](https://www.roblox.com/) worlds and [Discord](https://www.discord.com) servers (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and works on PC, Mac, iOS and Android. Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! 
+Metauni is a network (like the World Wide Web) built out of paired [Roblox](https://www.roblox.com/) worlds and [Discord](https://www.discord.com) servers (webpages) connected by teleports (links). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and works on PC, Mac, iOS and Android. Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). It can be a [beautiful place](https://www.roblox.com/games/5326950832/Roblox-Realistic-Forest-Demo)! There's a [video introduction](https://youtu.be/66MzfGqJFcA) to metauni (7 min).
 
 The purpose of this page is to help others set up nodes using metauni tools (see the Node Directory below) demonstrate best practices through our own nodes, and coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events. Code and demonstration levels are hosted [on Github](https://github.com/metauni/metauni-dev) and contributors are welcome. 
 
@@ -26,7 +26,7 @@ Events typically consist of a talk followed by [challenges](http://metauni.org/p
 
 Next event:
 
-* **Friday 5/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run an optional pre-event session (from 20 minutes prior) where you can learn the math needed for challenge `#2A`. The venue is the Music Tower in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)) (see Instructions below for how to join). There will be directions to the tower posted in-world, you might like to join a few minutes early.
+* **Friday 5/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run an optional pre-event session (from 20 minutes prior) where you can learn the math needed for challenge `#2A`. The venue is the Music Tower in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)) (see Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA)). There will be directions to the tower posted in-world, you might like to join a few minutes early.
     - `-0:20-0:00` **Will Troiani** an introduction to group theory in music (using the new whiteboards).
     - `0:00-0:30` **Lucas Cantor** main event.
     - `0:30-0:40` Question time.
