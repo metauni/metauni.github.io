@@ -78,7 +78,7 @@ You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) 
 
 ### Troubleshooting
 
-If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. You may have problems using Firefox on the Roblox site. If you use "!register" while already in a Roblox zone, you may have to click "Reset" in the top right hand corner of your GUI to join the voice channel.
+If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. You may have problems using Firefox on the Roblox site. If you use `!register` while already in a Roblox zone, you may have to click `Reset` in the top right hand corner of your GUI to join the voice channel.
 
 ### How do I host my own node?
 
