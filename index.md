@@ -82,7 +82,7 @@ If you have trouble connecting to Roblox (and you have clicked Retry a few times
 
 ### How do I host my own node?
 
-Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on Repl.it. We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list or follow us on Twitter for notifications).
+Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on [Repl.it](https://repl.it/). We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list or follow us on Twitter for notifications).
 
 ### Does metauni violate Roblox rules?
 
