@@ -4,6 +4,10 @@ This node (TRS for short) is a collaboration between [Daniel Murfet](http://ther
 
 ## Eye candy
 
+![](officehours_tiny.png)
+
+![](knot1_sml.png)
+
 ## Remarks
 
 Here are some of DM's thoughts, in no particular order:
