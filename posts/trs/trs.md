@@ -4,9 +4,13 @@ This node (TRS for short) is a collaboration between [Daniel Murfet](http://ther
 
 ## Eye candy
 
-![](officehours_tiny.png)
+The Knot:
 
 ![](knot1_sml.png)
+
+Office hours at the peak of the Island:
+
+![](officehours_tiny.png)
 
 ## Remarks
 
