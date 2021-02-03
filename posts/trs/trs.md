@@ -4,7 +4,7 @@ This node (TRS for short) is a collaboration between [Daniel Murfet](http://ther
 
 ## Eye candy
 
-The Knot:
+The Knot (note how the shadows give a 2D projection, with shadow darkness serving as a marker of over and under-crossings):
 
 ![](knot1_sml.png)
 
