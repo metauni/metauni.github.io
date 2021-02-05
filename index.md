@@ -39,7 +39,9 @@ Upcoming events (challenges in `block`):
 * **26/2/2021**: Community builder event {`no challenge`}.
 * **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
-That will conclude "Season 1" and we'll take a bit of a break.
+That will conclude "Season 1" and we'll take a bit of a break. Other talks in the works:
+
+* Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 
 Past events:
 
