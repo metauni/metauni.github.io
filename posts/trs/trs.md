@@ -12,6 +12,10 @@ Office hours at the peak of the Island:
 
 ![](officehours_tiny.png)
 
+The Weiqi board at the Island:
+
+![](Weiqi_tiny.png)
+
 ## Remarks
 
 Here are some of DM's thoughts:
