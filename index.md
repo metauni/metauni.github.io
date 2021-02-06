@@ -45,7 +45,7 @@ Past events:
     - `0:00-0:30` **Lucas Cantor** main event.
     - `0:30-0:40` Question time.
     - `0:40-1:00` Challenges `#2A`, `#2B`.
-* **29/1/2021**: Build Your Own Node event. In the first part DM and BP introduced the Roblox + Discord integration and walked people through setting up their own independent metauni nodes following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). In the second part JC and DM gave a livestream introducing Roblox Studio, the basics of coding in it, and some of the metauni objects ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
+* **29/1/2021**: Build Your Own Node event. We introduced the Roblox + Discord setup and walked people through [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). After that was a livestream introducing Roblox Studio ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
 * **22/1/2021**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
 
 There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
