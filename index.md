@@ -26,15 +26,10 @@ Events typically consist of a talk followed by [challenges](http://metauni.org/p
 
 Next event:
 
-* **Friday 5/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run an optional pre-event session (from 20 minutes prior) where you can learn the math needed for challenge `#2A`. The venue is the Music Tower in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)) (see Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA)). There will be directions to the tower posted in-world, you might like to join a few minutes early.
-    - `-0:20-0:00` **Will Troiani** a topic in group theory (using the new whiteboards).
-    - `0:00-0:30` **Lucas Cantor** main event.
-    - `0:30-0:40` Question time.
-    - `0:40-1:00` Challenges `#2A`, `#2B`.
+* **Friday 12/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}.
 
 Upcoming events (challenges in `block`):
 
-* **12/2/2021**: Community builder event {`no challenge`}.
 * **19/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * **26/2/2021**: Community builder event {`no challenge`}.
 * **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
@@ -45,6 +40,11 @@ That will conclude "Season 1" and we'll take a bit of a break. Other talks in th
 
 Past events:
 
+* **Friday 5/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`}. For the first time we'll run an optional pre-event session (from 20 minutes prior) where you can learn the math needed for challenge `#2A`. The venue is the Music Tower in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)) (see Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA)). There will be directions to the tower posted in-world, you might like to join a few minutes early.
+    - `-0:20-0:00` **Will Troiani** a topic in group theory (using the new whiteboards) ([video](https://youtu.be/SuBBHUjOywM)).
+    - `0:00-0:30` **Lucas Cantor** main event.
+    - `0:30-0:40` Question time.
+    - `0:40-1:00` Challenges `#2A`, `#2B`.
 * **29/1/2021**: Build Your Own Node event. In the first part DM and BP introduced the Roblox + Discord integration and walked people through setting up their own independent metauni nodes following [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). In the second part JC and DM gave a livestream introducing Roblox Studio, the basics of coding in it, and some of the metauni objects ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
 * **22/1/2021**: Talk by [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
 
