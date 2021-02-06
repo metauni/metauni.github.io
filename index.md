@@ -40,7 +40,7 @@ That will conclude "Season 1" and we'll take a bit of a break. Other talks in th
 
 Past events:
 
-* **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`} and a pre-event session on the Chinese Remainder Theorem by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)).
+* **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music {`#2A`, `#2B`} and a pre-event session on the [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem) by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)).
 * **29/1/2021**: Build Your Own Node event. We introduced the Roblox + Discord setup and walked people through [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). After that was a livestream introducing Roblox Studio ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
 * **22/1/2021**: [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
 
