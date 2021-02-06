@@ -29,3 +29,5 @@ Here are some of DM's thoughts:
 * You can access a free floating camera with `Left Shift + P` if you want to check out what is going on in your world.
 
 * If you're using `GetChildren` to build a slide deck, so you want the order of images in the Explorer to be the order they appear in, you might be [disappointed](https://developer.roblox.com/en-us/api-reference/function/Instance/GetChildren) because the order returned by `GetChildren` is the order the `Parent` property was set (roughly speaking, "who got added first"). A workaround is to make a Folder, drag all your objects there, and drag them back into the Parent object in the order you wish them to appear in `GetChildren`.
+
+* If you're trying to use the TRS Weiqi board you should `Enable Studio Access to API Services` in Roblox Studio.
