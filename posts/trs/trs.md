@@ -12,7 +12,7 @@ Office hours at the peak of the Island:
 
 ![](officehours_tiny.png)
 
-The Weiqi board at the Island:
+The Weiqi board at the Island. There is a [video](https://youtu.be/wWtrTFI4ppc) of this being constructed:
 
 ![](Weiqi_tiny.png)
 
