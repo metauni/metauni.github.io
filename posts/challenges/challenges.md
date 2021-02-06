@@ -6,8 +6,8 @@ You can see the challenges [in action](https://youtu.be/xNqGxgiP0Cc?t=1440) at o
 | :--: | :----------: | :------: | :-----: | :--------------: |
 | `#1A - Ascend the knot` | 10 | `Fleetwood_Obdurate` | ![](prize1a.png) | |
 | `#1B - Find 3 Guqin players` | 5 | `noneedforthneeds` | ![](prize1b.png) | |
-| `#2A - Chinese Remainder Theorem` | 40 | `jescuttle`, `sneetchbeaches` | | |
-| `#2B - Coin hunt` | 20 | `mfkripke`, `eleanor_em` | | |
+| `#2A - Chinese Remainder Theorem` | 40 | `1. jescuttle`, `2. sneetchbeaches` | | |
+| `#2B - Coin hunt` | 20 | `1. mfkripke`, `2. eleanor_em` | | |
 | `#3A` | | | | |
 | `#3B` | | | | |
 | `#4A` | | | | |
