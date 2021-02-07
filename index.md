@@ -26,7 +26,7 @@ Talk events consist of a talk followed by questions and [challenges](http://meta
 
 Next event:
 
-* **Friday 12/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
+* **Friday 12/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
 
 Upcoming events (challenges in `block`):
 
