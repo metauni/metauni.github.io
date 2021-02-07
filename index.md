@@ -76,8 +76,10 @@ You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) 
 
 ### Troubleshooting
 
-If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN. Some people have a better experience with the separate Discord application as compared to running Discord in the browser. You may have problems using Firefox on the Roblox site. If you use `!register` while already in a Roblox zone, you may have to click `Reset` in the top right hand corner of your GUI to join the voice channel.
-
+* If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN.
+* You may have a better experience with the separate Discord application as compared to running Discord in the browser.
+* You may have problems using Firefox on the Roblox site.
+* If you use `!register` for the first time while already in a voice chat zone within the Roblox world, you may have to click `Reset` in the top right hand corner of your GUI to join the voice channel.
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon.
 
