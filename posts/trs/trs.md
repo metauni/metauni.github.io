@@ -37,3 +37,5 @@ Here are some of DM's thoughts:
 * If you're trying to use the TRS Weiqi board you should `Enable Studio Access to API Services` in Roblox Studio.
 
 * Notes from Event 3 (Lucas's talk). The speaker was great. Another thing that helped the talk feel engaging were the parallel streams of communication involving both the speaker and the audience. There was the in-game chat, in which people were not only asking questions but also cracking jokes, as well as the Discord channel were some people were sharing memes. There is no doubt in my mind that this (whatever it is) feels closer to the _natural form_ of an online event than Zoom (thanks to Will Troiani for bringing this point to my attention).
+
+* Adding existing places to a game is a bit awkward. Here's one way that works: publish your Roblox place `place1` as its own game, add a place to the existing game (in `Settings > Places`) and then use `Publish to Roblox As` to overwrite that new place with `place1`.
