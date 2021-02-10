@@ -37,6 +37,7 @@ Upcoming events (challenges in `block`):
 That will conclude "Season 1" and we'll take a bit of a break. Other talks in the works:
 
 * Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
+* A series of lectures on communications and social media, with a range of speakers and hosted by Lucas Cantor and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
 
 Past events:
 
