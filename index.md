@@ -117,9 +117,11 @@ Outer nodes may use some of the tools we have provided, and we may link to them 
 
 ## metauni objects
 
-* [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board).
-* [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard)
-* [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer)
+We use the Rising Sea node and events therein to prototype useful objects, such as whiteboards and Weiqi boards, which are eventually released for free on the Roblox Toolbox for other people to use in their own nodes. The currently available objects:
+
+* [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board). This game board has a persistent state that survives across server restarts. It's up to you to follow the rules!
+* [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard). Multi-user whiteboard with undo.
+* [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer). Upload PNGs (say generated from PDFs) in order to put papers, handwritten notes or other scientific content into your world.
 
 ## History
 
