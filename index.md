@@ -26,7 +26,11 @@ Talk events consist of a talk followed by questions and [challenges](http://meta
 
 Next event:
 
-* **Friday 12/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
+* **Friday 12/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is the Island in the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). You'll spawn in the right place. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
+
+    - `0:00-0:15` Learn [Weiqi](https://en.wikipedia.org/wiki/Go_(game)) (Go). I'll demo the new metauni Weiqi boards and teach you the rules on some in-game whiteboards.
+    - `0:15-0:30` We'll livestream a walkthrough on how to add the new metauni objects to your Roblox world. Hopefully this will cover the presenter display used in TRS for talks, as well as the whiteboards and Weiqi boards.
+    - `0:30-1:00` glorious anarchy. Advertise stuff you've been working on, get help setting up your own metauni node, ...
 
 Upcoming events (challenges in `block`):
 
