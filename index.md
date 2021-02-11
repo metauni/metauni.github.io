@@ -21,7 +21,7 @@ The purpose of this page is to help others set up nodes using metauni tools (see
 
 ## Events
 
-Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements subscribe to the mailing list or follow us on Twitter.
+Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter.
 
 ### Next event
 
