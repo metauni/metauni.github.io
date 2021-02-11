@@ -114,7 +114,13 @@ The _outer nodes_:
 * [Fleetwood Obdurate's place](https://www.roblox.com/games/6275923116/Fleetwood-Obdurates-Place) (no Discord).
 
 Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over the content of the Roblox worlds or their Discord channels.
- 
+
+## metauni objects
+
+* [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board).
+* [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard)
+* [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer)
+
 ## History
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
@@ -131,7 +137,7 @@ Outer nodes may use some of the tools we have provided, and we may link to them 
 * 31/1/2021 - Added new talk area for Ziling Ye's event (The Island). This will be final new area construction for a while in TRS.
 * 1/2/2021 - Working whiteboards (by James) and a new talk area (the Music Tower) for Lucas's event.
 * 6/2/2021 - Persistent Weiqi board added (construction [video](https://youtu.be/wWtrTFI4ppc)).
-* 10/2/2021 - metauni [Weiqi board]((https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board)) first release on the Roblox Toolbox.
+* 10/2/2021 - metauni [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox.
 * 11/2/2021 - metauni [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by James Clift).
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
