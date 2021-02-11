@@ -41,7 +41,8 @@ Upcoming events (challenges in `block`):
 That will conclude "Season 1" and we'll take a bit of a break. Other talks in the works:
 
 * Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
-* A series of lectures on communications and social media, with a range of speakers and hosted by Lucas Cantor and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
+* A series of lectures on communications and social media, with a range of speakers and hosted by [Lucas Cantor](https://www.lucascantormusic.com/) and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
+* Seminar series by [MDLG](http://mdlg.ai/) in collaboration with [Michael Chappuis](https://www.linkedin.com/in/michael-chappuis/) on deep learning theory, program synthesis and examples of "natural computation" in biology.
 
 Past events:
 
