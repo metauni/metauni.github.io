@@ -25,17 +25,12 @@ Talk events consist of a talk followed by questions and [challenges](http://meta
 
 ### Next event
 
-* **Friday 12/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is the Island in the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). You'll spawn in the right place. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
-
-    - `0:00-0:15` Learn [Weiqi](https://en.wikipedia.org/wiki/Go_(game)) (Go). I'll demo the new metauni Weiqi boards and teach you the rules on some in-game whiteboards.
-    - `0:15-0:30` JC and DM will livestream a walkthrough on how to add the new metauni objects to your Roblox world. Hopefully this will cover the presenter display used in TRS for talks, as well as the whiteboards and Weiqi boards. BP will explain how to use the new metauni admin features to kick/ban users and manage usage of the whiteboards.
-    - `0:30-1:00` glorious anarchy. Advertise stuff you've been working on, get help setting up your own metauni node, ...
+* **Friday 19/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}. The venue is the Solar Peak in the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Follow the arrows on the ground when you arrive. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
 
 ### Upcoming events
 
 Challenges in `block`:
 
-* **19/2/2021**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}.
 * **26/2/2021**: Community builder event {`no challenge`}.
 * **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
@@ -46,6 +41,8 @@ That will conclude "Season 1" and we'll take a bit of a break. Other talks in th
 * Seminar series by [MDLG](http://mdlg.ai/) in collaboration with [Michael Chappuis](https://www.linkedin.com/in/michael-chappuis/) on deep learning theory, program synthesis and examples of "natural computation" in biology.
 
 ### Past events
+
+* **12/2/2021**: Community builder event {`no challenge`}. This started with an introduction to Weiqi on the new Weiqi boards, followed by a livestream on how to add metauni objects (the Whiteboard, Viewer and Weiqi board) to your Roblox world. BP then explained how to use the new metauni admin features to kick/ban users and manage usage of the whiteboards.
 
 * **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music ([video](https://youtu.be/BNbJEQptKk4)) and a pre-event session on the [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem) by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)) {`#2A`, `#2B`}.
 * **29/1/2021**: Build Your Own Node event. We introduced the Roblox + Discord setup and walked people through [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). After that was a livestream introducing Roblox Studio ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
