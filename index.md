@@ -116,7 +116,7 @@ Outer nodes may use some of the tools we have provided, and we may link to them 
 
 We use the Rising Sea node and events therein to prototype useful objects, such as whiteboards and Weiqi boards, which are eventually released for free on the Roblox Toolbox for other people to use in their own nodes. To find them in Roblox Studio just open up the Toolbox and search for "metauni". The currently available objects:
 
-* [metauni Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board). This game board has a persistent state that survives across server restarts. It's up to you to follow the rules!
+* [metauni Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board). This game board has a persistent state that survives across server restarts. It's up to you to follow the rules! You'll have to enable the DataStore in Roblox Studio under `Game Settings > Security > Enable Studio API services` if you want the boards to work properly in the Studio (they should work in the actual game even if this is not set).
 * [metauni Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard). Multi-user whiteboard with undo.
 * [metauni Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer). Upload PNGs (say generated from PDFs) in order to put papers, handwritten notes or other scientific content into your world.
 
