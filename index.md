@@ -25,7 +25,12 @@ Talk events consist of a talk followed by questions and [challenges](http://meta
 
 ### Next event
 
-* **Friday 19/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}. The venue is the Solar Peak in the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Follow the arrows on the ground when you arrive. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA).
+* **Friday 19/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}. The venue is the Solar Peak in the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Follow the arrows on the ground when you arrive. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Schedule:
+
+    - `-0:20-0:00` Pre-event tutorial on the logistic equation (DM)
+    - `0:00-0:30` **Adam Dorr** main event
+    - `0:30-0:40` Question time
+    - `0:40-1:00` Challenges `#3A, #3B`
 
 ### Upcoming events
 
