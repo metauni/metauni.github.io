@@ -18,6 +18,7 @@ Here are some of the rule violations you are likely to encounter in preparing ac
 * Do not put information about Discord in-world or instructions for using it
 * Photos of people (they are afraid of users identifying other users)
 * We have observed that even the word "Talk" on a `SurfaceGui > TextLabel` is enough to cause problems (not Moderation Messages but weird behaviour in Roblox Studio). In general if you observe strange behaviour, think about whether or not you could have introduced something their AIs dislike.
+* Make sure the text in your images is not too small for the filtration system to read (this may easily happen if you compress high resolution images, rendering small fonts close to unreadable).
 
 ## Is the metauni Discord system consistent with the rules?
 
