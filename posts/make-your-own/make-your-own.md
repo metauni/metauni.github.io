@@ -153,7 +153,7 @@ So your Roblox node is up and running, and it is integrated with your Discord se
 
  - **Adding useful stuff**. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [these video instructions](https://youtu.be/rHaRz8J79S4).
 
-Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules).
+Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules). There are many [excellent guides](https://developer.roblox.com/en-us/quick-start) to getting started with Roblox Studio.
 
 ## "I need help!"
 
