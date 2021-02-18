@@ -3,9 +3,6 @@
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Create your own node</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
-
-Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It works on PC, Mac, iOS and Android. Metauni is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and the freedom to make your own node. Watch the [video intro](https://youtu.be/66MzfGqJFcA). Metauni nodes can be used for hosting events, lectures, tutorials or working groups, using slides, whiteboards, multiple voice channels and mini-games.
-
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://github.com/metauni/metauni-dev">GitHub</a> |
@@ -13,6 +10,8 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
   <a href="https://instagram.com/metauni">Instagram</a> |
   <a href="https://twitter.com/_metauni">Twitter</a>
 </p>
+
+Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It works on PC, Mac, iOS and Android. Metauni is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and the freedom to make your own node. Watch the [video intro](https://youtu.be/66MzfGqJFcA). Metauni nodes can be used for hosting events, lectures, tutorials or working groups, using slides, whiteboards, multiple voice channels and mini-games.
 
 <p align="center">
   <img src="talk1banner_sml.png">
