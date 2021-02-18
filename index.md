@@ -88,7 +88,7 @@ You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) 
 * If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN.
 * You may have a better experience with the separate Discord application as compared to running Discord in the browser.
 * You may have problems using Firefox on the Roblox site.
-* If you use `!register` for the first time while already in a voice chat zone within the Roblox world, you may have to click `Reset` in the top right hand corner of your GUI to join the voice channel.
+* If you use `!register` for the first time while already in a voice chat zone within the Roblox world, you may have to click `General` in the top right hand corner of your GUI to join the voice channel.
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon.
 
@@ -139,10 +139,13 @@ We use the Rising Sea node and events therein to prototype useful objects, such 
 * 26/1/2021 - Over the last week the Discord bot has been rewritten by Billy to use HTTP POST rather than a webhook, and now uses the repl.it database rather than MongoDB, among other improvements. This drastically simplifies the setup process, the guide to which has also been rewritten. The Rising Sea node has two new areas "Solar Peak" and the "Well of Past Events".
 * 27/1/2021 - Social media accounts up and running (Lucas on Instagram, Dan on Twitter).
 * 31/1/2021 - Added new talk area for Ziling Ye's event (The Island). This will be final new area construction for a while in TRS.
-* 1/2/2021 - Working whiteboards (by James) and a new talk area (the Music Tower) for Lucas's event.
+* 1/2/2021 - Working whiteboards (by JC) and a new talk area (the Music Tower) for Lucas's event.
 * 6/2/2021 - Persistent Weiqi board added (construction [video](https://youtu.be/wWtrTFI4ppc)).
 * 10/2/2021 - metauni [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox.
-* 11/2/2021 - metauni [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by James Clift).
+* 11/2/2021 - metauni [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by JC).
+* 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
+* 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
+* 19/2/2021 - Debut of new logo (by LC).
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
 
