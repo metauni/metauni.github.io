@@ -4,7 +4,7 @@
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
 
-Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and works on PC, Mac, iOS and Android. Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). Watch the [video intro](https://youtu.be/66MzfGqJFcA).
+Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and works on PC, Mac, iOS and Android. Watch the [video intro](https://youtu.be/66MzfGqJFcA).
 
 The purpose of this page is to help others set up nodes using metauni tools (see the Node Directory below) demonstrate best practices through our own nodes, and coordinate the development of open source tools (e.g. for uploading preprints and talk slides) and host announcements of virtual events.
 
@@ -58,7 +58,7 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ### How do I get in?
 
-In its current iteration localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are instructions for visiting a metauni node:
+Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). Localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are instructions for visiting a metauni node:
 
 1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts and install both programs.
 2. Enter the Discord server for the node (see the Node Directory, e.g. the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
