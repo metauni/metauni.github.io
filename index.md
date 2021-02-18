@@ -19,7 +19,7 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 ## Events
 
-Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
+Talk events in the Rising Sea metauni node consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
 
 * **Friday 19/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Talk by [Adam Dorr](http://www.adamdorr.com/about/) on [disruption in energy policy](https://www.rethinkx.com/energy) {`#3A`, `#3B`}. The venue is the Solar Peak in the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). Follow the arrows on the ground when you arrive. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Schedule:
 
