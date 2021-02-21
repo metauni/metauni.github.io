@@ -15,7 +15,7 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 </p>
 
 <p align="center">
-  <img src="talk1banner_sml.png">
+  <img src="talk1banner_sml_sq.png"><img src="event5banner_smal_sq.png">
 </p>
 
 ## Events
