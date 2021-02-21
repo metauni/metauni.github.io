@@ -14,7 +14,7 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
   <a href="https://twitter.com/_metauni">Twitter</a>
 </p>
 
-![banner1](newbanner.png)
+![banner](newbanner.png)
 
 ## Events
 
