@@ -16,11 +16,10 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 <div id="banner">
     <div class="inline-block">
-        <img src ="talk1banner_sml_sq.png">
+        <img src = "talk1banner_sml_sq.png">
     </div>
-
     <div class="inline-block">
-        <img src ="event5banner_smal_sq.png">
+        <img src = "event5banner_smal_sq.png">
     </div>
 </div>
 
