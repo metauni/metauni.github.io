@@ -87,10 +87,6 @@ You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) 
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon.
 
-### How do I host my own node?
-
-Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on [Repl.it](https://repl.it/). We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list or follow us on Twitter for notifications).
-
 ### Does metauni violate Roblox rules?
 
 Not as we currently understand them, but see our page on [Roblox rules](http://metauni.org/posts/rules/rules) for more information.
@@ -111,6 +107,11 @@ The _outer nodes_:
 * [Fleetwood Obdurate's place](https://www.roblox.com/games/6275923116/Fleetwood-Obdurates-Place) (no Discord).
 
 Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over the content of the Roblox worlds or their Discord channels.
+
+## How do I host my own node?
+
+Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on [Repl.it](https://repl.it/). We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help. Once you have your node up and running see [this page](http://metauni.org/posts/make-your-own/tools) for a list of metauni tools that you can install in your world.
+
 
 ## History
 
