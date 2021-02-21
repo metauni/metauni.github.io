@@ -2,7 +2,8 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 <p align="center">
   <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">The Rising Sea</a> (<a href="https://discord.gg/9yBaAxPSK8">Discord</a>) |
-  <a href="http://metauni.org/posts/make-your-own/make-your-own">Create your own node</a> |
+  <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
+  <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
 <p align="center">
@@ -110,14 +111,6 @@ The _outer nodes_:
 * [Fleetwood Obdurate's place](https://www.roblox.com/games/6275923116/Fleetwood-Obdurates-Place) (no Discord).
 
 Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over the content of the Roblox worlds or their Discord channels.
-
-## metauni objects
-
-We use the Rising Sea node and events therein to prototype useful objects, such as whiteboards and Weiqi boards, which are eventually released for free on the Roblox Toolbox for other people to use in their own nodes. To find them in Roblox Studio just open up the Toolbox and search for "metauni". The currently available objects:
-
-* [metauni Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board). This game board has a persistent state that survives across server restarts.
-* [metauni Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard). Multi-user whiteboard with undo. Use it with an iPad for extra joy.
-* [metauni Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer). Upload PNGs using Asset Manager, create Decals and put them in `Gui > Images` in order to put content into your world (e.g. papers).
 
 ## History
 
