@@ -3,16 +3,16 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 **Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) programs, join the Rising Sea [Discord](https://discord.gg/9yBaAxPSK8) and [Roblox world](https://www.roblox.com/games/6224932973/The-Rising-Sea) and in Discord send a message `!register fred` in the `#registration` channel where `fred` is your Roblox username. See Instructions below for more details.
 
 <p align="center">
-  <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
-  <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
-  <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
-</p>
-<p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://github.com/metauni/metauni-dev">GitHub</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
   <a href="https://instagram.com/metauni">Instagram</a> |
   <a href="https://twitter.com/_metauni">Twitter</a>
+</p>
+<p align="center">
+  <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
+  <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
+  <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
 
 ![banner](newbanner.png)
