@@ -68,6 +68,7 @@ These rules seem to be in place to prevent people from encouraging players (part
 * [Alone](https://www.roblox.com/games/2856821731/ALONE-Battle-Royale) (32M+ visits, created 2/2019).
 * [ROSES](https://www.roblox.com/games/1064846716/ROSES) (1.6M+ visits, created 9/2017).
 
+DM has uploaded around ten minutes of his own voiceovers to the Rising Sea node, without encountering any moderation messages.
 
 ## Quotes from the rules
 
