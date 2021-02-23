@@ -62,7 +62,7 @@ and on the Moderation Messages page you will find the following audio content me
 
 > **"We're sorry, but audio featuring your voice or other personal information is not permitted on Roblox."** This is done for the safety of the user. Preventing personally identifiable information from being released is a top priority of Roblox.
 
-These rules seem to be in place to prevent people from encouraging players (particular those under the age of 13) from uploading audio of their voice to Roblox and then sharing it. It doesn't seem to be targeted at developers, who might choose to put audio of their own voices or voice actors into their games. Indeed many games on Roblox have audio content in their worlds produced by voice actors (and the Developer forums have many [ads for voice acting work](https://devforum.roblox.com/t/hiring-voice-actor-and-audio-editor-found/595917)). Some examples:
+These rules seem to be in place to prevent people from encouraging players (particular those under the age of 13) from uploading audio of their voice to Roblox and then sharing it. It doesn't seem to be targeted at developers, who might choose to put audio of voice actors into their games. Indeed many games on Roblox have audio content in their worlds produced by voice actors (and the Developer forums have many [ads for voice acting work](https://devforum.roblox.com/t/hiring-voice-actor-and-audio-editor-found/595917)). Some examples:
 
 * [Q-clash](https://www.roblox.com/games/2029250188/Q-CLASH) (22M+ visits, created 1/2018).
 * [Alone](https://www.roblox.com/games/2856821731/ALONE-Battle-Royale) (32M+ visits, created 2/2019).
