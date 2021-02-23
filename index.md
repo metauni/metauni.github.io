@@ -1,7 +1,8 @@
 Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It works on PC, Mac, iOS and Android. It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and the freedom to make your own node. Watch the [video intro](https://youtu.be/66MzfGqJFcA). Metauni can be used for hosting events, lectures, tutorials or working groups, using slides, whiteboards, multiple voice channels *and mini-games*. It aspires to be both beautiful and fun.
 
+**Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) programs, join the Rising Sea [Discord](https://discord.gg/9yBaAxPSK8) and [Roblox world](https://www.roblox.com/games/6224932973/The-Rising-Sea). In Discord type `!register <Roblox-Username>`.
+
 <p align="center">
-  <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">The Rising Sea</a> (<a href="https://discord.gg/9yBaAxPSK8">Discord</a>) |
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
   <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
