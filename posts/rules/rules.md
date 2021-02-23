@@ -40,7 +40,7 @@ The relevant passage from the Community Rules is
 
 Our reading is that this rule is meant to prevent developers from putting in internal circumventions to the chat system (i.e. in-world keyboards that display on in-world screens).
 
-## Are the metauni whiteboards consistent with the rules?
+## Are metauni whiteboards consistent with the rules?
 
 Yes, we believe so, if they are used for sketching, drawing, diagrams, mathematics etc. However, using a whiteboard to bypass the in-game chat violates the Community Rules (see above), so we believe it is appropriate for administrators to observe carefully how the whiteboards are used and put in place mechanisms to flag inappropriate images and restrict access for users who abuse them. The [guidance on Roblox Developer forums](https://devforum.roblox.com/t/are-you-allowed-to-let-players-draw-in-your-game/231264) is that whiteboards are not against the rules, but it is recommended to give users a way of flagging a drawn image as inappropriate.
 
@@ -51,6 +51,23 @@ Further, there are many active and popular games on Roblox using in-world drawin
 * [Free Draw 2](https://www.roblox.com/games/1547610457/Free-Draw-2) (47M+ visits, created 3/2018).
 
 On these grounds we believe the metauni whiteboards are consistent with the Roblox rules.
+
+## Are voice audio files consistent with the rules?
+
+Yes, we believe so, although again if you read the Roblox rules strictly this is in a gray area. The Roblox Community rules state
+
+> **Do not ask for or collect (or allow the transfer between players in your game) any personally identifiable information (PII)**. For example, you should not ask for a player’s first and last name, age, home or physical address, something that contains a person’s image or voice (such as a photograph, video or audio file), social security number, passport number (or national identity number), phone number or email address (or other forms of online contact information).
+
+and on the Moderation Messages page you will find the following audio content message
+
+> **"We're sorry, but audio featuring your voice or other personal information is not permitted on Roblox."** This is done for the safety of the user. Preventing personally identifiable information from being released is a top priority of Roblox.
+
+These rules seem to be in place to prevent people from encouraging players (particular those under the age of 13) from uploading audio of their voice to Roblox and then sharing it. It doesn't seem to be targeted at developers, who might choose to put audio of their own voices or voice actors into their games. Indeed many games on Roblox have audio content in their worlds produced by voice actors (and the Developer forums have many [ads for voice acting work](https://devforum.roblox.com/t/hiring-voice-actor-and-audio-editor-found/595917)). Some examples:
+
+* [Q-clash](https://www.roblox.com/games/2029250188/Q-CLASH) (22M+ visits, created 1/2018).
+* [Alone](https://www.roblox.com/games/2856821731/ALONE-Battle-Royale) (32M+ visits, created 2/2019).
+* [ROSES](https://www.roblox.com/games/1064846716/ROSES) (1.6M+ visits, created 9/2017).
+
 
 ## Quotes from the rules
 
