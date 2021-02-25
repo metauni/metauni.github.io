@@ -51,3 +51,6 @@ Drawing on whiteboards can be disabled for guests with the `/boards off` command
 
 ### Roles
 Managing roles/permission levels is done via the `/setadmin`, `/setscribe`, `/setguest`, `/setperm`, `/getperm` commands. Chat `/setperm?` or `/getperm?` for a list of roles/permission levels.
+
+### UPDATES
+As this module is updated, the [metauni AdminCommands](https://www.roblox.com/library/6441205113/metauni-AdminCommands) model in the toolbox will be updated, so you can simply repeat the installation to get the new version.
