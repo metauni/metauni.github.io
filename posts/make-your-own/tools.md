@@ -12,11 +12,13 @@ We use the Rising Sea node and events therein to prototype useful objects, such 
 
 ## Administration
 
-*comment about the need for administration (banning, boards on and off)*
+Running a metauni node comes with responsibilities, since by running a Roblox world and Discord server you are in particular comitting yourself to the terms of service of Roblox and Discord. You should therefore familiarise yourself with the [Roblox rules](https://metauni.org/posts/rules/rules) and [Discord Terms of Service](https://discord.com/terms) at the risk of getting your account locked or banned. If you observe users breaking Roblox rules, for example harrassing other users or engaing in offensive behaviour, you should **report them using the Roblox tools** that can be accessed via `Escape`.
 
-To facilitate administration, we have a ChatModule which extends the functionality of the in-game chat commands. Commands can be executed by chosen adminstrators by opening chat and entering the command.
+For less serious matters, you are invited to install and use the metauni administrative tools (see below). We encourage administrators of metauni nodes to be **particularly careful about the use of whiteboards** since some usages of these fall outside the Roblox rules (for example, the whiteboards should not be used as an alternative chat system, or used to post Discord links, URLs or offensive images, or in general to bypass the Roblox filtration system). You can use the metauni admin tools to turn whiteboards on or off, so that they are only enabled at particular times under the supervision of administrators or their delegates.
 
-The module depends on a permission table stored in a persistent DataStore, which associates each Roblox user ID with a permission level (an integer), and is perserved between server restarts and even when updating your world.
+### Installing the admin tools
+
+To facilitate administration, we have a ChatModule which extends the functionality of the in-game chat commands. Commands can be executed by chosen adminstrators by opening chat and entering the command. The module depends on a permission table stored in a persistent DataStore, which associates each Roblox user ID with a permission level (an integer), and is perserved between server restarts and even when updating your world.
 
 |level|role|about|
 |--|--|--|
