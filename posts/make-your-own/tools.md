@@ -30,9 +30,11 @@ Each higher role in this hierchary accumulates any abilities of lower (non-negat
 ### Installing and using
 
 To install AdminCommands, search for `metauni` in the toolbox and click on [metauni AdminCommands](https://www.roblox.com/library/6441205113/metauni-AdminCommands).
+
 ![](toolbox-admincommands.png)
 
 This will add a folder called `ChatModules` to your `Workspace`. Drag this folder to `Chat`, as below.
+
 ![](chatmodules.png)
 
 All done! This places our `AdminCommands` file amongst the other chat modules implemented by Roblox. `InsertDefaultModules` is a boolean flag that invites those modules to appear here on server start.
