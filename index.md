@@ -137,6 +137,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
 * 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
 * 19/2/2021 - Debut of new logo (by LC).
+* 25/2/2021 - First public release of AdminCommands (by BP).
 
 Music in the Rising Sea node:
 
