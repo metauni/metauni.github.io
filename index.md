@@ -21,16 +21,17 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
 
-* **Friday 16/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Schedule:
+* **Friday 26/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Schedule:
 
-    - `0:00-0:30` Debut of new metauni nodes, live help with building
-    - `0:30-1:00` Experiments with running tutorials in metauni
+    - `0:00-0:30` Debut of new metauni nodes, live help with building (venue is the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub))
+    - `0:30-1:00` Experiments with running tutorials in metauni (venue is [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars))
+
+We'll be moving around a bit between worlds, but we'll be in the Rising Sea [Discord](https://discord.gg/9yBaAxPSK8) and if in doubt you can joint the [Rising Sea](https://www.roblox.com/games/6224932973) in Roblox and follow the arrows to find us.
 
 ### Upcoming events
 
 Challenges in `block`:
 
-* **26/2/2021**: Community builder event {`no challenge`}.
 * **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
 
 That will conclude "Season 1" and we'll take a bit of a break. Other talks in the works:
