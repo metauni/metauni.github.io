@@ -11,6 +11,10 @@ We use the Rising Sea node and events therein to prototype useful objects, such 
 * [metauni Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer). Upload PNGs using Asset Manager, create Decals and put them in `Gui > Images` in order to put content into your world (e.g. papers).
 * [metauni AdminCommands](https://www.roblox.com/library/6441205113/metauni-AdminCommands). Supports kick, ban and whiteboard management through the chat system, see below for details.
 
+## Tips
+
+* On the Roblox page for your game's main Place, click "..." and then `Configure this Place` then set `Access > Server Fill` to `Fill each server as full as possible`. Otherwise even with small numbers of players, they may spawn into completely separate copies of your world (keep in mind that the standard usage of Roblox is thousands of concurrent players split across many separate instances).
+
 ## Administration
 
 Running a metauni node comes with responsibilities, since by running a Roblox world and Discord server you are in particular comitting yourself to the terms of service of Roblox and Discord. You should therefore familiarise yourself with the [Roblox rules](https://metauni.org/posts/rules/rules) and [Discord Terms of Service](https://discord.com/terms) at the risk of getting your account locked or banned. If you observe users breaking Roblox rules, for example harrassing other users or engaing in offensive behaviour, you should **report them using the Roblox tools** that can be accessed via `Escape`.
