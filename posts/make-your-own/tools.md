@@ -4,7 +4,7 @@ After following the [guide](http://metauni.org/posts/make-your-own/make-your-own
 
 ## metauni tools
 
-We use the Rising Sea node and events therein to prototype useful objects, such as whiteboards and Weiqi boards, which are eventually released for free on the Roblox Toolbox for other people to use in their own nodes. To find them in Roblox Studio just open up the Toolbox and search for "metauni". The currently available objects:
+We use the Rising Sea and events therein to prototype useful objects which are eventually released on the Roblox Toolbox for other people to use. To find them in Roblox Studio just open up the Toolbox and search for "metauni". The currently available objects:
 
 * [metauni Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board). This game board has a persistent state that survives across server restarts.
 * [metauni Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard). Multi-user whiteboard with undo. Use it with an iPad for extra joy.
