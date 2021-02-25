@@ -101,7 +101,7 @@ The _inner nodes_ (i.e. nodes where we take full responsibility for what happens
     
 The _outer nodes_:
 
-* [MUMS](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)).
+* [M.U.M.S](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)). Melbourne Uni Maths and Stats Society ([web](https://www.melbunimathsstats.org)).
 * [Kuroyukijima](https://www.roblox.com/games/6343445246/Kuroyukijima) (no Discord).
 * [LamamuLand](https://www.roblox.com/games/6313737040/Lamamu-Land) ([Discord](https://discord.gg/8mypEUk9)).
 * [Bekaby](https://www.roblox.com/games/6313735851/Beks-Game) ([Discord](https://discord.gg/N4x6m2zG)).
