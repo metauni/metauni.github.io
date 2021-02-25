@@ -1,6 +1,6 @@
 # Running a metauni node
 
-After following the [guide](http://metauni.org/posts/make-your-own/make-your-own) to setup your own metauni node, the next question is: what do you do with it? On this page we explain how to reproduce the tools you see in our event videos for the Rising Sea node, and other aspects of enabling intellectual activities.
+After following the [guide](http://metauni.org/posts/make-your-own/make-your-own) to setup your own metauni node, the next question is: what do you do with it? On this page we explain how to reproduce the tools you see in our event videos.
 
 ## metauni tools
 
