@@ -14,8 +14,10 @@ For more details on how the system operates, see the end of the guide.
 You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
 - [Roblox](https://www.roblox.com)
 - [Discord](https://discord.com/) - for joining and hosting voice channels
-- [repl.it](https://repl.it) - controls the discord bot and hosts the database
-- [uptimerobot](https://uptimerobot.com) - pings the repl.it to keep it alive.
+- [repl.it](https://repl.it) - controls the Discord bot and hosts the database
+- [uptimerobot](https://uptimerobot.com) - pings the Repl.it to keep it alive.
+
+More advanced users may prefer to run the Discord bot via [Docker](https://github.com/eleanor-em/zonechat-docker) (thanks to Eleanor McMurtry) negating the need for Repl.it and uptimerobot.
 
 **Recommended**: _Open up a Notepad or TextEdit document to copy things down as we go_
 
