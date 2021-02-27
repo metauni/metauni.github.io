@@ -21,20 +21,11 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
 
-* **Friday 26/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Schedule:
-
-    - `0:00-0:30` Debut of new metauni nodes, live help with building (venue is the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub))
-    - `0:30-1:00` Experiments with running tutorials in metauni (venue is [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars))
-
-We'll be moving around a bit between worlds, but we'll be in the Rising Sea [Discord](https://discord.gg/9yBaAxPSK8) and if in doubt you can joint the [Rising Sea](https://www.roblox.com/games/6224932973) in Roblox and follow the arrows to find us.
+* **Friday 5/3/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)).
 
 ### Upcoming events
 
-Challenges in `block`:
-
-* **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
-
-That will conclude "Season 1" and we'll take a bit of a break. Other talks in the works:
+Other talks in the works:
 
 * Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 * A series of lectures on communications and social media, with a range of speakers and hosted by [Lucas Cantor](https://www.lucascantormusic.com/) and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
@@ -42,6 +33,7 @@ That will conclude "Season 1" and we'll take a bit of a break. Other talks in th
 
 ### Past events
 
+* **26/2/2021**: Community builder event {`no challenge`}. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox.
 * **19/2/2021**: [Adam Dorr](http://www.adamdorr.com/about/) on "Rethinking Energy" {`#3A`, `#3B`} with a pre-event tutorial on the logistic equation ([video](https://youtu.be/tJYizX7D5ig)). The main event was not recorded but you can read the [report](https://www.rethinkx.com/energy) it was based on and watch the associated [video](https://youtu.be/6zgwiQ6BoLA). The post-event challenges and question time were recorded ([video](https://youtu.be/4RMlWp79aLA)).
 * **12/2/2021**: Community builder event {`no challenge`}. This started with an introduction to Weiqi on the new Weiqi boards, followed by a livestream on how to add metauni objects (the Whiteboard, Viewer and Weiqi board) to your Roblox world. BP then explained how to use the new metauni admin features to kick/ban users and manage usage of the whiteboards ([video](https://youtu.be/ZTB9tLb5Y-c)).
 * **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music ([video](https://youtu.be/BNbJEQptKk4)) and a pre-event tutorial on the [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem) and its connections to music by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)) {`#2A`, `#2B`}.
