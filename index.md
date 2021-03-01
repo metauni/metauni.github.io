@@ -1,10 +1,7 @@
-Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It works on PC, Mac, iOS and Android. It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and the freedom to make your own node. Watch the [video intro](https://youtu.be/66MzfGqJFcA). Metauni can be used for hosting events, lectures, tutorials or working groups, using slides, whiteboards, multiple voice channels *and mini-games*. It aspires to be both beautiful and fun.
+Metauni is a network of virtual worlds, with a 3D virtual environment provided by [Roblox](https://www.roblox.com/) and location-specific voice chat using [Discord](https://www.discord.com). It works on PC, Mac, iOS and Android. It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and the freedom to make your own node. Watch the [video intro](https://youtu.be/66MzfGqJFcA). Metauni can be used for hosting events, lectures, tutorials or working groups, using slides, [whiteboards](https://youtu.be/tJYizX7D5ig), multiple voice channels *and mini-games*. It aspires to be both beautiful and fun.
 
-<p align="center">
-  <a href="https://www.roblox.com/games/6224932973/The-Rising-Sea">The Rising Sea</a> (<a href="https://discord.gg/9yBaAxPSK8">Discord</a>) |
-  <a href="http://metauni.org/posts/make-your-own/make-your-own">Create your own node</a> |
-  <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
-</p>
+**Quick start (Rising Sea node)**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) programs, join the Rising Sea [Discord](https://discord.gg/9yBaAxPSK8) and [Roblox world](https://www.roblox.com/games/6224932973/The-Rising-Sea) and in Discord send a message `!register Wintermute` in the `#registration` channel where `Wintermute` is your Roblox username. See Instructions below for more details.
+
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://github.com/metauni/metauni-dev">GitHub</a> |
@@ -12,28 +9,23 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
   <a href="https://instagram.com/metauni">Instagram</a> |
   <a href="https://twitter.com/_metauni">Twitter</a>
 </p>
-
 <p align="center">
-  <img src="talk1banner_sml.png">
+  <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
+  <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
+  <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
+
+![banner](newbanner.png)
 
 ## Events
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
 
-* **Friday 16/2/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Community builder event {`no challenge`}. The venue is the [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Schedule:
-
-    - `0:00-0:30` Running tutorials in metauni
-    - `0:30-1:00` Debut of new metauni nodes, live help with building
+* **Friday 5/3/2021 10am-11am Melbourne (3-4pm Thursday in LA)**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)).
 
 ### Upcoming events
 
-Challenges in `block`:
-
-* **26/2/2021**: Community builder event {`no challenge`}.
-* **5/3/2021**: Stories from Chinese history by award-winning playwright Ziling Ye {`#4A`, `#4B`}.
-
-That will conclude "Season 1" and we'll take a bit of a break. Other talks in the works:
+Other talks in the works:
 
 * Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 * A series of lectures on communications and social media, with a range of speakers and hosted by [Lucas Cantor](https://www.lucascantormusic.com/) and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
@@ -41,7 +33,8 @@ That will conclude "Season 1" and we'll take a bit of a break. Other talks in th
 
 ### Past events
 
-* **19/2/2021**: [Adam Dorr](http://www.adamdorr.com/about/) on "Rethinking Energy" {`#3A`, `#3B`} with a pre-event tutorial on the logistic equation ([video](https://youtu.be/tJYizX7D5ig)). The main event was not recorded but you can read the [report](https://www.rethinkx.com/energy) it was based on and watch this [video](https://youtu.be/6zgwiQ6BoLA).
+* **26/2/2021**: Community builder event {`no challenge`}. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox ([video](https://youtu.be/IlwRuAO1v8o)).
+* **19/2/2021**: [Adam Dorr](http://www.adamdorr.com/about/) on "Rethinking Energy" {`#3A`, `#3B`} with a pre-event tutorial on the logistic equation ([video](https://youtu.be/tJYizX7D5ig)). The main event was not recorded but you can read the [report](https://www.rethinkx.com/energy) it was based on and watch the associated [video](https://youtu.be/6zgwiQ6BoLA). The post-event challenges and question time were recorded ([video](https://youtu.be/4RMlWp79aLA)).
 * **12/2/2021**: Community builder event {`no challenge`}. This started with an introduction to Weiqi on the new Weiqi boards, followed by a livestream on how to add metauni objects (the Whiteboard, Viewer and Weiqi board) to your Roblox world. BP then explained how to use the new metauni admin features to kick/ban users and manage usage of the whiteboards ([video](https://youtu.be/ZTB9tLb5Y-c)).
 * **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music ([video](https://youtu.be/BNbJEQptKk4)) and a pre-event tutorial on the [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem) and its connections to music by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)) {`#2A`, `#2B`}.
 * **29/1/2021**: Build Your Own Node event. We introduced the Roblox + Discord setup and walked people through [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). After that was a livestream introducing Roblox Studio ([video](https://youtu.be/W0SIAygiITs)) {`no challenge`}.
@@ -86,10 +79,6 @@ You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) 
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon.
 
-### How do I host my own node?
-
-Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on [Repl.it](https://repl.it/). We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help (subscribe to the mailing list or follow us on Twitter for notifications).
-
 ### Does metauni violate Roblox rules?
 
 Not as we currently understand them, but see our page on [Roblox rules](http://metauni.org/posts/rules/rules) for more information.
@@ -104,20 +93,18 @@ The _inner nodes_ (i.e. nodes where we take full responsibility for what happens
     
 The _outer nodes_:
 
-* [MUMS](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)).
+* [M.U.M.S](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)). Melbourne Uni Maths and Stats Society ([web](https://www.melbunimathsstats.org)).
+* [Kuroyukijima](https://www.roblox.com/games/6343445246/Kuroyukijima) (no Discord).
 * [LamamuLand](https://www.roblox.com/games/6313737040/Lamamu-Land) ([Discord](https://discord.gg/8mypEUk9)).
 * [Bekaby](https://www.roblox.com/games/6313735851/Beks-Game) ([Discord](https://discord.gg/N4x6m2zG)).
 * [Fleetwood Obdurate's place](https://www.roblox.com/games/6275923116/Fleetwood-Obdurates-Place) (no Discord).
 
 Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over the content of the Roblox worlds or their Discord channels.
 
-## metauni objects
+## How do I host my own node?
 
-We use the Rising Sea node and events therein to prototype useful objects, such as whiteboards and Weiqi boards, which are eventually released for free on the Roblox Toolbox for other people to use in their own nodes. To find them in Roblox Studio just open up the Toolbox and search for "metauni". The currently available objects:
+Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on [Repl.it](https://repl.it/). We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help. Once you have your node up and running see [this page](http://metauni.org/posts/make-your-own/tools) for a list of metauni tools that you can install in your world.
 
-* [metauni Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board). This game board has a persistent state that survives across server restarts.
-* [metauni Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard). Multi-user whiteboard with undo. Use it with an iPad for extra joy.
-* [metauni Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer). Upload PNGs using Asset Manager, create Decals and put them in `Gui > Images` in order to put content into your world (e.g. papers).
 
 ## History
 
@@ -142,6 +129,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
 * 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
 * 19/2/2021 - Debut of new logo (by LC).
+* 25/2/2021 - First public release of AdminCommands (by BP).
 
 Music in the Rising Sea node:
 

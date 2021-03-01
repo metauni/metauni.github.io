@@ -6,10 +6,10 @@ You can see the challenges [in action](https://youtu.be/xNqGxgiP0Cc?t=1440) at o
 | :-----------: | :-----: | :------: | :-----: | :-----: | :--------------: |
 | `#1A - Ascend the knot` | 10 | `Fleetwood_Obdurate` | | ![](prize1a.png) | |
 | `#1B - Find 3 Guqin players` | 5 | `noneedforthneeds` | | ![](prize1b.png) | |
-| `#2A - Chinese Remainder Theorem` | 40 | `jescuttle` | `sneetchbeaches` | | |
-| `#2B - Coin hunt` | 20 | `mfkripke` | `eleanor_em` | | |
-| `#3A` | | | | | |
-| `#3B` | | | | | |
+| `#2A - Chinese Remainder Theorem` | 40 | `jescuttle` | `sneetchbeaches` | custom Weiqi stones | |
+| `#2B - Coin hunt` | 20 | `mfkripke` | `eleanor_em` | custom Weiqi stones | |
+| `#3A - Dying fast` | 30 | `matomatical` | | coffee mug | |
+| `#3B - Mount McKinsey` | 10 | `matomatical` | | coffee mug | |
 | `#4A` | | | | | |
 | `#4B - 孔明灯` | | | | | |
 

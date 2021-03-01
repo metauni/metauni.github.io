@@ -14,8 +14,10 @@ For more details on how the system operates, see the end of the guide.
 You will need to create the following accounts. Roblox and Discord are mandatory, but repl.it may be substituted with your preferred persistent server and database.
 - [Roblox](https://www.roblox.com)
 - [Discord](https://discord.com/) - for joining and hosting voice channels
-- [repl.it](https://repl.it) - controls the discord bot and hosts the database
-- [uptimerobot](https://uptimerobot.com) - pings the repl.it to keep it alive.
+- [repl.it](https://repl.it) - controls the Discord bot and hosts the database
+- [uptimerobot](https://uptimerobot.com) - pings the Repl.it to keep it alive.
+
+More advanced users may prefer to run the Discord bot via [Docker](https://github.com/eleanor-em/zonechat-docker) (thanks to Eleanor McMurtry) negating the need for Repl.it and uptimerobot.
 
 **Recommended**: _Open up a Notepad or TextEdit document to copy things down as we go_
 
@@ -149,9 +151,9 @@ So your Roblox node is up and running, and it is integrated with your Discord se
 
  - **Add your Discord link**. The Roblox page for your node can optionally link directly to your Discord server. The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/360000910966-Social-Media-Links-for-Games). Navigate to your game (_not_ the places within it) in `Games` under `Create` and then click `Social Links` on the left. You do not need to include the word "Discord" in the Title field (and in any case the moderation may prevent you) as the link will appear with a large Discord icon. For the URL put a Discord invite link.
 
- - **Link from hub**. Find your game on Roblox.com as in step (3.6) above and email the URL to <admin@metauni.org> (for example, [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) has URL `https://www.roblox.com/games/6224932973/The-Rising-Sea` and place ID `6224932973`) along with a preferred text label (and optionally also a Discord invite link) so we can link to you from the [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) and list you under `Node directory` on the metauni frontpage. The Discord link is optional if you added a Discord link to the Roblox page as above (but to begin with users may not know to look for this, so we recommend both doing that and putting a link on the metauni page).
+ - **Link from hub**. Find your game on Roblox.com as in step (3.6) above and email the URL to <admin@metauni.org> (for example, [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) has URL `https://www.roblox.com/games/6224932973/The-Rising-Sea` and place ID `6224932973`) along with a preferred text label (and optionally also a Discord invite link) so we can link to you from the [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) and list you under `Node directory` on the metauni frontpage.
 
- - **Adding useful stuff**. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository and [these video instructions](https://youtu.be/rHaRz8J79S4).
+ - **Adding useful stuff**. You are encouraged to re-use some of the objects in the Rising Sea node, for which see the [metauni tools](https://metauni.org/posts/make-your-own/tools) page. The source file for the Rising Sea node is also available on the [metauni-dev](https://github.com/metauni/metauni-dev) GitHub repository, feel free to borrow from there ([video instructions](https://youtu.be/rHaRz8J79S4)).
 
 Before you post content to your node, please [review the Roblox platform rules](http://metauni.org/posts/rules/rules). There are many [excellent guides](https://developer.roblox.com/en-us/quick-start) to getting started with Roblox Studio.
 
