@@ -12,6 +12,7 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 <p align="center">
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
   <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
+  <a href="http://metauni.org/posts/dual/dual">Dual spaces</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
 
