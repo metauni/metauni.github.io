@@ -1,6 +1,6 @@
 # Dual spaces (experimental)
 
-A _dual space_ is a pair consisting of a physical and virtual location (a metauni node) bound together with code. The goal of a dual space is to put physical and virtual attendees (at a seminar, lecture or working group) on an equal footing, via bidirectional propagation of audio and writing between the physical and virtual spaces.
+A _dual space_ is a bonded pair consisting of a physical and virtual location (a metauni node). The goal of a dual space is to put physical and virtual attendees (at a seminar, lecture or working group) on an equal footing, via bidirectional propagation of audio and writing between the physical and virtual spaces.
 
 <p align="center">
   <img src="dualgarden2.png">
