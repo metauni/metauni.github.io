@@ -4,6 +4,7 @@ A _dual space_ is a pair consisting of a physical and virtual location (a metaun
 
 <p align="center">
   <img src="dualgarden2.png">
+  <img src="dualevan.png">
 </p>
 
 Currently we are experimenting with such pairings for physical boards and virtual boards, with the following protocol (a work in progress):
