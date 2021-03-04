@@ -22,7 +22,7 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
 
-* **Friday 5/3/2021 12pm-1pm Melbourne (5-6pm Thursday in LA)**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by award-winning playwright Ziling Ye {`#4A`, `#4B`}. See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)).
+* **Friday 5/3/2021 12pm-1pm Melbourne (5-6pm Thursday in LA)**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by award-winning playwright Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)) and you'll spawn right at the event location.
 
 ### Upcoming events
 
