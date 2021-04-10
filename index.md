@@ -20,13 +20,8 @@ Metauni is a network of virtual worlds, with a 3D virtual environment provided b
 
 ## Events
 
-Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. The next event:
-
-* **Friday 5/3/2021 12pm-1pm Melbourne (5-6pm Thursday in LA)**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by award-winning playwright Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)) and you'll spawn right at the event location.
-
-### Upcoming events
-
-Other talks in the works:
+Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. Some upcoming events:
+<!-- See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)) and you'll spawn right at the event location. -->
 
 * Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 * A series of lectures on communications and social media, with a range of speakers and hosted by [Lucas Cantor](https://www.lucascantormusic.com/) and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
@@ -34,6 +29,7 @@ Other talks in the works:
 
 ### Past events
 
+* **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
 * **26/2/2021**: Community builder event {`no challenge`}. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox ([video](https://youtu.be/IlwRuAO1v8o)).
 * **19/2/2021**: [Adam Dorr](http://www.adamdorr.com/about/) on "Rethinking Energy" {`#3A`, `#3B`} with a pre-event tutorial on the logistic equation ([video](https://youtu.be/tJYizX7D5ig)). The main event was not recorded but you can read the [report](https://www.rethinkx.com/energy) it was based on and watch the associated [video](https://youtu.be/6zgwiQ6BoLA). The post-event challenges and question time were recorded ([video](https://youtu.be/4RMlWp79aLA)).
 * **12/2/2021**: Community builder event {`no challenge`}. This started with an introduction to Weiqi on the new Weiqi boards, followed by a livestream on how to add metauni objects (the Whiteboard, Viewer and Weiqi board) to your Roblox world. BP then explained how to use the new metauni admin features to kick/ban users and manage usage of the whiteboards ([video](https://youtu.be/ZTB9tLb5Y-c)).
