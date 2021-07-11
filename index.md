@@ -20,14 +20,7 @@ Metauni is a communitary of scholars in the Metaverse, based on a 3D virtual env
 
 ## Events
 
-Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. Some upcoming events:
-<!-- See Instructions below for how to join or [watch this](https://youtu.be/66MzfGqJFcA). Venue is the [Rising Sea](https://www.roblox.com/games/6224932973) ([Discord](https://discord.gg/9yBaAxPSK8)) and you'll spawn right at the event location. -->
-
-* Eleanor McMurtry on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
-* A series of lectures on communications and social media, with a range of speakers and hosted by [Lucas Cantor](https://www.lucascantormusic.com/) and [Barrie Segal](https://www.linkedin.com/in/barriesegal/).
-* Seminar series by [MDLG](http://mdlg.ai/) in collaboration with [Michael Chappuis](https://www.linkedin.com/in/michael-chappuis/) on deep learning theory, program synthesis and examples of "natural computation" in biology.
-
-### Past events
+Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). For announcements follow us on Twitter. Past events:
 
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
 * **26/2/2021**: Community builder event {`no challenge`}. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox ([video](https://youtu.be/IlwRuAO1v8o)).
