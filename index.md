@@ -5,14 +5,11 @@ Metauni is a communitary of scholars in the Metaverse, based on a 3D virtual env
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://github.com/metauni/metauni-dev">GitHub</a> |
-  <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
-  <a href="https://instagram.com/metauni">Instagram</a> |
-  <a href="https://twitter.com/_metauni">Twitter</a>
+  <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a>
 </p>
 <p align="center">
   <a href="http://metauni.org/posts/make-your-own/make-your-own">Create a node</a> |
-  <a href="http://metauni.org/posts/make-your-own/tools">Use metauni tools</a> |
-  <a href="http://metauni.org/posts/dual/dual">Dual spaces</a> |
+  <a href="http://metauni.org/posts/make-your-own/tools">Tools</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a>
 </p>
 
