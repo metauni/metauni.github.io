@@ -10,7 +10,7 @@ Talkboards and other content in a locus have the following indexing convention s
 
 * **Link**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
 * **Office hours**: Fridays 9-10am AEDT.
-* **Video**: TODO.
+* **Media**: [video](https://youtu.be/39d4g1ERDpw).
 
 References:
 
