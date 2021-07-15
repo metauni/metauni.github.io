@@ -1,6 +1,6 @@
 # Loci
 
-A _locus_ is a metauni node dedicated to a particular mathematical topic. It hosts expository content such as talking boards and is a place for shared mathematical activity. A locus may have associated **office hours** (see below) at which time the host will join the node and be available for discussion. Since the main form of interaction in a locus is the whiteboards, it is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil).
+A _locus_ is a place for mathematical activity, organised around a particular topic. It hosts trails of talking boards and may have associated **office hours** (see below) at which time the host will join the node and be available for discussion. Since the main form of interaction in a locus is the whiteboards, it is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil).
 
 Talking boards and other content in a locus have the following indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, boardgroup **xyz** and individual board number **abc**.
 
