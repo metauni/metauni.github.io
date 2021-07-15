@@ -1,8 +1,6 @@
 # Loci
 
-A _locus_ is a place for mathematical activity, organised around a particular topic. It hosts trails of talking boards and may have associated **office hours** (see below) at which time the host will join the node and be available for discussion. Since the main form of interaction in a locus is the whiteboards, it is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil).
-
-Talking boards and other content in a locus have the following indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, boardgroup **xyz** and individual board number **abc**.
+A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for mathematical activity, organised around a particular topic. It hosts trails of talking boards and may have associated office hours where the host is available for discussion. It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, boardgroup **xyz** and individual board number **abc**.
 
 **TIPS**: to view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
 
