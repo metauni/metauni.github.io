@@ -4,6 +4,8 @@ A _locus_ is a metauni node dedicated to a particular mathematical topic. It hos
 
 Talkboards and other content in a locus have the following indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, boardgroup **xyz** and individual board number **abc**.
 
+**TIPS**: to view a talkboard, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
+
 ## LC001 - Matrix factorisations
 
 * **Link**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
