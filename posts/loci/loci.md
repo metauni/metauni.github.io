@@ -14,6 +14,7 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for mathemati
 
 * D. Eisenbud, "[Homological algebra on a complete intersection, with an application to group representations](https://www.ams.org/journals/tran/1980-260-01/S0002-9947-1980-0570778-7/home.html)", Trans. Amer. Math. Soc. **260** (1980), 35--64.
 * P. Dirac "[The quantum theory of the electron](https://royalsocietypublishing.org/doi/10.1098/rspa.1928.0023)", Proc. R. Soc. Lond. A117 (1928) 610--624.
+* M. Khovanov and L. Rozansky, "[Matrix factorizations and link homology](https://arxiv.org/abs/math/0401268)", Fund. Math. 199 (2008), 1--91.
 
 ### LC001.02 - Exterior algebras
 
