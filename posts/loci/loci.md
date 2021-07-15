@@ -6,4 +6,5 @@ The currently active loci:
 
 | ID | Name | Office hours | Information |
 | :----: | :-----: | :------: | :--------------: |
-| `LC001` | Matrix factorisations | Friday 9-10am AEDT | References |
+| `LC001` | Matrix factorisations | Fridays 9-10am AEDT | * blah
+* blah |
