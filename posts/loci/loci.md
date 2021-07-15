@@ -9,7 +9,7 @@ Talking boards and other content in a locus have the following indexing conventi
 ## LC001 - Matrix factorisations
 
 * **Link**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
-* **Office hours**: Fridays 9-10am AEDT.
+* **Office hours**: Friday 16-7-2021 10-10:30am Melbourne time.
 * **Media**: [video](https://youtu.be/39d4g1ERDpw).
 
 References:
