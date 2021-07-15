@@ -4,4 +4,6 @@ A _locus_ is a metauni node dedicated to a particular mathematical topic. It hos
 
 The currently active loci:
 
-* **LC001**: Matrix factorisations. Office hours.
+| ID | Name | Office hours | Information |
+| :----: | :-----: | :------: | :--------------: |
+| `LC001` | Matrix factorisations | Friday 9-10am AEDT | References |
