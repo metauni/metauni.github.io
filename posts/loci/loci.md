@@ -6,13 +6,17 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for mathemati
 
 ## LC001 - Matrix factorisations
 
-* **Link**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
+* **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
 * **Office hours**: Friday 16-7-2021 10-10:30am Melbourne time.
 * **Media**: [video](https://youtu.be/39d4g1ERDpw).
 
-References:
+### LC001.01 - General introduction
 
-* For exterior algebras: my notes on [Tensor, Exterior, Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
+* D. Eisenbud, "[Homological algebra on a complete intersection, with an application to group representations](https://www.ams.org/journals/tran/1980-260-01/S0002-9947-1980-0570778-7/home.html)", Trans. Amer. Math. Soc. **260** (1980), 35--64.
+
+### LC001.02 - Exterior algebras
+
+* The main reference is my notes on [Tensor, Exterior, Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
 
 ## HOWTO
 
