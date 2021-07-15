@@ -6,7 +6,7 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for mathemati
 
 ## LC001 - Matrix factorisations
 
-* **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
+* **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
 * **Office hours**: Friday 16-7-2021 10-10:30am Melbourne time.
 
 ### LC001.01 - General introduction
