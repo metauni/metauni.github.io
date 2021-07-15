@@ -19,6 +19,7 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for mathemati
 ### LC001.02 - Exterior algebras
 
 * The main reference is my notes on [Tensor, Exterior, Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
+* If you want to know more about universal properties, functors and categories you could see [my old course](http://therisingsea.org/post/mast90068/) but there are many fine references for category theory (my usual reference is Borceux's "Handbook of categorical algebra").
 
 ## HOWTO
 
