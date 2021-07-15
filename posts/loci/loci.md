@@ -4,8 +4,9 @@ A _locus_ is a metauni node dedicated to a particular mathematical topic. It hos
 
 ## LC001 - Matrix factorisations
 
-* **Link**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays) [Discord](https://discord.gg/9yBaAxPSK8).
-* **Office hours**: Fridays 9-10am AEDT
+* **Link**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8).
+* **Office hours**: Fridays 9-10am AEDT.
+* **Video**: TODO.
 
 References:
 
