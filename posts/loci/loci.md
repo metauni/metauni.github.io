@@ -11,16 +11,14 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for mathemati
 
 ### LC001.01 - General introduction
 
-**Video**: [YouTube](https://youtu.be/39d4g1ERDpw).
-
+* **Video**: [YouTube](https://youtu.be/39d4g1ERDpw).
 * D. Eisenbud, "[Homological algebra on a complete intersection, with an application to group representations](https://www.ams.org/journals/tran/1980-260-01/S0002-9947-1980-0570778-7/home.html)", Trans. Amer. Math. Soc. **260** (1980), 35--64.
 * P. Dirac "[The quantum theory of the electron](https://royalsocietypublishing.org/doi/10.1098/rspa.1928.0023)", Proc. R. Soc. Lond. A117 (1928) 610--624.
 * M. Khovanov and L. Rozansky, "[Matrix factorizations and link homology](https://arxiv.org/abs/math/0401268)", Fund. Math. 199 (2008), 1--91.
 
 ### LC001.02 - Exterior algebras
 
-**Video**: [YouTube](https://youtu.be/D_LoTZ8OYsc).
-
+* **Video**: [YouTube](https://youtu.be/D_LoTZ8OYsc).
 * The main reference is my notes on [Tensor, Exterior, Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
 * If you want to know more about universal properties, functors and categories you could see [my old course](http://therisingsea.org/post/mast90068/) but there are many fine references for category theory (my usual reference is Borceux's "Handbook of categorical algebra").
 
