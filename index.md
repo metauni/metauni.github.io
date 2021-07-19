@@ -115,6 +115,8 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
 * 19/2/2021 - Debut of new logo (by LC).
 * 25/2/2021 - First public release of AdminCommands (by BP).
+* 16/7/2021 - Public debut of the talking boards and the [locus](https://metauni.org/posts/loci/loci) concept.
+* 22/7/2021 - Debut of the personal boards (by BP).
 
 Music in the Rising Sea node:
 
