@@ -22,6 +22,18 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 * The main reference is my notes on [Tensor, Exterior, Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
 * If you want to know more about universal properties, functors and categories you could see [my old course](http://therisingsea.org/post/mast90068/) but there are many fine references for category theory (my usual reference is Borceux's "Handbook of categorical algebra").
 
+### LC001.03 - Clifford algebras
+
+* Beyond the [Wikipedia entry](https://en.wikipedia.org/wiki/Clifford_algebra) the main reference for CLifford algebras is T. Friedrich "Dirac operators in Riemannian geometry", Graduate Studies in Mathematics Vol. 25, AMS.
+* For the relation between Clifford algebras and matrix factorisations see R.-O. Buchweitz, D. Eisenbud, J. Herzog "Cohen-Macaulay modules on quadrics".
+* For the identity defect see N. Carqueville, D. Murfet "[Adjoints and Defects in Landau-Ginzburg models](https://arxiv.org/abs/1208.1481)", Advances in Mathematics, 2016. 
+
+### LC001.04 - Exterior algebra as a Hilbert space
+
+* See the [postulates of quantum mechanics](https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics). Another physics reference I recommend is A. L. Fetter and J. D. Walecka "Quantum theory of many-particle systems", McGraw-Hill.
+* The standard survey reference for entanglement is R. Horodecki, P. Horodecki, M. Horodecki, K. Horodecki, "[Quantum entanglement](https://arxiv.org/abs/quant-ph/0702225)". I also recommend the textbook M. A. Nielsen and I. L. Chuang, "[Quantum Computation and Quantum Information](https://www.amazon.com.au/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)"
+10th Anniversary Edition (available freely online [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)).
+
 ## HOWTO
 
 Here is how the talking boards are created.
