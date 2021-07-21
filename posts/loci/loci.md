@@ -31,6 +31,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 
 ### LC001.04 - Exterior algebra as a Hilbert space
 
+* For the pairing on the exterior algebra see [TES](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
 * See the [postulates of quantum mechanics](https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics). Another physics reference I recommend is A. L. Fetter and J. D. Walecka "Quantum theory of many-particle systems", McGraw-Hill.
 * The standard survey reference for entanglement is R. Horodecki, P. Horodecki, M. Horodecki, K. Horodecki, "[Quantum entanglement](https://arxiv.org/abs/quant-ph/0702225)". I also recommend the textbook M. A. Nielsen and I. L. Chuang, "[Quantum Computation and Quantum Information](https://www.amazon.com.au/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)"
 10th Anniversary Edition (available freely online [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)).
