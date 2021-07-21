@@ -24,7 +24,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 
 ### LC001.03 - Clifford algebras
 
-* Beyond the [Wikipedia entry](https://en.wikipedia.org/wiki/Clifford_algebra) the main reference for CLifford algebras is T. Friedrich "Dirac operators in Riemannian geometry", Graduate Studies in Mathematics Vol. 25, AMS.
+* Beyond the [Wikipedia entry](https://en.wikipedia.org/wiki/Clifford_algebra) the main reference for Clifford algebras is T. Friedrich "Dirac operators in Riemannian geometry", Graduate Studies in Mathematics Vol. 25, AMS.
 * For the relation between Clifford algebras and matrix factorisations see R.-O. Buchweitz, D. Eisenbud, J. Herzog "Cohen-Macaulay modules on quadrics".
 * For the identity defect see N. Carqueville, D. Murfet "[Adjoints and Defects in Landau-Ginzburg models](https://arxiv.org/abs/1208.1481)", Advances in Mathematics, 2016. 
 * Notes from two of my talks on the relation between Clifford algebras and matrix factorisations "[Monoidal bicategories of critical points](http://therisingsea.org/notes/talk-symbicatlg.pdf)" (2019) and "[From critical points to extended TQFTs](http://therisingsea.org/notes/talk-monash-2020.pdf)" (2020).
