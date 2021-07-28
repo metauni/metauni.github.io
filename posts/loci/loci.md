@@ -7,7 +7,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 ## LC001 - Matrix factorisations
 
 * **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Replays), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
-* **Next office hours**: Thursday 22-7-2021 11:00-12:00 Melbourne time.
+* **Next office hours**: Thursday 29-7-2021 14:30-15:00 Melbourne time.
 
 ### LC001.01 - General introduction
 
