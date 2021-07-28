@@ -32,6 +32,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 
 ### LC001.04 - Exterior algebra as a Hilbert space
 
+* **Video**: [YouTube](https://youtu.be/_emHNcPRJFU).
 * For the pairing on the exterior algebra see [TES](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
 * See the [postulates of quantum mechanics](https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics). Another physics reference I recommend is A. L. Fetter and J. D. Walecka "Quantum theory of many-particle systems", McGraw-Hill.
 * See Wikipedia for the basics on [fermionic Fock states](https://en.wikipedia.org/wiki/Fock_state).
