@@ -44,7 +44,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 10th Anniversary Edition (available freely online [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)).
 * Also see [Preskill Ch.4](http://theory.caltech.edu/~preskill/ph229/notes/chap4_01.pdf) and [Preskill Ch.7](http://theory.caltech.edu/~preskill/ph229/notes/chap7.pdf).
 
-## LC02 - Research Agora
+## LC002 - Research Agora
 
 * **Links**: [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
 * **Next office hours**: Thursday 29-7-2021 14:00-14:30 Melbourne time.
