@@ -42,7 +42,14 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 * The standard survey reference for entanglement is R. Horodecki, P. Horodecki, M. Horodecki, K. Horodecki, "[Quantum entanglement](https://arxiv.org/abs/quant-ph/0702225)". I also recommend the textbook M. A. Nielsen and I. L. Chuang, "[Quantum Computation and Quantum Information](https://www.amazon.com.au/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)"
 10th Anniversary Edition (available freely online [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)).
 
-## HOWTO
+## LC02 - Research Agora
+
+* **Links**: [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
+* **Next office hours**: 
+
+A place for graduate students (present and former) at the University of Melbourne to share and discuss their mathematical preoccupations.
+
+# HOWTO
 
 Here is how the talking boards are created.
 
