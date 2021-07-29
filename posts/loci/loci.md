@@ -45,7 +45,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 ## LC02 - Research Agora
 
 * **Links**: [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
-* **Next office hours**: 
+* **Next office hours**: Thursday 29-7-2021 14:00-14:30 Melbourne time.
 
 A place for graduate students (present and former) at the University of Melbourne to share and discuss their mathematical preoccupations.
 
