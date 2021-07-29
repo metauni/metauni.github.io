@@ -42,7 +42,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 * The standard survey reference for entanglement is R. Horodecki, P. Horodecki, M. Horodecki, K. Horodecki, "[Quantum entanglement](https://arxiv.org/abs/quant-ph/0702225)". 
 * I also recommend the textbook M. A. Nielsen and I. L. Chuang, "[Quantum Computation and Quantum Information](https://www.amazon.com.au/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)"
 10th Anniversary Edition (available freely online [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)).
-* Also see [Preskill Ch.4](http://theory.caltech.edu/~preskill/ph229/notes/chap4_01.pdf) and [Preskill Ch.7](http://theory.caltech.edu/~preskill/ph229/notes/chap7.pdf).
+* See also [Preskill's notes](http://theory.caltech.edu/~preskill/ph219/index.html#lecture) specifically [Preskill Ch.4](http://theory.caltech.edu/~preskill/ph229/notes/chap4_01.pdf) and [Preskill Ch.7](http://theory.caltech.edu/~preskill/ph229/notes/chap7.pdf).
 
 ## LC002 - Research Agora
 
