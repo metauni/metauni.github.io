@@ -47,7 +47,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 * **Links**: [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
 * **Next office hours**: Thursday 29-7-2021 14:00-14:30 Melbourne time.
 
-A place for graduate students (present and former) at the University of Melbourne to share and discuss their mathematical preoccupations. To record a talking board you will need to record audio locally on your computer and send it to me, synchronised with a recording of you writing on one of the boards in `LC002`. To record on the board, follow the instructions below in HOWTO, using as "Replay Name" your name or username (I don't care, just something distinguishing) followed by some number (e.g. `dan.01`). Send me the audio file (MP3 or MP4) and name of your recording by email and I'll do the rest.
+A place for graduate students to share and discuss their mathematical preoccupations. To record a talking board you will need to record audio locally on your computer and send it to me, synchronised with a recording of you writing on one of the boards in `LC002`. To record on the board, follow the instructions below in HOWTO, using as "Replay Name" your real name or username followed by some number (e.g. `dan.01`). Send me the audio file (MP3 or MP4) and name of your recording by email and I'll do the rest.
 
 # HOWTO
 
