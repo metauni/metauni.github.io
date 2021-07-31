@@ -28,22 +28,15 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Node directory
 
-The _inner nodes_ (i.e. nodes where we take full responsibility for what happens):
+Official:
 
-* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). A collaboration of Daniel Murfet, Lucas Cantor and Ziling Ye. You can read [more about TRS](http://metauni.org/posts/trs/trs). See also [Spectrum Spat](https://www.roblox.com/games/6386183234/Spectrum-Spat) the first spin-off game from TRS.
+* [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) ([Discord](https://discord.gg/9yBaAxPSK8)). A collaboration of Daniel Murfet, Lucas Cantor and Ziling Ye. You can read [more about TRS](http://metauni.org/posts/trs/trs). See also [Spectrum Spat](https://www.roblox.com/games/6386183234/Spectrum-Spat).
 * [Metauni hub](https://www.roblox.com/games/6233302798/Metauni-Hub) (no Discord).
     
-The _outer nodes_:
+Other:
 
 * [M.U.M.S](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) ([Discord](https://discord.gg/x9UWUsw)). Melbourne Uni Maths and Stats Society ([web](https://www.melbunimathsstats.org)).
 * [Kuroyukijima](https://www.roblox.com/games/6343445246/Kuroyukijima) (no Discord).
-
-Outer nodes may use some of the tools we have provided, and we may link to them on the metauni hub, but we have no control over the content of the Roblox worlds or their Discord channels.
-
-## How do I host my own node?
-
-Currently a metauni node consists of code inside a Roblox game talking to a Discord bot hosted on [Repl.it](https://repl.it/). We have compiled [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node and run regular drop-in sessions where you can get help. Once you have your node up and running see [this page](http://metauni.org/posts/make-your-own/tools) for a list of metauni tools that you can install in your world.
-
 
 ## History
 
