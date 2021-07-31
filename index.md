@@ -12,7 +12,7 @@ Metauni is a communitary of scholars in the Metaverse, based on a 3D virtual env
 
 ![banner](newbanner.png)
 
-At the moment metauni consists of **loci** and **events**. A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a virtual place for intellectual activity, organised around talking boards on a particular topic and scheduled office hours where the host is available for discussion. It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). See the [locus page](http://metauni.org/posts/loci/loci) for more information and advertised office hours. Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges), see below for upcoming and past events.
+For now metauni consists of **loci** and **events**. A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a virtual place for intellectual activity, organised around talking boards on a particular topic and scheduled office hours where the host is available for discussion; see the [locus page](http://metauni.org/posts/loci/loci) for the list of loci and advertised office hours. Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges), see below for upcoming and past events.
 
 ## Events
 
