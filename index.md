@@ -6,7 +6,6 @@ Metauni is a communitary of scholars in the Metaverse, based on a 3D virtual env
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://github.com/metauni/metauni-dev">GitHub</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
-  <a href="http://metauni.org/posts/make-your-own/tools">Tools</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a> |
   <a href="http://metauni.org/posts/loci/loci">Loci</a>
 </p>
