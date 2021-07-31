@@ -7,7 +7,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 ## LC001 - Matrix factorisations
 
 * **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-Locus-LC001), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
-* **Next office hours**: Thursday 29-7-2021 14:30-15:00 Melbourne time.
+* **Next office hours**: `TBA`
 
 ### LC001.01 - General introduction
 
@@ -47,7 +47,7 @@ Talking boards follow an indexing convention similar to paragraphs in a text: **
 ## LC002 - Research Agora
 
 * **Links**: [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
-* **Next office hours**: Thursday 29-7-2021 14:00-14:30 Melbourne time.
+* **Next office hours**: `TBA`
 
 A place for graduate students to share and discuss their mathematical preoccupations. To record a talking board you will need to record audio locally on your computer and send it to me, synchronised with a recording of you writing on one of the boards in `LC002`. To record on the board, follow the instructions below in HOWTO, using as "Replay Name" your real name or username followed by some number (e.g. `dan.01`). Send me the audio file (MP3 or MP4) and name of your recording by email and I'll do the rest. At the moment **there is no erase**, use Undo instead.
 
