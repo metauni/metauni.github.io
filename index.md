@@ -14,11 +14,7 @@ Metauni is a communitary of scholars in the Metaverse, based on a 3D virtual env
 
 ## Events
 
-Upcoming events
-
-* **22/7/2021**: Introduction to matrix factorisations by Daniel Murfet, in [locus LC001](http://metauni.org/posts/loci/loci) 11am-12pm Melbourne time.
-
-Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
+See [Loci](http://metauni.org/posts/loci/loci) for office hours. Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
 * **26/2/2021**: Community builder event {`no challenge`}. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox ([video](https://youtu.be/IlwRuAO1v8o)).
