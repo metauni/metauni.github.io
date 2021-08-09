@@ -27,8 +27,9 @@ Upcoming events:
 
 * **12/8/2021**: Festival of Mathematics. The festivities will run from **10am-3pm** Melbourne time (so from 5pm Los Angeles). Current tentative schedule:
     - **10:00-10:30** Daniel Murfet, *The mathematics of Alpha*.
+    - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
     - **12:00-12:30** Liam Carroll, *Phase transitions in deep learning*.
-    - **14:00-14:30** Eleanor McMurtry, *TBA*.
+    - **14:00-14:30** Eleanor McMurtry, *Composable models of computation*.
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
