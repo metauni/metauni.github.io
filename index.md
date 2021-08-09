@@ -25,7 +25,7 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more detailed infor
 
 Upcoming events:
 
-* **12/8/2021**: Festival of Mathematics. The festivities will run from **10am-3pm** Melbourne time (so from 5pm Los Angeles):
+* **12/8/2021**: Festival of Mathematics. The festivities will run from **10am-3pm** Melbourne time (so from 5pm Los Angeles). Current tentative schedule:
     - **10:00-10:30** Daniel Murfet, *The mathematics of Alpha*.
     - **12:00-12:30** Liam Carroll, *Phase transitions in deep learning*.
     - **14:00-14:30** Eleanor McMurtry, *TBA*.
