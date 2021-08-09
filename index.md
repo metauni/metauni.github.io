@@ -29,7 +29,7 @@ Upcoming events:
     - **10:00-10:30** Daniel Murfet, *The mathematics of Alpha*.
     - **11:00-11:30** Will Troiani, *Quantum error correcting codes*.
     - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
-    - **12:00-12:30** Lunch / Spectrum Spat
+    - **12:00-13:00** Lunch / Spectrum Spat
     - **13:00-13:30** Liam Carroll, *Phase transitions in deep learning*.
     - **13:30-14:00** Tom Waring, *TBD*
     - **14:00-14:30** Eleanor McMurtry, *Composable models of computation*.
