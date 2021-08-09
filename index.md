@@ -23,6 +23,13 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more detailed infor
 
 ## Events
 
+Upcoming events:
+
+* **12/8/2021**: Festival of Mathematics. The festivities will run from **10am-3pm** Melbourne time (so from 5pm Los Angeles):
+    - **10:00-10:30** Daniel Murfet, *The mathematics of Alpha*.
+    - **12:00-12:30** Liam Carroll, *Phase transitions in deep learning*.
+    - **14:00-14:30** Eleanor McMurtry, *TBA*.
+
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
