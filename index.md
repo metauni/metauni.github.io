@@ -27,12 +27,13 @@ Upcoming events:
 
 * **12/8/2021**: Festival of Mathematics. The festivities will run from **10am-3pm** Melbourne time (so from 5pm Los Angeles). Current tentative schedule:
     - **10:00-10:30** Daniel Murfet, *The mathematics of Alpha*.
+    - **11:00-11:30** Will Troiani, *Quantum error correcting codes*.
     - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
     - **12:00-12:30** Lunch / Spectrum Spat
+    - **13:00-13:30** Liam Carroll, *Phase transitions in deep learning*.
+    - **13:30-14:00** Tom Waring, *TBD*
     - **14:00-14:30** Eleanor McMurtry, *Composable models of computation*.
     - **14:30-15:00** Isaac Smith, *TBA*.
-    - **time TBD** Liam Carroll, *Phase transitions in deep learning*.
-    - **time TBD** Will Troiani, *Quantum error correcting codes*.
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
