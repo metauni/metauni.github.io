@@ -30,6 +30,7 @@ Upcoming events:
     - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
     - **12:00-12:30** Lunch / Spectrum Spat
     - **14:00-14:30** Eleanor McMurtry, *Composable models of computation*.
+    - **14:30-15:00** Isaac Smith, *TBA*.
     - **time TBD** Liam Carroll, *Phase transitions in deep learning*.
     - **time TBD** Will Troiani, *Quantum error correcting codes*.
 
