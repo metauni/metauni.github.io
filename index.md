@@ -25,7 +25,7 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more detailed infor
 
 Upcoming events:
 
-* **12/8/2021**: **Festival of Mathematics** from **10am-3pm** Melbourne time (so from 5pm Los Angeles) in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora) on the [TRS Discord](https://discord.gg/9yBaAxPSK8) in voice channel `LC002`. If you haven't joined a metauni event before, see the [instructions](https://metauni.org/posts/instructions/instructions). Current tentative schedule:
+* **12/8/2021**: **Festival of Mathematics** from **10am-3pm** Melbourne time (so from 5pm Los Angeles) in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora) on the [TRS Discord](https://discord.gg/9yBaAxPSK8) in voice channel `LC002`. If you haven't joined a metauni event before, see the [instructions](https://metauni.org/posts/instructions/instructions). The schedule:
     - **10:00-10:30** Daniel Murfet, *The mathematics of Alpha*.
     - **10:30-11:00** Ben Gerraty, *Conformal blocks in the minimal models*.
     - **11:00-11:30** Will Troiani, *Quantum error correcting codes*.
