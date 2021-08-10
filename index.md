@@ -34,7 +34,7 @@ Upcoming events:
     - **13:00-13:30** Liam Carroll, *Phase transitions in deep learning*.
     - **13:30-14:00** Tom Waring, *Program synthesis and learning theory*.
     - **14:00-14:30** Eleanor McMurtry, *Composable models of computation*.
-    - **14:30-15:00** Isaac Smith, *Towards fault-tolerance in quantum computing*.
+    - **14:30-15:00** Isaac Smith, *Comments on (the Mathematics of) Producing Twisted Quantum Doubles*.
 
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
