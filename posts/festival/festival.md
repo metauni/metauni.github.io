@@ -21,4 +21,5 @@ The schedule:
 * My other talk on the [mathematics of AlphaGo](http://therisingsea.org/notes/talk-alphago.pdf).
 * **(AlphaGo)** D.Silver et al "[Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)", Nature 2016.
 * **(AlphaGo Zero)** D. Silver et al, "[Mastering the Game of Go without human knowledge](https://www.nature.com/articles/nature24270)", Nature 2017.
+* **(AlphaZero)** D. Silver et al "[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://science.sciencemag.org/content/362/6419/1140.full?ijkey=XGd77kI6W4rSc&keytype=ref&siteid=sci)" Science 2018.
 * **(AlphaStar)** O. Vinyals et al “[Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)”, Nature 2019.
