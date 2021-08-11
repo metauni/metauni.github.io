@@ -54,6 +54,8 @@ A place for graduate students to share and discuss their mathematical preoccupat
 
 # HOWTO
 
+## How to make a recording
+
 Here is how the talking boards are created.
 
 * In Roblox Studio, insert a whiteboard with the replay functionality. Make sure that under `Settings > Security` you enable Studio Access to API Services, because the recording is stored to a DataStore (the Studio and live versions will connect to the same DataStore). Publish the Roblox game, make it public and join the live version on your iPad.
