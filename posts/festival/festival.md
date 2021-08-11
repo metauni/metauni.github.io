@@ -27,3 +27,5 @@ The schedule:
 * **(AlphaFold database)** K. Tunyasuvunakool et al "[Highly accurate protein structure prediction for the human proteome](https://www.nature.com/articles/s41586-021-03828-1)", Nature 2021.
 * J. Clift, D. Murfet and J. Wallbridge "[Logic and the 2-Simplicial Transformer](https://iclr.cc/virtual_2020/poster_rkecJ6VFvr.html)" ICLR 2021.
 * L. Bottou "[From machine learning to machine reasoning](https://arxiv.org/abs/1102.1808)" arXiv:2011.
+* G. Boole "[An investigation of the laws of thought](https://plato.stanford.edu/entries/boole/)" 1854.
+* G. Hinton "[Aetherial symbols](https://drive.google.com/file/d/0B8i61jl8OE3XdHRCSkV1VFNqTWc/view?resourcekey=0-_o3RGBxHLgWGORGIij-FMA)" talk 2015.
