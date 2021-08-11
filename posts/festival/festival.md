@@ -26,3 +26,4 @@ The schedule:
 * **(AlphaFold)** J. Jumper et al "[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)" Nature 2021. For a useful take on AlphaFold 2 see [Al Quraishi](https://moalquraishi.wordpress.com/2021/07/25/the-alphafold2-method-paper-a-fount-of-good-ideas/).
 * **(AlphaFold database)** K. Tunyasuvunakool et al "[Highly accurate protein structure prediction for the human proteome](https://www.nature.com/articles/s41586-021-03828-1)", Nature 2021.
 * J. Clift, D. Murfet and J. Wallbridge "[Logic and the 2-Simplicial Transformer](https://iclr.cc/virtual_2020/poster_rkecJ6VFvr.html)" ICLR 2021.
+* L. Bottou "[From machine learning to machine reasoning](https://arxiv.org/abs/1102.1808)" arXiv:2011.
