@@ -4,7 +4,7 @@ The venue is a virtual space created in Roblox, [LC002](https://www.roblox.com/g
 
 The schedule:
 
-- **10:00-10:30** Daniel Murfet, *The mathematics of AlphaGo, AlphaStar, AlphaFold*.
+- **10:00-10:30** [Daniel Murfet](http://therisingsea.org), *The mathematics of AlphaGo, AlphaStar, AlphaFold*.
 - **10:30-11:00** Ben Gerraty, *Conformal blocks in the minimal models*.
 - **11:00-11:30** [Will Troiani](https://williamtroiani.github.io), *Quantum error correcting codes*.
 - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
