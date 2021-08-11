@@ -30,3 +30,4 @@ The schedule:
 * G. Boole "[An investigation of the laws of thought](https://plato.stanford.edu/entries/boole/)" 1854.
 * G. Hinton "[Aetherial symbols](https://drive.google.com/file/d/0B8i61jl8OE3XdHRCSkV1VFNqTWc/view?resourcekey=0-_o3RGBxHLgWGORGIij-FMA)" talk 2015.
 * For an introduction to Clifford algebras, see [LC001](https://metauni.org/posts/loci/loci).
+* **(Transformers)** A. Vaswani et al "[Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)" NeurIPS 2017.
