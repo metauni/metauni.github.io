@@ -24,3 +24,4 @@ The schedule:
 * **(AlphaZero)** D. Silver et al "[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://science.sciencemag.org/content/362/6419/1140.full?ijkey=XGd77kI6W4rSc&keytype=ref&siteid=sci)" Science 2018.
 * **(AlphaStar)** O. Vinyals et al “[Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)”, Nature 2019.
 * **(AlphaFold)** J. Jumper et al "[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)" Nature 2021. For a useful take on AlphaFold 2 see [Al Quraishi](https://moalquraishi.wordpress.com/2021/07/25/the-alphafold2-method-paper-a-fount-of-good-ideas/).
+* **(AlphaFold database)** K. Tunyasuvunakool et al "[Highly accurate protein structure prediction for the human proteome](https://www.nature.com/articles/s41586-021-03828-1)", Nature 2021.
