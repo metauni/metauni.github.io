@@ -18,7 +18,7 @@ The schedule:
 
 ## Murfet
 
-* My other talk on the [mathematics of AlphaGo](http://therisingsea.org/notes/talk-alphago.pdf).
+* My talk on the [mathematics of AlphaGo](http://therisingsea.org/notes/talk-alphago.pdf).
 * **(AlphaGo)** D.Silver et al "[Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)", Nature 2016.
 * **(AlphaGo Zero)** D. Silver et al, "[Mastering the Game of Go without human knowledge](https://www.nature.com/articles/nature24270)", Nature 2017.
 * **(AlphaZero)** D. Silver et al "[A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://science.sciencemag.org/content/362/6419/1140.full?ijkey=XGd77kI6W4rSc&keytype=ref&siteid=sci)" Science 2018.
@@ -29,3 +29,4 @@ The schedule:
 * L. Bottou "[From machine learning to machine reasoning](https://arxiv.org/abs/1102.1808)" arXiv:2011.
 * G. Boole "[An investigation of the laws of thought](https://plato.stanford.edu/entries/boole/)" 1854.
 * G. Hinton "[Aetherial symbols](https://drive.google.com/file/d/0B8i61jl8OE3XdHRCSkV1VFNqTWc/view?resourcekey=0-_o3RGBxHLgWGORGIij-FMA)" talk 2015.
+* For an introduction to Clifford algebras, see [LC001](https://metauni.org/posts/loci/loci).
