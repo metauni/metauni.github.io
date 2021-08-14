@@ -6,13 +6,15 @@ The schedule:
 
 - **10:00-10:30** [Daniel Murfet](http://therisingsea.org), *The mathematics of AlphaGo, AlphaStar, AlphaFold*.
 - **10:30-11:00** Ben Gerraty, *Conformal blocks in the minimal models*.
-- **11:00-11:30** [Will Troiani](https://williamtroiani.github.io), *Quantum error correcting codes*.
+- **11:00-11:30** [Will Troiani](https://williamtroiani.github.io), *Quantum error correcting codes* ([video](https://youtu.be/xzfqkOe_yMU)).
 - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
 - **12:00-13:00** Lunch / Spectrum Spat
 - **13:00-13:30** Liam Carroll, *Phase transitions in deep learning*.
 - **13:30-14:00** Tom Waring, *Program synthesis and learning theory*.
 - **14:00-14:30** [Eleanor McMurtry](https://eleanorve.net), *Composable models of computation*.
 - **14:30-15:00** Isaac Smith, *Comments on (the Mathematics of) Producing Twisted Quantum Doubles*.
+
+There is a [video](https://youtu.be/q2FSwEIHCbk) of some of the silly bits.
 
 # Talk details
 
