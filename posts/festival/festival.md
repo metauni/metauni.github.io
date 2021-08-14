@@ -1,4 +1,4 @@
-The festival will run from **10am-3pm** Melbourne time (so from 5pm Los Angeles). All but the first speaker are present or former graduate students at the University of Melbourne (quality!).
+The first festival ran on 12/8/2021. All but the first speaker are present or former graduate students at the University of Melbourne (quality!).
 
 The venue is a virtual space created in Roblox, [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in voice channel `LC002`. To join you need to create a Roblox account and install Discord,  see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
 
