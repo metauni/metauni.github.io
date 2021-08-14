@@ -23,21 +23,9 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more detailed infor
 
 ## Events
 
-Upcoming events:
-
-* **12/8/2021**: **Festival of Mathematics** from **10am-3pm** Melbourne time (so from 5pm Los Angeles) in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora) on the [TRS Discord](https://discord.gg/9yBaAxPSK8) in voice channel `LC002`. If you haven't joined a metauni event before, see the [instructions](https://metauni.org/posts/instructions/instructions). There is a [festival page](https://metauni.org/posts/festival/festival) which contains any references or links given by the speakers. The schedule:
-    - **10:00-10:30** [Daniel Murfet](http://therisingsea.org), *The mathematics of AlphaGo, AlphaStar, AlphaFold*.
-    - **10:30-11:00** Ben Gerraty, *Conformal blocks in the minimal models*.
-    - **11:00-11:30** [Will Troiani](https://williamtroiani.github.io), *Quantum error correcting codes*.
-    - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
-    - **12:00-13:00** Lunch / Spectrum Spat
-    - **13:00-13:30** Liam Carroll, *Phase transitions in deep learning*.
-    - **13:30-14:00** Tom Waring, *Program synthesis and learning theory*.
-    - **14:00-14:30** [Eleanor McMurtry](https://eleanorve.net), *Composable models of computation*.
-    - **14:30-15:00** Isaac Smith, *Comments on (the Mathematics of) Producing Twisted Quantum Doubles*.
-
 Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
+* **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
 * **26/2/2021**: Community builder event {`no challenge`}. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox ([video](https://youtu.be/IlwRuAO1v8o)).
 * **19/2/2021**: [Adam Dorr](http://www.adamdorr.com/about/) on "Rethinking Energy" {`#3A`, `#3B`} with a pre-event tutorial on the logistic equation ([video](https://youtu.be/tJYizX7D5ig)). The main event was not recorded but you can read the [report](https://www.rethinkx.com/energy) it was based on and watch the associated [video](https://youtu.be/6zgwiQ6BoLA). The post-event challenges and question time were recorded ([video](https://youtu.be/4RMlWp79aLA)).
