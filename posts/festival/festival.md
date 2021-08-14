@@ -33,3 +33,13 @@ There is a [video](https://youtu.be/q2FSwEIHCbk) of some of the silly bits.
 * G. Hinton "[Aetherial symbols](https://drive.google.com/file/d/0B8i61jl8OE3XdHRCSkV1VFNqTWc/view?resourcekey=0-_o3RGBxHLgWGORGIij-FMA)" talk 2015.
 * For an introduction to Clifford algebras, see [LC001](https://metauni.org/posts/loci/loci).
 * **(Transformers)** A. Vaswani et al "[Attention is all you need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)" NeurIPS 2017.
+
+## McMurtry
+
+* R. Canetti "[Universally Composable Security: A New Paradigm for Cryptographic Protocols](https://eprint.iacr.org/2000/067.pdf)" 2020.
+* D. Hofheinz† and V. Shoup "[GNUC: A New Universal Composability Framework](https://eprint.iacr.org/2011/303.pdf)" 2012.
+* U. Maurer "[Constructive Cryptography – A New Paradigm for Security Definitions and Proofs](https://link.springer.com/content/pdf/10.1007/978-3-642-27375-9_3.pdf)".
+
+## Smith
+
+* A. Kitaev "[Fault tolerant quantum computation by anyons](https://arxiv.org/abs/quant-ph/9707021)" 1997.
