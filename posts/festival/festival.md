@@ -9,7 +9,7 @@ The schedule:
 - **11:00-11:30** [Will Troiani](https://williamtroiani.github.io), *Quantum error correcting codes* ([video](https://youtu.be/xzfqkOe_yMU)).
 - **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
 - **12:00-13:00** Lunch / Spectrum Spat
-- **13:00-13:30** Liam Carroll, *Phase transitions in deep learning*.
+- **13:00-13:30** [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/), *Phase transitions in deep learning*.
 - **13:30-14:00** Tom Waring, *Program synthesis and learning theory*.
 - **14:00-14:30** [Eleanor McMurtry](https://eleanorve.net), *Composable models of computation*.
 - **14:30-15:00** Isaac Smith, *Comments on (the Mathematics of) Producing Twisted Quantum Doubles*.
