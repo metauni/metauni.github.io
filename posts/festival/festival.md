@@ -37,7 +37,7 @@ There is a [video](https://youtu.be/q2FSwEIHCbk) of some of the silly bits.
 ## McMurtry
 
 * R. Canetti "[Universally Composable Security: A New Paradigm for Cryptographic Protocols](https://eprint.iacr.org/2000/067.pdf)" 2020.
-* D. Hofheinz† and V. Shoup "[GNUC: A New Universal Composability Framework](https://eprint.iacr.org/2011/303.pdf)" 2012.
+* D. Hofheinz and V. Shoup "[GNUC: A New Universal Composability Framework](https://eprint.iacr.org/2011/303.pdf)" 2012.
 * U. Maurer "[Constructive Cryptography – A New Paradigm for Security Definitions and Proofs](https://link.springer.com/content/pdf/10.1007/978-3-642-27375-9_3.pdf)".
 
 ## Smith
