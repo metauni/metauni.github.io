@@ -7,7 +7,7 @@ The schedule:
 - **10:00-10:30** [Daniel Murfet](http://therisingsea.org), *The third dawn of reason* ([video](https://youtu.be/GIR3UsSPKuI)).
 - **10:30-11:00** Ben Gerraty, *Conformal blocks in the minimal models*.
 - **11:00-11:30** [Will Troiani](https://williamtroiani.github.io), *Quantum error correcting codes* ([video](https://youtu.be/xzfqkOe_yMU)).
-- **11:30-12:00** Spencer Wong, *Feedforward networks are polynomial*.
+- **11:30-12:00** [Spencer Wong](https://blimlim.github.io), *Feedforward networks are polynomial*.
 - **12:00-13:00** Lunch / Spectrum Spat
 - **13:00-13:30** [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/), *Phase transitions in deep learning*.
 - **13:30-14:00** Tom Waring, *Program synthesis and learning theory*.
