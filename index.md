@@ -1,4 +1,4 @@
-Metauni is a communitary of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards that we have [scripted in Lua](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS and Android. It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [freethought](https://en.wikipedia.org/wiki/Free_thought) and aspires to be both beautiful and fun. Watch the [video intro](https://youtu.be/66MzfGqJFcA).
+Metauni is a community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards that we have [scripted in Lua](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS and Android. It is free in the sense of [freedom](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and and aspires to be both beautiful and fun. Watch the [video intro](https://youtu.be/66MzfGqJFcA).
 
 **Quick start (Rising Sea node)**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) programs, join the [TRS Discord](https://discord.gg/9yBaAxPSK8) and [TRS Roblox world](https://www.roblox.com/games/6224932973/The-Rising-Sea) and in Discord send a message `!register Wintermute` in the `#registration` channel where `Wintermute` is your Roblox username. See the [instructions](https://metauni.org/posts/instructions/instructions) for more details.
 
@@ -23,7 +23,7 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more detailed infor
 
 ## Events
 
-Talk events consist of a talk followed by questions and [challenges](http://metauni.org/posts/challenges/challenges). Past events:
+One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. Some events involve [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
 * **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
