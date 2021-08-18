@@ -1,8 +1,8 @@
 # Festival of Mathematics
 
-The first festival ran on 12/8/2021. All but the first speaker are present or former graduate students at the University of Melbourne (quality!).
+The first festival ran on 12/8/2021. All but the first speaker are present or former graduate students at the University of Melbourne.
 
-The venue is a virtual space created in Roblox, [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in voice channel `LC002`. To join you need to create a Roblox account and install Discord,  see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
+The venue was the [Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) a virtual space created in Roblox, which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in voice channel `LC002`. To join you need to create a Roblox account and install Discord,  see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
 
 The schedule:
 
@@ -16,7 +16,7 @@ The schedule:
 - **14:00-14:30** [Eleanor McMurtry](https://eleanorve.net), *Composable models of computation*.
 - **14:30-15:00** Isaac Smith, *Comments on (the Mathematics of) Producing Twisted Quantum Doubles*.
 
-There is a [video](https://youtu.be/q2FSwEIHCbk) of some of the silly bits.
+The highlight of the event was the [vandalism of its venue](https://youtu.be/jryDAxI3XSo). There is a [video](https://youtu.be/q2FSwEIHCbk) of some of the other silly bits.
 
 # Talk details
 
