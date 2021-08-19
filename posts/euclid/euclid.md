@@ -1,6 +1,6 @@
 # Euclid
 
-This is the homepage of a community that meets to prepare and deliver lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic, and we are interested in both developments, at levels ranging from the elementary to the advanced. We extend a special invitation to young people and mathematicians outside of academia.
+We are a community that meets to prepare, deliver and discuss lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic, and we are interested in both, at all levels from the elementary to the advanced. We extend a special invitation to young people and mathematicians outside of academia.
 
 From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
 
