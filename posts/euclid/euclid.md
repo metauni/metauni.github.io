@@ -1,6 +1,6 @@
 # Euclid
 
-This is the home of a community that meets to study Euclid's *Elements* in a world *literally* made of triangles.
+This is the home of a community that meets to study Euclid's *Elements* in a virtual world *literally* made of triangles. We extend a special invitation to young people and mathematicians outside of academia.
 
 From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
 
