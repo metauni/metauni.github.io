@@ -7,3 +7,7 @@ From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/16
 Here is an extract from R. Hartshorne's "Geometry: Euclid and Beyond".
 
 > It is for this logical structure, perhaps even more than for its mathematical content, that Euclid's *Elements* is famous. The *axiomatic method* of sequential logical deduction, starting from a small number of initial definitions and assumptions, has become the basic structure of all subsequent mathematics. Euclid's *Elements* is the first great example of this method.
+
+## Difficulties
+
+* See p.32 of [Langlands](https://www.ias.edu/sites/default/files/video/ams/1999/The%20Practice%20of%20Mathematics/The%20Practice%20of%20Mathematics%20-%20Part%203%20-%20Langlands.pdf).
