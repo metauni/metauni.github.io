@@ -1,6 +1,12 @@
 # Euclid
 
-We are a community that meets to prepare, deliver and discuss lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic, and we are interested in both, at all levels from the elementary to the advanced. We extend a special invitation to young people and mathematicians outside of academia.
+We are a community that meets to prepare, deliver and discuss lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic and we are interested in both, at all levels from the elementary to the advanced. We extend a special invitation to young people and mathematicians outside of academia.
+
+Why read Euclid?
+
+**For a geometer** Euclid is the historical root of their subject, and from Hilbert to Grothendieck many important modern geometers have drawn inspiration from a close analysis of the classic work.
+
+**For a logician** the *Elements* is perhaps the most influential example of a coherent body of mathematical proof, and it continues to be interesting from the point of view of modern logic (see *geometric logic* and their classifying topoi, as in the work of Avigad-Dean-Mumma cited below).
 
 From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
 
