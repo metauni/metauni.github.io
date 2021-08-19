@@ -18,11 +18,9 @@ Here is an extract from R. Hartshorne's "Geometry: Euclid and Beyond".
 
 > It is for this logical structure, perhaps even more than for its mathematical content, that Euclid's *Elements* is famous. The *axiomatic method* of sequential logical deduction, starting from a small number of initial definitions and assumptions, has become the basic structure of all subsequent mathematics. Euclid's *Elements* is the first great example of this method.
 
-Texts:
+From J. Avigad, E. Dean, J. Mumma "[A formal system for Euclid's elements](https://arxiv.org/abs/0810.4315)"
 
-* R. Hartshorne "Geometry - Euclid and beyond"
-* Hilbert "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
-* J. Avigad, E. Dean, J. Mumma "[A formal system for Euclid's elements](https://arxiv.org/abs/0810.4315)".
+> On the surface, it might seem that there is a straightforward cognitive explanation as to why some of Euclid’s diagrammatic inferences are basic to geometric practice, namely, that these inferences rely on spatial properties that are “hardwired” into our basic perceptual faculties. In other words, thanks to evolution, we have very good faculties for picking out edges and surfaces in our environment and inferring spatial relationships; and these are the kinds of abilities that are needed to support diagrammatic inference.
 
 ## Resources
 
