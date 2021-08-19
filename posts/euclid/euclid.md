@@ -1,6 +1,6 @@
 # Euclid
 
-This is the homepage of a community that meets to study Euclid's *Elements* in a world literally made of triangles. We extend a special invitation to young people and mathematicians outside of academia.
+This is the homepage of a community that meets to prepare and deliver lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic, and we are interested in both developments, at levels ranging from the elementary to the advanced. We extend a special invitation to young people and mathematicians outside of academia.
 
 From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
 
@@ -9,6 +9,12 @@ From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/16
 Here is an extract from R. Hartshorne's "Geometry: Euclid and Beyond".
 
 > It is for this logical structure, perhaps even more than for its mathematical content, that Euclid's *Elements* is famous. The *axiomatic method* of sequential logical deduction, starting from a small number of initial definitions and assumptions, has become the basic structure of all subsequent mathematics. Euclid's *Elements* is the first great example of this method.
+
+Texts:
+
+* R. Hartshorne "Geometry - Euclid and beyond"
+* Hilbert "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
+* J. Avigad, E. Dean, J. Mumma "[A formal system for Euclid's elements](https://arxiv.org/abs/0810.4315)".
 
 ## Resources
 
