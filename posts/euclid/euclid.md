@@ -8,6 +8,8 @@ Why read Euclid?
 
 **For a logician** the *Elements* is perhaps the most influential example of a coherent body of mathematical proof, and it continues to be interesting from the point of view of modern logic (see *geometric logic* and their classifying topoi, as in the work of Avigad-Dean-Mumma cited below).
 
+**For a learning theorist** the process by which our perceptual experience of space has been distilled into the axioms and deductions of the *Elements* is a key example of the capacity of learning systems to arrive at abstract mathematics as a result of a general quest to "fit the true distribution of experience".
+
 From Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
 
 > Geometry, like arithmetic, requires for its logical development only a small number of simple, fundamental principles. These fundamental principles are called the axioms of geometry. The choice of the axioms and the investigation of their relations to one another is a problem which, since the time of Euclid, has been discussed in numerous excellent memoirs to be found in the mathematical literature. This problem is tantamount to the logical analysis of our intuition of space.
