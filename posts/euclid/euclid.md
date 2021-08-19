@@ -2,7 +2,8 @@
 
 Geometry and logic are Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
 
-Nothing could be simpler than the geometry of points and lines, and that is [complex indeed](https://plato.stanford.edu/entries/epistemology-geometry/). 
+> Geometry, like arithmetic, requires for its logical development only a small number of simple, fundamental principles. These fundamental principles are called the axioms of geometry. The choice of the axioms and the investigation of their relations to one another is a problem which, since the time of Euclid, has been discussed in numerous excellent memoirs to be found in the mathematical literature. This problem is tantamount to the logical analysis of our intuition of space.
+The following investigation is a new attempt to choose for geometry a simple and complete set of independent axioms and to deduce from these the most important geometrical theorems in such a manner as to bring out as clearly as possible the significance of the different groups of axioms and the scope of the conclusions to be derived from the individual axioms.
 
 Here is an extract from R. Hartshorne's "Geometry: Euclid and Beyond".
 
