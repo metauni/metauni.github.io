@@ -1,5 +1,7 @@
 # Euclid
 
+Geometry and logic are Hilbert's "[Foundations of geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf)".
+
 Nothing could be simpler than the geometry of points and lines, and that is [complex indeed](https://plato.stanford.edu/entries/epistemology-geometry/). 
 
 Here is an extract from R. Hartshorne's "Geometry: Euclid and Beyond".
