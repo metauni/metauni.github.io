@@ -22,6 +22,10 @@ From J. Avigad, E. Dean, J. Mumma "[A formal system for Euclid's elements](https
 
 > On the surface, it might seem that there is a straightforward cognitive explanation as to why some of Euclid’s diagrammatic inferences are basic to geometric practice, namely, that these inferences rely on spatial properties that are “hardwired” into our basic perceptual faculties. In other words, thanks to evolution, we have very good faculties for picking out edges and surfaces in our environment and inferring spatial relationships; and these are the kinds of abilities that are needed to support diagrammatic inference.
 
+O'Keefe and Nadel in "The hippocampus as a cognitive map" on Kant:
+
+> His resolution of these problems, reached in the Dissertation of 1770 (cf. Handyside 1928) and the Critique of pure reason (1787), was that space was indeed absolute, but that it was not a property of the physical world. Rather, it was an innate organizing principle of the mind, by which the sensations derived from the physical world were constructed into a conscious manifold. *Space was a way of perceiving, not a thing to be perceived.*
+
 ## Resources
 
 * Bryne's Euclid ([link](https://www.c82.net/euclid/)).
