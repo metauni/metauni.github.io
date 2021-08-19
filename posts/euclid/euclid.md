@@ -4,7 +4,7 @@ We are a community that meets to prepare, deliver and discuss lectures on Euclid
 
 Why read Euclid?
 
-**For a geometer** Euclid is the historical root of their subject, and from Hilbert to Grothendieck many important modern geometers have drawn inspiration from a close analysis of the classic work.
+**For a geometer** Euclid is the historical root of their subject, and from Hilbert and Riemann to Grothendieck and Deligne many important modern geometers have drawn inspiration from a close analysis of the classic work.
 
 **For a logician** the *Elements* is perhaps the most influential example of a coherent body of mathematical proof, and it continues to be interesting from the point of view of modern logic (see *geometric logic* and their classifying topoi, as in the work of Avigad-Dean-Mumma cited below).
 
