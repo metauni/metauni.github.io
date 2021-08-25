@@ -2,6 +2,8 @@
 
 A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around talking boards on a particular topic and scheduled office hours where the host is available for discussion. It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). To join a locus you'll need Roblox and Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). 
 
+![banner](loci.png)
+
 Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, board group **xyz** and board number **abc** within that group. To view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
 
 ## LC001 - Matrix factorisations
