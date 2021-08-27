@@ -11,16 +11,18 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 ![banner](newbanner.png)
 
-## Loci
+## What's on
 
-A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a virtual place for intellectual activity, made up of [talking boards](https://youtu.be/39d4g1ERDpw) on a particular topic, scheduled office hours and live events.
+Office hours (see the [locus page](http://metauni.org/posts/loci/loci) for more information):
 
 * **LC001 - Landau-Ginzburg** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA`.
 * **LC002 - Research Agora** [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`. Next office hours `TBA`.
 
-See the [locus page](http://metauni.org/posts/loci/loci) for more detailed information.
+Upcoming events:
 
-## Events
+* **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector.
+
+## Past events
 
 One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. Some events involve [challenges](http://metauni.org/posts/challenges/challenges). Past events:
 
