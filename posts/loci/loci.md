@@ -8,6 +8,10 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellect
 
 It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). To join a locus you'll need Roblox and Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, board group **xyz** and board number **abc** within that group. To view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
 
+From Adrian Xu:
+
+>  I think the more the roblox map feels like a persistent, unified environment the more psychologically equivalent it will be to a physical campus; the more certain locations become associated with certain kinds of activities and discussions, and perhaps if they are geographically connected in some kind of mathematical archipelago, the more the virtual world will start to develop its own culture and atmosphere.
+
 ## LC001 - Landau-Ginzburg
 
 For the study of isolated hypersurface singularities, matrix factorisations, Landau-Ginzburg models (a particular kind of topological quantum field theory) and associated algebra, geometry and higher category theory.
