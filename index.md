@@ -39,7 +39,7 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 
 
-* **Creative expression**: the ability to manifest your own will, creatively, in the shared space makes it real. Emergent behaviour (the Pillars Incident).
+* **Creative expression**: the ability to manifest your own will, creatively, in the shared space makes it real. Emergent behaviour (the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
 
 * **No gimmicks** the 3D spatial experience needs to be more than just a resource-heavy web browser shell.
 
