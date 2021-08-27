@@ -37,7 +37,7 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Why metauni?
 
-As a mad experiment we started running metauni events in 2020 due to lockdowns in Melbourne, Australia. To our surprise we found we actually enjoyed it, especially as compared to conferences or events in Zoom. It still isn't entirely clear to us *why* it is better, but here are some ideas we've put together that seems to partially explain the phenomenon.
+As a mad experiment we started running metauni events in 2020 due to lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
 
 * **Creative expression**: the ability to manifest your own will, creatively, in the shared space makes it real. Emergent behaviour (the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
 
