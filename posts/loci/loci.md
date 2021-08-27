@@ -27,13 +27,13 @@ To record a talking board you will need to record audio locally on your computer
 
 ## LC003 - Singular Learning Theory
 
-## LC003 - Proofs and programs
+## LC004 - Proofs and programs
 
 For the study of proofs, programs and the relations between them in the spirit of the Curry-Howard correspondence or [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131).
 
-## LC004 - Foundations of Program Synthesis
+## LC005 - Foundations of Program Synthesis
 
-## LC005 - Geometry of Interaction
+## LC006 - Geometry of Interaction
 
 # HOWTO
 
