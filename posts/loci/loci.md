@@ -2,7 +2,7 @@
 
 A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around **live events** with talks, **talking boards** which can be watched together with other people at any time, and **scheduled office hours** where the host is available for discussion. Often a locus is focused on a particular topic. It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). To join a locus you'll need Roblox and Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). 
 
-![banner](loci.png)
+![banner](loci-small.png)
 
 Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, board group **xyz** and board number **abc** within that group. To view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
 
