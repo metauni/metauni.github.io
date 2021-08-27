@@ -23,7 +23,7 @@ Upcoming events:
 
 * **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector.
 
-See the [past events](http://metauni.org/posts/events/events) page. There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
+See the [events](http://metauni.org/posts/events/events) page for past events. There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Why metauni?
 
