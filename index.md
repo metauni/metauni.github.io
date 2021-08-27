@@ -39,7 +39,7 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 As a mad experiment we started running metauni events in 2020 due to lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
 
-* **Creative expression**: the ability to manifest your own will, creatively, in a shared space makes it real. These creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards) to the social and complex (joint deconstruction of the event venue in the famous [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
+* **Creative expression**: the ability to manifest your own will, creatively, in a shared space makes it feel real. This feeling of reality buttresses the rest of the experience. These creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards) to the social and complex (joint deconstruction of the event venue in the famous [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
 
 * **No gimmicks.** For a virtual environment to work it has to actually be contributing something. 
 
