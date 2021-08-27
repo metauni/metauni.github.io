@@ -14,7 +14,7 @@ For the study of isolated hypersurface singularities, matrix factorisations, Lan
 
 * **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
 * **Next office hours**: `TBA`.
-* **Extras**: see the [LC001 page] for references and more details.
+* **Extras**: see the [LC001 page](http://metauni.org/posts/loci/lc001/lc001) for references and more details.
 
 ## LC002 - Research Agora
 
