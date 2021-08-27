@@ -1,6 +1,12 @@
-# Past Events
+# Events
 
-One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. Some events involve [challenges](http://metauni.org/posts/challenges/challenges). Past events:
+One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. Some events involve [challenges](http://metauni.org/posts/challenges/challenges). 
+
+## Upcoming Events
+
+* **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector.
+
+## Past Events
 
 * **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
