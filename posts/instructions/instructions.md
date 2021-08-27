@@ -1,8 +1,6 @@
 # Instructions
 
-## How do I get in?
-
-Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). Localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are instructions for visiting a metauni node:
+Localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are instructions for visiting a metauni node:
 
 1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts and install both programs.
 2. Enter the Discord server for the node (e.g. the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
