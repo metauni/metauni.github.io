@@ -1,6 +1,6 @@
 # Loci
 
-A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around a particular topic or theme and the following elements:
+A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around a topic. A typical locus contains some of the following elements:
 
 * **The Stage**: a focal piece of architecture, where live events such as lectures or seminars are held.
 
