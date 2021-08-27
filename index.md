@@ -37,13 +37,13 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Why metauni?
 
-
+As a mad experiment we started running metauni events in 2020 due to lockdowns in Melbourne, Australia. We found that we didn't hate it, and could happily spend hours in Roblox that would make us sad if they were on Zoom.
 
 * **Creative expression**: the ability to manifest your own will, creatively, in the shared space makes it real. Emergent behaviour (the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
 
-* **No gimmicks** the 3D spatial experience needs to be more than just a resource-heavy web browser shell.
+* **No gimmicks.** For a virtual environment to work it has to actually be contributing something. 
 
-* **Video is overrated** The fact that we are not watching our faces for a long time is a plus. But it is not a blank screen, which would be a zoom without video, but instead we somehow see other people paying attention to the talk.
+* **Lack of video is a feature.** It is exhausting to watch faces on a video call for hours. In a 3D environment you still get a sense of other people paying attention to what is going on, without having to watch their faces and your own.
 
 2. **Surprise**: when unexpected things happen (red chairs, people abducting you in a floating boat, pillar vandals, personal board climbing, etc) and they're fun, at least for me it refills a "I'm really here" tank that then keeps ticking down the longer I'm just staring at a white box and shuffling between screens to click on. If nothing random happens for an hour or two, I do start to feel a bit like I'm in a Zoom call. I think the same tricks don't keep working. I've already seen the red chair, I'm not impressed next time. I think for this kind of experience to work, some effort needs to be put into the "art of the space".
 
