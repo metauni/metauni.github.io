@@ -15,7 +15,7 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a virtual place for intellectual activity, made up of [talking boards](https://youtu.be/39d4g1ERDpw) on a particular topic, scheduled office hours and live events.
 
-* **LC001 - Matrix factorisations** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA`.
+* **LC001 - Landau-Ginzburg** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA`.
 * **LC002 - Research Agora** [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`. Next office hours `TBA`.
 
 See the [locus page](http://metauni.org/posts/loci/loci) for more detailed information.
