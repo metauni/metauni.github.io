@@ -1,6 +1,6 @@
 # Loci
 
-A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around a topic. A typical locus contains a **Stage**, **Board Trails** and **Art**. The stage is a focal piece of architecture where live events are held (for inspiration!). Trails of talking boards wind through the landscape, which are ready to be learned from at any time individually or in groups, and are often supported by office hours (for the details!). Finally, the art might be sculpture, flying bat-dolphins with riddles, music hidden in alcoves, etc. (for fun!).
+A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around a topic. A typical locus contains a **Stage**, **Board Trails** and **Art**. The stage is a focal piece of architecture where live events are held (for inspiration!). Winding through the landscape are talking boards, from which you can learn at any time individually or in a group, supported by office hours (for the details!). Finally, the art might be sculpture, flying bat-dolphins with riddles, music hidden in alcoves, etc. (for fun!).
 
 <p align="center">
   <img src="loci-small.png">
