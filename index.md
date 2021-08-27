@@ -1,4 +1,4 @@
-Metauni is a community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards that we have [scripted in Lua](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS and Android. It is [free](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and and aspires to be both beautiful and fun. Watch the [video intro](https://youtu.be/66MzfGqJFcA).
+Metauni is a community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards that we have [scripted in Lua](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS and Android.
 
 **Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), send the message `!register <roblox-username>` in the `#registration` channel and enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more details.
 
@@ -36,6 +36,8 @@ As a mad experiment we started running metauni events in 2020 due to lockdowns i
 3. **Play is Serious**. When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
 
 > I really keenly feel that the 3d world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- Matt Farrugia-Roberts
+
+Metauni is partly inspired by the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin).
 
 ## History
 
