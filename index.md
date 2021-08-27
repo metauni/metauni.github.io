@@ -37,15 +37,15 @@ There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Why metauni?
 
+
+
 * **Creative expression**: the ability to manifest your own will, creatively, in the shared space makes it real. Emergent behaviour (the Pillars Incident).
 
 * **No gimmicks** the 3D spatial experience needs to be more than just a resource-heavy web browser shell.
 
 * **Video is overrated** The fact that we are not watching our faces for a long time is a plus. But it is not a blank screen, which would be a zoom without video, but instead we somehow see other people paying attention to the talk.
 
-2. **Surprise**: when unexpected things happen (red chairs, people abducting you in a floating boat, pillar vandals, personal board climbing, etc) and they're fun, at least for me it refills a "I'm really here" tank that then keeps ticking down the longer I'm just staring at a white box and shuffling between screens to click on. If nothing random happens for an hour or two, I do start to feel a bit like I'm in a Zoom call.
-
-3. **Entropy** building on point 2, I think the same tricks don't keep working. I've already seen the red chair, I'm not impressed next time. I think for this kind of experience to work, some effort needs to be put into the "art of the space".
+2. **Surprise**: when unexpected things happen (red chairs, people abducting you in a floating boat, pillar vandals, personal board climbing, etc) and they're fun, at least for me it refills a "I'm really here" tank that then keeps ticking down the longer I'm just staring at a white box and shuffling between screens to click on. If nothing random happens for an hour or two, I do start to feel a bit like I'm in a Zoom call. I think the same tricks don't keep working. I've already seen the red chair, I'm not impressed next time. I think for this kind of experience to work, some effort needs to be put into the "art of the space".
 
 > I really keenly feel that the 3d world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- Matt Farrugia-Roberts
 
