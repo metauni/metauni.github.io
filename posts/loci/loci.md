@@ -1,20 +1,12 @@
 # Loci
 
-A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around a topic. A typical locus contains some of the following elements:
-
-* **The Stage**: a focal piece of architecture, where live events such as lectures or seminars are held.
-
-* **Board Trails**: paths through the landscape containing talking boards. The idea is that groups of people can meet outside of live events, for example during office hours, to learn about the topic.
-
-* **Art**: sculpture, flying bat-dolphins with riddles, music hidden in alcoves, etc., just for fun!
-
-It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). To join a locus you'll need Roblox and Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). 
+A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellectual activity, organised around a topic. A typical locus contains a **Stage**, **Board Trails** and **Art**. The stage is a focal piece of architecture where live events are held (for inspiration!). Trails of talking boards wind through the landscape, which are ready to be learned from at any time individually or in groups, and are often supported by office hours (for the details!). Finally, the art might be sculpture, flying bat-dolphins with riddles, music hidden in alcoves, etc. (for fun!).
 
 <p align="center">
   <img src="loci-small.png">
 </p>
 
-Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, board group **xyz** and board number **abc** within that group. To view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
+It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). To join a locus you'll need Roblox and Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, board group **xyz** and board number **abc** within that group. To view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
 
 ## LC001 - Matrix factorisations
 
