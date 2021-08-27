@@ -13,43 +13,8 @@ It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Penci
 For the study of isolated hypersurface singularities, matrix factorisations, Landau-Ginzburg models (a particular kind of topological quantum field theory) and associated algebra, geometry and higher category theory.
 
 * **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
-* **Next office hours**: `TBA`
-
-### LC001.01 - General introduction
-
-* **Video**: [YouTube](https://youtu.be/39d4g1ERDpw).
-* D. Eisenbud, "[Homological algebra on a complete intersection, with an application to group representations](https://www.ams.org/journals/tran/1980-260-01/S0002-9947-1980-0570778-7/home.html)", Trans. Amer. Math. Soc. **260** (1980), 35--64.
-* P. Dirac "[The quantum theory of the electron](https://royalsocietypublishing.org/doi/10.1098/rspa.1928.0023)", Proc. R. Soc. Lond. A117 (1928) 610--624.
-* M. Khovanov and L. Rozansky, "[Matrix factorizations and link homology](https://arxiv.org/abs/math/0401268)", Fund. Math. 199 (2008), 1--91.
-
-### LC001.02 - Exterior algebras
-
-* **Video**: [YouTube](https://youtu.be/D_LoTZ8OYsc).
-* The main reference is my notes on [Tensor, Exterior, Symmetric algebras](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
-* If you want to know more about universal properties, functors and categories you could see [my old course](http://therisingsea.org/post/mast90068/) but there are many fine references for category theory (my usual reference is Borceux's "Handbook of categorical algebra").
-
-### LC001.03 - Clifford algebras
-
-* **Video**: [YouTube](https://youtu.be/ipqKvNHnABs).
-* Beyond the [Wikipedia entry](https://en.wikipedia.org/wiki/Clifford_algebra) the main reference for Clifford algebras is T. Friedrich "Dirac operators in Riemannian geometry", Graduate Studies in Mathematics Vol. 25, AMS.
-* For the relation between Clifford algebras and matrix factorisations see R.-O. Buchweitz, D. Eisenbud, J. Herzog "Cohen-Macaulay modules on quadrics".
-* For the identity defect see N. Carqueville, D. Murfet "[Adjoints and Defects in Landau-Ginzburg models](https://arxiv.org/abs/1208.1481)", Advances in Mathematics, 2016. 
-* Notes from two of my talks on the relation between Clifford algebras and matrix factorisations "[Monoidal bicategories of critical points](http://therisingsea.org/notes/talk-symbicatlg.pdf)" (2019) and "[From critical points to extended TQFTs](http://therisingsea.org/notes/talk-monash-2020.pdf)" (2020).
-
-### LC001.04 - Exterior algebra as a Hilbert space
-
-* **Video**: [YouTube](https://youtu.be/_emHNcPRJFU).
-* For the pairing on the exterior algebra see [TES](http://therisingsea.org/notes/TensorExteriorSymmetric.pdf).
-* See the [postulates of quantum mechanics](https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics). Another physics reference I recommend is A. L. Fetter and J. D. Walecka "Quantum theory of many-particle systems", McGraw-Hill.
-* See Wikipedia for the basics on [fermionic Fock states](https://en.wikipedia.org/wiki/Fock_state).
-
-### LC001.05 - Entanglement
-
-* **Video**: [YouTube](https://youtu.be/DZdk5yTl5Eg).
-* The standard survey reference for entanglement is R. Horodecki, P. Horodecki, M. Horodecki, K. Horodecki, "[Quantum entanglement](https://arxiv.org/abs/quant-ph/0702225)". 
-* I also recommend the textbook M. A. Nielsen and I. L. Chuang, "[Quantum Computation and Quantum Information](https://www.amazon.com.au/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)"
-10th Anniversary Edition (available freely online [PDF](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)).
-* See also [Preskill's notes](http://theory.caltech.edu/~preskill/ph219/index.html#lecture) specifically [Preskill Ch.4](http://theory.caltech.edu/~preskill/ph229/notes/chap4_01.pdf) and [Preskill Ch.7](http://theory.caltech.edu/~preskill/ph229/notes/chap7.pdf).
+* **Next office hours**: `TBA`.
+* **Extras**: see the [LC001 page] for references and more details.
 
 ## LC002 - Research Agora
 
