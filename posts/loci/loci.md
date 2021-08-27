@@ -8,7 +8,9 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellect
 
 It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Pencil). To join a locus you'll need Roblox and Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). Talking boards follow an indexing convention similar to paragraphs in a text: **LCXYZ.xyz:abc** stands for locus **XYZ**, board group **xyz** and board number **abc** within that group. To view a talking board, the best idea is to either click on it or go into "first person" mode by either using the scrollwheel on your mouse, the I/O keys on your keyboard, or pinching to zoom in.
 
-## LC001 - Matrix factorisations
+## LC001 - Landau-Ginzburg
+
+For the study of isolated hypersurface singularities, matrix factorisations, Landau-Ginzburg models (a particular kind of topological quantum field theory) and associated algebra, geometry and higher category theory.
 
 * **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
 * **Next office hours**: `TBA`
