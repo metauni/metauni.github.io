@@ -4,7 +4,7 @@ A [locus](https://en.wikipedia.org/wiki/Method_of_loci) is a place for intellect
 
 * **The Stage**: a focal piece of architecture, where live events such as lectures or seminars are held.
 
-* **Trails**: paths through the landscape passing by talking boards, which allow groups of people to meet outside of live events to learn about the topic. This material is generally supported via office hours provided by one of the hosts of the locus.
+* **Board Trails**: paths through the landscape passing by talking boards, which allow groups of people to meet outside of live events to learn about the topic. This material is generally supported via office hours provided by one of the hosts of the locus.
 
 * **Art**: sculpture, flying bat-dolphins with riddles, music hidden in alcoves, etc., for surprise and delight.
 
