@@ -27,15 +27,11 @@ For people to share their research.
 
 To record a talking board you will need to record audio locally on your computer and send it to me, synchronised with a recording of you writing on one of the boards in `LC002`. To record on the board, follow the instructions below in HOWTO, using as "Replay Name" your real name or username followed by some number (e.g. `dan.01`). Send me the audio file (MP3 or MP4) and name of your recording by email and I'll do the rest. At the moment **there is no erase**, use Undo instead.
 
-## LC003 - Singular Learning Theory
-
-## LC004 - Proofs and programs
+## LC003 - Deprecation
 
 For the study of proofs, programs and the relations between them in the spirit of the Curry-Howard correspondence or [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131).
 
-## LC005 - Foundations of Program Synthesis
-
-## LC006 - Geometry of Interaction
+## LC004 - Singular Learning Theory
 
 # HOWTO
 
