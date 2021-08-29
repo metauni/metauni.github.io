@@ -29,10 +29,12 @@ To record a talking board you will need to record audio locally on your computer
 
 ## LC003 - Deprecation
 
+Proofs and programs.
+
 * **Links**: [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`.
 * **Next office hours**: `TBA`
 
-For the study of proofs, programs and the relations between them in the spirit of the Curry-Howard correspondence or [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131).
+For the study of proofs, programs and the relations between them in the spirit of the Curry-Howard correspondence or [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131). Lambda calculus, sequent calculus, etc.
 
 ## LC004 - Singular Learning Theory
 
