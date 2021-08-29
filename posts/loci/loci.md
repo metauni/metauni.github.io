@@ -12,11 +12,13 @@ It is recommended that you use a tablet and stylus (e.g. an Apple iPad and Penci
 
 ## LC001 - Landau-Ginzburg
 
-Isolated hypersurface singularities, matrix factorisations, Landau-Ginzburg models (a particular kind of topological quantum field theory) and associated algebra, geometry and higher category theory.
+Singularities, topological quantum field theory and categories.
 
 * **Links**: [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`.
 * **Next office hours**: `TBA`.
 * **Extras**: see the [LC001 page](http://metauni.org/posts/loci/lc001/lc001) for references and more details.
+
+Isolated hypersurface singularities, matrix factorisations, Landau-Ginzburg models (a particular kind of topological quantum field theory) and associated algebra, geometry and higher category theory.
 
 ## LC002 - Research Agora
 
