@@ -36,7 +36,7 @@ As a mad experiment we started running metauni events in 2020 due to lockdowns i
 
 1. **Creative Expression**. The ability to manifest your own will, creatively, in a shared space makes it feel real. This feeling of reality buttresses the rest of the experience. Creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards, or saying "thanks" to the speaker by writing it in fancy colours on your personal board) to the social and complex (see the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
 
-2. **No Video.** In Zoom the feeling of co-presence is based on being able to see other people's faces. This is better than lecturing to a blank screen, but it is also exhausting. In a 3D environment you get a sense of other people paying attention to what is going on, without having to constantly see their faces and your own.
+2. **No Video.** In Zoom the feeling of co-presence is based on being able to see other people's faces. This is better than lecturing to a blank screen, but it is also [exhausting](https://psycnet.apa.org/fulltext/2021-77825-003.pdf). In a 3D environment you get a sense of other people paying attention to what is going on, without having to constantly see their faces and your own.
 
 3. **Play is Serious**. When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
 
