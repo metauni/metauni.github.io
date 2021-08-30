@@ -22,9 +22,11 @@ Office hours (see the [locus page](http://metauni.org/posts/loci/loci) for more 
 
 Upcoming events:
 
-* **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector.
+* **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector. Venue: [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora).
 
-* **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames).
+* **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames). Venue: [LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation).
+
+* **November 2021**: Introduction to Singular Learning Theory, featuring Edmund Lau Tiew Hong, Spencer Wong, Liam Carroll and Daniel Murfet giving a minicourse on Sumio Watanabe's mathematical theory of learning.
 
 See the [events](http://metauni.org/posts/events/events) page for past events. There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
