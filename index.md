@@ -18,10 +18,13 @@ Office hours (see the [locus page](http://metauni.org/posts/loci/loci) for more 
 
 * **LC001 - Landau-Ginzburg** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA`.
 * **LC002 - Research Agora** [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`. Next office hours `TBA`.
+* **LC003 - Deprecation** [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`. Next office hours `TBA`.
 
 Upcoming events:
 
 * **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector.
+
+* **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames).
 
 See the [events](http://metauni.org/posts/events/events) page for past events. There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
