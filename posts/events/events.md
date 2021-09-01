@@ -1,7 +1,8 @@
 # Events
 
 One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. 
-If this is your first metauni event, see the [instructions](https://metauni.org/posts/instructions/instructions).
+
+The venues are virtual spaces created in Roblox, which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in a voice channel that you will find advertised with the event below. To join you need to create a Roblox account and install Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
 
 ## Upcoming Events
 
