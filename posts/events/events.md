@@ -5,7 +5,7 @@ If this is your first metauni event, see the [instructions](https://metauni.org/
 
 ## Upcoming Events
 
-* **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora). The schedule (in Melbourne time):
+* **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
     * 10:30-11:00 Heath Winning on the Australian energy sector.
     * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/) on [Rethinking Climate Change](https://www.rethinkx.com/climate-implications).
     * 12:00-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on gas and energy in Australia.
