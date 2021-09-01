@@ -4,8 +4,11 @@ One of the things we do as a community is to organise events, where we share our
 
 ## Upcoming Events
 
-* **September 2021**: Energy event, featuring [Adam Dorr](http://www.adamdorr.com/about/) speaking about climate change, Milad Mousavian and Bruce Robertson on gas and energy in Australia, and Heath Winning on the Australian energy sector.
-
+* **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora). The schedule:
+    * 10:30-11:00 Heath Winning on the Australian energy sector.
+    * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/) on [Rethinking Climate Change](https://www.rethinkx.com/climate-implications).
+    * 12:00-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on gas and energy in Australia.
+    
 ## Past Events
 
 * **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
