@@ -1,6 +1,7 @@
 # Events
 
-One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. Some events involve [challenges](http://metauni.org/posts/challenges/challenges). 
+One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. 
+If this is your first metauni event, see the [instructions](https://metauni.org/posts/instructions/instructions).
 
 ## Upcoming Events
 
@@ -10,6 +11,8 @@ One of the things we do as a community is to organise events, where we share our
     * 12:00-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on gas and energy in Australia.
     
 ## Past Events
+
+Some events involve [challenges](http://metauni.org/posts/challenges/challenges). 
 
 * **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
