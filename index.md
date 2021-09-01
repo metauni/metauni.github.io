@@ -22,10 +22,10 @@ Office hours (see the [locus page](http://metauni.org/posts/loci/loci) for more 
 
 Upcoming events:
 
-* **September 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora). The schedule:
-    * 10:30-11:00 Heath Winning on the Australian energy sector
-    * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/)
-    * 12:00-12:30 Milad Mousavian and Bruce Robertson on gas and energy in Australia
+* **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora). The schedule:
+    * 10:30-11:00 Heath Winning on the Australian energy sector.
+    * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/) on [Rethinking Climate Change](https://www.rethinkx.com/climate-implications).
+    * 12:00-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on gas and energy in Australia.
 
 * **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames). Venue: [LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation).
 
