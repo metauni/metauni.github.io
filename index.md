@@ -1,5 +1,7 @@
 Metauni is a community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards [scripted in Lua](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS and Android.
 
+> Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
+
 **Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register <roblox-username>` in the `#registration` channel and enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
 
 <p align="center">
@@ -34,8 +36,6 @@ Upcoming events:
 See the [events](http://metauni.org/posts/events/events) page for past events. There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
 
 ## Why metauni?
-
-> Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
 As a mad experiment we started running metauni events in 2020 due to lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
 
