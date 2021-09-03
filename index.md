@@ -35,6 +35,8 @@ See the [events](http://metauni.org/posts/events/events) page for past events. T
 
 ## Why metauni?
 
+> Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
+
 As a mad experiment we started running metauni events in 2020 due to lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
 
 1. **Creative Expression**. The ability to manifest your own will, creatively, in a shared space makes it feel real. This feeling of reality buttresses the rest of the experience. Creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards, or saying "thanks" to the speaker by writing it in fancy colours on your personal board) to the social and complex (see the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
