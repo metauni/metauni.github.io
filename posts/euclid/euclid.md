@@ -1,6 +1,6 @@
 # Euclid
 
-We are a community that meets to prepare, deliver and discuss lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic and we are interested in both, at all levels from the elementary to the advanced. We extend a special invitation to young people and mathematicians outside of academia.
+Lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic and we are interested in both, at all levels from the elementary to the advanced.
 
 Why read Euclid?
 
