@@ -20,7 +20,7 @@ Office hours (Melbourne time). See the [locus page](http://metauni.org/posts/loc
 
 * **LC001 - Landau-Ginzburg** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA` on the topics of matrix factorisations, bicategories etc.
 * **LC002 - Research Agora** [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`. Office hours `8-9-21 11:00-11:30` on the topics of giving metauni talks.
-* **LC003 - Deprecation** [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`. Office hours every Thursday `9:00-9:15` on the topics of logic and theoretical CS.
+* **LC003 - Deprecation** [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`. Office hours every Thursday `9:00-9:30` on the topics of logic and theoretical CS.
 
 Upcoming events:
 
