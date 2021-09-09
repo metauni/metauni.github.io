@@ -1,6 +1,6 @@
-# Euclid
+# Euclid Seminar
 
-Lectures on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic and we are interested in both, at all levels from the elementary to the advanced.
+Seminars on Euclid's *Elements* in a world literally made of triangles. Euclid's text is the wellspring of both geometry and logic and we are interested in both.
 
 Why read Euclid?
 
