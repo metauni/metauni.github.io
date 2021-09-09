@@ -1,13 +1,13 @@
 # Events
 
-One of the things we do as a community is to organise events, where we share our love of knowledge and hopefully have a bit of fun as well. 
+As a community we organise events, where we share our love of knowledge and hopefully have a bit of fun as well. 
 
 The venues are virtual spaces created in Roblox, which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in a voice channel that you will find advertised with the event below. To join you need to create a Roblox account and install Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
 
 ## Upcoming Events
 
 * **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
-    * 10:30-11:00 Heath Winning on the Australian energy sector.
+    * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game".
     * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/) on [Rethinking Climate Change](https://www.rethinkx.com/climate-implications).
     * 12:00-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on gas and energy in Australia.
     
