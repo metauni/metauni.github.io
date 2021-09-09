@@ -39,12 +39,14 @@ See the [events](http://metauni.org/posts/events/events) page for past events. T
 
 ## Seminars
 
-Beginning in November 2021 there will be a series of seminars, currently scheduled to take place every Thursday. While a seminar is led by one or two academics and in some respects resembles a class, there is a stronger emphasis on the Socratic method (*arguments are the best part!*) and often the research interests of the participants are integrated into the teaching.
+Beginning in November 2021 there will be a series of seminars, currently scheduled to take place every Thursday:
 
-* **Euclid's elements** led by Kenneth Chan and Daniel Murfet.
+* **Euclid's elements** led by Kenneth Chan and Daniel Murfet (see the [seminar page](https://metauni.org/posts/euclid/euclid)).
 * **Technological disruption** led by Adam Dorr.
 * **Something strange** led by Lucas Cantor.
 * **Foundations** led by William Troiani and Billy Price.
+
+While a seminar is led by one or two academics and is similar to a lecture, there are two main differences: in a seminar there is a stronger emphasis on the Socratic method (*arguments are the best part!*) and on the absorption of old knowledge as part of the genesis of new knowledge.
 
 ## Why metauni?
 
