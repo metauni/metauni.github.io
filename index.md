@@ -14,8 +14,6 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-# What's on
-
 ## Office hours
 
 All advertised times are Melbourne time:
@@ -38,6 +36,15 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more information.
 * **November 2021**: Introduction to Singular Learning Theory, featuring Edmund Lau Tiew Hong, Spencer Wong, Liam Carroll and Daniel Murfet giving a minicourse on Sumio Watanabe's mathematical theory of learning.
 
 See the [events](http://metauni.org/posts/events/events) page for past events. There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
+
+## Seminars
+
+Beginning in November 2021 are a series of seminars, currently to take place every Thursday. While a seminar is led by one or two academics, there is a stronger emphasis on discussion and less of a division between research and teaching.
+
+* **Euclid's elements** led by Kenneth Chan and Daniel Murfet.
+* **Technological disruption** led by Adam Dorr.
+* **Something strange** led by Lucas Cantor.
+* **Foundations** led by William Troiani and Billy Price.
 
 ## Why metauni?
 
