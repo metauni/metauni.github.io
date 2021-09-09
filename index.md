@@ -14,15 +14,19 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-## What's on
+# What's on
 
-Office hours (Melbourne time). See the [locus page](http://metauni.org/posts/loci/loci) for more information.
+## Office hours
+
+All advertised times are Melbourne time:
 
 * **LC001 - Landau-Ginzburg** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA` on the topics of matrix factorisations, bicategories etc.
 * **LC002 - Research Agora** [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`. Office hours `8-9-21 11:00-11:30` on the topics of giving metauni talks.
 * **LC003 - Deprecation** [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`. Office hours every Thursday `9:00-9:30` on the topics of logic and theoretical CS.
 
-Upcoming events:
+See the [locus page](http://metauni.org/posts/loci/loci) for more information.
+
+## Upcoming events
 
 * **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora). The schedule:
     * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game".
