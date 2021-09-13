@@ -9,9 +9,9 @@ The venues are virtual spaces created in Roblox, which is used for 3D interactio
 * **September 23rd 2021**: Energy event, the venue is [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
     * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game".
     * 11:00-11:05 Minigame
-    * 11:05-12:00 [Adam Dorr](http://www.adamdorr.com/about/) on [Rethinking Climate Change](https://www.rethinkx.com/climate-implications).
+    * 11:05-12:00 [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
     * 12:00-12:05 Minigame
-    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on [stranded energy assets in Australia](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/).
+    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)".
     
 ## Past Events
 
