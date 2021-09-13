@@ -31,7 +31,7 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more information.
     * 11:00-11:05 Minigame
     * 11:05-12:00 [Adam Dorr](http://www.adamdorr.com/about/) on [Rethinking Climate Change](https://www.rethinkx.com/climate-implications).
     * 12:00-12:05 Minigame
-    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on [stranded energy assets in Australia](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/).
+    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) on "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)".
 
 * **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames). Venue: [LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation).
 
