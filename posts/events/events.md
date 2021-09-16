@@ -25,3 +25,9 @@ Some events involve [challenges](http://metauni.org/posts/challenges/challenges)
 * **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music ([video](https://youtu.be/BNbJEQptKk4)) and a pre-event tutorial on the [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem) and its connections to music by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)) {`#2A`, `#2B`}.
 * **29/1/2021**: Build Your Own Node event. We introduced the Roblox + Discord setup and walked people through [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). After that was a livestream introducing Roblox Studio ([video](https://youtu.be/W0SIAygiITs)).
 * **22/1/2021**: [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
+
+## Preparing Events
+
+* All images or audio files that are to be part of an event must pass through the Roblox moderation process (see the [rules](https://metauni.org/posts/rules/rules)) and you should allow three or four days for this (usually it is much faster, often within hours, but there is a lot of variance).
+
+* Usually I export PDFs or slides to PNG using [pdf2png](https://pdf2png.com).
