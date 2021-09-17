@@ -10,7 +10,7 @@ The venues are virtual spaces created in Roblox, which is used for 3D interactio
     * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game".
     * 11:00-11:05 Minigame: *Coin Run*.
     * 11:05-12:00 [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
-    * 12:00-12:05 Minigame: *Pointed comments*.
+    * 12:00-12:05 Minigame: *Pointed Comments*.
     * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)".
     
 ## Past Events
