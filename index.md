@@ -1,6 +1,6 @@
 Metauni is a community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards [scripted in Lua](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS and Android.
 
-**Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register <roblox-username>` in the `#registration` channel and enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
+**Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register John123` in the `#registration` channel where `John123` is your Roblox username, and enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
 
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
