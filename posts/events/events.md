@@ -6,7 +6,7 @@ The venues are virtual spaces created in Roblox, which is used for 3D interactio
 
 ## Upcoming Events
 
-* **September 23rd 2021**: Energy event, the venue is the [Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
+* **September 23rd 2021**: Energy event, the Roblox venue is [LC002: Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
     * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game".
     * 11:00-11:05 Minigame: *Coin Run*.
     * 11:05-12:00 [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
