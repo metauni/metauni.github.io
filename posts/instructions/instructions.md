@@ -4,11 +4,11 @@ Localised voice chat in metauni is based on [Discord](https://www.discord.com), 
 
 1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts and install both programs.
 2. Enter the Discord server (the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-3. On your first visit to the Discord server register your Roblox username with `!register <username>` in the `#registration` channel.
+3. On your first visit to the Discord server register your Roblox username with `!register John123` in the `#registration` channel where `John123` is your Roblox username.
 4. Manually enter any Discord voice channel (e.g. General). Please use headphones to avoid feedback.
-5. Enter the Roblox world by visiting its webpage and clicking on "Play" (e.g. the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub)).
+5. Enter the Roblox world by visiting its webpage and clicking on "Play" (e.g. the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub)). You will see a prompt to "Download and Install Roblox" which you can ignore: wait and the Roblox application should be launched.
 
-This setup should work on PC, Mac, iOS and Android. Moreover, you can run the Discord and Roblox applications on different devices (i.e. run audio via Discord through your phone but Roblox on your computer).
+This setup should work on PC, Mac, iOS and Android. You can run the Discord and Roblox applications on different devices: for example, it is quite convenient to run Discord on your phone and Roblox on your PC or Laptop.
 
 Some notes on in-game controls and features:
 
