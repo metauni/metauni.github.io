@@ -4,6 +4,7 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
+  <a href="https://tinyletter.com/adminmetauni">Mailing list</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a> |
   <a href="http://metauni.org/posts/loci/loci">Loci</a> |
@@ -25,6 +26,8 @@ All advertised times are Melbourne time:
 See the [locus page](http://metauni.org/posts/loci/loci) for more information.
 
 ## Upcoming events
+
+To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni).
 
 * **September 23rd 2021**: Energy event, the Roblox venue is [LC002: Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
     * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game".
