@@ -10,8 +10,8 @@ The venues are virtual spaces created in Roblox, which is used for 3D interactio
     * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game" plus Coin Run challenge ([video](https://youtu.be/WrpzY0-vbJ8)).
     * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
     * 12:00-12:05 Minigame: *Pointed Comments*.
-    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)".
-    * 12:30-\infty Minigame: *Greenwashing*
+    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)" ([video](https://youtu.be/5b_D5YhHVXg)).
+
 There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome.
     
 ## Past Events
