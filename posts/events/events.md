@@ -12,6 +12,7 @@ The venues are virtual spaces created in Roblox, which is used for 3D interactio
     * 12:00-12:05 Minigame: *Pointed Comments*.
     * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)".
     * 12:30-\infty Minigame: *Greenwashing*
+There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome.
     
 ## Past Events
 
