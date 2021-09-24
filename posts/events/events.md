@@ -3,20 +3,15 @@
 As a community we organise events, where we share our love of knowledge and hopefully have a bit of fun as well. 
 
 The venues are virtual spaces created in Roblox, which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in a voice channel that you will find advertised with the event below. To join you need to create a Roblox account and install Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
-
-## Upcoming Events
-
-* **September 23rd 2021**: Energy event, the Roblox venue is [LC002: Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) using the [TRS Discord](https://discord.gg/9yBaAxPSK8) channel `LC002`. The schedule (in Melbourne time):
-    * 10:30-11:00 [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game" plus Coin Run challenge ([video](https://youtu.be/WrpzY0-vbJ8)).
-    * 11:00-12:00 [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
-    * 12:00-12:05 Minigame: *Pointed Comments*.
-    * 12:05-12:30 [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)" ([video](https://youtu.be/5b_D5YhHVXg)).
-
-There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome.
     
 ## Past Events
 
 Some events involve [challenges](http://metauni.org/posts/challenges/challenges). 
+
+* **23/92021 Energy event**: There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome. The talks:
+    * [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game" plus Coin Run challenge ([video](https://youtu.be/WrpzY0-vbJ8)).
+    * [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
+    * [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)" ([video](https://youtu.be/5b_D5YhHVXg)).
 
 * **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
 * **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
