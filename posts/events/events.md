@@ -8,7 +8,7 @@ The venues are virtual spaces created in Roblox, which is used for 3D interactio
 
 Some events involve [challenges](http://metauni.org/posts/challenges/challenges). 
 
-* **23/92021 Energy event**: There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome. The talks:
+* **23/9/2021 Energy event**: on renewable energy and climate change. There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome, and of the [minigames](https://youtu.be/2RUOB0QtEEk) in between talks. The talks:
     * [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game" plus Coin Run challenge ([video](https://youtu.be/WrpzY0-vbJ8)).
     * [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
     * [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)" ([video](https://youtu.be/5b_D5YhHVXg)).
