@@ -27,11 +27,7 @@ See the [locus page](http://metauni.org/posts/loci/loci) for more information.
 
 ## Upcoming events
 
-See the [events](http://metauni.org/posts/events/events) page for past events. To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni).
-
-* **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames). Venue: [LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation).
-
-Beginning in November there will be several classes, currently scheduled to take place every Thursday:
+See the [events](http://metauni.org/posts/events/events) page for past events. To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni). Beginning in November there will be classes, currently scheduled to take place every Thursday:
 
 * **Euclid's elements** led by Kenneth Chan and Daniel Murfet (see the [seminar page](https://metauni.org/posts/euclid/euclid)).
 * **Technological disruption** led by Adam Dorr.
