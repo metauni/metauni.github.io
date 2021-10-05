@@ -31,20 +31,12 @@ See the [events](http://metauni.org/posts/events/events) page for past events. T
 
 * **October 2021**: Proof marathon, featuring Daniel Murfet and Will Troiani lecturing their paper on [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131) (the relationship between lambda calculus and sequent calculus) in complete detail from beginning to end (we estimate five to six hours, in chunks, with breaks for minigames). Venue: [LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation).
 
-* **November 2021**: Introduction to Singular Learning Theory, featuring Edmund Lau Tiew Hong, Spencer Wong, Liam Carroll and Daniel Murfet giving a minicourse on Sumio Watanabe's mathematical theory of learning.
-
-There is a brief [video guide](https://youtu.be/mA1X-aP-jBU) to attending talks.
-
-## Classes
-
-Beginning in November 2021 there will be several classes, currently scheduled to take place every Thursday:
+Beginning in November there will be several classes, currently scheduled to take place every Thursday:
 
 * **Euclid's elements** led by Kenneth Chan and Daniel Murfet (see the [seminar page](https://metauni.org/posts/euclid/euclid)).
 * **Technological disruption** led by Adam Dorr.
-* **Something strange** led by Lucas Cantor.
+* **Something strange** led by Daniel Murfet and Lucas Cantor.
 * **Foundations** led by William Troiani and Billy Price.
-
-The format will be somewhere between a lecture and a seminar. While a seminar is led by one or two academics and is similar to a lecture, there are two main differences: in a seminar there is a stronger emphasis on the Socratic method (*arguments are the best part!*) and on the absorption of old knowledge as part of the genesis of new knowledge.
 
 ## Why metauni?
 
