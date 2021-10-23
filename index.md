@@ -15,24 +15,20 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-## Office hours
+## What's On
 
-All advertised times are Melbourne time:
+See below for the schedule of live events. To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni).
 
-* **LC001 - Landau-Ginzburg** [Roblox](https://www.roblox.com/games/6461013759/metauni-LC001), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC001`. Next office hours `TBA` on the topics of matrix factorisations, bicategories etc.
-* **LC002 - Research Agora** [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`. Office hours `TBA`.
-* **LC003 - Deprecation** [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [TRS Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`. Office hours `TBA`.
+If you want to see something interesting *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001), climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) or play with some of the minigames in the [Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora).
 
-See the [locus page](http://metauni.org/posts/loci/loci) for more information.
-
-## Upcoming events
-
-See the [events](http://metauni.org/posts/events/events) page for past events. To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni). Beginning in November there will be classes, currently scheduled to take place every Thursday:
+Every Thursday (Melbourne time) from November 4th there will be a half-day of events and classes:
 
 * **Euclid's elements** led by Kenneth Chan and Daniel Murfet (see the [seminar page](https://metauni.org/posts/euclid/euclid)).
 * **Technological disruption** led by Adam Dorr.
 * **Something strange** led by Daniel Murfet and Lucas Cantor.
 * **Foundations** led by William Troiani and Billy Price.
+
+See the [events](http://metauni.org/posts/events/events) page for past events
 
 ## Why metauni?
 
