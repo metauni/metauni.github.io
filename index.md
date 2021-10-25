@@ -19,12 +19,13 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 See below for the schedule of live events. To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni). If you want to see something interesting *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001), climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) or play with some of the minigames in the [Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora).
 
-Every Thursday from November 4th (AEDT) there will be a half-day of events and classes. With times indexed from 10:30am Thursday AEDT (= 4:30pm Wed in LA, 7:30pm Wed in Michigan)
+Every Thursday from November 4th there will be a half-day of events and classes (times are AEDT, so 9:30am Thursday = 3:30pm Wed in LA, 6:30pm Wed in Michigan)
 
-* **0:00-0:30 Elements:** Euclid's book on virtual blackboards (*Kenneth Chan, Daniel Murfet*).
-* **0:30-1:30 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
-* **1:30-2:30 Disruption:** on phase transitions in human technological knowledge (*Adam Dorr*).
-* **2:30-3:00 Creation:** the joy of building stuff (*Lucas Cantor, Daniel Murfet*).
+* **9:30-10:30 Office hours:** universal office hours for the [Rising Sea](http://therisingsea.org) (*Daniel Murfet*).
+* **10:30-11:00 Elements:** Euclid's book on virtual blackboards (*Kenneth Chan, Daniel Murfet*).
+* **11:00-12:00 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
+* **12:00-1:00 Disruption:** on phase transitions in human technological knowledge (*Adam Dorr*).
+* **1:00-1:30 Creation:** the joy of building stuff (*Lucas Cantor, Daniel Murfet*).
  
 See the [events](http://metauni.org/posts/events/events) page for past events
 
