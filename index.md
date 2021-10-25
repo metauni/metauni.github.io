@@ -21,10 +21,10 @@ See below for the schedule of live events. To get notifications of upcoming even
 
 Every Thursday from November 4th (AEDT) there will be a half-day of events and classes. With times indexed from 10:30am Thursday AEDT (= 4:30pm Wed in LA, 7:30pm Wed in Michigan)
 
-* **0:00-0:30 Euclid's Elements:** Kenneth Chan and Daniel Murfet will be working through Euclid's book on virtual blackboards (see the [seminar page](https://metauni.org/posts/euclid/euclid)).
-* **0:30-1:30 Foundations:** by Will Troiani and Billy Price, discussing set theory, logic and the nature of mathematical objects.
-* **1:30-2:30 Disruption:** by Adam Dorr
-* **2:30-3:00 Stranger loops:** by Daniel Murfet and Lucas Cantor.
+* **0:00-0:30 Elements:** Euclid's book on virtual blackboards (*Kenneth Chan, Daniel Murfet*).
+* **0:30-1:30 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
+* **1:30-2:30 Disruption:** on phase transitions in human knowledge (*Adam Dorr*).
+* **2:30-3:00 Creation:** the joy of building stuff (*Lucas Cantor, Daniel Murfet*).
  
 See the [events](http://metauni.org/posts/events/events) page for past events
 
