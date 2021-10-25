@@ -19,9 +19,9 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001), climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) or play with some of the minigames in the [Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora).
 
-Every Thursday from November 4th is **metauni Thursday**. There will be a half-day of events and classes (times are AEDT, so 9:30am Thursday = 3:30pm Wed in LA, 6:30pm Wed in Michigan). To join follow the [instructions](https://metauni.org/posts/instructions/instructions) to join the TRS Discord and the appropriate Roblxo venue listed below:
+Every Thursday from November 4th is **metauni Thursday**. There will be a half-day of events and classes (times are AEDT, so 9:30am Thursday = 3:30pm Wed in LA, 6:30pm Wed in Michigan). To join follow the [instructions](https://metauni.org/posts/instructions/instructions) to join the TRS Discord and the appropriate Roblox venue listed on the left below:
 
-* **9:30-10:30 Office hours [TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea):**  universal office hours for the [Rising Sea](http://therisingsea.org) (*Daniel Murfet*).
+* [TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea) **9:30-10:30 Office hours:**  universal office hours for the [Rising Sea](http://therisingsea.org) (*Daniel Murfet*).
 * **10:30-11:00 Elements:** Euclid's book on virtual blackboards (*Kenneth Chan, Daniel Murfet*).
 * **11:00-11:30 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
 * **11:30-12:00:** break for lunch.
