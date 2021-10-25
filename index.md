@@ -23,7 +23,7 @@ Every Thursday from November 4th (AEDT) there will be a half-day of events and c
 
 * **0:00-0:30 Elements:** Euclid's book on virtual blackboards (*Kenneth Chan, Daniel Murfet*).
 * **0:30-1:30 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
-* **1:30-2:30 Disruption:** on phase transitions in human knowledge (*Adam Dorr*).
+* **1:30-2:30 Disruption:** on phase transitions in human technological knowledge (*Adam Dorr*).
 * **2:30-3:00 Creation:** the joy of building stuff (*Lucas Cantor, Daniel Murfet*).
  
 See the [events](http://metauni.org/posts/events/events) page for past events
