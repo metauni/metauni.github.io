@@ -23,7 +23,8 @@ Every Thursday from November 4th there will be a half-day of events and classes 
 
 * **9:30-10:30 Office hours:** universal office hours for the [Rising Sea](http://therisingsea.org) (*Daniel Murfet*).
 * **10:30-11:00 Elements:** Euclid's book on virtual blackboards (*Kenneth Chan, Daniel Murfet*).
-* **11:00-12:00 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
+* **11:00-11:30 Foundations:** on the nature of mathematical objects (*Will Troiani, Billy Price*).
+* **11:30-12:00:** break for lunch.
 * **12:00-1:00 Disruption:** on phase transitions in human technological knowledge (*Adam Dorr*).
 * **1:00-1:30 Creation:** the joy of building stuff (*Lucas Cantor, Daniel Murfet*).
  
