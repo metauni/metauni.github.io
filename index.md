@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 See below for the schedule of live events. To get notifications of upcoming events, subscribe to the [mailing list](https://tinyletter.com/adminmetauni). If you want to see something interesting *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001), climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) or play with some of the minigames in the [Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora).
 
-Every Thursday (Melbourne time) from November 4th there will be a half-day of events and classes. With times indexed from 10:30am Thursday (= 4:30pm Wed in LA, 7:30pm Wed in Michigan)
+Every Thursday from November 4th (AEDT) there will be a half-day of events and classes. With times indexed from 10:30am Thursday AEDT (= 4:30pm Wed in LA, 7:30pm Wed in Michigan)
 
 * **0:00-0:30 Euclid's Elements:** Kenneth Chan and Daniel Murfet will be working through Euclid's book on virtual blackboards (see the [seminar page](https://metauni.org/posts/euclid/euclid)).
 * **0:30-1:30 Foundations:** by Will Troiani and Billy Price, discussing set theory, logic and the nature of mathematical objects.
