@@ -22,7 +22,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 Every Thursday from November 4th is **metauni Thursday**. There will be a half-day of events and classes (times are AEDT, so 9:30am Thursday = 3:30pm Wed in LA, 6:30pm Wed in Michigan). To join follow the [instructions](https://metauni.org/posts/instructions/instructions) to join the TRS Discord and the appropriate Roblox venue listed on the left below:
 
 * **9:30-10:30 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)} Office hours**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
-* **10:30-11:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)} Elements** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
+* **10:30-11:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)} Euclid's Elements** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
 * **11:00-11:30 {[LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation)} Foundations** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **11:30-12:00:** break for lunch.
 * **12:00-1:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)} Science of Disruption** (*Adam Dorr*): on phase transitions in human technological knowledge, lectures on a framework for understanding the history and future of technology.
