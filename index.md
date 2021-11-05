@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, based on a 3D virtual envir
 
 Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001), climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea) or play with some of the minigames in the [Research Agora](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora).
 
-**Every Thursday from November 4th** we will meet for half a day (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
+**metauni Day:** Every Thursday from November 4th we will meet for half a day (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
 * **Office hours 9:30-10:30 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
 * **Euclid's Elements 10:30-11:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
