@@ -28,7 +28,10 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 * **Science of Disruption 12:00-1:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}** (*Adam Dorr*): on phase transitions in human technological knowledge, lectures on a framework for understanding the history and future of technology.
 * **Code/Recode 1:00-1:30 {[Tessell](https://www.roblox.com/games/7662464095/Tessell-Tunes)}** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Tessell Tunes [remix](https://www.metauni.org/TessellTunesRemix.rbxl).
  
-See the [events](http://metauni.org/posts/events/events) page for past events.
+See the [events](http://metauni.org/posts/events/events) page for past events. Some videos from past metauni days:
+
+* *Science of Disruption* [seminar 1](https://youtu.be/4PDfwkXpXxk0).
+* *Penrose Tiles* [video](https://youtu.be/zAjl848o_fg).
 
 ## Why metauni?
 
