@@ -26,7 +26,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 * **Foundations 11:00-11:30 {[LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation)}** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Break 11:30-12:00:** break for lunch.
 * **Science of Disruption 12:00-1:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}** (*Adam Dorr*): on phase transitions in human technological knowledge, lectures on a framework for understanding the history and future of technology.
-* **Code/Creation 1:00-1:30 {[Tessell](https://www.roblox.com/games/7662464095/Tessell-Tunes)}** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Penrose Tiles in Tessell Tunes.
+* **Code/Recode 1:00-1:30 {[Tessell](https://www.roblox.com/games/7662464095/Tessell-Tunes)}** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Tessell Tunes [remix](https://www.metauni.org/TessellTunesRemix.rbxl).
  
 See the [events](http://metauni.org/posts/events/events) page for past events.
 
