@@ -15,11 +15,13 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-## What's On
-
 Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea).
 
-**metauni Day:** Every Thursday from November 4th we will meet for half a day (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
+## metauni Day
+
+We meet each Thursday for half a day, for seminars and lectures (times are AEDT). 
+
+To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
 * **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
 * **Euclid's Elements 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
