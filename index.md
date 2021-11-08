@@ -23,8 +23,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 
 * **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
 * **Euclid's Elements 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
-* **Foundations 11:00-11:30** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
-* **Break 11:30-12:00:** break for lunch.
+* **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Science of Disruption 12:00-1:00** (*Adam Dorr*): on phase transitions in human technological knowledge, lectures on a framework for understanding the history and future of technology.
 * **Code/Recode 1:00-1:30** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Tessell Tunes [remix](https://www.metauni.org/TessellTunesRemix.rbxl).
  
