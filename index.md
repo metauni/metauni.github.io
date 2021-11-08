@@ -21,12 +21,12 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 
 **metauni Day:** Every Thursday from November 4th we will meet for half a day (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
-* **Office hours 9:30-10:30 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
-* **Euclid's Elements 10:30-11:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
-* **Foundations 11:00-11:30 {[LC003](https://www.roblox.com/games/7357910345/LC003-Deprecation)}** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
+* **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
+* **Euclid's Elements 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
+* **Foundations 11:00-11:30** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Break 11:30-12:00:** break for lunch.
-* **Science of Disruption 12:00-1:00 {[TRS](https://www.roblox.com/games/6224932973/The-Rising-Sea)}** (*Adam Dorr*): on phase transitions in human technological knowledge, lectures on a framework for understanding the history and future of technology.
-* **Code/Recode 1:00-1:30 {[Tessell](https://www.roblox.com/games/7662464095/Tessell-Tunes)}** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Tessell Tunes [remix](https://www.metauni.org/TessellTunesRemix.rbxl).
+* **Science of Disruption 12:00-1:00** (*Adam Dorr*): on phase transitions in human technological knowledge, lectures on a framework for understanding the history and future of technology.
+* **Code/Recode 1:00-1:30** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Tessell Tunes [remix](https://www.metauni.org/TessellTunesRemix.rbxl).
  
 See the [events](http://metauni.org/posts/events/events) page for past events. Some videos from past metauni days:
 
