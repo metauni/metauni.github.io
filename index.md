@@ -29,10 +29,12 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 * **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption.
 * **Code/Recode 1:00-1:30** (*Lucas Cantor, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week:** Tessell Tunes [remix](https://www.metauni.org/TessellTunesRemix.rbxl).
  
-See the [events](http://metauni.org/posts/events/events) page for past events. Some videos from past metauni days:
+Videos from previous weeks:
 
-* *Science of Disruption* [seminar 1](https://youtu.be/4PDfwkXpXxk0).
-* *Penrose Tiles* [video](https://youtu.be/zAjl848o_fg).
+* *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0).
+* *Code/Recode*: [Tessell Tunes](https://youtu.be/zAjl848o_fg).
+
+See the [events](http://metauni.org/posts/events/events) page for past events. 
 
 ## Why metauni?
 
