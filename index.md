@@ -65,22 +65,23 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
 * 18/1/2021 - How to attend an in-world talk ([video](https://youtu.be/mA1X-aP-jBU))
 * 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive (now superceded by Billy's excellent guide, see below).
-* 20/1/2021 - Development update: implemented "gather all" for voice channels ([video](https://youtu.be/GJunGvBGo6Y)) and implemented the challenge system, with the first two challenges for the first event `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
+* 20/1/2021 - Implemented the challenge system, with the first two challenges for the first event `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
 * 20/1/2021 - BP has posted [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node.
-* 26/1/2021 - Over the last week the Discord bot has been rewritten by BP to use HTTP POST rather than a webhook, and now uses the repl.it database rather than MongoDB, among other improvements. This drastically simplifies the setup process, the guide to which has also been rewritten. The Rising Sea node has two new areas "Solar Peak" and the "Well of Past Events".
+* 26/1/2021 - Over the last week the Discord bot has been rewritten by BP to use HTTP POST rather than a webhook, and now uses the repl.it database rather than MongoDB. The Rising Sea node has two new areas "Solar Peak" and the "Well of Past Events".
 * 27/1/2021 - Social media accounts up and running (LC on Instagram, DM on Twitter).
-* 31/1/2021 - Added new talk area for Ziling Ye's event (The Island). This will be final new area construction for a while in TRS.
+* 31/1/2021 - Added new talk area for Ziling Ye's event (The Island).
 * 1/2/2021 - Working whiteboards (by JC) and a new talk area (the Music Tower) for Lucas's event.
 * 6/2/2021 - Persistent Weiqi board added (construction [video](https://youtu.be/wWtrTFI4ppc)).
 * 10/2/2021 - metauni [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox.
 * 11/2/2021 - metauni [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by JC).
 * 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
 * 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
-* 19/2/2021 - Debut of new logo (by LC).
 * 25/2/2021 - First public release of AdminCommands (by BP).
 * 1/5/2021 - Updated whiteboards, new replay feature (by JC).
 * 16/7/2021 - Public debut of the talking boards and the [locus](https://metauni.org/posts/loci/loci) concept.
 * 22/7/2021 - Debut of the personal boards and rewritten code for the replay boards (by BP).
+* 4/11/2021 - Debut of the "What's On" board in the metauni hub.
+* 11/11/2021 - First VR test in a live event.
 
 Music in the Rising Sea node:
 
