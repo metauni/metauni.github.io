@@ -31,6 +31,7 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
  
 Videos from previous weeks:
 
+* *Euclid's Elements*: [seminar 2](https://youtu.be/VO6QPT8Ubcc).
 * *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0).
 * *Code/Remix*: [Tessell Tunes](https://youtu.be/zAjl848o_fg).
 
