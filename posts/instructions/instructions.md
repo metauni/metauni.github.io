@@ -8,7 +8,7 @@ Localised voice chat in metauni is based on [Discord](https://www.discord.com), 
 4. Manually enter any Discord voice channel (e.g. General). Please use headphones to avoid feedback.
 5. Enter the Roblox world by visiting its webpage and clicking on "Play" (e.g. the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub)). You will see a prompt to "Download and Install Roblox" which you can ignore: wait and the Roblox application should be launched.
 
-This setup should work on PC, Mac, iOS and Android. You can run the Discord and Roblox applications on different devices: for example, it is quite convenient to run Discord on your phone and Roblox on your PC or Laptop.
+This setup should work on PC, Mac, iOS, Android and VR headsets like the Oculus Quest 2 (you currently need to connect it to a PC, either by a cable or Air Link). You can run the Discord and Roblox applications on different devices: for example, it is quite convenient to run Discord on your phone and Roblox on your PC or Laptop.
 
 Some notes on in-game controls and features:
 
