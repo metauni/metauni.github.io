@@ -34,7 +34,7 @@ Videos from previous weeks:
 * *Euclid's Elements*: [seminar 2](https://youtu.be/VO6QPT8Ubcc).
 * *Foundations*: [seminar 2](https://youtu.be/BxFr891R2k0).
 * *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg).
-* *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) (Tessell Tunes), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix).
+* *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix).
 
 See the [events](http://metauni.org/posts/events/events) page for past events. 
 
