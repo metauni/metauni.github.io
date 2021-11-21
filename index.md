@@ -83,6 +83,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 22/7/2021 - Debut of the personal boards and rewritten code for the replay boards (by BP).
 * 4/11/2021 - Debut of the "What's On" board in the metauni hub.
 * 11/11/2021 - First VR test in a live event.
+* 21/11/2021 - Personal whiteboards now support VR.
 
 Music in the Rising Sea node:
 
