@@ -57,7 +57,7 @@ Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/
 
 ## History
 
-Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift, `BenSBk` and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
 * 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
@@ -84,6 +84,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 4/11/2021 - Debut of the "What's On" board in the metauni hub.
 * 11/11/2021 - First VR test in a live event.
 * 21/11/2021 - Personal whiteboards now support VR, and board subscriptions ([demo](https://youtu.be/brNGewzskBY)).
+* 2/12/2021 - Server prioritisation by BenSBk (allows groups to travel together during events through teleports).
 
 Music in the Rising Sea node:
 
