@@ -15,7 +15,7 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [LC001](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/6224932973/The-Rising-Sea).
+Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
 ## metauni Day
 
@@ -86,7 +86,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 21/11/2021 - Personal whiteboards now support VR, and board subscriptions ([demo](https://youtu.be/brNGewzskBY)).
 * 2/12/2021 - Server prioritisation by BenSBk (allows groups to travel together during events through teleports).
 
-Music in the Rising Sea node:
+Music in the Rising Sea:
 
 * "Pop with Toys" by Lucas Cantor - in our [event video](https://youtu.be/xNqGxgiP0Cc) and on the audio plinth near the knot.
 * "Forgotten Sacrifice" by Lucas Cantor - in the Cave of Forgotten Sacrifice
