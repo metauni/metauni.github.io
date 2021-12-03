@@ -24,7 +24,7 @@ Isolated hypersurface singularities, matrix factorisations, Landau-Ginzburg mode
 
 For people to share their research.
 
-* **Links**: [Roblox](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
+* **Links**: [Roblox](https://www.roblox.com/games/8164954581/Research-Agora), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC002`.
 * **Next office hours**: `TBA`
 
 To record a talking board you will need to record audio locally on your computer and send it to me, synchronised with a recording of you writing on one of the boards in `LC002`. To record on the board, follow the instructions below in HOWTO, using as "Replay Name" your real name or username followed by some number (e.g. `dan.01`). Send me the audio file (MP3 or MP4) and name of your recording by email and I'll do the rest. At the moment **there is no erase**, use Undo instead.
@@ -33,12 +33,10 @@ To record a talking board you will need to record audio locally on your computer
 
 Proofs and programs.
 
-* **Links**: [Roblox](https://www.roblox.com/games/7357910345/LC003-Deprecation), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`.
+* **Links**: [Roblox](https://www.roblox.com/games/8164849103/Deprecation), [Discord](https://discord.gg/9yBaAxPSK8) voice channel `LC003`.
 * **Next office hours**: `TBA`
 
 For the study of proofs, programs and the relations between them in the spirit of the Curry-Howard correspondence or [Gentzen-Mints-Zucker duality](https://arxiv.org/abs/2008.10131). Lambda calculus, sequent calculus, etc.
-
-## LC004 - Singular Learning Theory
 
 # HOWTO
 
