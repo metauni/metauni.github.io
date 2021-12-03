@@ -1,6 +1,6 @@
 Metauni is a growing community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), location-specific voice chat using [Discord](https://www.discord.com) and tools such as whiteboards [scripted in Luau](http://metauni.org/posts/make-your-own/tools). Access is possible on PC, Mac, iOS, Android and in VR.
 
-**Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register John123` in the `#registration` channel where `John123` is your Roblox username, and enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
+**Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register John123` in the `#registration` channel where `John123` is your Roblox username, and enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
 
 <p align="center">
   <a href="mailto:admin@metauni.org">Email</a> |
@@ -21,7 +21,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 
 We meet each Thursday for half a day of seminars (times are AEDT). 
 
-To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/6233302798/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
+To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
 * **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
 * **Euclid's Elements 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
