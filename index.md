@@ -26,8 +26,8 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 * **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org). Ask me anything.
 * **Euclid's Elements 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
 * **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
-* **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption.
-* **Code/Remix 1:00-2:00** (*Lucas Cantor, James Clift, Daniel Murfet*): the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week**: [Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni) remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)).
+* **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption (**NO SESSION THIS WEEK**)
+* **Code/Remix 1:00-2:00**: the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week**: [Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni) remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)).
  
 Videos from previous weeks:
 
