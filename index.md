@@ -27,14 +27,14 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 * **Euclid's Elements 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's book on virtual blackboards.
 * **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption (**NO SESSION THIS WEEK**)
-* **Code/Remix 1:00-2:00**: the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week**: [Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni) remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)).
+* **Code/Remix 1:00-2:00**: the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week**: open source release of the MetaBoard.
  
 Videos from previous weeks:
 
 * *Euclid's Elements*: [seminar 2](https://youtu.be/VO6QPT8Ubcc), [seminar 3](https://youtu.be/4yLm7Wcj6zg).
 * *Foundations*: [seminar 2](https://youtu.be/BxFr891R2k0), [seminar 3](https://youtu.be/sKJ5kbqYBBQ).
 * *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg).
-* *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)).
+* *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)).
 * *Guest speakers*: Ethan Curtiss (AstroCode) on [Fourier series](https://youtu.be/F1gdI2eWqc8).
 
 See the [events](http://metauni.org/posts/events/events) page for past events. 
