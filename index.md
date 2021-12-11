@@ -7,7 +7,7 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
   <a href="https://tinyletter.com/adminmetauni">Mailing list</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a> |
-  <a href="http://metauni.org/posts/loci/loci">Loci</a> |
+  <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox group</a> |
   <a href="http://metauni.org/posts/events/events">Events</a>
 </p>
 
