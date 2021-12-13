@@ -3,19 +3,18 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
 **Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register John123` in the `#registration` channel where `John123` is your Roblox username, and enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
 
 <p align="center">
+  <a href="https://twitter.com/_metauni">Twitter</a> |
   <a href="mailto:admin@metauni.org">Email</a> |
-  <a href="https://tinyletter.com/adminmetauni">Mailing list</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
   <a href="https://metauni.org/posts/rules/rules">Roblox rules</a> |
-  <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox group</a> |
-  <a href="http://metauni.org/posts/events/events">Events</a>
+  <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox group</a>
 </p>
 
 ![banner](newbanner.png)
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
+Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
 ## metauni Day
 
@@ -36,8 +35,6 @@ Videos from previous weeks:
 * *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg).
 * *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard.
 * *Guest speakers*: Ethan Curtiss (AstroCode) on [Fourier series](https://youtu.be/F1gdI2eWqc8).
-
-See the [events](http://metauni.org/posts/events/events) page for past events. 
 
 ## Why metauni?
 
