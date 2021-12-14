@@ -18,7 +18,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notific
 
 ## metauni Day
 
-We meet each Thursday for half a day of seminars (times are AEDT). 
+We meet each Thursday for seminars (times are AEDT). 
 
 To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
