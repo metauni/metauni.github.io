@@ -29,7 +29,8 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 * **Code/Remix 1:00-2:00**: the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds. **This week**: using [Viewport frames](https://developer.roblox.com/en-us/articles/viewportframe-gui) for Songspires, maybe also [teleports](https://www.roblox.com/games/3638523142/Teleportation-portal-demo)?
 * **SLT**: Singular Learning Theory (coming 2022).
 * **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models (coming 2022).
- 
+* **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
+
 Videos from previous weeks:
 
 * *Euclid's Elements*: [seminar 2](https://youtu.be/VO6QPT8Ubcc), [seminar 3](https://youtu.be/4yLm7Wcj6zg), [seminar 6](https://youtu.be/8P5Q-YdPBB0).
