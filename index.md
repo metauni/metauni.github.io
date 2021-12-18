@@ -39,6 +39,8 @@ Videos from previous weeks:
 * *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard, [seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires.
 * *Guest speakers*: Ethan Curtiss (AstroCode) on [Fourier series](https://youtu.be/F1gdI2eWqc8).
 
+You can [host your own](https://metauni.org/posts/private/private) metauni-style events (beta).
+
 ## Why metauni?
 
 We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
@@ -84,6 +86,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 21/11/2021 - Personal whiteboards now support VR, and board subscriptions ([demo](https://youtu.be/brNGewzskBY)).
 * 2/12/2021 - Server prioritisation by BenSBk (allows groups to travel together during events through teleports).
 * 9/12/2021 - First open source [release](https://github.com/metauni/metaboard) of the metauni boards.
+* 18/12/2021 - Started work on [private servers](https://metauni.org/posts/private/private).
 
 Music in the Rising Sea:
 
