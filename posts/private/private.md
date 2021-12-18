@@ -19,7 +19,8 @@ Private servers are private copies of a server, which are *owned by a user* in t
 - Event management
 - Minigames / toys
 
-However metauni is more than just the sum of these parts, and we look forward in 2022 to creating some of these private servers in collaboration with talented musicians and artists. These plans are still in their early stages, but here is a very rough prototype:
+However metauni is more than just the sum of these parts, and we look forward in 2022 to creating some of these private servers in collaboration with talented musicians and artists. These plans are still in their early stages, but here are some rough prototypes:
 
 - "[Proof of Concept](https://www.roblox.com/games/8276085305/Proof-of-Concept)" a world constructed by freezing Songspires and putting boards in it, with private servers and voice chat enabled. The owner of the private server (you?) is an admin.
 - A video showing how I [made this](https://youtu.be/pB44fI0lKso).
+- [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, admin commands, and coin run challenge in an environment built from a snapshot of Songspire.
