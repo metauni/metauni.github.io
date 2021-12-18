@@ -1,11 +1,11 @@
 # Private servers
 
-In the course of running seminars and [events](https://metauni.org/posts/events/events) we have learned a lot about how to support intellectual activities in virtual spaces, and we have built some technical tools. We have open sourced most of these tools, so others can reproduce what we are doing:
+In the course of running seminars and [events](https://metauni.org/posts/events/events) in Roblox since the beginning of 2021 we have learned a lot about how to support intellectual activities in virtual spaces. We have open sourced most of the code we have developed to faciliate these activities, including:
 
 * Admin commands, Discord bot, viewer (https://metauni.org/posts/make-your-own/tools)
 * Whiteboards (https://github.com/metauni/metaboard)
 
-We will continue to talk publicly about what we have learned and release our tools as open source. However, some users will find it convenient to have a a simpler way to create environments similar to the ones in which we host metauni events, which will **just work**. To this end we are starting to explore the use of Roblox [Private Servers](https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers-).
+However, some users will find it convenient to have a a simpler way to create environments similar to the ones in which we host metauni events, which will **just work**. To this end we are starting to explore the use of Roblox [Private Servers](https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers-).
 
 
 
