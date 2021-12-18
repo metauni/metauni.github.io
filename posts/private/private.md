@@ -7,7 +7,7 @@ The best environments for scholarly life in the Metaverse will be collaborations
 
 These open source releases will continue. However, some users will find value in a simpler way to host metauni-style events, that they can trust will **just work**. To this end we are starting to explore the use of Roblox [Private Servers](https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers-).
 
-Private servers are copies of a server that are owned by individuals, in the sense that they control who joins them and their copy can have its own URL. We will be creating versions of the metauni experiences with private servers enabled, so that your own copy of the server comes with the following features automatically set up:
+Private servers are private copies of a server, which are *owned by a user* in the sense that the user can control who joins. Private servers have their own URL. We will be creating versions of some metauni experiences with private servers enabled, so that your copy of the server comes with the following features automatically set up:
 
 - Whiteboards
 - Admin commands (kick, ban, fine-grained control over use of whiteboards)
