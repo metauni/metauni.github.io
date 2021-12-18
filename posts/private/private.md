@@ -1,6 +1,8 @@
 # Private Servers
 
-The best environments for scholarly life in the Metaverse will be collaborations between coders, musicians, visual artists, architects and domain experts (e.g. mathematicians). In the course of running seminars and [events](https://metauni.org/posts/events/events) in Roblox since the beginning of 2021 we have seen some hints of this future, and we have learned a lot about how to support intellectual activities in virtual spaces. Most of the code that we have developed to faciliate these activities has already been open sourced, including:
+Metauni works to the extent that the environments are beautiful and fun, with invitations for creative expression. It is the manifestation of the creative will of others, including the person who put together the environment, which draws us out of our shells and creates the possibility for the social interaction that makes experiences like metauni more than just Zoom calls in 3D with "oof" sound effects. For this reason we believe that the best environments for scholarly life in the Metaverse will be collaborations between coders, musicians, visual artists, architects and domain experts (e.g. mathematicians). 
+
+In the course of running seminars and [events](https://metauni.org/posts/events/events) in Roblox since the beginning of 2021 we have seen some hints of this future, and we have learned a lot about how to support intellectual activities in virtual spaces. Most of the code that we have developed to faciliate these activities has already been open sourced, including:
 
 * Admin commands, Discord bot, viewer available from our [tools page](https://metauni.org/posts/make-your-own/tools).
 * Whiteboards, see the [metaboard](https://github.com/metauni/metaboard) repository.
@@ -14,8 +16,6 @@ Private servers are private copies of a server, which are *owned by a user* in t
 - Voice chat (built into Roblox)
 - Event management
 - Minigames / toys
-
-However, metauni is **more than the sum of these parts**. It is important that the environments are beautiful and fun, with invitations for creative expression . It is the manifestation of the creative will of others, including the person who put together the environment, which draws us out of our shells and creates the possibility for the social interaction that makes experiences like metauni more than just Zoom calls in 3D with "oof" sound effects.
 
 These plans are still in their early stages, but here are
 
