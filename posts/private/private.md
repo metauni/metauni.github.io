@@ -1,29 +1,29 @@
-# Events
+# Private servers
 
-As a community we organise events, where we share our love of knowledge and hopefully have a bit of fun as well. 
+In the course of running seminars and [events](https://metauni.org/posts/events/events) we have learned a lot about how to support intellectual activities in virtual spaces, and we have built some technical tools. We have open sourced most of these tools, so others can reproduce what we are doing:
 
-The venues are virtual spaces created in Roblox, which is used for 3D interaction and virtual blackboards and slides. The event audio is via the [TRS Discord](https://discord.gg/9yBaAxPSK8) in a voice channel that you will find advertised with the event below. To join you need to create a Roblox account and install Discord, see the [instructions](https://metauni.org/posts/instructions/instructions). If you want the experience to work correctly, you should also register your Roblox username in Discord as detailed in the instructions (this allows Discord to transition you automatically between location-specific voice channels).
-    
-## Past Events
+* Admin commands, Discord bot, viewer (https://metauni.org/posts/make-your-own/tools)
+* Whiteboards (https://github.com/metauni/metaboard)
 
-Some events involve [challenges](http://metauni.org/posts/challenges/challenges). 
+We will continue to talk publicly about what we have learned and release our tools as open source. However, some users will find it convenient to have a a simpler way to create environments similar to the ones in which we host metauni events, which will **just work**. To this end we are starting to explore the use of Roblox [Private Servers](https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers-).
 
-* **23/9/2021 Energy event**: on renewable energy and climate change. There is a [bonus video](https://youtu.be/d63238XuC4k) from the end of the event, containing a discussion of what young people (and mathematicians in particular) can do about climate change and making the future awesome, and of the [minigames](https://youtu.be/2RUOB0QtEEk) in between talks. The talks:
-    * [Heath Winning](https://au.linkedin.com/in/heath-winning-612781165) "Climate action is a young person's game" plus Coin Run challenge ([video](https://youtu.be/WrpzY0-vbJ8)).
-    * [Adam Dorr](http://www.adamdorr.com/about/) "[Rethinking Climate Change](https://www.rethinkx.com/climate-implications)".
-    * [Milad Mousavian](https://au.linkedin.com/in/milad-mousavian-3a9962a4) and [Bruce Robertson](https://au.linkedin.com/in/milad-mousavian-3a9962a4) "[Fossil-based Powerplants seem to be more profitable than they actually are!](https://ieefa.org/ieefa-gas-power-plants-assuming-a-constant-capacity-factor-are-being-financially-overvalued/)" ([video](https://youtu.be/5b_D5YhHVXg)).
 
-* **12/8/2021**: Festival of Mathematics in [LC002](https://www.roblox.com/games/7168699181/metauni-LC002-Research-Agora) (the Research Agora), see the [festival page](https://metauni.org/posts/festival/festival) for the schedule and videos of some talks.
-* **5/3/2021**: Stories from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by Ziling Ye {`#4A`, `#4B`}. Challenge inspired by Leibniz's observation about binary arithmetic and [bagua](http://www.leibniz-translations.com/binary.htm). 
-* **26/2/2021**: Community builder event. We visited [Kuroyikijima](https://www.roblox.com/games/6343445246/Kuroyukijima) and the [M.U.M.S room](https://www.roblox.com/games/6313764558/The-M-U-M-S-Room) and then [metatute: Calculus wars](https://www.roblox.com/games/6425413374/metatute-Calculus-wars) where we discussed running tutorials in Roblox ([video](https://youtu.be/IlwRuAO1v8o)).
-* **19/2/2021**: [Adam Dorr](http://www.adamdorr.com/about/) on "Rethinking Energy" {`#3A`, `#3B`} with a pre-event tutorial on the logistic equation ([video](https://youtu.be/tJYizX7D5ig)). The main event was not recorded but you can read the [report](https://www.rethinkx.com/energy) it was based on and watch the associated [video](https://youtu.be/6zgwiQ6BoLA). The post-event challenges and question time were recorded ([video](https://youtu.be/4RMlWp79aLA)).
-* **12/2/2021**: Community builder event. This started with an introduction to Weiqi on the new Weiqi boards, followed by a livestream on how to add metauni objects (the Whiteboard, Viewer and Weiqi board) to your Roblox world. BP then explained how to use the new metauni admin features to kick/ban users and manage usage of the whiteboards ([video](https://youtu.be/ZTB9tLb5Y-c)).
-* **5/2/2021**: [Lucas Cantor](https://www.lucascantormusic.com/) on music ([video](https://youtu.be/BNbJEQptKk4)) and a pre-event tutorial on the [Chinese Remainder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem) and its connections to music by Will Troiani ([video](https://youtu.be/SuBBHUjOywM)) {`#2A`, `#2B`}.
-* **29/1/2021**: Build Your Own Node event. We introduced the Roblox + Discord setup and walked people through [these instructions](http://metauni.org/posts/make-your-own/make-your-own) ([video](https://youtu.be/TDmMeR6O350)). After that was a livestream introducing Roblox Studio ([video](https://youtu.be/W0SIAygiITs)).
-* **22/1/2021**: [Daniel Murfet](http://www.therisingsea.org) on deep learning theory ([video](https://youtu.be/xNqGxgiP0Cc), [lecture notes](https://www.dropbox.com/s/tc3mmw69lkqprta/DLT%20Lecture%201.pdf?dl=0), [slides](https://www.dropbox.com/s/g3yqxuy7pbvcv17/DLT1talk.pdf?dl=0)) {`#1A`, `#1B`}.
 
-## Preparing Events
+One of the main directions I would like to explore with metauni in 2022 is to find ways to **encourage such collaborations** (while continuing to develop and release open source tools like metaboard). An important part of that is to lead by example, and Lucas and I have some plans along these lines.
 
-* All images or audio files that are to be part of an event must pass through the Roblox moderation process (see the [rules](https://metauni.org/posts/rules/rules)) and you should allow three or four days for this (usually it is much faster, often within hours, but there is a lot of variance).
+Beyond that, I want to share an idea with you all and get some feedback. That idea is **metauni private servers**. Since I've already been using the term for something similar, I'll just call these **loci** for now.
+ 
+Roblox has a feature called Private Servers (). If this is enabled for an experience you can (as a player) make your own private server, which you control insofar as you can decide who can join it. You also get an individual URL to share with people.
 
-* Usually I export PDFs or slides to PNG using [pdf2png](https://pdf2png.com).
+This seems like a natural way to package up all the metauni tools in a way that is "one click". The private server could contain boards, voice chat (which is built into Roblox), the admin system, and additionally be visually interesting with art and music and interesting architecture to explore before/after/in-between talks. Plus minigames. You could just advertise a time, give the URL to your private server, and host events more or less as we have been doing with metauni for the past year.
+
+The other aspect of metauni that requires some technical skill is recording and editing the videos. In some sense this isn't difficult, but I manage to screw it up from time to time (hard drive space issues, my recording tool is misconfigured, etc.) so I can't pretend it's trivial either, and I think it will be a real barrier for many. On the other hand YouTube is an amazing tool for sharing knowledge and attracting attention, and I think it's important there is a good story for recording talks (if people wish to). 
+
+To that end I've started work on a GCP bot that will start up Roblox, join your event, record video from a specified CFrame (that can be controlled through the admin system), and then email you a URL to download the video.
+
+Great art, architecture, music and code isn't free, and maybe you shouldn't expect all of these private servers to be free either, if you want talented people to spend their valuable time making them. Personally I want other people to make these things and I'm happy to pay for them. I want a world where every month I can try out a new working environment with something beautiful and inspiring.
+
+Since it's better to show than tell, here's a demo:
+
+- "Proof of Concept" a crappy world constructed by freezing Songspires and putting boards in it and private servers and voice chat enabled. The owner of the private server is an admin (https://www.roblox.com/games/8276085305/Proof-of-Concept).
+- A video showing how I made this https://youtu.be/pB44fI0lKso
