@@ -15,7 +15,9 @@ Private servers are copies of a server that are owned by individuals, in the sen
 - Event management
 - Minigames / toys
 
-We believe the best environments for scholarly life will be collaborations between coders, musicians, visual artists, architects and domain experts (e.g. mathematicians) and we look forward to helping to create such environments over the coming year.
+We believe the best environments for scholarly life will be collaborations between coders, musicians, visual artists, architects and domain experts (e.g. mathematicians) and we look forward to helping to create such environments over the coming year, as private servers.
 
-- "Proof of Concept" a crappy world constructed by freezing Songspires and putting boards in it and private servers and voice chat enabled. The owner of the private server is an admin (https://www.roblox.com/games/8276085305/Proof-of-Concept).
-- A video showing how I made this https://youtu.be/pB44fI0lKso
+These plans are still in their early stages, but here are
+
+- "[Proof of Concept](https://www.roblox.com/games/8276085305/Proof-of-Concept)" a world constructed by freezing Songspires and putting boards in it, with private servers and voice chat enabled. The owner of the private server (you?) is an admin.
+- A video showing how I [made this](https://youtu.be/pB44fI0lKso).
