@@ -21,3 +21,4 @@ We hope to implement the following features in private servers:
 - Event management (such as the What's On boards in the metauni Hub)
 - Automated video recording for talks (via bots running in the cloud)
 - Assistance for uploading slides into Roblox
+- Signing up for classes/tutorials and scheduling
