@@ -7,13 +7,13 @@ Want to run your own metauni-style events? Our tools are [open source](https://m
 - Voice chat (built into Roblox)
 - Minigames / toys
 
+It is the manifestation of the creative will of others which draws us out of our shells, and creates the possibility for the social interaction that makes experiences like metauni more than just Zoom calls in 3D. We believe that the best environments for scholarly life in the Metaverse will be collaborations between coders, musicians, visual artists, garden designers and domain experts (e.g. mathematicians).
+
 ## Available servers
 
 The private servers currently available:
 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
-
-It is the manifestation of the creative will of others which draws us out of our shells, and creates the possibility for the social interaction that makes experiences like metauni more than just Zoom calls in 3D. We believe that the best environments for scholarly life in the Metaverse will be collaborations between coders, musicians, visual artists, garden designers and domain experts (e.g. mathematicians).
 
 ## Future roadmap
 
