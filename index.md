@@ -14,7 +14,7 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announcements. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The [metaboard](https://github.com/metauni/metaboard) is open source. You can [host your own](https://metauni.org/posts/private/private) metauni-style events.
+Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announcements. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The [metaboard](https://github.com/metauni/metaboard) is open source.
 
 ## metauni Day
 
