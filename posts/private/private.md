@@ -17,7 +17,7 @@ The private servers currently available:
 
 ## Instructions
 
-On the Roblox page for one of the private servers (e.g. [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept)) click on the `Server` and `Create Private Server`. You can find your private server by either navigating to the Roblox page for the game and returning to the `Server` tab, or under `Inventory > Private Servers` (see the left hand side of the Roblox homepage, under the hamburger menu). The Inventory is also where you can cancel your subscription to the private server (which auto-renews monthly).
+On the Roblox page for one of the private servers (e.g. [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept)) click on the `Servers` and `Create Private Server`. You can find your private server by either navigating to the Roblox page for the game and returning to the `Server` tab, or under `Inventory > Private Servers` (see the left hand side of the Roblox homepage, under the hamburger menu). The Inventory is also where you can cancel your subscription to the private server (which auto-renews monthly).
 
 When you are ready to run your event, click `Join` under Private Servers (if you join the non-private version of the experience, you will still be able to enter the world but you will not be able to control it).
 
