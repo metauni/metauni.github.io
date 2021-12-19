@@ -23,6 +23,7 @@ When you are ready to run your event, click `Join` under Private Servers (if you
 
 * **Admin commands**: when you join your private server type `/helpadmin` in the Chat to get instructions on using the Admin Commands. You can see further details [here](https://metauni.org/posts/make-your-own/tools).
 * **Recording events**: you can activate the free camera with `Left Shift-P`, position the camera to view what you want to record, and then record your screen using software such as [Camtasia](https://www.techsmith.com/video-editor.html).
+* **Crowd management**: if someone is behaving badly, you can kick them by typing `/kick username` in the Chat. Note that to find the true username of a player (as opposed to their displayed name) you may have to click on their name on the leaderboard (to the right hand side of the screen) and look for something like `@realusername`.
 
 Running a private server comes with responsibilities, as spelled out in the terms of service of Roblox. You should therefore familiarise yourself with the [Roblox rules](https://metauni.org/posts/rules/rules) and [Discord Terms of Service](https://discord.com/terms) at the risk of getting your account locked or banned. If you observe users breaking Roblox rules, for example harrassing other users or engaing in offensive behaviour, you should **report them using the Roblox tools** that can be accessed via `Escape`.
 
