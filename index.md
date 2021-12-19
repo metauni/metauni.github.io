@@ -48,7 +48,7 @@ Want to run your own metauni-style events? You can find our tools [here](https:/
 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
-For further instructions see the [private servers](http://metauni.org/posts/events/events) page.
+Setup is easy: on the Roblox page click on the `Server` and `Create Private Server`. For further instructions see the [private servers](http://metauni.org/posts/events/events) page.
 
 ## Why metauni?
 
