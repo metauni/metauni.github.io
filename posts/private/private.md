@@ -1,6 +1,6 @@
 # Private Servers
 
-Want to run your own metauni-style events? Our tools are [open source](https://metauni.org/posts/make-your-own/tools), so you can build your own experiences. However, the easiest way to run events is to rent a [Private Server](https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers-). These are private copies of a server which you control; for example, you can control the list of people who can join, and you can advertise your event using your own URL. Private servers come with the following features ``out of the box'':
+Want to run your own metauni-style events? Our tools are [open source](https://metauni.org/posts/make-your-own/tools), so you can build your own [from scratch](https://metauni.org/posts/make-your-own/make-your-own). However, the easiest way to run events is to rent a [Private Server](https://en.help.roblox.com/hc/en-us/articles/205345050-How-do-I-Purchase-and-Configure-Private-VIP-Servers-). These are private copies of a server which you control; for example, you can control the list of people who can join, and you can advertise your event using your own URL. Private servers come with the following features ``out of the box'':
 
 - Whiteboards
 - Admin commands (kick, ban, fine-grained control over use of whiteboards)
