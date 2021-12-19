@@ -15,6 +15,15 @@ The private servers currently available:
 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
+## Instructions
+
+On the Roblox page for one of the private servers (e.g. [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept)) click on the `Server` and `Create Private Server`. You can find your private server by either navigating to the Roblox page for the game and returning to the `Server` tab, or under `Inventory > Private Servers` (see the left hand side of the Roblox homepage, under the hamburger menu). The Inventory is also where you can cancel your subscription to the private server (which auto-renews monthly).
+
+When you are ready to run your event, click `Join` under Private Servers (if you join the non-private version of the experience, you will still be able to enter the world but you will not be able to control it).
+
+* **Admin commands**: when you join your private server type `/helpadmin` in the Chat to get instructions on using the Admin Commands. You can see further details [here](https://metauni.org/posts/make-your-own/tools).
+* **Recording events**: you can activate the free camera with `Left Shift-P`, position the camera to view what you want to record, and then record your screen using software such as [Camtasia](https://www.techsmith.com/video-editor.html).
+
 ## Future roadmap
 
 We hope to implement the following features in private servers:
