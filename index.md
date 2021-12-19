@@ -44,7 +44,7 @@ Coming in January 2022:
 
 ## Run your own
 
-Want to run your own metauni-style events? You can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). However, the simplest way is to use one of our private servers which should "just work":
+We think of **meta**uni as being meta in the sense of Metaverse, but also meta in the sense that it is self-referential: we want to teach you to build your own community. If you want to run your own metauni-style events and feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). However, the simplest way is to use one of our private servers which should "just work":
 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
