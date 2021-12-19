@@ -24,6 +24,10 @@ When you are ready to run your event, click `Join` under Private Servers (if you
 * **Admin commands**: when you join your private server type `/helpadmin` in the Chat to get instructions on using the Admin Commands. You can see further details [here](https://metauni.org/posts/make-your-own/tools).
 * **Recording events**: you can activate the free camera with `Left Shift-P`, position the camera to view what you want to record, and then record your screen using software such as [Camtasia](https://www.techsmith.com/video-editor.html).
 
+Running a private server comes with responsibilities, as spelled out in the terms of service of Roblox. You should therefore familiarise yourself with the [Roblox rules](https://metauni.org/posts/rules/rules) and [Discord Terms of Service](https://discord.com/terms) at the risk of getting your account locked or banned. If you observe users breaking Roblox rules, for example harrassing other users or engaing in offensive behaviour, you should **report them using the Roblox tools** that can be accessed via `Escape`.
+
+For less serious matters use the Admin Commands. Please note that **some usages of the whiteboards** fall outside the Roblox rules (for example, the whiteboards should not be used as an alternative chat system, or used to post Discord links, URLs or offensive images, or in general to bypass the Roblox filtration system). We advise that you keep your private server turned off when not in use, and disable boards with `/boards off` when an administrator is not present.
+
 ## Future roadmap
 
 We hope to implement the following features in private servers:
