@@ -50,7 +50,7 @@ While metauni is meta in the sense of being *in the Metaverse*, it is also meta 
 
 Setup is easy: on the Roblox page click on the `Servers` and `Create Private Server`. For further instructions see the [private servers](http://metauni.org/posts/events/events) page.
 
-## Why metauni?
+## Why?
 
 We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
 
