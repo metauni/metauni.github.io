@@ -48,7 +48,7 @@ While metauni is meta in the sense of being *in the Metaverse*, it is also meta 
 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
-Setup is easy: on the Roblox page click on the `Servers` and `Create Private Server`. For further instructions see the [private servers](http://metauni.org/posts/events/events) page.
+Setup is easy: on the Roblox page click on the `Servers` and `Create Private Server`. For further instructions see the [private servers](http://metauni.org/posts/private/private) page.
 
 ## Why?
 
