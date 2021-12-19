@@ -14,7 +14,7 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for notifications. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The [metaboard](https://github.com/metauni/metaboard) is open source. You can [host your own](https://metauni.org/posts/private/private) metauni-style events.
+Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announcements. If you want to see something *right now* check out the talking boards in [Landau-Ginzburg](https://www.roblox.com/games/6461013759/metauni-LC001) or climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The [metaboard](https://github.com/metauni/metaboard) is open source. You can [host your own](https://metauni.org/posts/private/private) metauni-style events.
 
 ## metauni Day
 
@@ -41,6 +41,14 @@ Coming in January 2022:
 * **SLT**: Singular Learning Theory.
 * **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
+
+## Run your own
+
+Want to run your own metauni-style events? You can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). However, the simplest way is to use one of our private servers which should "just work":
+
+- [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
+
+For further instructions see the [private servers](http://metauni.org/posts/events/events) page.
 
 ## Why metauni?
 
