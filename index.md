@@ -64,7 +64,7 @@ We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne,
 
 Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
 
-Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin) and [Lianda](https://en.wikipedia.org/wiki/National_Southwestern_Associated_University).
+Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin), [Lianda](https://en.wikipedia.org/wiki/National_Southwestern_Associated_University) and [Sabishii University](https://www.kimstanleyrobinson.info/content/shabishii).
 
 ## History
 
