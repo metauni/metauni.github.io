@@ -53,7 +53,7 @@ However, the simplest way is to use one of our private servers which "just work"
 - [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with metaboard, Admin Commands. `Free`.
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)). `100 Robux/month`.
 
-Setup is easy: on the Roblox page click on the `Servers` and `Create Private Server`. For further instructions see the [private servers](http://metauni.org/posts/private/private) page.
+Setup is easy: click on the `Servers` and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page.
 
 ## Why?
 
