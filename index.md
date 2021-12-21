@@ -48,7 +48,8 @@ Coming in January 2022:
 
 While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to teach you how to build your own community like metauni. If you want to run your own metauni-style events and feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). However, the simplest way is to use one of our private servers which should "just work":
 
-- [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
+- [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with working boards, Admin Commands. `Free`.
+- [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)). `100 Robux/month`.
 
 Setup is easy: on the Roblox page click on the `Servers` and `Create Private Server`. For further instructions see the [private servers](http://metauni.org/posts/private/private) page.
 
