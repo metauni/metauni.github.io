@@ -44,14 +44,16 @@ Coming in January 2022:
 * **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
-## Run your own
+## Build your own
 
-While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to teach you how to build your own community like metauni. The simplest way is to use one of our private servers:
+While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to help you how to build your own community like metauni. The simplest way is to use one of our private servers:
 
 - [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with metaboard, Admin Commands. `Free`.
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
-Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page. If you feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). 
+Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page. 
+
+If you feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). 
  
 ## Why?
 
@@ -99,6 +101,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 2/12/2021 - Server prioritisation by BenSBk (allows groups to travel together during events through teleports).
 * 9/12/2021 - First open source [release](https://github.com/metauni/metaboard) of the metauni boards.
 * 18/12/2021 - Started work on [private servers](https://metauni.org/posts/private/private).
+* 23/12/2021 - First release of persistent boards.
 
 Music in the Rising Sea:
 
