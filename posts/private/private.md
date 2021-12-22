@@ -16,7 +16,7 @@ The private servers currently available:
 - [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with persistent whiteboards, Admin Commands. `Free`.
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with working boards, Admin commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
-Persistent whiteboards will retain their contents even when the server shuts down.
+Persistent whiteboards will **retain their contents** even when the server shuts down. If you don't want strangers defacing your persistent whiteboards while you're not there, turn them off (use the `/boards off` admin command before you leave the experience).
 
 ## Instructions
 
