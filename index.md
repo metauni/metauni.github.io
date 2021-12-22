@@ -46,15 +46,13 @@ Coming in January 2022:
 
 ## Run your own
 
-While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to teach you how to build your own community like metauni. If you want to run your own metauni-style events and feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). 
-
-However, the simplest way is to use one of our private servers which "just work":
+While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to teach you how to build your own community like metauni. The simplest way is to use one of our private servers:
 
 - [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with metaboard, Admin Commands. `Free`.
-- [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)). `100 Robux/month`.
+- [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 
-Setup is easy: click on the `Servers` and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page.
-
+Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page. If you feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). 
+ 
 ## Why?
 
 We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
