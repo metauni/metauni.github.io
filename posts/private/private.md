@@ -20,13 +20,11 @@ Persistent whiteboards will retain their contents even when the server shuts dow
 
 ## Instructions
 
-On the Roblox page for one of the private servers (e.g. [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept)) click on the `Servers` and `Create Private Server`. You can find your private server by either navigating to the Roblox page for the experience and returning to the `Server` tab, or under `Inventory > Private Servers` (see the left hand side of the Roblox homepage, under the hamburger menu). The Inventory is also where you can cancel your subscription to the private server (which auto-renews monthly).
+On the Roblox page for one of the private servers (e.g. [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept)) click on the `Servers` and `Create Private Server`. You can find your private server by either navigating to the Roblox page for the experience and returning to the `Server` tab, or under `Inventory > Private Servers` (see the left hand side of the Roblox homepage, under the hamburger menu). The Inventory is also where you can cancel your subscription to the private server (which auto-renews monthly). When you are ready to run your event, click `Join` under Private Servers. 
 
 You can configure your private server at the time of creation, or later by clicking the `...` button on the `Servers` tab of the experience. On the configuration page you will find `Allow Joining` which toggles the private server on and off, and the controls which set who can access the private server. In the image below, the private server is set to be accessible to all friends, to two specific users who are not friends, and to anyone who has the link code (regardless of whether or not they are friends of the owner of the private server). Note that **turning off the private server will invalidate old link codes**.
 
 ![](privateserver1.png)
-
-When you are ready to run your event, click `Join` under Private Servers. 
 
 ## Running a private server
 
