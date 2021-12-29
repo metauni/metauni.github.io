@@ -52,9 +52,7 @@ While metauni is meta in the sense of being *in the Metaverse*, it is also meta 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 - [Random Concept](https://www.roblox.com/games/8343896302/Random-Concept) with persistent whiteboards, Admin Commands, 8-fold board, Weiqi board. `Free`.
 
-Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page. 
-
-If you feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools) and instructions for setting up the Discord bot [here](https://metauni.org/posts/make-your-own/make-your-own). 
+Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page.  If you feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools).
  
 ## Why?
 
