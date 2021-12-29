@@ -36,6 +36,8 @@ Running a private server comes with responsibilities. You should familiarise you
 * **Crowd management**: if someone is behaving badly, you can kick them by typing `/kick username` in the Chat. Note that to find the true username of a player (as opposed to their displayed name) you may have to click on their name on the leaderboard (to the right hand side of the screen) and look for something like `@realusername`.
 * **Supervised boards**: If your private server is accessible to strangers (e.g. you have shared the Private Server Link URL) we recommend you turn the boards off when you leave using the `/boards off` and enable them when you return with `/boards on`.
 
+Note that there is a Roblox "bug", where clicking `Join` on the mouseover menu when viewing a Friend on the Roblox homepage, will join the experience but not the particular private server that your friend is in (if they are in a private server).
+
 ## Future roadmap
 
 We hope to implement the following features in private servers:
