@@ -88,7 +88,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 10/2/2021 - [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox (construction [video](https://youtu.be/wWtrTFI4ppc)).
 * 11/2/2021 - [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by JC).
 * 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
-* 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
+* 18/2/2021 - New administration features: kick, ban, control of whiteboard access (by BP).
 * 25/2/2021 - First public release of AdminCommands (by BP).
 * 1/5/2021 - Updated whiteboards, new replay feature (by JC).
 * 16/7/2021 - Public debut of the talking boards and the [locus](https://metauni.org/posts/loci/loci) concept.
