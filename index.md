@@ -99,8 +99,10 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 21/11/2021 - Personal whiteboards now support VR, and board subscriptions ([demo](https://youtu.be/brNGewzskBY)).
 * 2/12/2021 - Server prioritisation by BenSBk (allows groups to travel together during events through teleports).
 * 9/12/2021 - First open source [release](https://github.com/metauni/metaboard) of the metauni boards.
-* 18/12/2021 - Started work on [private servers](https://metauni.org/posts/private/private).
+* 18/12/2021 - First release of [private servers](https://metauni.org/posts/private/private).
 * 23/12/2021 - First release of persistent boards.
+* 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
+* 29/12/2021 - Re-release of the [admin commands](https://github.com/metauni/admin) and update to use new boards.
 
 Music in the Rising Sea:
 
