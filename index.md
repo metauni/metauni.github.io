@@ -22,7 +22,7 @@ We meet each Thursday for seminars (times are AEDT).
 
 To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
-**HOLIDAY schedule**: no sessions on the 30th.
+**Into 2022**: sessions resume on the 6th of January.
 
 * **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org).
 * **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
