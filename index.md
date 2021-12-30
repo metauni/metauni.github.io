@@ -28,14 +28,14 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 * **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
 * **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption
-* **Code/Remix 1:00-2:00**: the joy of building stuff. Join in as we experiment with code, music and math in virtual worlds.
+* **Code 1:00-2:00**: learning by building. Join in as we livestream building metauni and other experiments.
 
 Videos from previous weeks:
 
 * *Euclid's Elements*: [seminar 2](https://youtu.be/VO6QPT8Ubcc), [seminar 3](https://youtu.be/4yLm7Wcj6zg), [seminar 6](https://youtu.be/8P5Q-YdPBB0), [seminar 7](https://youtu.be/J3NUps3RjWU), [seminar 8](https://youtu.be/YGeSrBkxIoc).
 * *Foundations*: [seminar 2](https://youtu.be/BxFr891R2k0), [seminar 3](https://youtu.be/sKJ5kbqYBBQ), [seminar 6](https://youtu.be/fpIXJ_X4XDM), [seminar 7](https://youtu.be/QfNGjmP65Fw), [seminar 8](https://youtu.be/kMhX5f0UN44).
 * *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg), [seminar 6](https://youtu.be/kzxozwtvTCo), [seminar 7](https://youtu.be/8geMAz9hlSA).
-* *Code/Remix*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard, [seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires, [seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice.
+* *Code*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard, [seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires, [seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice.
 * *Guest speakers*: Ethan Curtiss (AstroCode) on [Fourier series](https://youtu.be/F1gdI2eWqc8).
 
 Coming in January 2022:
