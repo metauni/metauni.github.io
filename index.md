@@ -85,9 +85,8 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 27/1/2021 - Social media accounts up and running (LC on Instagram, DM on Twitter).
 * 31/1/2021 - Added new talk area for Ziling Ye's event (The Island).
 * 1/2/2021 - Working whiteboards (by JC) and a new talk area (the Music Tower) for Lucas's event.
-* 6/2/2021 - Persistent Weiqi board added (construction [video](https://youtu.be/wWtrTFI4ppc)).
-* 10/2/2021 - metauni [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox.
-* 11/2/2021 - metauni [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by JC).
+* 10/2/2021 - [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox (construction [video](https://youtu.be/wWtrTFI4ppc)).
+* 11/2/2021 - [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by JC).
 * 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
 * 18/2/2021 - New administration features: kick, ban, control of whiteboard access (use `/?admin` to see instructions) (by BP).
 * 25/2/2021 - First public release of AdminCommands (by BP).
