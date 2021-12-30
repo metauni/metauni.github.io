@@ -97,8 +97,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 4/11/2021 - Debut of the "What's On" board in the metauni hub.
 * 11/11/2021 - First VR test in a live event.
 * 21/11/2021 - Personal whiteboards now support VR, and board subscriptions ([demo](https://youtu.be/brNGewzskBY)).
-* 2/12/2021 - Server prioritisation by BenSBk (allows groups to travel together during events through teleports).
-* 9/12/2021 - First open source [release](https://github.com/metauni/metaboard) of the metauni boards.
+* 9/12/2021 - First open source of the [metaboard](https://github.com/metauni/metaboard).
 * 18/12/2021 - First release of [private servers](https://metauni.org/posts/private/private).
 * 23/12/2021 - First release of persistent boards.
 * 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
