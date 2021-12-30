@@ -48,7 +48,7 @@ Coming in January 2022:
 
 While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to help you how to build your own community like metauni. The simplest way is to use one of our private servers:
 
-- [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with metaboard, Admin Commands. `Free`.
+- [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with persistent metaboards, Admin Commands. `Free`.
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)).
 - [Random Concept](https://www.roblox.com/games/8343896302/Random-Concept) with persistent whiteboards, Admin Commands, 8-fold board, Weiqi board. `Free`.
 
