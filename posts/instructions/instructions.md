@@ -14,7 +14,7 @@ This setup should work on PC, Mac, iOS, Android and VR headsets like the Oculus 
 
 ## Roblox voice chat
 
-The built-in Roblox voice chat is called *spatial voice*. To set it up you will need 5-10 minutes and a photo ID.
+The built-in Roblox voice chat is called *spatial voice*. To set it up you will need 5-10 minutes and a photo ID showing you are at least 13 years old.
 
 - Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
 - Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page.
