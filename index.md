@@ -22,13 +22,23 @@ We meet each Thursday for seminars (times are AEDT).
 
 To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
-**Into 2022**: sessions resume on the 6th of January.
+**Schedule for Jan 6th**: organisational meetings and re-runs.
+
+* **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org).
+* **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*re-runs for recordings*).
+* **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems  (*re-runs for recordings*).
+* **Code 1:00-2:00**: learning by building. Join in as we livestream building metauni and other experiments (*organisational meeting*).
+
+**Normal schedule from Jan 13th**:
 
 * **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org).
 * **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
 * **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption
 * **Code 1:00-2:00**: learning by building. Join in as we livestream building metauni and other experiments.
+* **SLT**: Singular Learning Theory.
+* **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models.
+* **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
 Videos from previous weeks:
 
@@ -37,12 +47,6 @@ Videos from previous weeks:
 * *Science of Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg), [seminar 6](https://youtu.be/kzxozwtvTCo), [seminar 7](https://youtu.be/8geMAz9hlSA).
 * *Code*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard, [seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires, [seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice.
 * *Guest speakers*: Ethan Curtiss (AstroCode) on [Fourier series](https://youtu.be/F1gdI2eWqc8).
-
-Coming in January 2022:
-
-* **SLT**: Singular Learning Theory.
-* **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models.
-* **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
 ## Build your own
 
