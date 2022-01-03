@@ -1,6 +1,8 @@
 # Instructions
 
-Localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are the instructions:
+## Roblox & Discord
+
+Localised voice chat in metauni is based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are the instructions for installing Roblox, Discord and the integration between them:
 
 1. Create [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com) accounts and install both programs.
 2. Enter the Discord server (the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
@@ -10,7 +12,16 @@ Localised voice chat in metauni is based on [Discord](https://www.discord.com), 
 
 This setup should work on PC, Mac, iOS, Android and VR headsets like the Oculus Quest 2 (you currently need to connect it to a PC, either by a cable or Air Link). You can run the Discord and Roblox applications on different devices: for example, it is quite convenient to run Discord on your phone and Roblox on your PC or Laptop.
 
-Some notes on in-game controls and features:
+## Roblox voice chat
+
+The built-in Roblox voice chat is called *spatial voice*. To set it up you will need 5-10 minutes and a photo ID.
+
+- Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
+- Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page.
+
+The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-).
+
+## Helpful hints
 
 * The translucent boxes are *voice chat zones* which transition your Discord into a specific voice channel when entered. Leaving the zone will not remove you from the channel. If you want to return to the General voice channel, click the "Reset" in the top right hand corner of your GUI.
 
