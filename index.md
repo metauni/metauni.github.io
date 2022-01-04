@@ -22,21 +22,19 @@ We meet each Thursday for seminars (times are AEDT).
 
 To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
-**Schedule for Jan 6th**: organisational meetings, re-runs and Roblox voice-chat trial (see [instructions](https://metauni.org/posts/instructions/instructions) if you need to set it up).
+**2022 schedule**: note that the 6-1-2022 sessions will be voice-chat trials (see [instructions](https://metauni.org/posts/instructions/instructions) if you need to set it up).
 
-* **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org).
-* **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*re-runs for recordings*).
-* **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems  (*re-runs for recordings*).
-* **Code 1:00-2:00**: learning by building. Join in as we livestream building metauni and other experiments (*organisational meeting*).
-
-**Normal schedule from Jan 13th**:
-
-* **Office hours 9:30-10:30**  (*Daniel Murfet*): universal office hours for the [Rising Sea](http://therisingsea.org).
+* **Foundations 9:00-10:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
+* **Tea break 10:00-10:30**
 * **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
-* **Foundations 11:00-12:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
-* **Science of Disruption 12:00-1:00** (*Adam Dorr*): a seminar on technological disruption
-* **Code 1:00-2:00**: learning by building. Join in as we livestream building metauni and other experiments.
-* **SLT**: Singular Learning Theory.
+* **SLT 11:00-12:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
+* **Tea break 12:00-12:30**
+* **Science of Disruption 12:30-1:00** (*Adam Dorr*): a seminar on technological disruption
+* **Code 1:00-2:30**: learning by building. Join in as we livestream building metauni and other experiments.
+* **SLT 2:30-3:00**: Supplementary material (*not running 6-1-2022*).
+
+Evening session:
+
 * **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
