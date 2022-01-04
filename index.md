@@ -31,7 +31,7 @@ We meet each Thursday for seminars (times are AEDT). To join put yourself in the
 * **Code 1:00-1:45**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
 * **Tea break 1:45-2:00**
 * **Metauni-dev 2:00-2:30**: development meeting (*as normal 6-1-2022*).
-* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*as normal 6-1-2022*).
+* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
 
 Evening session:
 
