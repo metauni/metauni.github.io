@@ -22,21 +22,21 @@ We meet each Thursday for seminars (times are AEDT). To join put yourself in the
 
 **Tentative 2022 schedule:** the 6-1-2022 sessions will use *Roblox voice-chat* as a trial (see [instructions](https://metauni.org/posts/instructions/instructions)).
 
-* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
+* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
 * **Tea break 10:00-10:30**
-* **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*repeat of early Propositions*).
+* **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*6-1-2022 re-runs for recording*).
 * **SLT 11:00-12:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
 * **Tea break 12:00-12:30**
 * **SLT 12:30-1:00**: Singular Learning Theory Supplementary material (*not running 6-1-2022*).
-* **Code 1:00-1:45**: learning by building. Join in as we livestream building metauni and other experiments. 
+* **Code 1:00-1:45**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
 * **Tea break 1:45-2:00**
-* **Metauni-dev 2:00-2:30**: development meeting.
-* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption.
+* **Metauni-dev 2:00-2:30**: development meeting (*as normal 6-1-2022*).
+* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*as normal 6-1-2022*).
 
 Evening session:
 
-* **LG 9:00-10:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
-* **Cryptography 10:00-11:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
+* **LG 9:00-10:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
+* **Cryptography 10:00-11:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
 
 Videos from previous weeks:
 
