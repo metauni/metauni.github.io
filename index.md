@@ -18,11 +18,9 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announc
 
 ## metauni Day
 
-We meet each Thursday for seminars (times are AEDT). 
+We meet each Thursday for seminars (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
-To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
-
-**2022 schedule**: note that the 6-1-2022 sessions will be voice-chat trials (see [instructions](https://metauni.org/posts/instructions/instructions) if you need to set it up).
+**Note** that the 6-1-2022 sessions will be run in *Roblox voice-chat* as a trial (see [instructions](https://metauni.org/posts/instructions/instructions) if you need to set it up).
 
 * **Foundations 9:00-10:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Tea break 10:00-10:30**
@@ -35,8 +33,8 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 
 Evening session:
 
-* **LG**: on matrix factorisations and the bicategory of Landau-Ginzburg models.
-* **Cryptography**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
+* **LG 9:00-10:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
+* **Cryptography 10:00-11:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
 Videos from previous weeks:
 
