@@ -20,7 +20,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announc
 
 We meet each Thursday for seminars (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
 
-**Tentative 2022 schedule:** **Note** that the 6-1-2022 sessions will be run in *Roblox voice-chat* as a trial (see [instructions](https://metauni.org/posts/instructions/instructions) if you need to set it up).
+**Tentative 2022 schedule:** the 6-1-2022 sessions will use *Roblox voice-chat* as a trial (see [instructions](https://metauni.org/posts/instructions/instructions)).
 
 * **Foundations 9:00-10:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Tea break 10:00-10:30**
