@@ -24,11 +24,11 @@ We meet each Thursday for seminars (times are AEDT). To join put yourself in the
 
 * **Foundations 9:00-10:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Tea break 10:00-10:30**
-* **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
+* **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*repeat of early Propositions*).
 * **SLT 11:00-12:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
 * **Tea break 12:00-12:30**
 * **SLT 12:30-1:00** Singular Learning Theory Supplementary material (*not running 6-1-2022*).
-* **Code 1:00-2:30**: learning by building. Join in as we livestream building metauni and other experiments.
+* **Code 1:00-2:30**: learning by building. Join in as we livestream building metauni and other experiments .
 * **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption.
 
 Evening session:
