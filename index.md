@@ -22,7 +22,7 @@ We meet each Thursday for seminars (times are AEDT). To join put yourself in the
 
 **Tentative 2022 schedule:** the 6-1-2022 sessions will use *Roblox voice-chat* as a trial (see [instructions](https://metauni.org/posts/instructions/instructions)).
 
-* **Foundations 9:00-10:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
+* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Tea break 10:00-10:30**
 * **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*repeat of early Propositions*).
 * **SLT 11:00-12:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
