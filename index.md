@@ -37,6 +37,7 @@ Evening session:
 
 * **LG 9:00-10:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography 10:00-11:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
+* **Metauni-dev 11:00-11:30**: development meeting.
 
 Videos from previous weeks:
 
