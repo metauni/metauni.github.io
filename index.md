@@ -24,7 +24,7 @@ To join put yourself in the `General` voice channel in the TRS Discord, enter th
 
 **2022 schedule**: note that the 6-1-2022 sessions will be voice-chat trials (see [instructions](https://metauni.org/posts/instructions/instructions) if you need to set it up).
 
-* **Foundations 9:00-10:00** (*Will Troiani, Billy Price*): on the nature of mathematical objects, logic, Gödel's theorems.
+* **Foundations 9:00-10:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems.
 * **Tea break 10:00-10:30**
 * **Euclid 10:30-11:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
 * **SLT 11:00-12:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
