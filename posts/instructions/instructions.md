@@ -19,7 +19,7 @@ The built-in Roblox voice chat is called *spatial voice*. To set it up you will 
 - Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
 - Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page.
 
-The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-).
+The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Please note that voice cancellation is not as reliable with Roblox's voice chat as it is in Discord, so **please make sure to use headphones**.
 
 ## Helpful hints
 
