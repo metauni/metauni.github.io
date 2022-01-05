@@ -37,8 +37,10 @@ Times are given as offsets from the beginning of the block, which is: 9pm Wednes
 
 **Elf block**:
 
-* **LG 9:00-10:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
-* **Cryptography 10:00-11:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
+Times are given as offsets from the beginning of the block, which is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
+
+* **LG 0:00-1:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
+* **Cryptography 1:00-2:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
 
 Videos from previous weeks:
 
