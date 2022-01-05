@@ -18,9 +18,11 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announc
 
 ## metauni Day
 
-We meet each Thursday for seminars (times are AEDT). To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. If this is your first time you might find the [instructions](https://metauni.org/posts/instructions/instructions) useful.
+We meet once a week for seminars. To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. The 6-1-2022 sessions will use *Roblox voice-chat* as a trial, see the [instructions](https://metauni.org/posts/instructions/instructions).
 
-**Tentative 2022 schedule:** the 6-1-2022 sessions will use *Roblox voice-chat* as a trial (see [instructions](https://metauni.org/posts/instructions/instructions)).
+Times are given as **offsets** from the beginning of the event, which is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
+
+**Dwarf block**:
 
 * **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
 * **Tea break 9:00-9:30**
@@ -33,7 +35,7 @@ We meet each Thursday for seminars (times are AEDT). To join put yourself in the
 * **Metauni-dev 1:30-2:30**: development meeting (*as normal 6-1-2022*).
 * **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
 
-Evening session:
+**Elf block**:
 
 * **LG 9:00-10:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
 * **Cryptography 10:00-11:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
