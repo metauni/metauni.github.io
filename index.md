@@ -20,20 +20,20 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announc
 
 We meet once a week for seminars. To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. The 6-1-2022 sessions will use *Roblox voice-chat* as a trial, see the [instructions](https://metauni.org/posts/instructions/instructions).
 
-Times are given as **offsets** from the beginning of the event, which is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
-
 **Dwarf block**:
 
-* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
-* **Tea break 9:00-9:30**
-* **Euclid 9:30-10:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*6-1-2022 re-runs for recording*).
-* **SLT 10:00-11:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
-* **Tea break 11:00-11:30**
-* **SLT 11:30-12:00**: Singular Learning Theory Supplementary material (*not running 6-1-2022*).
-* **Code 12:00-1:00**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
+Times are given as offsets from the beginning of the block, which is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
+
+* **Foundations 0:00-1:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
 * **Tea break 1:00-1:30**
-* **Metauni-dev 1:30-2:30**: development meeting (*as normal 6-1-2022*).
-* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
+* **Euclid 1:30-2:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*6-1-2022 re-runs for recording*).
+* **SLT 2:00-3:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
+* **Tea break 3:00-3:30**
+* **SLT 3:30-4:00**: Singular Learning Theory Supplementary material (*not running 6-1-2022*).
+* **Code 4:00-5:00**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
+* **Tea break 5:00-5:30**
+* **Metauni-dev 5:30-6:30**: development meeting (*as normal 6-1-2022*).
+* **Science of Disruption 6:30-7:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
 
 **Elf block**:
 
