@@ -39,7 +39,7 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 
 Times are given on Thursday AEDT, the beginning of the block is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
 
-* **LG 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Dan Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
+* **Landau-Ginzburg 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Dan Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
 Videos from previous weeks:
