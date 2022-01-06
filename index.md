@@ -24,16 +24,16 @@ We meet once a week for seminars. To join put yourself in the `General` voice ch
 
 Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
 
-* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
+* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
-* **Euclid 9:30-10:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*6-1-2022 re-runs for recording*).
-* **SLT 10:00-11:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
+* **Euclid 9:30-10:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
+* **SLT 10:00-11:00**: Singular Learning Theory.
 * **Tea break 11:00-11:30**
-* **SLT 11:30-12:00**: Singular Learning Theory Supplementary material (*not running 6-1-2022*).
-* **Code 12:00-1:00**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
+* **SLT 11:30-12:00**: Singular Learning Theory Supplementary material.
+* **Code 12:00-1:00**: learning by building. Join in as we livestream building metauni and other experiments.
 * **Tea break 1:00-1:30**
-* **Metauni-dev 1:30-2:30**: development meeting (*as normal 6-1-2022*).
-* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
+* **#metauni-dev 1:30-2:30**: development meeting.
+* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption.
 
 **Elf block**:
 
