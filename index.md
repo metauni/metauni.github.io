@@ -33,7 +33,7 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 * **Code 12:00-1:00**: livestreaming the construction of metauni.
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting.
-* **Science of Disruption 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
+* **Disruption 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
 
 **Elf block**:
 
