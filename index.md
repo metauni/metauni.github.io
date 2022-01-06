@@ -24,7 +24,7 @@ We meet once a week for seminars. To join put yourself in the `General` voice ch
 
 Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
 
-* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems
+* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
 * **Euclid 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
 * **Singular Learning Theory 10:00-11:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singularities are knowledge.
@@ -33,7 +33,7 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 * **Code 12:00-1:00**: livestreaming the construction of metauni.
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting.
-* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption.
+* **Science of Disruption 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
 
 **Elf block**:
 
