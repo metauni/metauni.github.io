@@ -22,25 +22,25 @@ We meet once a week for seminars. To join put yourself in the `General` voice ch
 
 **Dwarf block**:
 
-Times are given as offsets from the beginning of the block, which is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
+Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
 
-* **Foundations 0:00-1:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
+* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems (*6-1-2022 re-runs for recording*)
+* **Tea break 9:00-9:30**
+* **Euclid 9:30-10:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*6-1-2022 re-runs for recording*).
+* **SLT 10:00-11:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
+* **Tea break 11:00-11:30**
+* **SLT 11:30-12:00**: Singular Learning Theory Supplementary material (*not running 6-1-2022*).
+* **Code 12:00-1:00**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
 * **Tea break 1:00-1:30**
-* **Euclid 1:30-2:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards (*6-1-2022 re-runs for recording*).
-* **SLT 2:00-3:00**: Singular Learning Theory (*organisational meeting 6-1-2022*).
-* **Tea break 3:00-3:30**
-* **SLT 3:30-4:00**: Singular Learning Theory Supplementary material (*not running 6-1-2022*).
-* **Code 4:00-5:00**: learning by building. Join in as we livestream building metauni and other experiments (*as normal 6-1-2022*).
-* **Tea break 5:00-5:30**
-* **Metauni-dev 5:30-6:30**: development meeting (*as normal 6-1-2022*).
-* **Science of Disruption 6:30-7:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
+* **Metauni-dev 1:30-2:30**: development meeting (*as normal 6-1-2022*).
+* **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption (*not running 6-1-2022*).
 
 **Elf block**:
 
-Times are given as offsets from the beginning of the block, which is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
+Times are given on Thursday AEDT, the beginning of the block is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
 
-* **LG 0:00-1:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
-* **Cryptography 1:00-2:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
+* **LG 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
+* **Cryptography 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
 
 Videos from previous weeks:
 
