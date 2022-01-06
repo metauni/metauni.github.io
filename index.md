@@ -26,10 +26,10 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 
 * **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
-* **Euclid 9:30-10:00** (*Kenneth Chan, Daniel Murfet*): Euclid's Elements on virtual blackboards.
-* **SLT 10:00-11:00**: Singular Learning Theory.
+* **Euclid 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
+* **SLT 10:00-11:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singular Learning Theory.
 * **Tea break 11:00-11:30**
-* **SLT 11:30-12:00**: Singular Learning Theory Supplementary material.
+* **SLT 11:30-12:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singular Learning Theory Supplementary material.
 * **Code 12:00-1:00**: learning by building. Join in as we livestream building metauni and other experiments.
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting.
@@ -39,8 +39,8 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 
 Times are given on Thursday AEDT, the beginning of the block is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
 
-* **LG 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Daniel Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models (*organisational meeting 6-1-2022*).
-* **Cryptography 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*not running 6-1-2022*).
+* **LG 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Dan Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
+* **Cryptography 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
 Videos from previous weeks:
 
