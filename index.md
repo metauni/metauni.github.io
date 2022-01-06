@@ -27,10 +27,10 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 * **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): on the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
 * **Euclid 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
-* **SLT 10:00-11:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singular Learning Theory.
+* **Singular Learning Theory 10:00-11:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singularities are knowledge.
 * **Tea break 11:00-11:30**
-* **SLT 11:30-12:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singular Learning Theory Supplementary material.
-* **Code 12:00-1:00**: learning by building. Join in as we livestream building metauni and other experiments.
+* **SLT supplemental 11:30-12:00** (*Edmund Lau, Liam Carroll, Ken Chan*).
+* **Code 12:00-1:00**: livestreaming the construction of metauni.
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting.
 * **Science of Disruption 2:30-3:00** (*Adam Dorr*): a seminar on technological disruption.
