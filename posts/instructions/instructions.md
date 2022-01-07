@@ -1,6 +1,6 @@
 # Instructions
 
-Metauni is built on top of [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation. Roblox is necessary, Discord is optional (but fun!). It should work on PC, Mac, iOS and Android. To set up spatial voice, Roblox's voice chat, you will need 5-10 minutes and a photo ID showing that you are at least 13 years old.
+Metauni is built on top of [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation. Roblox is necessary, Discord is optional (but fun!). Both applications can be used on PC, Mac, iOS and Android. To set up spatial voice, Roblox's voice chat, you will need 5-10 minutes and a photo ID showing that you are at least 13 years old.
 
 1. Create a [Roblox](https://www.roblox.com/) account.
 2. Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
