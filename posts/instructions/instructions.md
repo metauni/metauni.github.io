@@ -5,7 +5,7 @@ Metauni is built on top of [Roblox](https://www.roblox.com/) for the 3D virtual 
 1. Create a [Roblox](https://www.roblox.com/) account.
 2. Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
 3. Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page.
-4. Try it out by entering the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub)). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
+4. Enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
 
 To use Discord:
 
