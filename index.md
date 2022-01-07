@@ -1,4 +1,4 @@
-Metauni is a growing community of scholars in the Metaverse, built in a 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) using [open source tools](https://metauni.org/posts/open/open) such as whiteboards scripted in Luau. We use [Discord](https://www.discord.com) for community discussion and organisation. Access is possible on PC, Mac, iOS, and Android. It's easy to sign up, See the see the [instructions](https://metauni.org/posts/instructions/instructions).
+Metauni is a growing community of scholars in the Metaverse, built in a 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) using [open source tools](https://metauni.org/posts/open/open) such as whiteboards scripted in Luau. We use [Discord](https://www.discord.com) for community discussion and organisation. Access is possible on PC, Mac, iOS, and Android (you need to be 13+ for voice chat). It's easy to sign up, See the see the [instructions](https://metauni.org/posts/instructions/instructions).
 
 <p align="center">
   <a href="https://twitter.com/_metauni">Twitter</a> |
@@ -16,11 +16,9 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announc
 
 ## metauni Day
 
-We meet once a week for seminars. To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board.
+We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board.
 
-**Dwarf block**:
-
-Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
+**Dwarf block**: Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京.
 
 * **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
@@ -33,9 +31,7 @@ Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday U
 * **#metauni-dev 1:30-2:30**: development meeting.
 * **Disruption 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
 
-**Elf block**:
-
-Times are given on Thursday AEDT, the beginning of the block is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
+**Elf block**: Times are given on Thursday AEDT, the beginning of the block is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京.
 
 * **Landau-Ginzburg 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Dan Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
