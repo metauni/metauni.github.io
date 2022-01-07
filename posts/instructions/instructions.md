@@ -12,14 +12,18 @@ Localised voice chat in metauni is based on [Discord](https://www.discord.com), 
 
 This setup should work on PC, Mac, iOS, Android and VR headsets like the Oculus Quest 2 (you currently need to connect it to a PC, either by a cable or Air Link). You can run the Discord and Roblox applications on different devices: for example, it is quite convenient to run Discord on your phone and Roblox on your PC or Laptop.
 
-## Roblox voice chat
+## Spatial voice (Roblox voice chat)
 
 The built-in Roblox voice chat is called *spatial voice*. To set it up you will need 5-10 minutes and a photo ID showing you are at least 13 years old.
 
 - Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
 - Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page.
 
-The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Please note that voice cancellation is not as reliable with Roblox's voice chat as it is in Discord, so **please make sure to use headphones**.
+The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Roblox says that they never store "raw ID document data" but in order to verify your age, they send the picture of the government-issued ID that you upload to a third-party company called Veriff ([FAQ](https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs)). They say in the FAQ that "Information uploaded to Veriff is retained for a period of 90 days. After this period, the uploaded data is removed from Veriff." 
+
+It is worth reading Veriff's [privacy policy](https://www.veriff.com/privacy-policy).
+
+> A human will be involved if the automated verification tool (the Robot) is not able to reach a decision on its own. This may occur, when the picture is blurry or the Robot runs into some other difficulty in analysing the verification session.. In the case of fully automated decision-making, where the decision has a significant effect on you, we will be transparent about such processing.
 
 ## Helpful hints
 
