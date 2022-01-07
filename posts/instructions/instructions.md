@@ -42,17 +42,3 @@ To write on a metaboard we recommend using a tablet. You'll have to run Roblox o
 * You may have problems using Firefox on the Roblox site.
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon.
-
-## Does metauni violate Roblox rules?
-
-Not as we currently understand them, but see our page on [Roblox rules](http://metauni.org/posts/rules/rules) for more information.
-
-## Roblox & Discord
-
-The old system for localised voice chat in metauni was based on [Discord](https://www.discord.com), a popular real-time communication platform. Here are the instructions for installing Roblox, Discord and the integration between them:
-
-1. Create [Roblox] and [Discord](https://www.discord.com) accounts and install both programs.
-2. Enter the Discord server (the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
-3. On your first visit to the Discord server register your Roblox username with `!register John123` in the `#registration` channel where `John123` is your Roblox username.
-4. Manually enter any Discord voice channel (e.g. General). Please use headphones to avoid feedback.
-5. Enter the Roblox world by visiting its webpage and clicking on "Play" (e.g. the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub)). You will see a prompt to "Download and Install Roblox" which you can ignore: wait and the Roblox application should be launched.
