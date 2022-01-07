@@ -26,7 +26,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **Singular Learning Theory 10:00-11:00** (*Edmund Lau, Liam Carroll, Ken Chan*): Singularities are knowledge.
 * **Tea break 11:00-11:30**
 * **SLT supplemental 11:30-12:00** (*Edmund Lau, Liam Carroll, Ken Chan*).
-* **Code 12:00-1:00**: livestreaming the construction of metauni.
+* **Code 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting.
 * **Disruption 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
