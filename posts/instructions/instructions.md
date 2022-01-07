@@ -10,7 +10,9 @@ Metauni is built on top of [Roblox](https://www.roblox.com/) for the 3D virtual 
 To use Discord:
 
 1. Create a [Discord](https://www.discord.com) account.
-2. Enter the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
+2. Join the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
+
+Joining the Discord server is highly recommended, and we can help you with these instructions if you're stuck.
 
 ## More on spatial voice
 
