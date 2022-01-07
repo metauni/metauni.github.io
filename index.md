@@ -52,7 +52,7 @@ While metauni is meta in the sense of being *in the Metaverse*, it is also meta 
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)). `Free`.
 - [Random Concept](https://www.roblox.com/games/8343896302/Random-Concept) with persistent whiteboards, Admin Commands, 8-fold board, Weiqi board. `Free`.
 
-Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page.  If you feel comfortable with Roblox Studio, you can find our tools [here](https://metauni.org/posts/make-your-own/tools).
+Setup is easy: click on the `Servers` tab and `Create Private Server`. For more see the [private servers](http://metauni.org/posts/private/private) page.
  
 ## Why?
 
@@ -101,6 +101,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 23/12/2021 - First release of persistent boards.
 * 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
 * 29/12/2021 - Re-release of the [admin commands](https://github.com/metauni/admin) and update to use new boards.
+* 8/1/2022 - Switch to spatial voice for metauni events.
 
 Music in the Rising Sea:
 
