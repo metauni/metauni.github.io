@@ -12,7 +12,7 @@ Metauni is a growing community of scholars in the Metaverse, built in a 3D virtu
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announcements. If you want to see something *right now* go climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). See a problem? [File an issue](https://github.com/metauni/general/issues).
+If you want to see something *right now* go climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). See a problem? [File an issue](https://github.com/metauni/general/issues).
 
 ## metauni Day
 
