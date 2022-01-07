@@ -18,7 +18,7 @@ Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announc
 
 ## metauni Day
 
-We meet once a week for seminars. To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. The 6-1-2022 sessions will use *Roblox voice-chat* as a trial, see the [instructions](https://metauni.org/posts/instructions/instructions).
+We meet once a week for seminars. To join put yourself in the `General` voice channel in the TRS Discord, enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board.
 
 **Dwarf block**:
 
