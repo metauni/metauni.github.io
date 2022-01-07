@@ -1,6 +1,4 @@
-Metauni is a growing community of scholars in the Metaverse, based on a 3D virtual environment provided by [Roblox](https://www.roblox.com/), voice chat using [Discord](https://www.discord.com) and open source tools such as [whiteboards](https://github.com/metauni/metaboard) scripted in Luau. Access is possible on PC, Mac, iOS, Android and in VR.
-
-**Quick start**: install [Roblox](https://www.roblox.com/) and [Discord](https://www.discord.com), join the [TRS Discord](https://discord.gg/9yBaAxPSK8), message `!register John123` in the `#registration` channel where `John123` is your Roblox username, and enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub). See the [instructions](https://metauni.org/posts/instructions/instructions) for more.
+Metauni is a growing community of scholars in the Metaverse, built in a 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) using [open source tools](https://metauni.org/posts/open/open) such as whiteboards scripted in Luau. We use [Discord](https://www.discord.com) for community discussion and organisation. Access is possible on PC, Mac, iOS, and Android. It's easy to sign up, See the see the [instructions](https://metauni.org/posts/instructions/instructions).
 
 <p align="center">
   <a href="https://twitter.com/_metauni">Twitter</a> |
@@ -14,7 +12,7 @@ Metauni is a growing community of scholars in the Metaverse, based on a 3D virtu
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announcements. If you want to see something *right now* go climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The [metaboard](https://github.com/metauni/metaboard) is open source. You can see all the experiences that are part of metauni on our [group page](https://www.roblox.com/groups/13108882/metauni#!/about). See a problem? [File an issue](https://github.com/metauni/general/issues).
+Subscribe to the [mailing list](https://tinyletter.com/adminmetauni) for announcements. If you want to see something *right now* go climb the knot in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). See a problem? [File an issue](https://github.com/metauni/general/issues).
 
 ## metauni Day
 
