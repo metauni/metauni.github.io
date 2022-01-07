@@ -35,6 +35,10 @@ The official instructions are [here](https://en.help.roblox.com/hc/en-us/article
 
 You should comply with the [Roblox rules](http://metauni.org/posts/rules/rules) while on their platform, and that includes the developer rules if you are creating your own nodes. These rules are in place to protect the children who spend a lot of time in Roblox, and seem to me well-intentioned and reasonable. However this does mean that you should **refrain from using the in-game chat or images to share URLs** or post Discord information inside your node. This coordination should happen on Discord or through some other channel. Finally, *do not under any circumstances climb the knot*.
 
+## Presenter tips
+
+To write on a metaboard we recommend using a tablet. You'll have to run Roblox on that tablet, and as this can consume battery life quite rapidly, you probably want to have your tablet plugged into power during the talk.
+
 ## Troubleshooting
 
 * If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN.
