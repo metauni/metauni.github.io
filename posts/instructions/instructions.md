@@ -22,17 +22,15 @@ The installation of Discord is optional but recommended:
 
 ## The basics
 
-Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards). The controls can be changed in `Settings` accessible by pressing `Escape` or clicking on the Roblox icon in the top left hand corner of your screen.
+Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards). The controls can be changed in `Settings` accessible by pressing `Escape` or clicking on the Roblox icon in the top left hand corner of your screen. Roblox worlds (such as the metauni Hub) are referred to as *games* or *experiences*.
 
 * Roblox voice chat (spatial voice) is *positional*, which means that you only hear people when you are close to them and the volume fades to nothing as you move away. You can see who is speaking by looking for a green coloured microphone icon above their head.
 
 * When you join a game, including when you are teleported to a new place by a portal in the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub), your voice chat will be muted. You will need to click the microphone icon above your head to unmute.
 
-* The microphone status indicator above your head has the following possible states:
+* The microphone status indicator above your head has the states shown below. From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*. There is an additional state that may encounter, which looks like *loading* but with a small red triangle with an exclamation mark. This indicates some problem with the voice chat. Generall you can click the icon to reload the system and it will work, but you may have to leave and rejoin the experience.
 
 ![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
-
-From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*.
 
 * To use the in-game chat press `/`. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. See the [Roblox rules](http://metauni.org/posts/rules/rules) for mor einformation. We use Discord for this kind of communication.
 
