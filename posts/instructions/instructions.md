@@ -32,14 +32,20 @@ Roblox is a 3D game environment in which you move your character with the arrows
 
 ![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
 
+* The image below shows two metauni whiteboards (we call them *metaboards*). To use one, just click on it with your mouse or tap on it on a mobile device. In the bottom left of the image is an *orb* which is a kind of "public announcement" system for talks in metauni. If you walk up the orb you will see some prompts appear above it; follow the instructions in the prompts to *Attach as Listener*. Now even when you are away from the location of a talk, you can hear whatever the orb hears (e.g. the speaker at a board) by clicking the speaker icon on the left hand side of your screen (detach from an orb by clicking the red button).
+
+<img width="750" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
+
 * To use the in-game chat press `/`. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. See the [Roblox rules](http://metauni.org/posts/rules/rules) for mor einformation. We use Discord for this kind of communication.
+
+
+## Tips and tricks
+
+* Using Roblox on a tablet can consume battery life quite rapidly, so if you are giving a talk in metauni we recommend having your tablet plugged into power.
 
 * It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
 
 * You can access animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
-
-* To write on a whiteboard we recommend using a tablet. You'll have to run Roblox on that tablet, and as this can consume battery life quite rapidly, you probably want to have your tablet plugged into power if you're giving a talk.
-
 
 ## Troubleshooting
 
