@@ -11,7 +11,7 @@ We recommend that you open the links in each step in a separate tab, so that you
 3. Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page.
 4. Enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
 
-That's it! Thanks for taking part in metauni.
+That's it! Thanks for taking part in metauni. You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules).
 
 ## Discord
 
@@ -22,9 +22,9 @@ The installation of Discord is optional but recommended:
 
 ## The basics
 
-Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards). The controls can be changed in `Settings` accessible by pressing `Escape` or clicking on the Roblox icon in the top left hand corner of your screen. Roblox worlds (such as the metauni Hub) are referred to as *games* or *experiences*.
+Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards).
 
-* To use the in-game chat press `/` or click on the appropriate icon in the top left corner of the screen. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. See the [Roblox rules](http://metauni.org/posts/rules/rules) for mor einformation. We use Discord for this kind of communication.
+* To use the in-game chat press `/` or click on the appropriate icon in the top left corner of the screen. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. We use Discord for this kind of communication.
 
 ### Spatial voice
 
