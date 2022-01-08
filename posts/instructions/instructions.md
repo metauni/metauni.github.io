@@ -34,7 +34,7 @@ Roblox voice chat (spatial voice) is *positional*, which means that you only hea
 
 * Voice chat is unmoderated, but you can have your account suspended or banned for abusive behaviour (use common sense).
 
-The microphone status indicator above your head has the states shown below. From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*. There is an additional state that may encounter, which looks like *loading* but with a small red triangle with an exclamation mark. This indicates some problem with the voice chat. Generall you can click the icon to reload the system and it will work, but you may have to leave and rejoin the experience.
+The microphone status indicator above your head has the states shown below. From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*. There is an additional state that may encounter, which looks like *loading* but with a small red triangle with an exclamation mark. This indicates some problem with the voice chat. If you click the icon, usually the voice chat system will reset and begin to work; in rare cases you may have to leave the experience and rejoin.
 
 ![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
 
