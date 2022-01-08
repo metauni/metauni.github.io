@@ -28,6 +28,12 @@ Roblox is a 3D game environment in which you move your character with the arrows
 
 * When you join a game, including when you are teleported to a new place by a portal in the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub), your voice chat will be muted. You will need to click the microphone icon above your head to unmute.
 
+* The microphone status indicator above your head has the following possible states:
+
+![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
+
+From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*.
+
 * To use the in-game chat press `/`. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. See the [Roblox rules](http://metauni.org/posts/rules/rules) for mor einformation. We use Discord for this kind of communication.
 
 * It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
@@ -36,10 +42,6 @@ Roblox is a 3D game environment in which you move your character with the arrows
 
 * To write on a whiteboard we recommend using a tablet. You'll have to run Roblox on that tablet, and as this can consume battery life quite rapidly, you probably want to have your tablet plugged into power if you're giving a talk.
 
-Some instructions on using spatial voice:
-
-* When you first join, the microphone icon above your head may look like this:
-![newmic](https://user-images.githubusercontent.com/320329/148659131-b2208cc9-5644-46af-8c94-3b5f721fb28c.png)
 
 ## Troubleshooting
 
