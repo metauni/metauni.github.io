@@ -24,19 +24,25 @@ The installation of Discord is optional but recommended:
 
 Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards). The controls can be changed in `Settings` accessible by pressing `Escape` or clicking on the Roblox icon in the top left hand corner of your screen. Roblox worlds (such as the metauni Hub) are referred to as *games* or *experiences*.
 
-* Roblox voice chat (spatial voice) is *positional*, which means that you only hear people when you are close to them and the volume fades to nothing as you move away. You can see who is speaking by looking for a green coloured microphone icon above their head.
+* To use the in-game chat press `/`. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. See the [Roblox rules](http://metauni.org/posts/rules/rules) for mor einformation. We use Discord for this kind of communication.
 
-* When you join a game, including when you are teleported to a new place by a portal in the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub), your voice chat will be muted. You will need to click the microphone icon above your head to unmute.
+### Spatial voice
 
-* The microphone status indicator above your head has the states shown below. From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*. There is an additional state that may encounter, which looks like *loading* but with a small red triangle with an exclamation mark. This indicates some problem with the voice chat. Generall you can click the icon to reload the system and it will work, but you may have to leave and rejoin the experience.
+Roblox voice chat (spatial voice) is *positional*, which means that you only hear people when you are close to them and the volume fades to nothing as you move away. You can see who is speaking by looking for a green coloured microphone icon above their head. When you join a game, including when you are teleported to a new place by a portal in the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub), your voice chat will be muted. You will need to click the microphone icon above your head to unmute.
+
+The microphone status indicator above your head has the states shown below. From left to right, these represent: *loading*, *loaded and muted*, *loaded and unmuted*. There is an additional state that may encounter, which looks like *loading* but with a small red triangle with an exclamation mark. This indicates some problem with the voice chat. Generall you can click the icon to reload the system and it will work, but you may have to leave and rejoin the experience.
 
 ![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
 
-* The image below shows two metauni whiteboards (we call them *metaboards*). To use one, just click on it with your mouse or tap on it on a mobile device. The rusty-looking sphere half in the ground is an *orb* which is a "public announcement" system for talks in metauni. If you walk up the orb you will see some prompts appear above it; follow the instructions in the prompts to *Attach as Listener*. Now even when you are away from the location of a talk, you can hear whatever the orb hears (e.g. the speaker at a board) by clicking the speaker icon on the left hand side of your screen (detach from an orb by clicking the red button).
+You can mute other players (i.e. block their voice) by clicking the microphone icon above their head. However, since this icon only appears when they are speaking, you may be unable to *unmute* them in the same way. You can change the block status of other players in the Roblox menu:
+
+![mutestates](https://user-images.githubusercontent.com/320329/148659807-0d994053-728e-4d46-9241-99cef46ae5ff.png)
+
+### Boards and orbs
+
+The image below shows two metauni whiteboards (we call them *metaboards*). To use one, just click on it with your mouse or tap on it on a mobile device. The rusty-looking sphere half in the ground is an *orb* which is a "public announcement" system for talks in metauni. If you walk up the orb you will see some prompts appear above it; follow the instructions in the prompts to *Attach as Listener*. Now even when you are away from the location of a talk, you can hear whatever the orb hears (e.g. the speaker at a board) by clicking the speaker icon on the left hand side of your screen (detach from an orb by clicking the red button).
 
 <img width="750" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
-
-* To use the in-game chat press `/`. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. See the [Roblox rules](http://metauni.org/posts/rules/rules) for mor einformation. We use Discord for this kind of communication.
 
 
 ## Tips and tricks
