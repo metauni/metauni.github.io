@@ -13,7 +13,7 @@ We recommend that you open the links in each step in a separate tab, so that you
 
 That's it! Thanks for taking part in metauni.
 
-## Discord setup
+## Discord
 
 The installation of Discord is optional but recommended:
 
