@@ -4,7 +4,7 @@ Euclid's elements on virtual blackboards.
 
 **Co-organisers**: Ken Chan and Dan Murfet.
 
-![banner](seminar-euclid.png)
+![banner](seminar-euclid-min.png)
 
 ## Past seminars
 
