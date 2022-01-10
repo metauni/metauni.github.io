@@ -4,7 +4,7 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems.
 
 **Co-organisers**: Billy Price and Will Troiani.
 
-![foundations](seminar-foundations.png)
+![foundations](seminar-foundations-min.png)
 
 ## Past seminars
 
