@@ -1,6 +1,6 @@
 # Code
 
-Livestreaming the construction of metauni
+Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 
 **Organiser**: Dan Murfet.
 
