@@ -18,8 +18,9 @@ Each week there is a main session and a supplementary session.
 * **20-1-22 Supp** (*Liam Carroll*): Markov Chain Monte Carlo.
 * **27-1-22 Main** (*Liam Carroll*): Neural networks and the Bayesian posterior.
 * **27-1-22 Supp** (*Spencer Wong*): TBD.
-* **3-2-22 Main** (*Spencer Wong*): TBD.
+* **3-2-22 Main** (*Spencer Wong*): From analytic to algebraic I.
+* **3-2-22 Supp**
 * **10-2-22 Main** 
 * **10-2-22 Supp**
-* **17-2-22 Main** (*Spencer Wong*)
+* **17-2-22 Main** (*Spencer Wong*): From analytic to algebraic II.
 * **17-2-22 Supp**
