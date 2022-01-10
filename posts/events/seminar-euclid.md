@@ -1,6 +1,6 @@
 # Euclid
 
-Euclid's elements on virtual blackboards.
+Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
 
 **Co-organisers**: Ken Chan and Dan Murfet.
 
