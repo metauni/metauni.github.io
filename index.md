@@ -36,6 +36,8 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **Landau-Ginzburg 21:00-22:00** (*Rohan Hitchcock, Will Troiani, Dan Murfet*): on matrix factorisations and the bicategory of Landau-Ginzburg models.
 * **Cryptography 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
+For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
+
 Videos from previous weeks:
 
 * *Euclid's Elements*: [seminar 1](https://youtu.be/9U73KputtOU), [seminar 2](https://youtu.be/VO6QPT8Ubcc), [seminar 3](https://youtu.be/4yLm7Wcj6zg), [seminar 6](https://youtu.be/8P5Q-YdPBB0), [seminar 7](https://youtu.be/J3NUps3RjWU), [seminar 8](https://youtu.be/YGeSrBkxIoc).
