@@ -20,7 +20,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京. Names in itatlics are the co-organisers of the seminar.
 
-* **Foundations 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
 * **Euclid 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
 * **Singular Learning Theory 10:00-11:00** (*Edmund Lau, Dan Murfet*): Singularities are knowledge.
@@ -39,7 +39,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 Videos from previous weeks:
 
 * *Euclid's Elements*: [seminar 1](https://youtu.be/9U73KputtOU), [seminar 2](https://youtu.be/VO6QPT8Ubcc), [seminar 3](https://youtu.be/4yLm7Wcj6zg), [seminar 6](https://youtu.be/8P5Q-YdPBB0), [seminar 7](https://youtu.be/J3NUps3RjWU), [seminar 8](https://youtu.be/YGeSrBkxIoc).
-* *Foundations*: [seminar 1A](https://youtu.be/2S83EcpCKBY), [seminar 1B](https://youtu.be/hI3WKeaHCkk), [seminar 2](https://youtu.be/BxFr891R2k0), [seminar 3](https://youtu.be/sKJ5kbqYBBQ), [seminar 6](https://youtu.be/fpIXJ_X4XDM), [seminar 7](https://youtu.be/QfNGjmP65Fw), [seminar 8](https://youtu.be/kMhX5f0UN44).
+
 * *Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg), [seminar 6](https://youtu.be/kzxozwtvTCo), [seminar 7](https://youtu.be/8geMAz9hlSA).
 * *Code*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard, [seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires, [seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice, [seminar 9](https://youtu.be/RWP21_3xLc0) on TeleportService.
 * *Guest speakers*: Ethan Curtiss (AstroCode) on [Fourier series](https://youtu.be/F1gdI2eWqc8).
