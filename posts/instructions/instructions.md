@@ -48,10 +48,15 @@ The image below shows two metauni whiteboards (we call them *metaboards*). To us
 
 <img width="750" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
 
+## Giving talks
+
+Here are some tips for giving talks in metauni:
+
+* Using Roblox on a tablet can consume battery life quite rapidly, so if you are giving a talk in metauni we recommend having your tablet plugged into power and/or turning the Graphics Quality setting down to their lowest level.
+
+* Note that on an iPad, using the Home button to switch to another running application will cause Roblox to quit, so you should plan for keeping Roblox in the foreground for your entire talk.
 
 ## Tips and tricks
-
-* Using Roblox on a tablet can consume battery life quite rapidly, so if you are giving a talk in metauni we recommend having your tablet plugged into power.
 
 * It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
 
