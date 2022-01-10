@@ -8,7 +8,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox Group</a>
 </p>
 
-![banner](newbanner.png)
+![banner](newbanner-min.png)
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
