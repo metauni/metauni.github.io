@@ -22,7 +22,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
-* **Euclid 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
+* **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
 * **Singular Learning Theory 10:00-11:00** (*Edmund Lau, Dan Murfet*): Singularities are knowledge.
 * **Tea break 11:00-11:30**
 * **SLT supplemental 11:30-12:00**: Mathematical background for the main seminar.
@@ -39,8 +39,6 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
 
 Videos from previous weeks:
-
-* *Euclid's Elements*: [seminar 1](https://youtu.be/9U73KputtOU), [seminar 2](https://youtu.be/VO6QPT8Ubcc), [seminar 3](https://youtu.be/4yLm7Wcj6zg), [seminar 6](https://youtu.be/8P5Q-YdPBB0), [seminar 7](https://youtu.be/J3NUps3RjWU), [seminar 8](https://youtu.be/YGeSrBkxIoc).
 
 * *Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg), [seminar 6](https://youtu.be/kzxozwtvTCo), [seminar 7](https://youtu.be/8geMAz9hlSA).
 * *Code*: [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes)), [seminar 2](https://youtu.be/pKDruEjZPg8) (Tessell Tunes remix), [seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni)) and Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl)), [seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard, [seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires, [seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice, [seminar 9](https://youtu.be/RWP21_3xLc0) on TeleportService.
