@@ -38,10 +38,6 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
 
-Videos from previous weeks:
-
-* *Disruption*: [seminar 1](https://youtu.be/4PDfwkXpXxk0), [seminar 2](https://youtu.be/nIZp83suxhg), [seminar 6](https://youtu.be/kzxozwtvTCo), [seminar 7](https://youtu.be/8geMAz9hlSA).
-
 ## Build your own
 
 While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to help you how to build your own community like metauni. The simplest way is to use one of our private servers:
