@@ -4,6 +4,8 @@ Livestreaming the construction of metauni
 
 **Organiser**: Dan Murfet.
 
+![banner](seminar-code-min.png)
+
 ## Past seminars
 
 * [seminar 1](https://youtu.be/zAjl848o_fg) ([Tessell Tunes](https://www.roblox.com/games/7662464095/Tessell-Tunes))
