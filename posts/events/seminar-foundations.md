@@ -6,10 +6,6 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems.
 
 ![foundations](seminar-foundations.png)
 
-## Future schedule
-
-* **13-1-2022**: Will Troiani
-
 ## Past seminars
 
 * [seminar 1A](https://youtu.be/2S83EcpCKBY)
