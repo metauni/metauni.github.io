@@ -1,6 +1,6 @@
 # Foundations seminar
 
-A seminar on the nature of mathematical objects, logic, Gödel's theorems.
+A seminar on the nature of mathematical objects, logic, Gödel's theorems. Thursdays `8:00am-9:00am AEDT`.
 
 **Co-organisers**: Billy Price and Will Troiani.
 
