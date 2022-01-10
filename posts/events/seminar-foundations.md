@@ -1,8 +1,8 @@
 # Foundations seminar
 
-Co-organisers: Billy Price and Will Troiani.
+A seminar on the nature of mathematical objects, logic, Gödel's theorems.
 
-This seminar is about the foundations of mathematics.
+**Co-organisers**: Billy Price and Will Troiani.
 
 ## Future schedule
 
