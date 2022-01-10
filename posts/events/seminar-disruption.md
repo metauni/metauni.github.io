@@ -1,6 +1,6 @@
 # Disruption
 
-Towards a science of technological disruption.
+Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
 
 **Organiser**: Adam Dorr.
 
