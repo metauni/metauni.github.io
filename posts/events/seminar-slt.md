@@ -12,15 +12,15 @@ Singularities are knowledge. This is a seminar on [Sumio Watanabe](http://watana
 
 Each week there is a main session and a supplementary session. Dates are AEDT.
 
-* **13-1-22 Main** (*Dan Murfet*): Geometry and learning - an overview.
-* **13-1-22 Supp** (*Edmund Lau*): TBD.
-* **20-1-22 Main** (*Edmund Lau*): Free energy and geometry.
-* **20-1-22 Supp** (*Liam Carroll*): Markov Chain Monte Carlo.
-* **27-1-22 Main** (*Liam Carroll*): Neural networks and the Bayesian posterior.
-* **27-1-22 Supp** (*Spencer Wong*): TBD.
-* **3-2-22 Main** (*Spencer Wong*): From analytic to algebraic I.
-* **3-2-22 Supp** (*Ken Chan*): Resolution of singularities.
-* **10-2-22 Main** (*Dan Murfet*): Free energy asymptotics
-* **10-2-22 Supp** (*Spencer Wong*): TBD.
-* **17-2-22 Main** (*Spencer Wong*): From analytic to algebraic II.
-* **17-2-22 Supp** TBD.
+* **13-1-22** (*Dan Murfet*): Geometry and learning - an overview.
+    * **Supplementary** (*Edmund Lau*): The Fisher information matrix.
+* **20-1-22** (*Edmund Lau*): Free energy and geometry.
+    * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo.
+* **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior.
+    * **Supplementary** (*Spencer Wong*): TBD.
+* **3-2-22** (*Spencer Wong*): From analytic to algebraic I.
+    * **Supplementary** (*Ken Chan*): Resolution of singularities.
+* **10-2-22** (*Dan Murfet*): Free energy asymptotics
+    * **Supplementary** (*Spencer Wong*): TBD.
+* **17-2-22** (*Spencer Wong*): From analytic to algebraic II.
+    * **Supplementary** TBD.
