@@ -2,11 +2,11 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 <p align="center">
   <a href="https://discord.gg/9yBaAxPSK8">Discord</a> |
-  <a href="https://twitter.com/_metauni">Twitter</a> |
-  <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
   <a href="https://github.com/metauni">GitHub</a> |
-  <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox Group</a>
+  <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox Group</a> |
+  <a href="https://twitter.com/_metauni">Twitter</a> |
+  <a href="mailto:admin@metauni.org">Email</a>
 </p>
 
 ![banner](newbanner-min.png)
