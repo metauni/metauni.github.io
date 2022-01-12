@@ -1,6 +1,6 @@
 # Landau-Ginzburg
 
-On matrix factorisations and the bicategory of Landau-Ginzburg models. Thursdays `21:00-22:00 AEDT`.
+On the geometry and (bi)category theory of isolated hypersurface singularities. Thursdays `21:00-22:00 AEDT`.
 
 The aim of the seminar is to provide an accessible and detailed construction of the bicategory of Landau-Ginzburg models (which has isolated hypersurface singularities as objects and matrix factorisations as 1-morphisms). Partly this is meant as background for work on semantics of linear logic involving this structure. You might the talking boards in [LC001](https://www.roblox.com/games/6461013759/Landau-Ginzburg) useful.
 
