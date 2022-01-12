@@ -56,9 +56,11 @@ You can mute other players (i.e. block their voice) by clicking the microphone i
 
 Spatial voice is still in beta, and there are known issues:
 
-* You may accidentally mute other players by clicking on their microphone icon. If you notice this, check the Roblox menu.
+* ([GitHub issue](https://github.com/metauni/orb/issues/20)) You may accidentally mute other players by clicking on their microphone icon. If you notice this, check the Roblox menu. 
 
-* If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
+* ([GitHub issue](https://github.com/metauni/orb/issues/10)) If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
+
+If you have either of these problems please consider adding the details as a comment to the linked GitHub issues.
 
 ### Privacy and age-verification
 
