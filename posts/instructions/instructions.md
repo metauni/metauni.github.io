@@ -40,13 +40,13 @@ The microphone status indicator above your head has the states shown below. From
 
 You can mute other players (i.e. block their voice) by clicking the microphone icon above their head. However, since this icon only appears when they are speaking, you may be unable to *unmute* them in the same way. You can change the block status of other players in the Roblox menu:
 
-![mutestates](https://user-images.githubusercontent.com/320329/148659807-0d994053-728e-4d46-9241-99cef46ae5ff.png)
+<img width="600" alt="mutestates" src="https://user-images.githubusercontent.com/320329/148659807-0d994053-728e-4d46-9241-99cef46ae5ff.png">
 
 ### Boards and orbs
 
 The image below shows two metauni whiteboards (we call them *metaboards*). To use one, just click on it with your mouse or tap on it on a mobile device. The rusty-looking sphere half in the ground is an *orb* which is a "public announcement" system for talks in metauni. If you walk up the orb you will see some prompts appear above it; follow the instructions in the prompts to *Attach as Listener*. Now even when you are away from the location of a talk, you can hear whatever the orb hears (e.g. the speaker at a board) by clicking the speaker icon on the left hand side of your screen (detach from an orb by clicking the red button).
 
-<img width="750" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
+<img width="600" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
 
 ## Giving talks
 
