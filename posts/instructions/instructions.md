@@ -13,20 +13,30 @@ We recommend that you open the links in each step in a separate tab, so that you
 
 That's it! Thanks for taking part in metauni. You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules).
 
-## Discord
+### Discord (optional)
 
 The installation of Discord is optional but recommended:
 
 1. Create a [Discord](https://www.discord.com) account.
 2. Join the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
 
-## The basics
+## The Basics
 
 Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards).
 
 * To use the in-game chat press `/` or click on the appropriate icon in the top left corner of the screen. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. We use Discord for this kind of communication.
 
-### Spatial voice
+* It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
+
+* You can access animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
+
+* You can zoom into your character's point of view by pressing `I` and then out again with `O` (for "out").
+
+* Using Roblox on a tablet can consume battery life quite rapidly, so if you are giving a talk in metauni we recommend having your tablet plugged into power and/or turning the Graphics Quality setting down to their lowest level.
+
+* Note that on an iPad, using the Home button to switch to another running application will cause Roblox to quit, so you should plan for keeping Roblox in the foreground for your entire talk.
+
+## Spatial voice
 
 Roblox voice chat (spatial voice) is *positional*, which means that you only hear people when you are close to them and the volume fades to nothing as you move away. You can see who is speaking by looking for a green coloured microphone icon above their head. 
 
@@ -42,25 +52,27 @@ You can mute other players (i.e. block their voice) by clicking the microphone i
 
 <img width="600" alt="mutestates" src="https://user-images.githubusercontent.com/320329/148659807-0d994053-728e-4d46-9241-99cef46ae5ff.png">
 
-### Boards and orbs
+### Troubleshooting
+
+Spatial voice is still in beta, and there are known issues:
+
+* You may accidentally mute other players by clicking on their microphone icon. If you notice this, check the Roblox menu.
+
+* If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
+
+### Privacy and age-verification
+
+The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Roblox says that they never store "raw ID document data" but in order to verify your age, they send the picture of the government-issued ID that you upload to a third-party company called Veriff ([FAQ](https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs)). They say in the FAQ that "Information uploaded to Veriff is retained for a period of 90 days. After this period, the uploaded data is removed from Veriff." 
+
+It is worth reading Veriff's [privacy policy](https://www.veriff.com/privacy-policy).
+
+> A human will be involved if the automated verification tool (the Robot) is not able to reach a decision on its own. This may occur, when the picture is blurry or the Robot runs into some other difficulty in analysing the verification session.. In the case of fully automated decision-making, where the decision has a significant effect on you, we will be transparent about such processing.
+
+## Boards and orbs
 
 The image below shows two metauni whiteboards (we call them *metaboards*). To use one, just click on it with your mouse or tap on it on a mobile device. The rusty-looking sphere half in the ground is an *orb* which is a "public announcement" system for talks in metauni. If you walk up the orb you will see some prompts appear above it; follow the instructions in the prompts to *Attach as Listener*. Now even when you are away from the location of a talk, you can hear whatever the orb hears (e.g. the speaker at a board) by clicking the speaker icon on the left hand side of your screen (detach from an orb by clicking the red button).
 
 <img width="600" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
-
-## Giving talks
-
-Here are some tips for giving talks in metauni:
-
-* Using Roblox on a tablet can consume battery life quite rapidly, so if you are giving a talk in metauni we recommend having your tablet plugged into power and/or turning the Graphics Quality setting down to their lowest level.
-
-* Note that on an iPad, using the Home button to switch to another running application will cause Roblox to quit, so you should plan for keeping Roblox in the foreground for your entire talk.
-
-## Tips and tricks
-
-* It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
-
-* You can access animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
 
 ## Troubleshooting
 
@@ -68,11 +80,3 @@ Here are some tips for giving talks in metauni:
 * You may have problems using Firefox on the Roblox site.
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon (next to the Roblox icon in the top left).
-
-## More on spatial voice
-
-The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Roblox says that they never store "raw ID document data" but in order to verify your age, they send the picture of the government-issued ID that you upload to a third-party company called Veriff ([FAQ](https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs)). They say in the FAQ that "Information uploaded to Veriff is retained for a period of 90 days. After this period, the uploaded data is removed from Veriff." 
-
-It is worth reading Veriff's [privacy policy](https://www.veriff.com/privacy-policy).
-
-> A human will be involved if the automated verification tool (the Robot) is not able to reach a decision on its own. This may occur, when the picture is blurry or the Robot runs into some other difficulty in analysing the verification session.. In the case of fully automated decision-making, where the decision has a significant effect on you, we will be transparent about such processing.
