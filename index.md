@@ -1,6 +1,7 @@
 Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for livestreams, community discussion and organisation. Access is possible on PC, Mac, iOS, and Android (you need to be 13+ for voice chat). All are welcome and it's easy to join in, see the [instructions](https://metauni.org/posts/instructions/instructions).
 
 <p align="center">
+  <a href="https://discord.gg/9yBaAxPSK8">Discord</a> |
   <a href="https://twitter.com/_metauni">Twitter</a> |
   <a href="mailto:admin@metauni.org">Email</a> |
   <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
