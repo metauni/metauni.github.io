@@ -60,6 +60,8 @@ Spatial voice is still in beta, and there are known issues:
 
 * ([GitHub issue](https://github.com/metauni/orb/issues/10)) If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
 
+* If you are having problems, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home) rather than an app store.
+
 If you have either of these problems please consider adding the details as a comment to the linked GitHub issues.
 
 ### Privacy and age-verification
