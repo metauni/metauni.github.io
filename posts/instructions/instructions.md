@@ -32,7 +32,7 @@ Roblox is a 3D game environment in which you move your character with the arrows
 
 * You can zoom into your character's point of view by pressing `I` and then out again with `O` (for "out").
 
-* If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting. At high settings Roblox will rapidly consume your device's battery. On the minimum setting I get approximately `3.3hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
+* If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting. At high settings Roblox will rapidly consume your device's battery. On the minimum setting I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
 
 * Note that on an iPad, using the Home button to switch to another running application will cause Roblox to quit, so you should plan for keeping Roblox in the foreground for your entire talk.
 
