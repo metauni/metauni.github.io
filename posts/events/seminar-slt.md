@@ -12,7 +12,7 @@ Singularities are knowledge. This is a seminar on [Sumio Watanabe](http://watana
 
 Each week there is a main session and a supplementary session. Dates are AEDT.
 
-* **13-1-22** (*Dan Murfet*): Geometry and learning - an overview.
+* **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums
     * **Supplementary** (*Edmund Lau*): The Fisher information matrix.
 * **20-1-22** (*Edmund Lau*): Free energy and geometry.
     * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo.
@@ -24,3 +24,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary** (*Spencer Wong*): TBD.
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II.
     * **Supplementary** TBD.
+
+## Past seminars
+
+* **13-1-22** [Seminar 1](https://youtu.be/QZG40ZY5TeU): What is learning? Singularities and pendulums.
