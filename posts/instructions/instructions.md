@@ -26,9 +26,9 @@ Roblox is a 3D game environment in which you move your character with the arrows
 
 * To use the in-game chat press `/` or click on the appropriate icon in the top left corner of the screen. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. We use Discord for this kind of communication.
 
-* It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
+* **Showing thanks.** You can trigger animations by typing in the chat: type `hello` to wave or `gg`, `yay` to applaud. You can access more animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
 
-* You can access animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
+* It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
 
 * You can zoom into your character's point of view by pressing `I` and then out again with `O` (for "out").
 
