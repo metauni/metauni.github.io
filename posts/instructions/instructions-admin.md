@@ -22,3 +22,10 @@ Here is the checklist we follow before metauni events:
 * Speakers have the appropriate `scribe` permission (e.g. by typing `/setscribe username` in the server).
 * Boards are off for guests.
 * Discord events have been created for all sessions.
+
+## Recording
+
+Here is my checklist for recording:
+
+* Test audio
+* Keepalive script
