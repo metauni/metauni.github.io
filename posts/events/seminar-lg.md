@@ -14,13 +14,14 @@ But see below for (much) more.
 
 Dates are AEDT.
 
-* **13-1-22** (*Dan Murfet*): Introduction and overview.
-* **20-1-22** (*Rohan Hitchcock*): Bicategories.
-* **27-1-22** (*Will Troiani*): Matrix factorisations and quadratic forms.
-* **3-2-22** (*Dan Murfet*): Introduction to the bicategory LG.
-* **10-2-22** (*Rohan Hitchcock*): The perturbation lemma.
-* **17-2-22** (*Dan Murfet*): Composition in LG
-* **24-2-22** (*Rohan Hitchcock*): Units in LG
+* **13-1-22** (*Dan Murfet*): Introduction Part 1 ([video](https://youtu.be/ByXnta8BQDk)).
+* **20-1-22** (*Dan Murfet*): Introduction Part 2
+* **27-1-22** (*Rohan Hitchcock*): Bicategories.
+* **3-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms.
+* **10-2-22** (*Dan Murfet*): Introduction to the bicategory LG.
+* **17-2-22** (*Rohan Hitchcock*): The perturbation lemma.
+* **24-2-22** (*Dan Murfet*): Composition in LG
+* **3-3-22** (*Rohan Hitchcock*): Units in LG
 
 ## References
 
