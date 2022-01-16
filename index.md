@@ -1,4 +1,4 @@
-Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for livestreams, community discussion and organisation. All are welcome and it's easy to join in, follow the [instructions](https://metauni.org/posts/instructions/instructions) and then **[Enter the Hub](https://www.roblox.com/games/8165000775/metauni-Hub)**.
+Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for livestreams and community organisation. All are welcome and it's easy to join in, follow the [instructions](https://metauni.org/posts/instructions/instructions) and then **[Enter the Hub](https://www.roblox.com/games/8165000775/metauni-Hub)**.
  
 <p align="center">
   <a href="https://discord.gg/9yBaAxPSK8">Discord</a> |
