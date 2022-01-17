@@ -20,7 +20,7 @@ Coming up:
 * **20-1-22** (*Edmund Lau*): Free energy and geometry.
     * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo.
 * **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior.
-    * **Supplementary** (*Spencer Wong*): TBD.
+    * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem.
 * **3-2-22** (*Spencer Wong*): From analytic to algebraic I.
     * **Supplementary** (*Ken Chan*): Resolution of singularities.
 * **10-2-22** (*Dan Murfet*): Free energy asymptotics
