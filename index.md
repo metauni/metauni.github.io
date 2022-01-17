@@ -19,7 +19,7 @@ If you want to see something *right now* go climb the knot in [The Rising Sea](h
 
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board.
 
-**Dwarf block**: Times are given on Thursday AEDT, the beginning of the block is: 9pm Wednesday UTC, 8am Thursday AEDT, 10pm Wednesday Paris, 9pm Wednesday London, 4pm Wednesday New York, 5am Thursday 南京. Names in itatlics are the co-organisers of the seminar.
+**Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems
 * **Tea break 9:00-9:30**
@@ -32,12 +32,12 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
 
-**Elf block**: Times are given on Thursday AEDT, the beginning of the block is: 10am Thursday UTC, 9pm Thursday AEDT, 11am Thursday Paris, 10am Thursday London, 5am Thursday New York, 6pm Thursday 南京. Names in itatlics are the co-organisers of the seminar.
+**Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Will Troiani, Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities.
 * **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
 
-For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
+For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin).
 
 ## Build your own
 
