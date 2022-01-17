@@ -32,6 +32,8 @@ The organiser should provide you with the URL of the Roblox world for your talk.
 6. When you want to move to a new board, simply move your player to the new board, stop running, and then wait a few moments for the orb (and the view of players using OrbCam) to join you at the new board. In the interim catch your breath - if you speak, audiences listening through the orb may be unable to hear you until it gets back within hearing range.
 7. When your talk is over, click the red and white "X" in the speaker GUI on the left-hand side of your screen to detach from the orb (this way the orb will not continue to follow you around).
 
+If you feel uncomfortable managing the orb, please ask the session organiser if they can take care of it for you.
+
 ## Admins
 
 Here is the checklist we follow before metauni events:
