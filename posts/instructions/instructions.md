@@ -58,7 +58,7 @@ Spatial voice is still in beta, and there are known issues:
 
 * ([GitHub issue](https://github.com/metauni/orb/issues/10)) If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
 
-* If spatial voice fails to load (it continues to show the red triangle) you might try checking your Internet connection. In my home, if I am far from the WiFi router I can generally connect to Roblox but the spatial voice won't work - moving closer fixes it.
+* Spatial voice is more demanding on your Internet connection than the other parts of Roblox (e.g. the 3D spatial environment). You may find that, for example if your WiFi signal is low, you are able to join the Roblox experience *but spatial voice refuses to work* (e.g. it continues to show the red triangle). Sometimes simply moving closer to your WiFi router will fix the problem.
 
 * If you installed Roblox from an App Store, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home).
 
