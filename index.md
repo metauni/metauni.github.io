@@ -30,7 +30,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
+* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption (**skipped 20/1/22**).
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
