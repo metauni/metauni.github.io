@@ -32,7 +32,7 @@ Note that on **20/1/22** the coding sessions are rearranged:
 
 * **Tea break 12:00-12:30**
 * **#metauni-dev 12:30-2:00**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Code](http://metauni.org/posts/events/seminar-code) 2:00-2:30**: jaipack presents the awesome [Nature2D] (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Code](http://metauni.org/posts/events/seminar-code) 2:00-2:30**: jaipack presents the awesome [Nature2D](https://github.com/jaipack17/Nature2D) (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 
 <!---* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).--->
 <!--* **Tea break 1:00-1:30**-->
