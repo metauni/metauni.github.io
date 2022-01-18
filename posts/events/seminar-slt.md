@@ -27,3 +27,9 @@ Coming up:
     * **Supplementary** (*Spencer Wong*): TBD.
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II.
     * **Supplementary** TBD.
+
+## Background reading
+
+Some rough handwritten notes:
+
+* [Deep Learning Theory 1](http://www.therisingsea.org/notes/metauni/dlt1.pdf): Why deep learning theory?
