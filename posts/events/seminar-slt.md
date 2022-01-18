@@ -41,3 +41,4 @@ Some rough handwritten notes:
 * [Singular Learning Theory 8](http://www.therisingsea.org/notes/metauni/slt8.pdf): Calculations for feedforward networks
 * [Singular Learning Theory 12](http://www.therisingsea.org/notes/metauni/slt12.pdf): Density of states
 * [Singular Learning Theory 13](http://www.therisingsea.org/notes/metauni/slt13.pdf): Asymptotics of the free energy
+* [Cell Learning Theory 1](http://www.therisingsea.org/notes/metauni/clt1.pdf): Cell Learning Theory 1
