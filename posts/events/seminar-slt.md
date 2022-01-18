@@ -33,3 +33,11 @@ Coming up:
 Some rough handwritten notes:
 
 * [Deep Learning Theory 1](http://www.therisingsea.org/notes/metauni/dlt1.pdf): Why deep learning theory?
+* [Deep Learning Theory 2](http://www.therisingsea.org/notes/metauni/dlt2.pdf): Thermodynamics of Singular Learning Theory
+* [Deep Learning Theory 3](http://www.therisingsea.org/notes/metauni/dlt3.pdf): Phase transitions
+* [Singular Learning Theory 4](http://www.therisingsea.org/notes/metauni/slt4.pdf): Local RLCT
+* [Singular Learning Theory 5](http://www.therisingsea.org/notes/metauni/slt5.pdf): Symmetry and RLCT
+* [Singular Learning Theory 6](http://www.therisingsea.org/notes/metauni/slt6.pdf): Generalisation and Power Laws
+* [Singular Learning Theory 8](http://www.therisingsea.org/notes/metauni/slt8.pdf): Calculations for feedforward networks
+* [Singular Learning Theory 12](http://www.therisingsea.org/notes/metauni/slt12.pdf): Density of states
+* [Singular Learning Theory 13](http://www.therisingsea.org/notes/metauni/slt13.pdf): Asymptotics of the free energy
