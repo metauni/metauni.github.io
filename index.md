@@ -39,6 +39,8 @@ Note that on **20/1/22** the coding sessions are rearranged:
 <!--* **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).-->
 
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption (**skipped 20/1/22**).
+* **Tea break 3:00-3:30**
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 3:30-4:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology (**starting 3/2/2022**).
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
