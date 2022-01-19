@@ -16,12 +16,13 @@ Dates are AEDT.
 
 * **13-1-22** (*Dan Murfet*): Introduction Part 1 ([notes](https://www.therisingsea.org/notes/metauni/lg-seminar1.pdf), [video](https://youtu.be/ByXnta8BQDk)).
 * **20-1-22** (*Dan Murfet*): Introduction Part 2
-* **27-1-22** (*Rohan Hitchcock*): Bicategories.
-* **3-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms.
-* **10-2-22** (*Dan Murfet*): Introduction to the bicategory LG.
-* **17-2-22** (*Rohan Hitchcock*): The perturbation lemma.
-* **24-2-22** (*Dan Murfet*): Composition in LG
-* **3-3-22** (*Rohan Hitchcock*): Units in LG
+* **27-1-22** (*Rohan Hitchcock*): Bicategories Part 1.
+* **3-2-22** (*Rohan Hitchcock*): Bicategories Part 2.
+* **10-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms. 
+* **17-2-22** (*Dan Murfet*): Introduction to the bicategory LG.
+* **24-2-22** (*Rohan Hitchcock*): The perturbation lemma.
+* **3-3-22** (*Dan Murfet*): Composition in LG
+* (*Rohan Hitchcock*): Units in LG
 
 ## References
 
