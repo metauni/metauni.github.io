@@ -15,7 +15,7 @@ But see below for (much) more.
 Dates are AEDT.
 
 * **13-1-22** (*Dan Murfet*): Introduction Part 1 ([notes](http://www.therisingsea.org/notes/metauni/lg-seminar1.pdf), [video](https://youtu.be/ByXnta8BQDk)).
-* **20-1-22** (*Dan Murfet*): Introduction Part 2
+* **20-1-22** (*Dan Murfet*): Introduction Part 2 ([video](https://youtu.be/d_2Nu9hnkGE)).
 * **27-1-22** (*Rohan Hitchcock*): Bicategories Part 1.
 * **3-2-22** (*Rohan Hitchcock*): Bicategories Part 2.
 * **10-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms. 
