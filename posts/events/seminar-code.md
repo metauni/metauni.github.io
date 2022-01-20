@@ -18,4 +18,4 @@ Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 * [Seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice
 * **6-1-22** [Seminar 9](https://youtu.be/RWP21_3xLc0) on TeleportService.
 * **13-1-22** [Seminar 10](https://youtu.be/x3UDwI3FUFI) on Attach as Luggage.
-* **20-1-22** [Jaipack](https://github.com/jaipack17/) on [Nature2D](https://github.com/jaipack17/Nature2D) ([presentation](https://quill-clam-cfe.notion.site/Nature2D-a5f61599d8ef4660861ea96a8f91fa7e)).
+* **20-1-22** [Jaipack](https://github.com/jaipack17/) on [Nature2D](https://github.com/jaipack17/Nature2D) ([video](https://youtu.be/iJuSpmNAwEk), [presentation](https://quill-clam-cfe.notion.site/Nature2D-a5f61599d8ef4660861ea96a8f91fa7e)).
