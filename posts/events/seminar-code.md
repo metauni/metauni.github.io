@@ -2,7 +2,7 @@
 
 Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 
-**Organiser**: Dan Murfet.
+**Co-organisers**: Billy Price, Dan Murfet.
 
 ![banner](seminar-code-min.png)
 
@@ -16,6 +16,6 @@ Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 * [Seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard
 * [Seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires
 * [Seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice
-* [Seminar 9](https://youtu.be/RWP21_3xLc0) on TeleportService.
-* [Seminar 10](https://youtu.be/x3UDwI3FUFI) on Attach as Luggage.
-* **20-1-22** [Jaipack](https://github.com/jaipack17/) on [Nature2D](https://github.com/jaipack17/Nature2D) ([presentation](https://www.notion.so/Nature2D-a5f61599d8ef4660861ea96a8f91fa7e)).
+* **6-1-22** [Seminar 9](https://youtu.be/RWP21_3xLc0) on TeleportService.
+* **13-1-22** [Seminar 10](https://youtu.be/x3UDwI3FUFI) on Attach as Luggage.
+* **20-1-22** [Jaipack](https://github.com/jaipack17/) on [Nature2D](https://github.com/jaipack17/Nature2D) ([presentation](https://quill-clam-cfe.notion.site/Nature2D-a5f61599d8ef4660861ea96a8f91fa7e)).
