@@ -11,7 +11,7 @@ Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
 * [Seminar 1](https://youtu.be/9U73KputtOU): Postulates and Proposition 1.
 * [Seminar 2](https://youtu.be/VO6QPT8Ubcc): Propositions 2, 3.
 * [Seminar 3](https://youtu.be/4yLm7Wcj6zg): Propositions 4, 5.
-* Semianr 4 *no recording*.
+* [Seminar 4](https://youtu.be/EBgNmbNglYY): Propositions 6, 7, 8, 9.
 * Seminar 5 *no recording*.
 * [Seminar 6](https://youtu.be/8P5Q-YdPBB0): Propositions 11, 12, 13.
 * [Seminar 7](https://youtu.be/J3NUps3RjWU): Propositions 14, 15, 16.
