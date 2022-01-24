@@ -24,6 +24,10 @@ Dates are AEDT.
 * **3-3-22** (*Dan Murfet*): Composition in LG
 * (*Rohan Hitchcock*): Units in LG
 
+## Notes
+
+* Rohan Hitchcock: [idempotent completions](http://www.therisingsea.org/notes/metauni/lg-idempotents.pdf).
+
 ## References
 
 * D. Eisenbud, "[Homological algebra on a complete intersection, with an application to group representations](https://www.ams.org/journals/tran/1980-260-01/S0002-9947-1980-0570778-7/home.html)", Trans. Amer. Math. Soc. **260** (1980), 35--64.
