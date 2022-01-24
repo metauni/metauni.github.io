@@ -27,17 +27,9 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): Singularities are knowledge.
 * **Tea break 11:00-11:30**
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 11:30-12:00**: Mathematical background for the main seminar.
-
-Note that on **20/1/22** the coding sessions are rearranged:
-
-* **Tea break 12:00-12:30**
-* **#metauni-dev 12:30-2:00**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Code](http://metauni.org/posts/events/seminar-code) 2:00-2:30**: jaipack presents the awesome [Nature2D](https://github.com/jaipack17/Nature2D) (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-
-<!---* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).--->
-<!--* **Tea break 1:00-1:30**-->
-<!--* **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).-->
-
+* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
+* **Tea break 1:00-1:30**
+* **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption (**skipped 20/1/22**).
 * **Tea break 3:00-3:30**
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 3:30-4:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology (**starting 3/2/2022**).
