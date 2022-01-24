@@ -30,7 +30,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption (**skipped 20/1/22**).
+* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
 * **Tea break 3:00-3:30**
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 3:30-4:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology (**starting 3/2/2022**).
 
