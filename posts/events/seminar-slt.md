@@ -16,11 +16,11 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
 * **20-1-22** (*Edmund Lau*): Free energy and geometry ([video](https://youtu.be/U9bnkWuFSSM)).
     * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
-    
+* **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8))
+    * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem.
+        
 Coming up:
 
-* **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior.
-    * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem.
 * **3-2-22** (*Spencer Wong*): From analytic to algebraic I.
     * **Supplementary** (*Ken Chan*): Resolution of singularities.
 * **10-2-22** (*Dan Murfet*): Free energy asymptotics
