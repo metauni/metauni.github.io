@@ -17,7 +17,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **20-1-22** (*Edmund Lau*): Free energy and geometry ([video](https://youtu.be/U9bnkWuFSSM)).
     * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
 * **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8))
-    * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem.
+    * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
         
 Coming up:
 
