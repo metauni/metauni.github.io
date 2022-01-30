@@ -69,7 +69,7 @@ Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/
 
 ## History
 
-Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift, `BenSBk`, Ethan Curtiss and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Billy Price](https://billyprice.me/), James Clift, Ethan Curtiss, `BenSBk`,  `jaipack17`, madeline and [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`.
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
 * 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
@@ -99,7 +99,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
 * 29/12/2021 - Re-release of the [admin commands](https://github.com/metauni/admin) and update to use new boards.
 * 8/1/2022 - Switch to spatial voice for metauni events.
-* 27/1/2022 - Integration of the Avatar Editor (by Violet Sky!).
+* 27/1/2022 - Integration of the Avatar Editor (by [madeline](https://violetsky.dev)).
 
 Music in the Rising Sea:
 
