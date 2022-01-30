@@ -1,12 +1,12 @@
 Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for livestreams and community organisation. All are welcome and it's easy to join in, follow the [instructions](https://metauni.org/posts/instructions/instructions) and then **[Enter the Hub](https://www.roblox.com/games/8165000775/metauni-Hub)**.
  
 <p align="center">
-  <a href="https://discord.gg/9yBaAxPSK8">Discord</a> |
-  <a href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
-  <a href="https://github.com/metauni">GitHub</a> |
-  <a href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox Group</a> |
-  <a href="https://twitter.com/_metauni">Twitter</a> |
-  <a href="mailto:admin@metauni.org">Email</a>
+  <a target="_blank" href="https://discord.gg/9yBaAxPSK8">Discord</a> |
+  <a target="_blank" href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
+  <a target="_blank" href="https://github.com/metauni">GitHub</a> |
+  <a target="_blank" href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox Group</a> |
+  <a target="_blank" href="https://twitter.com/_metauni">Twitter</a> |
+  <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
 ![banner](newbanner-min.png)
