@@ -21,7 +21,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems (*not running 3-2-22*).
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems (**not running 3-2-22**).
 * **Tea break 9:00-9:30**
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): Singularities are knowledge.
@@ -32,7 +32,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:00** (*Adam Dorr*): towards a science of technological disruption.
 * **Tea break 3:00-3:30**
-* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 3:30-4:30** (*Michael Chappuis, Dan Murfet*): You are a singularity, or, learning and computation in biology.
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 3:30-4:30** (*Michael Chappuis, Dan Murfet*): You are a singularity, or, learning and computation in biology (**start delayed until 10-2-22**).
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
