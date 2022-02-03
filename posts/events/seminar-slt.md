@@ -18,8 +18,8 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
 * **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8))
     * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
-* **3-2-22** (*Spencer Wong*): From analytic to algebraic I.
-    * **Supplementary** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8))
+* **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4)).
+    * **Supplementary** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
             
 Coming up:
 
