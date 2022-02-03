@@ -17,7 +17,7 @@ Dates are AEDT.
 * **13-1-22** (*Dan Murfet*): Introduction Part 1 ([notes](http://www.therisingsea.org/notes/metauni/lg-seminar1.pdf), [video](https://youtu.be/ByXnta8BQDk)).
 * **20-1-22** (*Dan Murfet*): Introduction Part 2 ([video](https://youtu.be/d_2Nu9hnkGE)).
 * **27-1-22** (*Rohan Hitchcock*): Bicategories Part 1 ([notes](http://www.therisingsea.org/notes/metauni/lg-category_n.pdf), [video](https://youtu.be/K6W_3tMz0qA)).
-* **3-2-22** (*Daniel Murfet*): Bicategories Part 2.
+* **3-2-22** (*Daniel Murfet*): From dynamical systems to quadratic forms ([notes](http://therisingsea.org/notes/talk-symbicatlg.pdf), [video](https://youtu.be/Mkyi_d5fGwg)).
 * **10-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms. 
 * **17-2-22** (*Dan Murfet*): Introduction to the bicategory LG.
 * **24-2-22** (*Rohan Hitchcock*): The perturbation lemma.
