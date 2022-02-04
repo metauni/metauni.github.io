@@ -47,5 +47,9 @@ Here is the checklist we follow before metauni events:
 
 Here is my checklist for recording:
 
-* Test audio
-* Keepalive script
+* Plug in headphones
+* Start recording software (e.g. Camtasia)
+* Start Roblox and join the experience
+* Start the keepalive script
+* Test audio (joining with another account with spatial voice enabled, speak near the recording player account)
+* Put the recording player into GUI-less orbcam with `Shift-C`
