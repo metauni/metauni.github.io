@@ -11,6 +11,12 @@ Upcoming:
 
 * **TBD** *David Li*: Understanding AlphaFold
 
+## Background reading
+
+Michael Chappuis has provided the following curriculum on basics in this area.
+
+* Background on [molecular biology](https://plato.stanford.edu/entries/molecular-biology/) from the Stanford Encyclopedia of Philosophy.
+
 ## References
 
 * H. Akhlaghpour, "[An RNA-Based Theory of Natural Universal Computation](https://arxiv.org/abs/2008.08814)".
