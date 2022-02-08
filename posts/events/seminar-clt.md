@@ -5,7 +5,7 @@
 
 ## Schedule
 
-* **10-2-22** (*Dan Murfet, Michael Chappuis*): Computation and reasoning in biology.
+* **17-2-22** (*Dan Murfet, Michael Chappuis*): Computation and reasoning in biology.
 
 Upcoming:
 
