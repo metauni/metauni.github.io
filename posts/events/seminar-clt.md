@@ -1,7 +1,7 @@
 # Cell Learning Theory
 
-**Co-organisers**: Michael Chappuis and Dan Murfet.
-**Venue**: the [Research Agora](https://www.roblox.com/games/8164954581/Research-Agora).
+* **Co-organisers**: Michael Chappuis and Dan Murfet.
+* **Venue**: the [Research Agora](https://www.roblox.com/games/8164954581/Research-Agora).
 
 ## Schedule
 
