@@ -2,7 +2,8 @@
 
 Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
 
-**Organiser**: Adam Dorr.
+* **Organiser**: Adam Dorr.
+* **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
 ## Past seminars
 
