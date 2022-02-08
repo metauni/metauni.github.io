@@ -1,10 +1,11 @@
 # Cell Learning Theory
 
 **Co-organisers**: Michael Chappuis and Dan Murfet.
+**Venue**: the [Research Agora](https://www.roblox.com/games/8164954581/Research-Agora).
 
 ## Schedule
 
-* **3-2-22** (*Dan Murfet, Michael Chappuis*): Computation and reasoning in biology.
+* **10-2-22** (*Dan Murfet, Michael Chappuis*): Computation and reasoning in biology.
 
 Upcoming:
 
