@@ -2,7 +2,8 @@
 
 Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
 
-**Co-organisers**: Ken Chan and Dan Murfet.
+* **Co-organisers**: Ken Chan and Dan Murfet.
+* **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
 ![banner](seminar-euclid-min.png)
 
