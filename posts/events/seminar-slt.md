@@ -21,11 +21,11 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
 * **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4)).
     * **Supplementary** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
-            
+* **10-2-22** (*Dan Murfet*): Introduction to density of states
+    * **Supplementary** (*Dan Murfet*): Primer on Gaussian integrals.
+                
 Coming up:
 
-* **10-2-22** (*Dan Murfet*): Free energy asymptotics
-    * **Supplementary** (*Spencer Wong*): TBD.
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II.
     * **Supplementary** TBD.
 
