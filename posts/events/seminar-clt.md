@@ -9,7 +9,7 @@
 
 Upcoming:
 
-* **TBD** *David Li*: Understanding AlphaFold
+* **TBD** *David Li*: Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
 
 ## Background reading
 
