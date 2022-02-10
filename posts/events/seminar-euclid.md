@@ -20,3 +20,4 @@ Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
 * [Seminar 9](https://youtu.be/0VNxaqiIvG0): Propositions 21, 22.
 * [Seminar 10](https://youtu.be/eQ7ryFLQDxw): Propositions 23, 24.
 * [Seminar 11](https://youtu.be/1G9TY-alLJY): Propositions 25, 26.
+* [Seminar 12](https://youtu.be/s1_fyN1mgWw): Propositions 27, 28.
