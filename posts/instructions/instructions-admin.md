@@ -20,6 +20,8 @@ We've had speakers successfully give talks with all three setups, but perhaps am
 
 If you are presenting using slides, then you can join Roblox with any setup that supports spatial voice (e.g. your laptop with headphones).
 
+* **Question: what about Wacom tablets?** People have successfully used Wacom tablets to write on metaboards, but we have not extensively tested this.
+
 ### Joining the event
 
 The organiser should provide you with the URL of the Roblox world for your talk. If you are speaking in a recurring seminar, you can find the URL on the webpage for  that seminar (see the [metauni homepage](https://metauni.org)). Once you have the URL:
