@@ -10,6 +10,7 @@
 Upcoming:
 
 * **TBD** *David Li*: Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
+* **TBD** *Hessam Akhlaghpour*, "[An RNA-Based Theory of Natural Universal Computation](https://arxiv.org/abs/2008.08814)".
 
 ## Background reading
 
