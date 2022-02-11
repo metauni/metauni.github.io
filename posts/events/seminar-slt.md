@@ -22,7 +22,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4)).
     * **Supplementary** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
 * **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf)).
-    * **Supplementary** (*Spencer Wong*): Polynomial division and Grobner bases.
+    * **Supplementary** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
                 
 Coming up:
 
