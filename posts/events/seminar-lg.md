@@ -22,8 +22,8 @@ Dates are AEDT.
 * **27-1-22** (*Rohan Hitchcock*): Bicategories Part 1 ([notes](http://www.therisingsea.org/notes/metauni/lg-category_n.pdf), [video](https://youtu.be/K6W_3tMz0qA)).
 * **3-2-22** (*Daniel Murfet*): From dynamical systems to quadratic forms ([notes](http://therisingsea.org/notes/talk-symbicatlg.pdf), [video](https://youtu.be/Mkyi_d5fGwg)).
 * **10-2-22** (*Daniel Murfet*): From quadratic forms to bicategories ([notes](http://therisingsea.org/notes/talk-symbicatlg.pdf), [video](https://youtu.be/vvmGPhMRM5o)).
-* **17-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms. 
-* **24-2-22** (*Rohan Hitchcock*): The perturbation lemma.
+* **17-2-22** (*Rohan Hitchcock*): The perturbation lemma.
+* **24-2-22** (*Will Troiani*): Matrix factorisations and quadratic forms.
 * **3-3-22** (*Dan Murfet*): Introduction to the bicategory LG.
 * (*Dan Murfet*): Composition in LG
 * (*Rohan Hitchcock*): Units in LG
