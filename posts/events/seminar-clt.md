@@ -17,6 +17,9 @@ Upcoming:
 Michael Chappuis has provided the following curriculum on basics in this area.
 
 * Background on [molecular biology](https://plato.stanford.edu/entries/molecular-biology/) from the Stanford Encyclopedia of Philosophy.
+
+Here are some other notes:
+
 * [Cell Learning Theory 1](http://www.therisingsea.org/notes/metauni/clt1.pdf): Cell Learning Theory 1.
 
 ## References
