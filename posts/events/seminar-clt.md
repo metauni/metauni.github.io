@@ -14,9 +14,8 @@ Upcoming:
 
 ## Background reading
 
-Michael Chappuis has provided the following curriculum on basics in this area.
-
 * Background on [molecular biology](https://plato.stanford.edu/entries/molecular-biology/) from the Stanford Encyclopedia of Philosophy.
+* A primer on [transcription and mRNA](https://www.youtube.com/watch?v=JQIwwJqF5D0).
 
 Here are some other notes:
 
