@@ -22,3 +22,4 @@ Michael Chappuis has provided the following curriculum on basics in this area.
 
 * H. Akhlaghpour, "[An RNA-Based Theory of Natural Universal Computation](https://arxiv.org/abs/2008.08814)".
 * J. Jumper et al "[Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)" Nature 2021.
+* S. Gershman, P. Balbi, C. Gallistel, J. Gunawardena, "[Reconsidering the evidence for learning in single cells](https://elifesciences.org/articles/61907)" Elife 2021.
