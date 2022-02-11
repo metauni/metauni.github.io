@@ -18,3 +18,4 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems. Thurs
 * [Seminar 8](https://youtu.be/kMhX5f0UN44): Completeness theorem. 
 * [Seminar 9](https://youtu.be/TRhR88anv3M): Gödel's theorem I
 * [Seminar 10](https://youtu.be/GQ4DFMNKvwY): Gödel's theorem II
+* **10-2-22** (*Will Troiani*): Gödel's incompleteness theorem Part 3 ([video](https://youtu.be/hz-IWh9CF9A)).
