@@ -12,10 +12,10 @@ Upcoming:
 
 * **TBD** *David Li*: Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
 
-## Background reading
+## Background
 
 * Background on [molecular biology](https://plato.stanford.edu/entries/molecular-biology/) from the Stanford Encyclopedia of Philosophy.
-* A primer on [transcription and mRNA](https://www.youtube.com/watch?v=JQIwwJqF5D0).
+* A primer on [transcription and mRNA](https://www.youtube.com/watch?v=JQIwwJqF5D0) and [translation from mRNA to protein](https://www.youtube.com/watch?v=ocAAkB32Hqs).
 
 Here are some other notes:
 
