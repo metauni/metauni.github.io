@@ -5,7 +5,8 @@
 
 ## Schedule
 
-* **17-2-22** (*Dan Murfet, Michael Chappuis*): Computation and reasoning in biology.
+* **17-2-22** (*Dan Murfet, Michael Chappuis*): Life as a singular learning machine.
+* **24-2-22** (*Dan Murfet, Michael Chappuis*): Plan and overview.
 * **7-4-22** (*Hessam Akhlaghpour*): "[An RNA-Based Theory of Natural Universal Computation](https://arxiv.org/abs/2008.08814)".
 
 Upcoming:
