@@ -7,11 +7,12 @@
 
 * **17-2-22** (*Dan Murfet, Michael Chappuis*): Life as a singular learning machine.
 * **24-2-22** (*Dan Murfet, Michael Chappuis*): Plan and overview.
+* **3-3-22** (*David Li*): Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
+* **10-3-22** (*Dan Murfet*): Gene Regulatory Networks I.
+* **17-3-22** TBD
+* **24-3-22** TBD
+* **31-3-22** TBD
 * **7-4-22** (*Hessam Akhlaghpour*): "[An RNA-Based Theory of Natural Universal Computation](https://arxiv.org/abs/2008.08814)".
-
-Upcoming:
-
-* **TBD** *David Li*: Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
 
 ## Background
 
