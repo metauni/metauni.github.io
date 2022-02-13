@@ -27,9 +27,9 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 Coming up:
 
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II.
-    * **Supplementary** (*Dan Murfet*): Fisher information for regression models.
+    * **Supplementary** (*da crew*): Working session 1.
 * **24-2-22** (*Edmund Lau*): Free energy asymptotics.
-    * **Supplementary** (*da crew*): Working session I.
+    * **Supplementary** (*da crew*): Working session 2.
 
 ## Background reading
 
