@@ -30,6 +30,8 @@ Coming up:
     * **Supplementary** (*da crew*): Working session 1.
 * **24-2-22** (*Edmund Lau*): Free energy asymptotics.
     * **Supplementary** (*da crew*): Working session 2.
+* **3-3-22** (*Spencer Wong*): From analytic to algebraic III.
+* **10-3-22** (*Tom Waring*): Regularly parametrised models.
 
 ## Background reading
 
