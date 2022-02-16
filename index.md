@@ -27,7 +27,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): Singularities are knowledge.
 * **Tea break 11:00-11:30**
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 11:30-12:00**: Mathematical background for the main seminar.
-* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-1:00**: livestreaming the construction of metauni (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). *Guest speaker:* Mathias on scripting physics in Roblox.
 * **Tea break 1:00-1:30**
 * **#metauni-dev 1:30-2:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 2:30-3:30** (*Adam Dorr*): towards a science of technological disruption.
