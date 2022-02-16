@@ -5,8 +5,7 @@
 
 ## Schedule
 
-* **17-2-22** (*Dan Murfet, Michael Chappuis*): Life as a singular learning machine.
-* **24-2-22** (*Dan Murfet, Michael Chappuis*): Plan and overview.
+* **24-2-22** (*Dan Murfet, Michael Chappuis*): Life as a singular learning machine.
 * **3-3-22** (*David Li*): Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
 * **10-3-22** (*Dan Murfet*): Gene Regulatory Networks I.
 * **17-3-22** TBD
