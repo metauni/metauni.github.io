@@ -22,3 +22,4 @@ Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 * **20-1-22** (*[Jaipack](https://github.com/jaipack17/)*): [Nature2D](https://github.com/jaipack17/Nature2D) ([video](https://youtu.be/iJuSpmNAwEk), [presentation](https://quill-clam-cfe.notion.site/Nature2D-a5f61599d8ef4660861ea96a8f91fa7e)).
 * **3-2-22** (*Dan Murfet*): History places for historical copies of boards ([video]([video](https://youtu.be/UDx8K53Nd8g))).
 * **10-2-22** (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Inverse kinematics ([video](https://youtu.be/2HZVDpbEB40)).
+* **17-2-22** (*[Mathias/draainhp](https://twitter.com/draainhp)*): Simulating physics ([video](https://youtu.be/JdWbr5AnHvI)).
