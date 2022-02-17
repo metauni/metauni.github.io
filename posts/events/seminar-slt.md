@@ -23,11 +23,11 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
 * **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf)).
     * **Supplementary** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
-                
+* **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU)).
+    * **Supplementary**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
+    
 Coming up:
 
-* **17-2-22** (*Spencer Wong*): From analytic to algebraic II.
-    * **Supplementary** (*da crew*): Working session 1.
 * **24-2-22** (*Edmund Lau*): Free energy asymptotics.
     * **Supplementary** (*da crew*): Working session 2.
 * **3-3-22** (*Spencer Wong*): From analytic to algebraic III.
