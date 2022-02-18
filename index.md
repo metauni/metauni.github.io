@@ -34,7 +34,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
-* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Will Troiani, Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities.
+* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities.
 * **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar 3-3-2022*).
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin).
