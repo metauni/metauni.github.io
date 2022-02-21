@@ -21,7 +21,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems.
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems (*skipped 24-2-22*).
 * **Tea break 9:00-9:30**
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): Singularities are knowledge.
