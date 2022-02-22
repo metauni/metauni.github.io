@@ -9,7 +9,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
-![banner](newbanner-min.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FtAna8-T4Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
@@ -38,6 +38,8 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar 3-3-2022*).
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin).
+
+![banner](newbanner-min.png)
 
 ## Build your own
 
