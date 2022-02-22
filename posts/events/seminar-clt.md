@@ -20,8 +20,8 @@
 
 Here are some other notes:
 
-* [Cell Learning Theory 1](http://www.therisingsea.org/notes/metauni/clt1.pdf): Cell Learning Theory 1.
-* [Cell Learning Theory 2](http://www.therisingsea.org/notes/metauni/clt2.pdf): Cell Learning Theory 2.
+* [Cell Learning Theory 1](http://www.therisingsea.org/notes/metauni/clt1.pdf)
+* [Cell Learning Theory 2](http://www.therisingsea.org/notes/metauni/clt2.pdf)
 
 ## References
 
