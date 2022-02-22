@@ -33,6 +33,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **Tea break 13:00-13:30**
 * **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 14:30-15:30** (*Adam Dorr*): towards a science of technological disruption.
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 15:30-16:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology.
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
