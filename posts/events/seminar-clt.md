@@ -5,7 +5,7 @@
 
 ## Schedule
 
-* **24-2-22** (*Dan Murfet, Michael Chappuis*): Life as a singular learning machine.
+* **24-2-22** (*Dan Murfet*): An invitation ([notes](http://www.therisingsea.org/notes/metauni/clt2.pdf)).
 * **3-3-22** (*David Li*): Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
 * **10-3-22** (*Dan Murfet*): Gene Regulatory Networks I.
 * **17-3-22** TBD
@@ -21,6 +21,7 @@
 Here are some other notes:
 
 * [Cell Learning Theory 1](http://www.therisingsea.org/notes/metauni/clt1.pdf): Cell Learning Theory 1.
+* [Cell Learning Theory 2](http://www.therisingsea.org/notes/metauni/clt2.pdf): Cell Learning Theory 2.
 
 ## References
 
