@@ -5,7 +5,7 @@
 
 ## Schedule
 
-* **24-2-22** (*Dan Murfet*): An invitation ([notes](http://www.therisingsea.org/notes/metauni/clt2.pdf)).
+* **24-2-22** (*Dan Murfet*): Invitation to natural programs ([notes](http://www.therisingsea.org/notes/metauni/clt2.pdf), [video](https://youtu.be/Wes6ROQuJoY)).
 * **3-3-22** (*David Li*): Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf)).
 * **10-3-22** (*Dan Murfet*): Gene Regulatory Networks I.
 * **17-3-22** TBD
