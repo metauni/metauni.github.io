@@ -25,11 +25,11 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU)).
     * **Supplementary**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
-    
+* **24-2-22** (*Edmund Lau*): Free energy asymptotics ([video](https://youtu.be/QBaJH5QRAA8))
+    * **Supplementary**: Working session 2 ([video](https://youtu.be/c7Di-oAZxNg))
+        
 Coming up:
 
-* **24-2-22** (*Edmund Lau*): Free energy asymptotics.
-    * **Supplementary** (*da crew*): Working session 2.
 * **3-3-22** (*Spencer Wong*): From analytic to algebraic III.
 * **10-3-22** (*Tom Waring*): Regularly parametrised models.
 
