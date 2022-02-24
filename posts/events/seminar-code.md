@@ -2,7 +2,7 @@
 
 Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 
-* **Co-organisers**: Billy Price, Dan Murfet.
+* **Co-organisers**: Ethan Curtiss, Dan Murfet.
 * **Venue**: the [TRS Discord](https://discord.gg/9yBaAxPSK8).
 
 ![banner](seminar-code-min.png)
