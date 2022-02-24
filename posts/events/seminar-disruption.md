@@ -12,7 +12,7 @@ Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
 * [Seminar 6](https://youtu.be/kzxozwtvTCo).
 * [Seminar 7](https://youtu.be/8geMAz9hlSA).
 * [Seminar 8](https://youtu.be/M7rXA9T05qQ).
-* **3-2-22** [Seminar 9](https://youtu.be/5H4ZebM4MYg): a discussion of abundance.
-* **10-2-22** [Seminar 10](https://youtu.be/7Hwc8U9C6bg): derailing disruption.
+* **3-2-22** Seminar 9: a discussion of abundance ([video]([video](https://youtu.be/5H4ZebM4MYg))).
+* **10-2-22** Seminar 10: derailing disruption ([video](https://youtu.be/7Hwc8U9C6bg)).
 * **17-2-22** Seminar 11: automation and robotics ([video](https://youtu.be/-Fg8bVf-qi4)).
 * **24-2-22** Seminar 12: social impact of disruption ([video](https://youtu.be/Gx9j1Jak6Qg)).
