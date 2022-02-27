@@ -15,8 +15,6 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
-For information about past events and videos see the [events page](http://metauni.org/posts/events/events). See a problem? [File an issue](https://github.com/metauni/general/issues). You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules). Submit orders for merch in the `#merch` channel on [Discord](https://discord.gg/9yBaAxPSK8) (thanks Ken!).
-
 ## metauni Day
 
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
@@ -40,7 +38,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities.
 * **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar 3-3-2022*).
 
-For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin).
+For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
 ![banner](newbanner-min.png)
 
