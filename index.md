@@ -19,20 +19,20 @@ For information about past events and videos see the [events page](http://metaun
 
 ## metauni Day
 
-We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board.
+We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology.
 
 **Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems.
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems.
 * **Tea break 9:00-9:30**
-* **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards.
-* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge.
+* **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards. Currently in Book 1 of the elements, building towards the proof of the Pythagorean theorem.
+* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
 * **Tea break 11:00-11:30**
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 11:30-12:00**: working session.
-* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-13:00**: coding and math in Roblox (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-13:00**: coding and math in Roblox (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
 * **Tea break 13:00-13:30**
 * **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 14:30-15:30** (*Adam Dorr*): towards a science of technological disruption.
+* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 14:30-15:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 15:30-16:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology.
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
