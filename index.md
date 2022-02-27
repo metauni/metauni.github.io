@@ -44,7 +44,7 @@ For videos from the seminars, see the pages for the individual seminars (linked 
 
 ## Build your own
 
-While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to help you how to build your own community like metauni. The simplest way is to use one of our private servers:
+While metauni is meta in the sense of being *in the Metaverse*, it is also meta in the sense that we want to help you how to build your own community like metauni. The tools we use are [open source](https://metauni.org/posts/open/open) and we'll happily help you set up your own seminars and teach you how to record them, just jump into the Discord and say hi. If you'd rather not open up Roblox Studio, one simple way to run a seminar is to use one of our private servers:
 
 - [Circular Concept](https://www.roblox.com/games/8306474211/Circular-Concept#!/game-instances) with persistent metaboards, Admin Commands. `Free`.
 - [Iteration of Concept](https://www.roblox.com/games/8278496526/Iteration-of-Concept) with metaboard, Admin Commands, and Coin Run challenge in an environment built from a snapshot of Songspire ([making of](https://youtu.be/l_Fl6tKZvQQ)). `Free`.
