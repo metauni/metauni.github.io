@@ -19,7 +19,7 @@ For information about past events and videos see the [events page](http://metaun
 
 ## metauni Day
 
-We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology.
+We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
 **Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
