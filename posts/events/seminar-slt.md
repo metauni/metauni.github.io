@@ -31,7 +31,9 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 Coming up:
 
 * **3-3-22** (*Spencer Wong*): From analytic to algebraic III.
+    * **Supplementary**: Working session 3.
 * **10-3-22** (*Tom Waring*): Regularly parametrised models.
+* **17-3-22** (*Edmund Lau*): Climbing the free energy ladder.
 
 ## Background reading
 
