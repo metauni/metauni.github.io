@@ -24,9 +24,9 @@ Dates are AEDT.
 * **10-2-22** (*Daniel Murfet*): From quadratic forms to bicategories ([notes](http://therisingsea.org/notes/talk-symbicatlg.pdf), [video](https://youtu.be/vvmGPhMRM5o)).
 * **17-2-22** (*Rohan Hitchcock*): Matrix factorisations and geometry ([notes](https://rohanhitchcock.com/notes/matrix-factorisations-geometry.pdf), [video](https://youtu.be/Wa_kQs0PGKY)).
 * **24-2-22** (*Rohan Hitchcock*): The perturbation lemma I ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/-gWUA5tCgc4)).
-* (*Rohan Hitchcock*): The perturbation lemma II
-* (*Dan Murfet*): Introduction to the bicategory LG.
-* (*Dan Murfet*): Composition in LG
+* **3-3-22** (*Rohan Hitchcock*): The perturbation lemma II
+* **10-3-22** (*Dan Murfet*): Introduction to the bicategory LG.
+* **17-3-22** (*Dan Murfet*): Composition in LG
 * (*Rohan Hitchcock*): Units in LG
 
 ## Notes
