@@ -23,3 +23,4 @@ Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
 * [Seminar 12](https://youtu.be/s1_fyN1mgWw): Propositions 27, 28.
 * **17-2-22** Seminar 13: Propositions 29, 30 and the fifth postulate ([video](https://youtu.be/s1CsTWw7cAw)).
 * **24-2-22** Seminar 14: Proposition 31 ([video](https://youtu.be/yAtkz7CvlTU))
+* **3-3-22** Seminar 15: Propositions 34, 35 ([video](https://youtu.be/5OKFSOs8po8)).
