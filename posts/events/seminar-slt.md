@@ -27,11 +27,11 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
 * **24-2-22** (*Edmund Lau*): Free energy asymptotics ([video](https://youtu.be/QBaJH5QRAA8))
     * **Supplementary**: Working session 2 ([video](https://youtu.be/c7Di-oAZxNg))
-        
+* **3-3-22** (*Spencer Wong*): From analytic to algebraic III ([video](https://youtu.be/LWylEE5M9lc)).
+    * **Supplementary**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0)).
+            
 Coming up:
 
-* **3-3-22** (*Spencer Wong*): From analytic to algebraic III.
-    * **Supplementary**: Working session 3.
 * **10-3-22** (*Tom Waring*): Regularly parametrised models.
 * **17-3-22** (*Edmund Lau*): Climbing the free energy ladder.
 
