@@ -1,6 +1,6 @@
 # Landau-Ginzburg
 
-On the geometry and (bi)category theory of isolated hypersurface singularities. Thursdays `21:00-22:00 AEDT`.
+On the geometry and (bi)category theory of isolated hypersurface singularities. **Currently on hiatus**.
 
 The aim of the seminar is to provide an accessible and detailed construction of the bicategory of Landau-Ginzburg models (which has isolated hypersurface singularities as objects and matrix factorisations as 1-morphisms). Partly this is meant as background for work on semantics of linear logic involving this structure. You might the talking boards in [LC001](https://www.roblox.com/games/6461013759/Landau-Ginzburg) useful.
 
@@ -25,9 +25,6 @@ Dates are AEDT.
 * **17-2-22** (*Rohan Hitchcock*): Matrix factorisations and geometry ([notes](https://rohanhitchcock.com/notes/matrix-factorisations-geometry.pdf), [video](https://youtu.be/Wa_kQs0PGKY)).
 * **24-2-22** (*Rohan Hitchcock*): The perturbation lemma I ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/-gWUA5tCgc4)).
 * **3-3-22** (*Rohan Hitchcock*): The perturbation lemma II ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/n_jlHU0FuwA)).
-* **10-3-22** (*Dan Murfet*): Introduction to the bicategory LG.
-* **17-3-22** (*Dan Murfet*): Composition in LG
-* (*Rohan Hitchcock*): Units in LG
 
 ## Notes
 
