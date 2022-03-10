@@ -24,3 +24,4 @@ Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 * **10-2-22** (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Inverse kinematics ([video](https://youtu.be/2HZVDpbEB40)).
 * **17-2-22** (*[Mathias/draainhp](https://twitter.com/draainhp)*): Simulating physics ([video](https://youtu.be/JdWbr5AnHvI)).
 * **3-3-22** (*CodeSmoke*): On generating rails and roads ([video](https://youtu.be/DSo15XMjmek)).
+* **10-3-22** (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Futurama tubes ([video](https://youtu.be/XB9NfkPO6d0)).
