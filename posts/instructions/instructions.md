@@ -60,7 +60,7 @@ Spatial voice is still in beta, and there are known issues:
 
 * Spatial voice is more demanding on your Internet connection than the other parts of Roblox (e.g. the 3D spatial environment). You may find that, for example if your WiFi signal is low, you are able to join the Roblox experience *but spatial voice refuses to work* (e.g. it continues to show the red triangle). Sometimes simply moving closer to your WiFi router will fix the problem.
 
-* If you installed Roblox from an App Store, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home).
+* If you installed Roblox on Windows from the App Store, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home).
 
 ### Privacy and age-verification
 
