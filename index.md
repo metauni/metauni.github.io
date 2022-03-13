@@ -33,10 +33,11 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
+* **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar 17-3-2022*).
+
 **Not on this week**:
 
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 15:30-16:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. This week's seminar is on AlphaFold (*biweekly, next seminar 17-3-2022*).
-* **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar 17-3-2022*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 14:30-15:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 
