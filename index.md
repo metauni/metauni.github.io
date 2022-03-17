@@ -21,8 +21,6 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in itatlics are the co-organisers of the seminar.
 
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems.
-* **Tea break 9:00-9:30**
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards. Currently in Book 1 of the elements, building towards the proof of the Pythagorean theorem.
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
 * **Tea break 11:00-11:30**
@@ -39,6 +37,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 14:30-15:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Cryptography](https://lnor.net/uc-seminar.html) 22:00-23:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability).
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
