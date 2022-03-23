@@ -30,10 +30,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **3-3-22** (*Spencer Wong*): From analytic to algebraic III ([video](https://youtu.be/LWylEE5M9lc)).
     * **Supplementary**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0)).
 * **10-3-22** (*Tom Waring*): Regularly parametrised models ([video](https://youtu.be/T8Lgvt0mfuY)).
-            
-Coming up:
-
-* **17-3-22** (*Edmund Lau*): Climbing the free energy ladder.
+* **17-3-22** (*Edmund Lau*): Bounding the partition function ([video](https://youtu.be/7x16e4yHsHg)).
 
 ## Background reading
 
