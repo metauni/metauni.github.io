@@ -21,3 +21,4 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems. Thurs
 * **10-2-22** (*Will Troiani*): Gödel's incompleteness theorem Part 3 ([video](https://youtu.be/hz-IWh9CF9A)).
 * **17-2-22** (*Will Troiani*): Gödel's incompleteness theorem Part 4 ([video](https://youtu.be/KxnE1mwRG-k)).
 * **3-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 5 ([video](https://youtu.be/gw_rks-tLdI)).
+* **17-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 6 ([video](https://youtu.be/25ZGE0PiioE)).
