@@ -25,3 +25,4 @@ Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
 * **24-2-22** Seminar 14: Proposition 31 ([video](https://youtu.be/yAtkz7CvlTU))
 * **3-3-22** Seminar 15: Propositions 34, 35 ([video](https://youtu.be/5OKFSOs8po8)).
 * **10-3-22** Seminar 16: Propositions 36, 37 ([video](https://youtu.be/iDl0ieEeGRw)).
+* **17-3-22** Seminar 17: Propositions 38, 39, 40, 41 ([video](https://youtu.be/Z0I4jJxwZW8)).
