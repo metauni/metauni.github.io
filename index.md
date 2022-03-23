@@ -26,9 +26,8 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **Tea break 11:00-11:30**
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 11:30-12:00**: working session.
 * **[Code](http://metauni.org/posts/events/seminar-code) 12:00-13:00**: coding and math in Roblox (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week:* [jord](https://twitter.com/jord404) speaks on custom humanoids, replication, and CFrame animations.
-* **Tea break 13:00-13:30**
+* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 13:00-13:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it (**NOTE:** the special time this week).
 * **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 14:30-15:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 
 **Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in italics are the co-organisers of the seminar.
 
