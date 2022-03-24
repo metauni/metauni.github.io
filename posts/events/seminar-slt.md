@@ -31,6 +31,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
     * **Supplementary**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0)).
 * **10-3-22** (*Tom Waring*): Regularly parametrised models ([video](https://youtu.be/T8Lgvt0mfuY)).
 * **17-3-22** (*Edmund Lau*): Bounding the partition function ([video](https://youtu.be/7x16e4yHsHg)).
+* **24-3-22** (*Edmund Lau*): The influence of sampling ([video](https://youtu.be/JyZnMinS86Q)).
 
 ## Background reading
 
