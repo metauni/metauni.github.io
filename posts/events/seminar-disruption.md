@@ -16,3 +16,4 @@ Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
 * **10-2-22** Seminar 10: derailing disruption ([video](https://youtu.be/7Hwc8U9C6bg)).
 * **17-2-22** Seminar 11: automation and robotics ([video](https://youtu.be/-Fg8bVf-qi4)).
 * **24-2-22** Seminar 12: social impact of disruption ([video](https://youtu.be/Gx9j1Jak6Qg)).
+* **24-3-22** Seminar 13: can democracy survive without growth? ([video](https://youtu.be/7XOvHvrz-N8)).
