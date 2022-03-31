@@ -7,10 +7,7 @@
 
 * **24-2-22** (*Dan Murfet*): Invitation to natural programs ([notes](http://www.therisingsea.org/notes/metauni/clt2.pdf), [video](https://youtu.be/Wes6ROQuJoY)).
 * **3-3-22** (*David Li*): Understanding AlphaFold ([notes](http://therisingsea.org/notes/metauni/notes-li-alphafold.pdf), [video](https://youtu.be/ymc1zK59O8Q)).
-* **10-3-22** **No seminar**.
-* **17-3-22** TBD
-* **24-3-22** TBD
-* **31-3-22** TBD
+* **31-3-22** Journal club discussion of "[Symmetry and simplicity spontaneously emerge from the algorithmic nature of evolution](https://www.pnas.org/doi/10.1073/pnas.2113883119)".
 * **7-4-22** (*Hessam Akhlaghpour*): "[An RNA-Based Theory of Natural Universal Computation](https://arxiv.org/abs/2008.08814)".
 
 ## Background
