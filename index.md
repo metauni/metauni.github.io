@@ -21,22 +21,22 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEST. The beginning of the block is 9:30am Thursday AEST. **Note the time change from AEDT to AEST**. Names in italics are the co-organisers of the seminar.
 
-* **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards. Currently in Book 1 of the elements, building towards the proof of the Pythagorean theorem.
-* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
-* **Tea break 11:00-11:30**
-* **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 11:30-12:00**: working session.
-* **[Code](http://metauni.org/posts/events/seminar-code) 12:00-13:00** (*Ethan Curtiss, Dan Murfet*): coding and math in Roblox (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week:* [jord](https://twitter.com/jord404) speaks on custom humanoids, replication, and CFrame animations.
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 13:00-13:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 14:30-15:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. *This week*: informal discussion.
+* **[Euclid](http://metauni.org/posts/events/seminar-euclid) 8:30-9:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards. Currently in Book 1 of the elements, building towards the proof of the Pythagorean theorem.
+* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 9:00-10:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
+* **Tea break 10:00-10:30**
+* **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 10:30-11:00**: working session.
+* **[Code](http://metauni.org/posts/events/seminar-code) 11:00-12:00** (*Ethan Curtiss, Dan Murfet*): coding and math in Roblox (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 12:00-12:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+* **#metauni-dev 12:30-13:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 13:30-14:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. *This week*: informal discussion.
 
 **Elf block**: Times are given on Thursday AEST, the beginning of the block is 9pm Thursday AEST. Names in italics are the co-organisers of the seminar.
 
 **Not on this week**:
 
-* **[Cryptography](https://lnor.net/uc-seminar.html) 19:00-20:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
-* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 21:00-22:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 8:00-9:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
+* **[Cryptography](https://lnor.net/uc-seminar.html) 18:00-19:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
+* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 20:00-21:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations) 7:00-8:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
