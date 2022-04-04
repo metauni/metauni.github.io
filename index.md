@@ -27,8 +27,8 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 10:30-11:00**: working session.
 * **[Code](http://metauni.org/posts/events/seminar-code) 11:00-12:00** (*Ethan Curtiss, Dan Murfet*): coding and math in Roblox (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 12:00-12:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **#metauni-dev 12:30-13:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 13:30-14:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. *This week*: informal discussion.
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 12:30-13:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. *This week*: informal discussion.
+* **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 
 **Elf block**: Times are given on Thursday AEST, the beginning of the block is 9pm Thursday AEST. Names in italics are the co-organisers of the seminar.
 
