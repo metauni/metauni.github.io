@@ -32,9 +32,10 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Elf block**: Times are given on Thursday AEST, the beginning of the block is 9pm Thursday AEST. Names in italics are the co-organisers of the seminar.
 
+* **[Cryptography](https://lnor.net/uc-seminar.html) 18:00-19:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
+
 **Not on this week**:
 
-* **[Cryptography](https://lnor.net/uc-seminar.html) 18:00-19:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg) 20:00-21:00** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations) 7:00-8:00** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
 
