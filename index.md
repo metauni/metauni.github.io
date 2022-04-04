@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
-**Dwarf block**: Times are given on Thursday AEDT. The beginning of the block is 8am Thursday AEDT. Names in italics are the co-organisers of the seminar.
+**Dwarf block**: Times are given on Thursday AEST. The beginning of the block is 9:30am Thursday AEST. **Note the time change from AEDT to AEST**. Names in italics are the co-organisers of the seminar.
 
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid) 9:30-10:00** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards. Currently in Book 1 of the elements, building towards the proof of the Pythagorean theorem.
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 10:00-11:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
@@ -30,7 +30,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 14:30-15:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. *This week*: informal discussion.
 
-**Elf block**: Times are given on Thursday AEDT, the beginning of the block is 9pm Thursday AEDT. Names in italics are the co-organisers of the seminar.
+**Elf block**: Times are given on Thursday AEST, the beginning of the block is 9pm Thursday AEST. Names in italics are the co-organisers of the seminar.
 
 **Not on this week**:
 
