@@ -32,7 +32,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Elf block**: Times are given on Thursday AEST, the beginning of the block is 9pm Thursday AEST. Names in italics are the co-organisers of the seminar.
 
-* **[Cryptography](https://lnor.net/uc-seminar.html) 18:00-19:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
+* **[Cryptography](https://lnor.net/uc-seminar.html) 21:00-22:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
 
 **Not on this week**:
 
