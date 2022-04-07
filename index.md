@@ -30,7 +30,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 12:30-13:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology. *This week*: special guest speaker Hessam Akhlaghpour will speak on his paper [An RNA-Based Theory of Natural Universal Computation](https://www.sciencedirect.com/science/article/abs/pii/S0022519321004045).
 * **#metauni-dev 13:30-14:30**: development meeting (in the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8)).
 
-**Elf block**: Times are given on Thursday AEST, the beginning of the block is 9pm Thursday AEST. Names in italics are the co-organisers of the seminar.
+**Elf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
 * **[Cryptography](https://lnor.net/uc-seminar.html) 21:00-22:00**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*biweekly, next seminar is 8-4-22*).
 
