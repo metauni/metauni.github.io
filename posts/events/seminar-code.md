@@ -27,3 +27,4 @@ Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 * **10-3-22** (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Futurama tubes ([video](https://youtu.be/XB9NfkPO6d0)).
 * **24-3-22** Seminar 16 - Hacking on pockets and portals ([video](https://youtu.be/CF4ncxeO9mc)).
 * **31-3-22** Seminar 17 - Pockets again ([video](https://youtu.be/unvjvTxinr0)).
+* **7-4-22** Seminar 18 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*) - Arc-length parametrisation and Pneumatic tubes ([video](https://youtu.be/9eVCjRTnDrs)).
