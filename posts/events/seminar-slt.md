@@ -32,6 +32,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **10-3-22** (*Tom Waring*): Regularly parametrised models ([video](https://youtu.be/T8Lgvt0mfuY)).
 * **17-3-22** (*Edmund Lau*): Bounding the partition function ([video](https://youtu.be/7x16e4yHsHg)).
 * **24-3-22** (*Edmund Lau*): The influence of sampling ([video](https://youtu.be/JyZnMinS86Q)).
+* **7-4-22** (*Edmund Lau*): Main Theorem 1 ([video](https://youtu.be/70UtL7pfxNo)).
 
 ## Background reading
 
