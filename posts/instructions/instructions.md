@@ -18,7 +18,7 @@ That's it! Thanks for taking part in metauni. You might like to review the [Robl
 The installation of Discord is optional but recommended:
 
 1. Create a [Discord](https://www.discord.com) account.
-2. Join the [Rising Sea Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
+2. Join the [Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
 
 ## The Basics
 
