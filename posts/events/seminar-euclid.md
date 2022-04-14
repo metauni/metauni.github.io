@@ -29,3 +29,14 @@ Euclid's Elements on virtual blackboards.
 * **24-3-22** Seminar 18: Propositions 42, 43 ([video](https://youtu.be/bp1woK8Qz5Q)).
 * **31-3-22** Seminar 19: Proposition 44 ([video](https://youtu.be/nx0URu-jlX8)).
 * **14-4-22** Seminar 21: Proposition 47, 48 ([video](https://youtu.be/hsnIhFFFeC8)).
+
+Thanks to those who attended the end of Book 1 celebrations:
+
+```
+Ethan
+DarkInfernoDrago
+Skarm174
+Edmund
+Ken
+Dan
+```
