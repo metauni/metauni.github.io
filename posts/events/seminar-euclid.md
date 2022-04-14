@@ -1,13 +1,13 @@
 # Euclid
 
-Euclid's elements on virtual blackboards. Thursdays `9:30am-10:00am AEDT`.
+Euclid's Elements on virtual blackboards.
 
 * **Co-organisers**: Ken Chan and Dan Murfet.
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
 ![banner](seminar-euclid-min.png)
 
-## Past seminars
+## Book 1
 
 * [Seminar 1](https://youtu.be/9U73KputtOU): Postulates and Proposition 1.
 * [Seminar 2](https://youtu.be/VO6QPT8Ubcc): Propositions 2, 3.
