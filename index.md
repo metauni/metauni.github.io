@@ -25,8 +25,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 9:00-10:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
 * **Tea break 10:00-10:30**
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 10:30-11:00**: working session.
-* **[Code](http://metauni.org/posts/events/seminar-code) 11:00-12:00** (*Ethan Curtiss, Dan Murfet*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
-* **Tea break 12:00-12:30**
+* **Lunch break 11:00-12:30**
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 13:30-14:00** (*Michael Chappuis, Dan Murfet*): learning and computation in biology.
 
@@ -34,6 +33,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Not on this week**:
 
+* **[Code](http://metauni.org/posts/events/seminar-code) 11:00-12:00** (*Ethan Curtiss, Dan Murfet*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
