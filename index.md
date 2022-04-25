@@ -27,7 +27,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 9:30-10:00**: working session.
 * **Tea break 10:00-10:30**
 * **[Disruption](http://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 11:30-12:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology.
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 11:30-12:30** (*Dan Murfet*): learning and computation in biology.
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 **Elf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
