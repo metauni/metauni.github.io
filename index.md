@@ -22,12 +22,13 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 **Dwarf block**: Times are given on Thursday AEST. The beginning of the block is 8:30am Thursday AEST. **Note the time change from AEDT to AEST**. Names in italics are the co-organisers of the seminar.
 
 * **metauni Algebraic Geometry 7:00-8:00** (*Ken Chan, Dan Murfet*): Planning sessions for MAG.
-* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 9:30-10:00** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
+* **Tea break 8:00-8:30**
+* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 8:30-9:30** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
+* **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 9:30-10:00**: working session.
 * **Tea break 10:00-10:30**
-* **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 10:30-11:00**: working session.
-* **Lunch break 11:00-12:30**
+* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 11:30-12:30** (*Michael Chappuis, Dan Murfet*): learning and computation in biology.
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 13:30-14:00** (*Michael Chappuis, Dan Murfet*): learning and computation in biology.
 
 **Elf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
@@ -37,7 +38,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption)** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+
 * **[Cryptography](https://lnor.net/uc-seminar.html)**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*on hiatus*).
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
