@@ -21,13 +21,13 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEST. The beginning of the block is 8:30am Thursday AEST. **Note the time change from AEDT to AEST**. Names in italics are the co-organisers of the seminar.
 
-* **metauni Algebraic Geometry 7:00-8:00** (*Ken Chan, Dan Murfet*): Planning sessions for MAG.
+* **[metauni Algebraic Geometry](https://metauni.org/mag/) 7:00-8:00** (*Ken Chan, Dan Murfet*): Planning sessions for MAG.
 * **Tea break 8:00-8:30**
-* **[Singular Learning Theory](http://metauni.org/posts/events/seminar-slt) 8:30-9:30** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
-* **[SLT supplemental](http://metauni.org/posts/events/seminar-slt) 9:30-10:00**: working session.
+* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 8:30-9:30** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
+* **[SLT supplemental](https://metauni.org/posts/events/seminar-slt) 9:30-10:00**: working session.
 * **Tea break 10:00-10:30**
-* **[Disruption](http://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Cell Learning Theory](http://metauni.org/posts/events/seminar-clt) 11:30-12:30** (*Dan Murfet*): learning and computation in biology.
+* **[Disruption](https://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+* **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 11:30-12:30** (*Dan Murfet*): learning and computation in biology.
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 **Elf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
