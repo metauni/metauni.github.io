@@ -19,7 +19,15 @@ The *who* is a community of volunteers:
 
 ## Pre-requisities
 
-To be decided.
+High school algebra plus a little bit of linear algebra (a basic familiarity with matrices). More precisely, you should have experience working with polynomials in small numbers of variables and low degree. You should know 
+
+* How to find the roots of a quadratic polynomial, 
+* How to plot `q(x,y)=0` where `q` is a quadratic polynomial,
+* How to do long division on polynomials in one variable.
+* How to differentiate a polynomial.
+* How to multiply matrices and do row operations.
+
+You should be comfortable with functions and terms like domain, codomain, injective, surjective, pre-image, union, intersection and complement. 
 
 ## Course content
 
