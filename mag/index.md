@@ -2,12 +2,16 @@
 
 Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community. We are currently preparing MAG1, a first course in algebraic geometry, to begin in mid-June 2022. It will be free to attend and open to anyone with an Internet connection who is over the age of 13 (since Roblox voice chat requires age verification).
 
-This is a community-based class being prepared by:
+* **When**: starting mid-June, weekly **1.5 hour** lectures on Thursdays 7:00-8:30am AEST, weekly **1 hour** exercise sessions (times TBA).
+* **Where**: in the Metaverse, specifically [metauni](https://metauni.org). See the [instructions](https://metauni.org/posts/instructions/instructions).
+* **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
+* **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**.
+
+The *who* is a community of volunteers:
 
 * **Lecturers**: [Dan Murfet](https://www.therisingsea.org) and Ken Chan, both with PhDs in algebraic geometry.
 * **Tutors**: Edmund Lau, Rohan Hitchcock and Will Troiani (and you?).
 * **Illustrators**: Ethan Curtiss (AstroCode) and Mathias (and you?).
-* **Textbook**: D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**.
 
 <p align="center">
 <img width="500" alt="omg" src="https://user-images.githubusercontent.com/320329/165735979-036bb587-8586-4ed8-9972-18efdd049380.png">
