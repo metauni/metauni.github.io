@@ -23,7 +23,7 @@ To be decided.
 
 ## Course content
 
-There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations. Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**).
+There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations. Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**). Lecture notes will be posted before classes.
 
 * §1.1: Polynomials and Affine Space.
 * §1.2, 1.3: Affine Varieties, Parametrizations of Affine Varieties
@@ -39,6 +39,8 @@ There will be a two week pre-course covering polynomials and polynomial rings, i
 * §3.1, 3.2: The Elimination and Extension Theorems, The Geometry of Elimination.
 
 ## Exercise sessions
+
+The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions.
 
 <p align="center">
 <img width="700" alt="working" src="https://user-images.githubusercontent.com/320329/165738433-53e3b9ff-e8f4-494b-8e03-2d70ef1d76f3.png">
