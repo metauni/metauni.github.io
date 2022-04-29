@@ -2,6 +2,10 @@
 
 Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community. We are currently preparing MAG1, a first course in algebraic geometry, to begin in mid-June 2022. It will be free to attend and open to anyone with an Internet connection who is over the age of 13 (since Roblox voice chat requires age verification).
 
+<p align="center">
+<img width="700" alt="working" src="https://user-images.githubusercontent.com/320329/165738433-53e3b9ff-e8f4-494b-8e03-2d70ef1d76f3.png">
+</p>
+
 * **When**: starting mid-June, weekly **1.5 hour** lectures on Thursdays 7:00-8:30am AEST, weekly **1 hour** exercise sessions (times TBA). The class will run for 8-9 weeks (TBD).
 * **Where**: in the Metaverse, specifically [metauni](https://metauni.org). See the [instructions](https://metauni.org/posts/instructions/instructions).
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
@@ -50,7 +54,3 @@ There will be a two week pre-course covering polynomials and polynomial rings, i
 ## Exercise sessions
 
 The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions.
-
-<p align="center">
-<img width="700" alt="working" src="https://user-images.githubusercontent.com/320329/165738433-53e3b9ff-e8f4-494b-8e03-2d70ef1d76f3.png">
-</p>
