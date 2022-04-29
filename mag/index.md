@@ -3,7 +3,7 @@
 Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community. We are currently preparing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
 
 * **When**: starting mid-June 2022, weekly **1.5 hour** lectures on Thursdays 7:00-8:30am AEST, weekly **1 hour** exercise sessions (times TBA). The class will run for 8-9 weeks. There will be two graded assignments but no exam.
-* **Where**: [metauni](https://metauni.org). See the [instructions](https://metauni.org/posts/instructions/instructions). We teach in the Metaverse because it is the initial object in the category of learning environments.
+* **Where**: [metauni](https://metauni.org), where we can write on shared virtual blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
 * **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**.
 
@@ -17,7 +17,7 @@ The *who* is a community of volunteers:
 <img width="600" alt="working" src="https://user-images.githubusercontent.com/320329/165738433-53e3b9ff-e8f4-494b-8e03-2d70ef1d76f3.png">
 </p>
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to get updates on MAG1:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
 ## Pre-requisities
 
