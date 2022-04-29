@@ -23,8 +23,7 @@ High school algebra plus a little bit of linear algebra (a basic familiarity wit
 
 * How to find the roots of a quadratic polynomial, 
 * How to plot `q(x,y)=0` where `q` is a quadratic polynomial,
-* How to do long division on polynomials in one variable.
-* How to differentiate a polynomial.
+* How to differentiate a polynomial,
 * How to multiply matrices and do row operations.
 
 You should be comfortable with functions and terms like [domain](https://en.wikipedia.org/wiki/Domain_of_a_function), [codomain](https://en.wikipedia.org/wiki/Codomain), [image and preimage](https://en.wikipedia.org/wiki/Image_(mathematics)), [injective, surjective, bijective](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection), [union](https://en.wikipedia.org/wiki/Union_(set_theory)), [intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) and [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)). 
