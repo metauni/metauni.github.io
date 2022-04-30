@@ -12,6 +12,7 @@ We are currently preparing MAG1, a first course in algebraic geometry, which wil
 * **Where**: [metauni](https://metauni.org), where we can write on shared virtual blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you) and the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
 * **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**.
+* **How**: you should have access to a tablet with stylus (many of us use Apple iPads with Pencils) to collaborate on the virtual whiteboards. 
 
 The *who* is a community of volunteers:
 
