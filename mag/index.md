@@ -17,7 +17,7 @@ The *who* is a community of volunteers:
 
 * **Lecturers**: [Dan Murfet](https://www.therisingsea.org) and Ken Chan, both with PhDs in algebraic geometry.
 * **Tutors**: Edmund Lau, Rohan Hitchcock and Will Troiani (and you?).
-* **Illustrators**: Ethan Curtiss (AstroCode) and Mathias (and you?).
+* **Illustrators**: [Ethan Curtiss](https://twitter.com/AstroCodeRblx) (AstroCode) and [Mathias](https://twitter.com/draainhp) (and you?).
 
 The class will be limited to 30 people. **Subscribe to the mailing list** to be notified when registration opens, and to receive other course updates.
 
