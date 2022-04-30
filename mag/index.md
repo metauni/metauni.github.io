@@ -66,3 +66,4 @@ At metauni learning is centered on virtual blackboards that we call *metaboards*
 * XP-PEN G640 graphics tablet (~AUD$50)
 * [Wacom Intuos](https://www.wacom.com/en-au/products/pen-tablets/wacom-intuos) (~AUD$250)
 * [Apple iPad](https://www.apple.com/au/shop/buy-ipad/ipad-10-2/64gb-space-grey-wifi) with Apple Pencil (~AUD$650)
+* Apple iPad Pro with Apple Pencil (~AUD$1650)
