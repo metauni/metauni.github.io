@@ -63,5 +63,6 @@ The volunteer tutors will take turns hosting the exercise sessions, in which gro
 
 You should have access to a tablet with stylus, so you can collaborate on the blackboards with other students. Members of our community have successfully used the following products:
 
+* XP-PEN G640 graphics tablet (~AUD$50)
 * [Wacom Intuos](https://www.wacom.com/en-au/products/pen-tablets/wacom-intuos) (~AUD$250)
 * [Apple iPad](https://www.apple.com/au/shop/buy-ipad/ipad-10-2/64gb-space-grey-wifi) with Apple Pencil (~AUD$650)
