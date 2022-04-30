@@ -57,13 +57,15 @@ High school algebra plus a little bit of linear algebra (a basic familiarity wit
 * How to differentiate a polynomial,
 * How to multiply matrices and do row operations.
 
+You should also be comfortable with functions and terms like [domain](https://en.wikipedia.org/wiki/Domain_of_a_function), [codomain](https://en.wikipedia.org/wiki/Codomain), [image and preimage](https://en.wikipedia.org/wiki/Image_(mathematics)), [injective, surjective, bijective](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection), [union](https://en.wikipedia.org/wiki/Union_(set_theory)), [intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) and [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)). 
+
 If you want to brush up, here are some modules from Khan Academy that cover the necessary background:
 
 * [Introduction to Algebra](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra)
 * [Polynomial expressions, equations and functions](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 * [Matrices](https://www.khanacademy.org/math/algebra-home/alg-matrices) up to "Row-echelon form and Gaussian elimination"
-
-You should also be comfortable with functions and terms like [domain](https://en.wikipedia.org/wiki/Domain_of_a_function), [codomain](https://en.wikipedia.org/wiki/Codomain), [image and preimage](https://en.wikipedia.org/wiki/Image_(mathematics)), [injective, surjective, bijective](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection), [union](https://en.wikipedia.org/wiki/Union_(set_theory)), [intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) and [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)). 
+* [Basic set operations](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets).
+* [Functions](https://www.khanacademy.org/math/algebra-home/alg-functions).
 
 ## Hardware
 
