@@ -82,3 +82,13 @@ What doesn't work:
 
 * Huion H610 Pro V2
 * The [Wacom Intuos small](https://www.wacom.com/en-au/products/pen-tablets/wacom-intuos)
+
+## What is it like?
+
+Here are some videos of learning at metauni in action:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QZG40ZY5TeU?start=4215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/25ZGE0PiioE?start=3950" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Esk7G3g5X8?start=3900" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
