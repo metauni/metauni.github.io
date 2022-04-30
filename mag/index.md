@@ -11,7 +11,7 @@ We are currently preparing MAG1, a first course in algebraic geometry, which wil
 * **When**: starting mid-June 2022, weekly **1.5 hour** lectures on Thursdays 7:00-8:30am AEST, weekly **1 hour** exercise sessions (times TBA). The class will run for 8-9 weeks. There will be two graded assignments but no exam.
 * **Where**: [metauni](https://metauni.org), where we can write on shared virtual blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you) and the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
-* **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**.
+* **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**. You don't need a copy as we'll post our own lecture notes based on the book, but it's a great book and we recommend getting a copy.
 
 The *who* is a community of volunteers:
 
