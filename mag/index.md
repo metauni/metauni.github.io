@@ -42,6 +42,10 @@ There will be a two week pre-course covering polynomials and polynomial rings, i
 
 Two assignments will be given during the class, taken from previously assigned exercises. Students will be encouraged to work in groups on these assignments, including during exercise sessions.
 
+## Illustrations
+
+In a virtual world we can *use the environment* to communicate ideas, using code; we call these *illustrations*. 
+
 <p align="center">
 <img width="500" alt="omg" src="https://user-images.githubusercontent.com/320329/165735979-036bb587-8586-4ed8-9972-18efdd049380.png">
 </p>
