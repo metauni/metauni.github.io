@@ -40,6 +40,8 @@ There will be a two week pre-course covering polynomials and polynomial rings, i
 * §3.1: The Elimination and Extension Theorems.
 * §3.1, 3.2: The Elimination and Extension Theorems, The Geometry of Elimination.
 
+Two assignments will be given during the class, taken from previously assigned exercises. Students will be encouraged to work in groups on these assignments, including during exercise sessions.
+
 <p align="center">
 <img width="500" alt="omg" src="https://user-images.githubusercontent.com/320329/165735979-036bb587-8586-4ed8-9972-18efdd049380.png">
 </p>
@@ -73,6 +75,8 @@ At metauni learning is centered on virtual blackboards that we call *metaboards*
 * [XP-PEN Deco 01v2](https://www.storexp-pen.com.au/buy/73.html) graphics tablet  (~AUD$80)
 * [Apple iPad](https://www.apple.com/au/shop/buy-ipad/ipad-10-2/64gb-space-grey-wifi) with Apple Pencil (~AUD$650)
 * Apple iPad Pro with Apple Pencil (~AUD$1650)
+
+In some countries Roblox may not be available through the Store for your device, in which case you should go with the USB tablet plugged into your PC.
 
 What doesn't work:
 
