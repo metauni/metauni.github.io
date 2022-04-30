@@ -27,18 +27,18 @@ The class will be limited to 30 people. **Subscribe to the mailing list** to be 
 
 There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations. Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**). Lecture notes will be posted before classes.
 
-* §1.1: Polynomials and Affine Space.
-* §1.2, 1.3: Affine Varieties, Parametrizations of Affine Varieties
-* §2.1: Introduction to Gröbner basis
+* §1.1: Polynomials and Affine Space
+* §1.2, 1.3: Affine Varieties, parametrizations of Affine Varieties
+* §2.1: Introduction to Gröbner Bases
 * §2.2: Orderings of Monomials
 * §2.3: Division Algorithm
 * §2.4: Monomial Ideals and Dickson’s Lemma
 * §2.5: The Hilbert Basis Theorem and Gröbner Bases
-* §2.6: Properties of Gröbner Bases.
-* §2.7: Buchberger’s Algorithm.
-* §2.8: First Applications of Gröbner Bases.
-* §3.1: The Elimination and Extension Theorems.
-* §3.1, 3.2: The Elimination and Extension Theorems, The Geometry of Elimination.
+* §2.6: Properties of Gröbner Bases
+* §2.7: Buchberger’s Algorithm
+* §2.8: First Applications of Gröbner Bases
+* §3.1: The Elimination and Extension Theorems
+* §3.1, 3.2: The Elimination and Extension Theorems, The Geometry of Elimination
 
 Two assignments will be given during the class, taken from previously assigned exercises. Students will be encouraged to work in groups on these assignments, including during exercise sessions.
 
