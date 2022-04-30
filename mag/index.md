@@ -23,17 +23,6 @@ The class will be limited to 30 people. **Subscribe to the mailing list** to be 
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to get updates on MAG1:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
-## Pre-requisities
-
-High school algebra plus a little bit of linear algebra (a basic familiarity with matrices). More precisely, you should have experience working with polynomials in small numbers of variables and low degree. You should know 
-
-* How to find the roots of a quadratic polynomial, 
-* How to plot `q(x,y)=0` where `q` is a quadratic polynomial,
-* How to differentiate a polynomial,
-* How to multiply matrices and do row operations.
-
-You should be comfortable with functions and terms like [domain](https://en.wikipedia.org/wiki/Domain_of_a_function), [codomain](https://en.wikipedia.org/wiki/Codomain), [image and preimage](https://en.wikipedia.org/wiki/Image_(mathematics)), [injective, surjective, bijective](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection), [union](https://en.wikipedia.org/wiki/Union_(set_theory)), [intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) and [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)). 
-
 ## Course content
 
 There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations. Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**). Lecture notes will be posted before classes.
@@ -58,6 +47,23 @@ There will be a two week pre-course covering polynomials and polynomial rings, i
 ## Exercise sessions
 
 The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions.
+
+## Pre-requisities
+
+High school algebra plus a little bit of linear algebra (a basic familiarity with matrices). More precisely, you should have experience working with polynomials in small numbers of variables and low degree. You should know 
+
+* How to find the roots of a quadratic polynomial, 
+* How to plot `q(x,y)=0` where `q` is a quadratic polynomial,
+* How to differentiate a polynomial,
+* How to multiply matrices and do row operations.
+
+If you want to brush up, here are some modules from Khan Academy that cover the necessary background:
+
+* [Introduction to Algebra](https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra)
+* [Polynomial expressions, equations and functions](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
+* [Matrices](https://www.khanacademy.org/math/algebra-home/alg-matrices) up to "Row-echelon form and Gaussian elimination"
+
+You should also be comfortable with functions and terms like [domain](https://en.wikipedia.org/wiki/Domain_of_a_function), [codomain](https://en.wikipedia.org/wiki/Codomain), [image and preimage](https://en.wikipedia.org/wiki/Image_(mathematics)), [injective, surjective, bijective](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection), [union](https://en.wikipedia.org/wiki/Union_(set_theory)), [intersection](https://en.wikipedia.org/wiki/Intersection_(set_theory)) and [complement](https://en.wikipedia.org/wiki/Complement_(set_theory)). 
 
 ## Hardware
 
