@@ -50,7 +50,7 @@ Two assignments will be given during the class, taken from previously assigned e
 
 The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions.
 
-## Pre-requisities
+## Pre-requisites
 
 High school algebra plus a little bit of linear algebra (a basic familiarity with matrices). More precisely, you should have experience working with polynomials in small numbers of variables and low degree. You should know 
 
