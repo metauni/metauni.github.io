@@ -69,7 +69,7 @@ You should also be comfortable with functions and terms like [domain](https://en
 
 ## Hardware
 
-At metauni learning is centered on virtual blackboards that we call *metaboards*. It is therefore essential that you have access to a tablet with stylus, in order to collaborate on the metaboards with other students. Tablets that plug into your computer via USB can be found for as little as AUD$50. Members of our community have successfully used the following products:
+At metauni learning is centered on virtual blackboards that we call *metaboards*. It is therefore recommended that you have access to a tablet with stylus, in order to collaborate on the metaboards with other students. Tablets that plug into your computer via USB can be found for as little as AUD$50. Members of our community have successfully used the following products:
 
 * [XP-PEN G640](https://www.storexp-pen.com.au/buy/54.html) graphics tablet (~AUD$50)
 * [XP-PEN Deco 01v2](https://www.storexp-pen.com.au/buy/73.html) graphics tablet  (~AUD$80)
