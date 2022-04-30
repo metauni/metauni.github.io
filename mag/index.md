@@ -3,7 +3,7 @@
 Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community.
 
 <p align="center">
-<img width="800" alt="working" src="https://github.com/metauni/metauni.github.io/files/8589452/working2.pdf">
+<img width="800" alt="working" src="https://user-images.githubusercontent.com/320329/166119773-d2eec154-9e01-4827-90d8-b31db8e011a1.png">
 </p>
 
 We are currently preparing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
