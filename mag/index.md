@@ -61,7 +61,7 @@ The volunteer tutors will take turns hosting the exercise sessions, in which gro
 
 ## Hardware
 
-You should have access to a tablet with stylus, so you can collaborate on the blackboards with other students. Members of our community have successfully used the following products:
+At metauni learning is centered on virtual blackboards that we call *metaboards*. It is therefore essential that you have access to a tablet with stylus, in order to collaborate on the metaboards with other students. Tablets that plug into your computer via USB can be found for as little as AUD$50. Members of our community have successfully used the following products:
 
 * XP-PEN G640 graphics tablet (~AUD$50)
 * [Wacom Intuos](https://www.wacom.com/en-au/products/pen-tablets/wacom-intuos) (~AUD$250)
