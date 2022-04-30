@@ -16,7 +16,7 @@ We are currently preparing MAG1, a first course in algebraic geometry, which wil
 The *who* is a community of volunteers:
 
 * **Lecturers**: [Dan Murfet](https://www.therisingsea.org) and Ken Chan, both with PhDs in algebraic geometry.
-* **Tutors**: Edmund Lau, Rohan Hitchcock and Will Troiani (and you?).
+* **Tutors**: [Edmund Lau](https://edmundlth.github.io), Rohan Hitchcock and [Will Troiani](https://williamtroiani.github.io) (and you?).
 * **Illustrators**: [Ethan Curtiss](https://twitter.com/AstroCodeRblx) (AstroCode) and [Mathias](https://twitter.com/draainhp) (and you?).
 
 The class will be limited to 30 people. **Subscribe to the mailing list** to be notified when registration opens, and to receive other course updates.
@@ -76,7 +76,7 @@ At metauni learning is centered on virtual blackboards that we call *metaboards*
 * [Apple iPad](https://www.apple.com/au/shop/buy-ipad/ipad-10-2/64gb-space-grey-wifi) with Apple Pencil (~AUD$650)
 * Apple iPad Pro with Apple Pencil (~AUD$1650)
 
-In some countries Roblox may not be available through the Store for your device, in which case you should go with the USB tablet plugged into your PC.
+In some countries Roblox may not be available through the Store for your device, in which case you should go with the USB tablet plugged into your PC. The USB tablets may not have a built-in screen, but when you hover the pen above a graphics tablet, the mouse onscreen follows your pen.
 
 What doesn't work:
 
