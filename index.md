@@ -46,8 +46,8 @@ For videos from the seminars, see the pages for the individual seminars (linked 
 
 ## Upcoming events
 
-* [metauni Algebraic Geometry](https://metauni.org/mag/) class starting mid-June 2022.
-* The second "Festival of Research" in late August 2022, confirmed speakers so far: Rohan Hitchcock, Aidan, Eleanor McMurtry, Will Troiani, Isaac Smith.
+* [metauni Algebraic Geometry](https://metauni.org/mag/) (MAG) class starting mid-June 2022.
+* The second "Festival of Research" will be held on the same day that MAG starts. Confirmed speakers so far: Rohan Hitchcock, Aidan, Eleanor McMurtry, Will Troiani, Isaac Smith.
 
 ## Build your own
 
