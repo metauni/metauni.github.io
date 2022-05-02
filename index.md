@@ -23,7 +23,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 * **[metauni Algebraic Geometry](https://metauni.org/mag/) 7:00-8:00** (*Ken Chan, Dan Murfet*): Planning sessions for MAG.
 * **Tea break 8:00-8:30**
-* **[Code](http://metauni.org/posts/events/seminar-code) 8:30-9:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+* **[Code](http://metauni.org/posts/events/seminar-code) 8:30-9:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Mathias on hitting moving targets and people-cannons.
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 9:30-10:30** (*Edmund Lau, Dan Murfet*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 11:30-12:30** (*Dan Murfet*): learning and computation in biology.
