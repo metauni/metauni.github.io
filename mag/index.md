@@ -8,7 +8,7 @@ Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online al
 
 We are currently preparing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
 
-* **When**: starting mid-June 2022, weekly **1.5 hour** lectures on Thursdays 7:00-8:30am AEST, weekly **1 hour** exercise sessions (times TBA). The class will run for 8-9 weeks.
+* **When**: starting June 16 2022, weekly 1.5 hour lectures on Thursdays 7:00-8:30am AEST, weekly 1 hour exercise sessions (times TBA). The class will run for 8-9 weeks.
 * **Where**: [metauni](https://metauni.org), where we can write on shared virtual blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you) and the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
 * **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**. You don't need a copy as we'll post our own lecture notes based on the book, but it's a great book and we recommend getting a copy.
@@ -25,7 +25,7 @@ The class will be limited to 30 people. **Subscribe to the mailing list** to be 
 
 ## Course content
 
-There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations. Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**).
+There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations (June 2nd, June 9th). Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**).
 
 * §1.1: Polynomials and Affine Space
 * §1.2, 1.3: Affine Varieties, parametrizations of Affine Varieties
@@ -40,7 +40,7 @@ There will be a two week pre-course covering polynomials and polynomial rings, i
 * §3.1: The Elimination and Extension Theorems
 * §3.1, 3.2: The Elimination and Extension Theorems, The Geometry of Elimination
 
-Students will be encouraged to work in groups on these assignments, including during exercise sessions.
+There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors.
 
 ## Illustrations
 
