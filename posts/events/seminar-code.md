@@ -29,3 +29,4 @@ Livestreaming the construction of metauni. Thursdays `12:00pm-1:00pm AEDT`.
 * **31-3-22** Seminar 17 - Pockets again ([video](https://youtu.be/unvjvTxinr0)).
 * **7-4-22** Seminar 18 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*) - Arc-length parametrisation and Pneumatic tubes ([video](https://youtu.be/9eVCjRTnDrs)).
 * **14-4-22** Seminar 19 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*) - Frenet frames and completing the Pneumatic tubes ([video](https://youtu.be/m_ylyBAsvVM)).
+* **5-5-22** Seminar 20 (*[Mathias/draainhp](https://twitter.com/draainhp)*) - Tracking and firing at projectiles ([video](https://youtu.be/9P-2pipTUxk))
