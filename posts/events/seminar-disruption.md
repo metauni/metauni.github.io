@@ -18,3 +18,5 @@ Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
 * **24-2-22** Seminar 12: social impact of disruption ([video](https://youtu.be/Gx9j1Jak6Qg)).
 * **24-3-22** Seminar 13: can democracy survive without growth? ([video](https://youtu.be/7XOvHvrz-N8)).
 * **31-3-22** Seminar 14: conceptual frameworks for automation and disruption ([video](https://youtu.be/PljCm-O5fe0)).
+* **28-4-22** Seinar 15: pulses and restoration ([video](https://youtu.be/DSgHO6wSzd0)).
+* **5-5-22** Seminar 16: pulses and restoration Part 2 ([video](https://youtu.be/DSgHO6wSzd0)).
