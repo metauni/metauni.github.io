@@ -31,7 +31,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Elf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
-* **Special event 8:30-9:00** (*Matt Farrugia-Roberts*): on singular statistical frameworks (15 mins talk + questions and optional feedback afterwards).
+* **Special event 8:30-9:00** (*Matt Farrugia-Roberts*): on singular statistical frameworks (15 mins talk + questions).
 * **Special event 9:00-10:00** (*Matt Farrugia-Roberts*): Chaitin's incompleteness theorem ([Wikipedia](https://en.wikipedia.org/wiki/Kolmogorov_complexity#Chaitin.27s_incompleteness_theorem)).
 
 **Not on this week**:
