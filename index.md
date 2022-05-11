@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
-**Dwarf block**: Times are given on Thursday AEST. The beginning of the block is 8:30am Thursday AEST. **Note the time change from AEDT to AEST**. Names in italics are the co-organisers of the seminar.
+**Dwarf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
 * **[metauni Algebraic Geometry](https://metauni.org/mag/) 7:00-8:00** (*Ken Chan, Dan Murfet*): Planning sessions for MAG.
 * **Tea break 8:00-8:30**
