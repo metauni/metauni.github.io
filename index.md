@@ -21,12 +21,10 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
-* **[metauni Algebraic Geometry](https://metauni.org/mag/) 7:00-8:00** (*Ken Chan, Dan Murfet*): Planning sessions for MAG.
-* **Tea break 8:00-8:30**
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 8:30-10:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **Tea break 11:30-12:00**
-* **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 12:00-12:30** (*Dan Murfet*): learning and computation in biology. *This week*: open and informal discussion.
+* **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 12:00-12:30** (*Dan Murfet*): learning and computation in biology. *Next week:* reversible computation.
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 **Elf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
@@ -40,7 +38,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
-* **[Cryptography](https://lnor.net/uc-seminar.html)**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*on hiatus*).
+* **[Cryptography](https://lnor.net/uc-seminar.html)**: (*Eleanor McMurtry*) on [universal composability](https://en.wikipedia.org/wiki/Universal_composability) (*on hiatus, restarting May 26th*).
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
