@@ -15,6 +15,10 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 > Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
+## metauni Algebraic Geometry
+
+Starting June 16th we are running a free 8-week introductory course on algebraic geometry, that we call [MAG](https://www.metauni.org/mag).
+
 ## metauni Day
 
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
