@@ -25,20 +25,16 @@ The class will be limited to 30 people. **Subscribe to the mailing list** to be 
 
 ## Course content
 
-There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations (June 2nd, June 9th). Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**).
+There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations (June 2nd, June 9th). Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**). In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
 
-* §1.1: Polynomials and Affine Space
-* §1.2, 1.3: Affine Varieties, parametrizations of Affine Varieties
-* §2.1: Introduction to Gröbner Bases
-* §2.2: Orderings of Monomials
-* §2.3: Division Algorithm
-* §2.4: Monomial Ideals and Dickson’s Lemma
-* §2.5: The Hilbert Basis Theorem and Gröbner Bases
-* §2.6: Properties of Gröbner Bases
-* §2.7: Buchberger’s Algorithm
-* §2.8: First Applications of Gröbner Bases
-* §3.1: The Elimination and Extension Theorems
-* §3.1, 3.2: The Elimination and Extension Theorems, The Geometry of Elimination
+* **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3`
+* **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.4`
+* **Lecture 3:** Gröbner bases `(D) S2.1, S2.2`
+* **Lecture 4:** Division algorithm `(K) S2.3`
+* **Lecture 5:** Dickson's lemma `(D) S2.4`
+* **Lecture 6:** Hilbert basis theorem `(K) S2.5`
+* **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7`
+* **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
 
 There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors.
 
