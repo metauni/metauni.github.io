@@ -17,7 +17,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 ## metauni Algebraic Geometry
 
-Starting June 16th we are running a free 8-week introductory course on algebraic geometry, that we call [MAG](https://www.metauni.org/mag).
+Starting June 16th we are running a free 8-week introductory course on algebraic geometry, that we call [MAG](https://www.metauni.org/mag). This is open to anybody and the pre-requisites are high school algebra and a bit of linear algebra. Registration is now open!
 
 ## metauni Day
 
