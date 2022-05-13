@@ -82,6 +82,7 @@ The image below shows two metauni whiteboards (we call them *metaboards*). To us
 * You may have problems using Firefox on the Roblox site.
 * If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
 * When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon (next to the Roblox icon in the top left).
+* If you're having connectivity issues (which often manifest as Roblox voice chat not working) make sure bandwidth heavy applications like Dropbox are disabled.
 
 ## VR
 
