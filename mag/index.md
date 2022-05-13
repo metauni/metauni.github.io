@@ -23,6 +23,16 @@ The class will be limited to 30 people. **Subscribe to the mailing list** to be 
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to get updates on MAG1:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
+## Registration
+
+Registration is now open. Here is the registration process:
+
+1. Follow Steps 1 and 2 of the [instructions](https://metauni.org/posts/instructions/instructions) to setup your Roblox and Discord accounts.
+2. Open the metauni Discord server and post in the `#mag-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
+3. Join the [metauni Roblox group](https://www.roblox.com/groups/13108882/metauni#!/about). This way we can give you permission to write on the blackboards throughout metauni.
+
+If you have any problem with these steps, ask for help on the `#mag` channel of the metauni Discord, or <a target="_blank" href="mailto:admin@metauni.org">email us</a>.
+
 ## Course content
 
 There will be a two week pre-course
