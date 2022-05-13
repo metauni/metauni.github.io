@@ -25,7 +25,12 @@ The class will be limited to 30 people. **Subscribe to the mailing list** to be 
 
 ## Course content
 
-There will be a two week pre-course covering polynomials and polynomial rings, ideals and set-theoretic operations (June 2nd, June 9th). Roughly each bullet point below will be one 1.5hr lecture (references are to **CLO**). In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
+There will be a two week pre-course
+
+* **Pre-course 1:** *2-6-22* Where do lines meet? (solving linear equations by Gaussian elimination) and where does a parabola meet a line? (proof of the quadratic formula).
+* **Pre-course 2:** *9-6-22* Functions and set theory, long division for integers.
+
+Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
 
 * **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3`
 * **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.4`
