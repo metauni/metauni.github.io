@@ -15,7 +15,7 @@ We are currently preparing MAG1, a first course in algebraic geometry, which wil
 
 The *who* is a community of volunteers:
 
-* **Lecturers**: [Dan Murfet](https://www.therisingsea.org) and Ken Chan, both with PhDs in algebraic geometry.
+* **Lecturers**: [Ken Chan](https://kenhchan.github.io) and [Dan Murfet](https://www.therisingsea.org), both with PhDs in algebraic geometry.
 * **Tutors**: [Edmund Lau](https://edmundlth.github.io), Rohan Hitchcock and [Will Troiani](https://williamtroiani.github.io) (and you?).
 * **Illustrators**: [Ethan Curtiss](https://twitter.com/AstroCodeRblx) (AstroCode) and [Mathias](https://twitter.com/draainhp) (and you?).
 
