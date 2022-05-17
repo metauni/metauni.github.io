@@ -28,8 +28,8 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 7:00-8:00** (*Dan Murfet*): learning and computation in biology. *This week:*  Will Troiani on reversible computation (*time is provisional*)
 * **Tea break 8:00-8:30**
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 8:30-10:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
+* **[Disruption](https://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **Tea break 10:30-11:00**
-* **[Disruption](https://metauni.org/posts/events/seminar-disruption) 11:00-12:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 **Not on this week**:
