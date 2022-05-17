@@ -27,14 +27,14 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 * **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 7:00-8:00** (*Dan Murfet*): learning and computation in biology. *This week:*  Will Troiani on reversible computation (*time is provisional*)
 * **Tea break 8:00-8:30**
-* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 8:30-9:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
-* **[Code](http://metauni.org/posts/events/seminar-code) 9:30-10:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Ethan on catenaries.
+* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 8:30-10:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
 * **Tea break 10:30-11:00**
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption) 11:00-12:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 **Not on this week**:
 
+* **[Code](http://metauni.org/posts/events/seminar-code) 9:30-10:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *Next week* Ethan on catenaries.
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
