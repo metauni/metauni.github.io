@@ -34,7 +34,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Not on this week**:
 
-* **[Code](http://metauni.org/posts/events/seminar-code) 9:30-10:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *Next week* Ethan on catenaries.
+* **[Code](http://metauni.org/posts/events/seminar-code) 9:30-10:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *Next week* Ethan on catenaries and *next next week* is Mr Chicken Rocket on the network model in [ChickyNoid](https://devforum.roblox.com/t/chickynoid-server-authoritative-character-replacement/1660558) (11:30-12:30 on June 2nd).
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
 * **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
