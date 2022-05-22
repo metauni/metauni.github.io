@@ -9,7 +9,7 @@ Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online al
 We are currently preparing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
 
 <p align="center">
-  <span style="font-family:Papyrus; font-size:10em;"><a target="_blank" href="https://discord.gg/9yBaAxPSK8">Enter MAG</a></span>
+  <span style="font-size:larger;"><a target="_blank" href="https://discord.gg/9yBaAxPSK8">Enter MAG</a></span>
 </p>
   
 The details:
