@@ -25,7 +25,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
-* **metauni Algebraic Geometry 07:00-08:00** orientation. 
+* **metauni Algebraic Geometry 07:00-08:00** (*Ken Chan, Dan Murfet*) orientation. 
 * **Tea break 08:00-08:30**
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 08:30-09:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
 * **[Code](http://metauni.org/posts/events/seminar-code) 09:30-10:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Ethan on catenaries and *next week* is Mr Chicken Rocket on the network model in [ChickyNoid](https://devforum.roblox.com/t/chickynoid-server-authoritative-character-replacement/1660558) (11:30-12:30 on June 2nd).
