@@ -35,7 +35,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Elf block**: Times are given on Thursday AEST.
 
-* **[Cryptography](https://lnor.net/uc-seminar.html)**: (*Eleanor McMurtry*) on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
+* **[Cryptography](https://lnor.net/uc-seminar.html) 20:00-21:00**: (*Eleanor McMurtry*) on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
 
 **Not on this week**:
 
