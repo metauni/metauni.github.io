@@ -59,6 +59,10 @@ Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 
 
 There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors.
 
+<p align="center">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Vy6ZNKgOo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## Illustrations
 
 In a virtual world we can *use the environment* to communicate ideas, using code; we call these *illustrations*. 
