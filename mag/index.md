@@ -12,7 +12,7 @@ We are currently preparing MAG1, a first course in algebraic geometry, which wil
   <span style="font-size:larger;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter MAG</a></span>
 </p>
   
-The details:
+Orientation is **07:00-08:00** Thursday 26/5/22 AEST, to join go to [metauni](https://www.metauni.org).
 
 * **When**: starting June 16 2022, weekly 1.5 hour lectures on Thursdays 7:00-8:30am AEST, weekly 1 hour exercise sessions on Friday 18:00 AEST (Friday 10:00 CEST) and Thursday 8:30-10:00am AEST. You should plan to show up to one of the exercise sessions (and both if you like). The class will run for 8 weeks with a two-week pre-course, starting June 2nd at the same time and day as the lectures, for those wanting to brush up on the background material.
 * **Where**: [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
