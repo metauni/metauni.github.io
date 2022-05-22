@@ -3,9 +3,10 @@
 Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community.
 
 <p align="center">
-<img width="800" alt="working" src="https://user-images.githubusercontent.com/320329/166119939-5cf4f2c2-3c28-45e2-994d-d0b118bc0145.png">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Vy6ZNKgOo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<!--<img width="800" alt="working" src="https://user-images.githubusercontent.com/320329/166119939-5cf4f2c2-3c28-45e2-994d-d0b118bc0145.png">-->
 We are currently preparing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
 
 <p align="center">
@@ -58,10 +59,6 @@ Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 
 * **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
 
 There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors.
-
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Vy6ZNKgOo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## Illustrations
 
