@@ -33,12 +33,9 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Code](http://metauni.org/posts/events/seminar-code) 11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Mr Chicken Rocket on the network model in [ChickyNoid](https://devforum.roblox.com/t/chickynoid-server-authoritative-character-replacement/1660558).
 * **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
-**Elf block**: Times are given on Thursday AEST.
-
-* **[Cryptography](https://lnor.net/uc-seminar.html) 20:00-21:00**: (*Eleanor McMurtry*) on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
-
 **Not on this week**:
 
+* **[Cryptography](https://lnor.net/uc-seminar.html) 20:00-21:00**: (*Eleanor McMurtry*) on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) (*returns 9/6/22*)
 * **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 8:00-9:00** (*Dan Murfet*): learning and computation in biology. *Next week:*  thermodynamics of computation.
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
