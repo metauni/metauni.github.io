@@ -1,0 +1,67 @@
+whats on:
+- metauni Algebraic Geometry:
+    time: 07:00-08:30
+    organizer: Ken Chan, Dan Murfet
+    desc: "pre-course #1"
+    website: https://metauni.org/mag/
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Tea break:
+    time: 08:30-09:00
+- Singular Learning Theory:
+    time: 09:00-10:00
+    organizer: Edmund Lau
+    desc: singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
+    note: "*This week*: working session."
+    website: https://metauni.org/posts/events/seminar-slt
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Tea break:
+    time: 10:00-10:30
+- Disruption:
+    time: 10:30-11:30
+    organizer: Adam Dorr
+    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+    website: https://metauni.org/posts/events/seminar-disruption
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Code:
+    time: 11:30-12:30
+    organizer: Ethan Curtiss
+    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
+    note: "*This week* Mr Chicken Rocket on the network model in [ChickyNoid](https://devforum.roblox.com/t/chickynoid-server-authoritative-character-replacement/1660558)."
+    website: http://metauni.org/posts/events/seminar-code
+    location: "#general"
+- "#metauni-dev":
+    time: 12:30-13:30
+    desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+    location: "#metauni-dev"
+
+whats off:
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    note: "*returns 9/6/22*"
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
+- Cell Learning Theory:
+    time: 08:00-09:00
+    organizer: Dan Murfet
+    desc: learning and computation in biology.
+    note: "*Next week*: thermodynamics of computation."
+- Euclid:
+    organizer: Ken Chan, Dan Murfet
+    desc: Euclid’s Elements on virtual blackboards.
+    note: "*on hiatus*"
+    website: http://metauni.org/posts/events/seminar-euclid
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Landau-Ginzburg:
+    organizer: Dan Murfet
+    desc: on the geometry and (bi)category theory of isolated hypersurface singularities.
+    note: "*on hiatus*"
+    website: http://metauni.org/posts/events/seminar-lg
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Foundations:
+    organizer: Billy Price, Will Troiani
+    desc: the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems.
+    note: "*on hiatus*"
+    website: http://metauni.org/posts/events/seminar-foundations
+    location: https://www.roblox.com/games/8164849103/Deprecation

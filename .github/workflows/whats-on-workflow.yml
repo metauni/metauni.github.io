@@ -1,0 +1,40 @@
+name: What's On
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - index.md
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3 # checks out repository
+      - uses: actions/setup-python@v3 # sets up python env
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml
+      - name: Update index.md
+        run: whats-on/update-index.py
+  create-discord-events:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml
+      - name: Create Discord events
+        run: whats-on/create-discord-events.py
+  update-data-stores:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml
+      - name: Update data store
+        run: whats-on/update-data-store.py
