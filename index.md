@@ -25,7 +25,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 **Dwarf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 <!-- BEGIN WHATS ON -->
-aasdf
+aasdfasdfasdf
 * **metauni Algebraic Geometry 07:00-08:30** (*Ken Chan, Dan Murfet*) pre-course #1.
 * **Tea break 08:30-09:00**
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 09:00-10:00** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
