@@ -1,6 +1,6 @@
 import os
 import yaml
-
+print("asdf")
 def seminar_to_markdown(seminar):
     name = next(iter(seminar))
     data = seminar[name]
