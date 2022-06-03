@@ -40,7 +40,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **Cell Learning Theory** **08:00-09:00** (*Dan Murfet*): learning and computation in biology. *Next week*: thermodynamics of computation.
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid’s Elements on virtual blackboards. *on hiatus*
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities. *on hiatus*
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems. *on hiatus*
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Willy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems. *on hiatus*
 <!-- END WHATS OFF -->
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
