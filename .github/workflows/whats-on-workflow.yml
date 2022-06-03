@@ -5,8 +5,8 @@ on:
   push:
     branches:
       - main
-      paths:
-        - index.md
+    paths:
+      - index.md
 
 jobs:
   update-index:
