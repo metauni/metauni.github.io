@@ -24,22 +24,24 @@ Starting June 16th we are running a free 8-week introductory course on algebraic
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
 **Dwarf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
-
-* **[metauni Algebraic Geometry](https://www.metauni.org/mag) 07:00-08:30** (*Ken Chan, Dan Murfet*) pre-course #1.
-* **Tea break 08:30-09:00**
-* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt) 09:00-10:00** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe's Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
-* **Tea break 10:00-10:30**
-* **[Disruption](https://metauni.org/posts/events/seminar-disruption) 10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Code](http://metauni.org/posts/events/seminar-code) 11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Mr Chicken Rocket on the network model in [ChickyNoid](https://devforum.roblox.com/t/chickynoid-server-authoritative-character-replacement/1660558).
-* **#metauni-dev 12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+<!-- BEGIN WHATS ON -->
+* **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): pre-course #1
+* **Tea break** **08:30-09:00**
+* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **09:00-10:00** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
+* **Tea break** **10:00-10:30**
+* **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+* **[Code](http://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Mr Chicken Rocket on the network model in [Chickynoid](https://devforum.roblox.com/t/chickynoid-server-authoritative-character-replacement/1660558).
+* **#metauni-dev** **12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+<!-- END WHATS ON -->
 
 **Not on this week**:
-
-* **[Cryptography](https://lnor.net/uc-seminar.html) 20:00-21:00**: (*Eleanor McMurtry*) on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) (*returns 9/6/22*)
-* **[Cell Learning Theory](https://metauni.org/posts/events/seminar-clt) 8:00-9:00** (*Dan Murfet*): learning and computation in biology. *Next week:*  thermodynamics of computation.
-* **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid's Elements on virtual blackboards (*on hiatus*).
-* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities (*on hiatus*).
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel's theorems. Currently in the middle of proving Gödel's incompleteness theorems (*on hiatus*).
+<!-- BEGIN WHATS OFF -->
+* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) *returns 9/6/22*
+* **Cell Learning Theory** **08:00-09:00** (*Dan Murfet*): learning and computation in biology. *Next week*: thermodynamics of computation.
+* **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid’s Elements on virtual blackboards. *on hiatus*
+* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities. *on hiatus*
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems. *on hiatus*
+<!-- END WHATS OFF -->
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
