@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - index.md
+      - whats-on/whats-on.yml
 
 jobs:
   update-index:
