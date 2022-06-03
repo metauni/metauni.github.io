@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - index.md
+    # paths:
+    #   - index.md
 
 jobs:
   update-index:
@@ -18,6 +18,13 @@ jobs:
       - run: pip install pyyaml
       - name: Update index.md
         run: whats-on/update-index.py
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add index.md
+          git commit -m "Auto-update schedule"
+          git push
   create-discord-events:
     runs-on: ubuntu-latest
     steps:
