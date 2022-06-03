@@ -1,11 +1,12 @@
 name: What's On
 
 on:
+  workflow_dispatch # enables triggering from the website
   push:
     branches:
       - main
-    # paths:
-    #   - index.md
+      paths:
+        - index.md
 
 jobs:
   update-index:
