@@ -1,7 +1,7 @@
 name: What's On
 
 on:
-  workflow_dispatch # enables triggering from the website
+  workflow_dispatch: # enables triggering from the website
   push:
     branches:
       - main
