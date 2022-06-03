@@ -24,7 +24,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add index.md
-          git commit -m "Auto-update schedule"
+          git commit -m "Auto-update schedule" || echo "No changes to commit"
           git push
   create-discord-events:
     runs-on: ubuntu-latest
