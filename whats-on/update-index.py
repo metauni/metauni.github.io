@@ -2,9 +2,19 @@
 import os
 import yaml
 
+SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location"}
+BEGIN_WHATS_ON = "<!-- BEGIN WHATS ON -->"
+END_WHATS_OFF = "<!-- END WHATS OFF -->"
+BEGIN_WHATS_OFF = "<!-- BEGIN WHATS OFF -->"
+END_WHATS_ON = "<!-- END WHATS ON -->"
+
 def seminar_to_markdown(seminar):
     name = next(iter(seminar))
     data = seminar[name]
+
+    for key in data.keys():
+        if not key in SEMINAR_PROPS:
+            raise Exception(f"Unknown property \"{key}\" for seminar \"{name}\"")
 
     time = data.get("time")
     organizer = data.get("organizer")
@@ -46,19 +56,21 @@ with open("index.md", "r+", encoding="utf-8") as f:
     inside_tags = False # Used to skip over existing what's on text
 
     for line in f.readlines():
-        stripped = line.rstrip()
-        if stripped == "<!-- BEGIN WHATS ON -->":
+        if line.startswith(BEGIN_WHATS_ON):
             inside_tags = True
-            lines.append(stripped + "\n")
+            lines.append(BEGIN_WHATS_ON + "\n")
             lines.append(whats_on)
-        elif stripped == "<!-- BEGIN WHATS OFF -->":
+        elif line.startswith(BEGIN_WHATS_OFF):
             inside_tags = True
-            lines.append(stripped + "\n")
+            lines.append(BEGIN_WHATS_OFF + "\n")
             lines.append(whats_off)
-        elif stripped == "<!-- END WHATS ON -->" or stripped == "<!-- END WHATS OFF -->":
+        elif line.startswith(END_WHATS_ON):
             inside_tags = False
-            lines.append(stripped + "\n")
-        elif not inside_tags:
+            lines.append(END_WHATS_ON + "\n")
+        elif line.startswith(END_WHATS_OFF):
+            inside_tags = False
+            lines.append(END_WHATS_OFF + "\n")
+        elif not inside_tags: # Skips over lines between BEGIN and END tags
             lines.append(line)
 
     f.seek(0) # Move cursor to start of file
