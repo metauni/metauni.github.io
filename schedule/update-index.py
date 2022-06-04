@@ -38,7 +38,7 @@ def seminar_to_markdown(seminar):
 
 # Load schedule.yml into dictionary
 schedule = None
-with open(os.environ.SCHEDULE_PATH, "r", encoding="utf-8") as f:
+with open(os.environ("SCHEDULE_PATH"), "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
 
 # Generate markdown for seminars
