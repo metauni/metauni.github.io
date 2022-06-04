@@ -44,7 +44,7 @@ If you have any problem with these steps, ask for help on the `#mag` channel of 
 
 There will be a two week pre-course
 
-* **Pre-course 1:** Where do lines meet? (solving linear equations by Gaussian elimination) and where does a parabola meet a line? (proof of the quadratic formula) *2-6-22*.
+* **Pre-course 1:** Where do lines meet? (solving linear equations by Gaussian elimination) *2-6-22*.
 * **Pre-course 2:** Functions and set theory, long division for integers *9-6-22*.
 
 Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
@@ -58,7 +58,7 @@ Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 
 * **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7`
 * **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
 
-There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors.
+There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors. On the rare occasion that Roblox voice chat has some issues, we will fall back to using Roblox whiteboards with Discord for voice.
 
 ## Illustrations
 
