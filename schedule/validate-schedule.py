@@ -56,7 +56,7 @@ SCHEDULE_PROPS = {
     "timezone": validate_timezone
 }
 
-with open(os.environ.SCHEDULE_PATH, "r", encoding="utf-8") as f:
+with open(os.environ("SCHEDULE_PATH"), "r", encoding="utf-8") as f:
     loaded = yaml.safe_load(f)
 
     for prop, validator in SCHEDULE_PROPS.items():
