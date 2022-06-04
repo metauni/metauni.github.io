@@ -3,10 +3,10 @@ import os
 import yaml
 from datetime import datetime
 
-EVENTS_URL = f"https://discord.com/api/guilds/{os.environ.GUILD_ID}/scheduled-events"
+EVENTS_URL = f"https://discord.com/api/guilds/{os.environ["GUILD_ID"]}/scheduled-events"
 
 schedule = None
-with open(os.environ.SCHEDULE_PATH, "r", encoding="utf-8") as f:
+with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
 
 date = datetime.strptime(schedule.date, "%d/%m/%Y")
@@ -22,7 +22,7 @@ for seminar in schedule["whats on"]:
         continue
 
     # Create request body
-    time = data.time
+    time = data["time"]
     start_time = time.sub[0:5]
     end_time = time.sub[6:11]
 
@@ -44,7 +44,7 @@ for seminar in schedule["whats on"]:
     }
 
     header = {
-        "Authorization": f"Bot {os.environ.EVENTBOT_CLIENT_SECRET}",
+        "Authorization": f"Bot {os.environ["EVENTBOT_CLIENT_SECRET"]}",
         "Content-Tye": "application/json"
     }
 
