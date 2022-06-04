@@ -3,6 +3,8 @@ import os
 import yaml
 from datetime import datetime
 
+GUILD_ID = os.environ["GUILD_ID"]
+print("GUILD_ID: " + GUILD_ID)
 EVENTS_URL = f"https://discord.com/api/guilds/{os.environ["GUILD_ID"]}/scheduled-events"
 
 schedule = None

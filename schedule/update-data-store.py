@@ -1,3 +1,4 @@
 #!/usr/bin/env python
+import os
 
-api_key = os.environ.ROBLOX_API_KEY
+ROBLOX_API_KEY = os.environ["ROBLOX_API_KEY"]
