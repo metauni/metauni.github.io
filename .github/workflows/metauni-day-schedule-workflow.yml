@@ -16,6 +16,8 @@ env:
 
 jobs:
   validate-schedule:
+    env:
+      SCHEDULE_PATH: schedule/schedule.yml
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3 # Checks out repository
