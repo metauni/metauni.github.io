@@ -16,8 +16,6 @@ env:
 
 jobs:
   validate-schedule:
-    env:
-      SCHEDULE_PATH: schedule/schedule.yml
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3 # Checks out repository
@@ -25,6 +23,7 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install pyyaml
+      - run: echo ${{ env.SCHEDULE_PATH }}
       - name: Validate schedule
         run: schedule/validate-schedule.py
   update-index:
