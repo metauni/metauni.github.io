@@ -1,3 +1,6 @@
+# If you get a "permission denied" error, run the following git command on each python file:
+# git update-index --chmod=+x path-to-script.py
+
 name: metauni Day Schedule
 
 on:
