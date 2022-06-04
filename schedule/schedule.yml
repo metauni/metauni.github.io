@@ -1,6 +1,9 @@
+date: "06/08/2022" # dd/mm/yyyy
+timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
+
 whats on:
 - metauni Algebraic Geometry:
-    time: 07:00-08:30
+    time: 07:00-08:00
     organizer: Ken Chan, Dan Murfet
     desc: "pre-course #1"
     website: https://metauni.org/mag/

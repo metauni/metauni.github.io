@@ -2,7 +2,6 @@
 import os
 import yaml
 
-SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location"}
 BEGIN_WHATS_ON = "<!-- BEGIN WHATS ON -->"
 END_WHATS_OFF = "<!-- END WHATS OFF -->"
 BEGIN_WHATS_OFF = "<!-- BEGIN WHATS OFF -->"
@@ -11,10 +10,6 @@ END_WHATS_ON = "<!-- END WHATS ON -->"
 def seminar_to_markdown(seminar):
     name = next(iter(seminar))
     data = seminar[name]
-
-    for key in data.keys():
-        if not key in SEMINAR_PROPS:
-            raise Exception(f"Unknown property \"{key}\" for seminar \"{name}\"")
 
     time = data.get("time")
     organizer = data.get("organizer")
@@ -41,35 +36,37 @@ def seminar_to_markdown(seminar):
 
     return text
 
-whats_on = ""
-whats_off = ""
+# Load schedule.yml into dictionary
+schedule = None
+with open(os.environ.SCHEDULE_PATH, "r", encoding="utf-8") as f:
+    schedule = yaml.safe_load(f)
 
-with open("whats-on/whats-on.yml", "r", encoding="utf-8") as f:
-    loaded = yaml.safe_load(f)
-    for seminar in loaded["whats on"]:
-        whats_on += seminar_to_markdown(seminar) + "\n"
-    for seminar in loaded["whats off"]:
-        whats_off += seminar_to_markdown(seminar) + "\n"
+# Generate markdown for seminars
+whats_on_md = ""
+whats_off_md = ""
+for seminar in schedule["whats on"]:
+    whats_on_md += seminar_to_markdown(seminar) + "\n"
+for seminar in schedule["whats off"]:
+    whats_off_md += seminar_to_markdown(seminar) + "\n"
 
+# Insert generated markdown into index.md
 with open("index.md", "r+", encoding="utf-8") as f:
     lines = []
     inside_tags = False # Used to skip over existing what's on text
 
+    # TODO: Throw if the tags don't exist
+
     for line in f.readlines():
         if line.startswith(BEGIN_WHATS_ON):
             inside_tags = True
-            lines.append(BEGIN_WHATS_ON + "\n")
-            lines.append(whats_on)
+            lines.append(f"{BEGIN_WHATS_ON}\n{whats_on_md}{END_WHATS_ON}\n")
         elif line.startswith(BEGIN_WHATS_OFF):
             inside_tags = True
-            lines.append(BEGIN_WHATS_OFF + "\n")
-            lines.append(whats_off)
+            lines.append(f"{BEGIN_WHATS_OFF}\n{whats_off_md}{END_WHATS_OFF}\n")
         elif line.startswith(END_WHATS_ON):
             inside_tags = False
-            lines.append(END_WHATS_ON + "\n")
         elif line.startswith(END_WHATS_OFF):
             inside_tags = False
-            lines.append(END_WHATS_OFF + "\n")
         elif not inside_tags: # Skips over lines between BEGIN and END tags
             lines.append(line)
 
