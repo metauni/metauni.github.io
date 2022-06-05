@@ -13,11 +13,29 @@ BASE_URL = f"https://apis.roblox.com/datastores/v1/universes/{UNIVERSE_ID}"
 DATASTORE_NAME = "Schedule"
 DATASTORE_KEY = "Schedule"
 
-scheduleJson = None
+schedule = None
 with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
-    scheduleJson = json.dumps(schedule)
 
+schedule["whats off"] = None
+newWhatsOn = []
+for seminar in schedule["whats on"]:
+    seminarName = next(iter(seminar))
+    seminarData = seminar[seminarName]
+
+    newSeminar = {
+        "name": seminarName,
+        "time": seminarData.get("time"),
+        "organizer": seminarData.get("organizer"),
+        "desc": seminarData.get("desc"),
+        "note": seminarData.get("note"),
+        "location": seminarData.get("location"), # Used on Roblox to get place id or identify if it's something else (Discord)
+    }
+
+    newWhatsOn.append(newSeminar)
+schedule["whats on"] = newWhatsOn
+
+scheduleJson = json.dumps(schedule)
 contentMd5 = str(base64.b64encode(hashlib.md5(bytes(scheduleJson, encoding="utf8")).digest()), encoding="utf8")
 
 headers = {
