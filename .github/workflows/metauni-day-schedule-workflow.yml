@@ -68,6 +68,6 @@ jobs:
       - uses: actions/setup-python@v3
         with:
           python-version: 3.x
-      - run: pip install pyyaml
+      - run: pip install pyyaml requests
       - name: Update data store
         run: schedule/update-data-store.py
