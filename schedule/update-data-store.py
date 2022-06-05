@@ -4,6 +4,7 @@ import sys
 import requests
 import json
 import yaml
+from datetime import datetime
 # Used to generate Content-MD5 which is used by Roblox to check data integrity
 import base64, hashlib
 
@@ -17,15 +18,28 @@ schedule = None
 with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
 
+date = schedule.get("date")
+timezone = schedule.get("timezone")
+
 schedule["whats off"] = None
 newWhatsOn = []
 for seminar in schedule["whats on"]:
     seminarName = next(iter(seminar))
     seminarData = seminar[seminarName]
 
+    times = seminarData.get("time").split("-")
+    start_time = times[0]
+    end_time = times[1]
+
+    # make datetime objects for start and end times factoring in date and timezone
+    start_time = datetime.strptime(f"{date} {start_time} {timezone}", "%d/%m/%Y %H:%M %z")
+    end_time = datetime.strptime(f"{date} {end_time} {timezone}", "%d/%m/%Y %H:%M %z")
+
     newSeminar = {
         "name": seminarName,
         "time": seminarData.get("time"),
+        "start_datetime": start_time.isoformat(),
+        "end_datetime": end_time.isoformat(),
         "organizer": seminarData.get("organizer"),
         "desc": seminarData.get("desc"),
         "note": seminarData.get("note"),
