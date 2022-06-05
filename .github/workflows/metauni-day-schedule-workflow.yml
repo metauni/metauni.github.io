@@ -55,7 +55,7 @@ jobs:
       - uses: actions/setup-python@v3
         with:
           python-version: 3.x
-      - run: pip install pyyaml
+      - run: pip install pyyaml requests
       - name: Create Discord events
         run: schedule/create-discord-events.py
   update-data-stores:

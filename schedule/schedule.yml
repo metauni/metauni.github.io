@@ -1,4 +1,4 @@
-date: "06/08/2022" # dd/mm/yyyy
+date: "08/06/2022" # dd/mm/yyyy
 timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -35,7 +35,7 @@ whats on:
 - "#metauni-dev":
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-    location: "#metauni-dev"
+    location: "metaboard-dev"
 
 whats off:
 - Cryptography:
