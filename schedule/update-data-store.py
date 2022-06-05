@@ -24,7 +24,7 @@ for seminar in schedule["whats on"]:
     seminarData = seminar[seminarName]
 
     newSeminar = {
-        "name": seminar,
+        "name": seminarName,
         "time": seminarData.get("time"),
         "organizer": seminarData.get("organizer"),
         "desc": seminarData.get("desc"),
