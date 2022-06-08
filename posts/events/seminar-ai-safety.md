@@ -17,18 +17,22 @@ the world.
 Readings will mostly focus on potential issues arising from future advanced
 AI systems, and may also touch on present-day issues.
 
+Seminar information:
+
 * **Organisers:**
   Matthew Farrugia-Roberts and Dan Murfet.
-* **Venue:**:
-  [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
-  ![Step into matomatical's portal (bottom-right corner of stack), or
-  use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1"
-  ](seminar-ai-safety-map.jpg)
 * **Time:**
-  Thursday evenings, 9pm AEST (see [home page](/) for updated schedule).
+  Thursday evenings, 9pm AEST (see [home page](/) for most up-to-date
+  schedule).
+* **Venue:**
+  [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
+  Step into matomatical's portal (bottom-right corner of stack), or
+  use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
+  ![](seminar-ai-safety-map.jpg)
 
-New to metauni? Follow [these instructions](/posts/instructions/instruction)
+New to metauni? Follow [these instructions](/posts/instructions/instructions)
 to get started.
+
 
 Readings
 --------
@@ -61,25 +65,24 @@ The nature of superintelligence
 Aligning superintelligences:
 
 * Key chapters of Stuart Russell's *Human Compatible*
-* Key chapters of Brian Christian's *The Alignment Problem*
 * Papers on CIRL / assistance games
 * Papers on corrigibility
 * Papers on the off-switch game
-* Papers on algorithmic bias
-* Papers on interpretability
-* Papers on the complexity of values thesis
 * Papers on mesa optimisation / optimisation daemons
+* Papers on the complexity of values thesis
+* Key chapters of Brian Christian's *The Alignment Problem*
 
 Present-day issues:
 
-* TODO
+* Papers on algorithmic bias
+* Papers on interpretability
 
 Sources of readings (clearly with much mutual overlap):
 
 * Matt's lists (TODO).
 * Victoria Krakovna's
-  [resource](https://vkrakovna.wordpress.com/2016/02/28/introductory-resources-on-ai-safety-research/).
-  [lists](https://vkrakovna.wordpress.com/ai-safety-resources/)
+  [resource](https://vkrakovna.wordpress.com/2016/02/28/introductory-resources-on-ai-safety-research/)
+  [lists](https://vkrakovna.wordpress.com/ai-safety-resources/).
 * Rohin Shah's
   [2018/2019 review](https://www.alignmentforum.org/posts/dKxX76SCfCvceJXHv/ai-alignment-2018-19-review).
 * CHAI AI safety [bibliography](https://humancompatible.ai/bibliography)
