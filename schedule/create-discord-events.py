@@ -20,6 +20,8 @@ HEADERS = {
 DATE = schedule["date"]
 TIMEZONE = schedule["timezone"]
 
+print("HEADERS", HEADERS["Authorization"])
+
 def run_with_retry(method, *args, **kwargs):
     while True:
         response = method(*args, **kwargs)
@@ -92,7 +94,9 @@ def parse_event_times(time):
 
 channels_by_name = {}
 channels_by_id = {}
+print("get_discord_channels", get_discord_channels())
 for channel in get_discord_channels():
+    print("channel: ", channel)
     channels_by_name[channel["name"]] = channel["id"]
     channels_by_id[channel["id"]] = channel["name"]
 
