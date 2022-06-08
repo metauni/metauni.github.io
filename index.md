@@ -103,8 +103,6 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 16/7/2021 - Public debut of the talking boards and the [locus](https://metauni.org/posts/loci/loci) concept.
 * 22/7/2021 - Debut of the personal boards and rewritten code for the replay boards (by BP).
 * 4/11/2021 - Debut of the "What's On" board in the metauni hub.
-* 11/11/2021 - First VR test in a live event.
-* 21/11/2021 - Personal whiteboards now support VR, and board subscriptions ([demo](https://youtu.be/brNGewzskBY)).
 * 9/12/2021 - First open source release of the [metaboard](https://github.com/metauni/metaboard) (BP).
 * 18/12/2021 - First release of [private servers](https://metauni.org/posts/private/private).
 * 23/12/2021 - First release of persistent boards.
