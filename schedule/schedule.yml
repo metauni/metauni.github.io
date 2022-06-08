@@ -35,7 +35,7 @@ whats on:
 - "#metauni-dev":
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-    location: "metaboard-dev"
+    location: "#metaboard-dev"
 
 whats off:
 - Cryptography:
