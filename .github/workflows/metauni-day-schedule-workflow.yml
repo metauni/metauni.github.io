@@ -48,7 +48,7 @@ jobs:
     env:
       GUILD_ID: "849466304369131540" # AstroCode guild
       EVENTBOT_CLIENT_ID: ${{ secrets.EVENTBOT_CLIENT_ID }}
-      EVENTBOT_CLIENT_SECRET: ${{ secrets.EVENTBOT_SECRETS_ID }}
+      EVENTBOT_TOKEN: ${{ secrets.EVENTBOT_TOKEN }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
