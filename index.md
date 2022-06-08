@@ -30,14 +30,14 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **09:00-10:00** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
 * **Tea break** **10:00-10:30**
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Code](http://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Billy Price on multi-user interaction in metaboard.
+* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Billy Price on multi-user interaction in metaboard.
 * **#metauni-dev** **12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **AI Safety** **21:00-22:00**: A reading group on technical and philosophical topics in AI Safety.
+* **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety.
 <!-- END WHATS ON -->
 
 **Not on this week**:
 <!-- BEGIN WHATS OFF -->
-* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) *returns 9/6/22*
+* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) *returns 16/6/22*
 * **Cell Learning Theory** **08:00-09:00** (*Dan Murfet*): learning and computation in biology. *Next week*: thermodynamics of computation.
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid’s Elements on virtual blackboards. *on hiatus*
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities. *on hiatus*
