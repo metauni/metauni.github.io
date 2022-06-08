@@ -53,7 +53,7 @@ def delete_discord_event(id, name):
         print("DELETED " + name)
     else:
         print("FAILED TO DELETE " + name)
-        print(response.text)
+        raise Exception(response.text)
 
 def update_discord_event(id, data):
     url = BASE_URL + f"/scheduled-events/{id}"
@@ -62,7 +62,7 @@ def update_discord_event(id, data):
         print("UPDATED " + data["name"])
     else:
         print("FAILED TO UPDATE " + data["name"])
-        print(response.text)
+        raise Exception(response.text)
 
 def create_discord_event(data):
     url = BASE_URL + "/scheduled-events"
@@ -71,7 +71,7 @@ def create_discord_event(data):
         print("CREATED " + data["name"])
     else:
         print("FAILED TO CREATE " + data["name"])
-        print(response.text)
+        raise Exception(response.text)
 
 def get_discord_channels():
     url = BASE_URL + "/channels"
@@ -80,7 +80,7 @@ def get_discord_channels():
         return response.json()
     except Exception as e:
         print("FAILED TO GET DISCORD CHANNELS:", e)
-        return []
+        raise Exception(e)
 
 def parse_event_times(time):
     start_time = time[0:5]
