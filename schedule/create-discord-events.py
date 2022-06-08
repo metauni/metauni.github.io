@@ -12,15 +12,18 @@ schedule = None
 with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
 
-BASE_URL = f"https://discord.com/api/guilds/{os.environ['GUILD_ID']}"
+GUILD_ID = os.environ["GUILD_ID"]
+EVENTBOT_CLIENT_SECRET = os.environ["EVENTBOT_CLIENT_SECRET"]
+BASE_URL = f"https://discord.com/api/guilds/{GUILD_ID}"
 HEADERS = {
-    "Authorization": f"Bot {os.environ['EVENTBOT_CLIENT_SECRET']}",
+    "Authorization": f"Bot {EVENTBOT_CLIENT_SECRET}",
     "Content-Type": "application/json"
 }
 DATE = schedule["date"]
 TIMEZONE = schedule["timezone"]
 
 print("HEADERS", HEADERS["Authorization"])
+print("GUILD_ID", GUILD_ID)
 
 def run_with_retry(method, *args, **kwargs):
     while True:
