@@ -111,7 +111,8 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
 * 29/12/2021 - Re-release of the [admin commands](https://github.com/metauni/admin) and update to use new boards.
 * 8/1/2022 - Switch to spatial voice for metauni events.
-* 27/1/2022 - Integration of the Avatar Editor (by [madeline](https://violetsky.dev)).
+* 27/1/2022 - Integration of the Avatar Editor (by [phoebe](https://violetsky.dev)).
+* 8/6/2022 - Automated schedule deployment system (by Ethan and phoebe).
 
 Music in the Rising Sea:
 
