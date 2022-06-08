@@ -32,6 +32,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Code](http://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Billy Price on multi-user interaction in metaboard.
 * **#metauni-dev** **12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **AI Safety** **21:00-22:00**: A reading group on technical and philosophical topics in AI Safety.
 <!-- END WHATS ON -->
 
 **Not on this week**:
