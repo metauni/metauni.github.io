@@ -12,18 +12,13 @@ schedule = None
 with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
 
-GUILD_ID = os.environ["GUILD_ID"]
-EVENTBOT_CLIENT_SECRET = os.environ["EVENTBOT_CLIENT_SECRET"]
-BASE_URL = f"https://discord.com/api/guilds/{GUILD_ID}"
+BASE_URL = f"https://discord.com/api/guilds/{os.environ['GUILD_ID']}"
 HEADERS = {
-    "Authorization": f"Bot {EVENTBOT_CLIENT_SECRET}",
+    "Authorization": f"Bot {os.environ['EVENTBOT_TOKEN']}",
     "Content-Type": "application/json"
 }
 DATE = schedule["date"]
 TIMEZONE = schedule["timezone"]
-
-print("HEADERS", HEADERS["Authorization"])
-print("GUILD_ID", GUILD_ID)
 
 def run_with_retry(method, *args, **kwargs):
     while True:
@@ -97,9 +92,7 @@ def parse_event_times(time):
 
 channels_by_name = {}
 channels_by_id = {}
-print("get_discord_channels", get_discord_channels())
 for channel in get_discord_channels():
-    print("channel: ", channel)
     channels_by_name[channel["name"]] = channel["id"]
     channels_by_id[channel["id"]] = channel["name"]
 
