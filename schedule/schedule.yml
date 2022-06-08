@@ -36,6 +36,10 @@ whats on:
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
+- AI Safety:
+    time: 21:00-22:00
+    desc: A reading group on technical and philosophical topics in AI Safety.
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 
 whats off:
 - Cryptography:
