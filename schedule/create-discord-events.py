@@ -132,11 +132,11 @@ for seminar in schedule["whats on"]:
         data["location"] = channels_by_name.get(location[1:])
 
     # Append note to description
-    if event.get("note"):
-        if event.get("desc"):
-            event["desc"] += " " + event["note"]
+    if data.get("note"):
+        if data.get("desc"):
+            data["desc"] += " " + data["note"]
         else:
-            event["desc"] = event["note"]
+            data["desc"] = data["note"]
 
 for name, event in current_events.items():
     print("GOT EXISTING EVENT ", name)
