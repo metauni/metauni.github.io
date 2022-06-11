@@ -135,7 +135,7 @@ for seminar in schedule["whats on"]:
     if event.get("note"):
         if event.get("desc"):
             event["desc"] += " " + event["note"]
-        else
+        else:
             event["desc"] = event["note"]
 
 for name, event in current_events.items():
