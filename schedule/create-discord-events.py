@@ -99,16 +99,13 @@ for channel in get_discord_channels():
 def build_event_request_data(name, event):
     location = event["location"]
     scheduled_start_time, scheduled_end_time = parse_event_times(event["time"])
-    desc = event.get("desc", "")
-    if event.get("note"):
-        desc += event["note"] if len(desc) == 0 else " " + event["note"]
 
     data = {
         "name": name,
         "privacy_level": "2", # 2 is the only option as of v10
         "scheduled_start_time": scheduled_start_time.isoformat(),
         "scheduled_end_time": scheduled_end_time.isoformat(),
-        "description": desc,
+        "description": event.get("desc", ""),
     }
     if re.fullmatch("\d+", location) and channels_by_id.get(location):
         # Location is the ID of a Discord channel
@@ -133,6 +130,13 @@ for seminar in schedule["whats on"]:
     location = data.get("location")
     if location and location[0] == "#" and channels_by_name.get(location[1:]):
         data["location"] = channels_by_name.get(location[1:])
+
+    # Append note to description
+    if event.get("note"):
+        if event.get("desc"):
+            event["desc"] += " " + event["note"]
+        else
+            event["desc"] = event["note"]
 
 for name, event in current_events.items():
     print("GOT EXISTING EVENT ", name)
