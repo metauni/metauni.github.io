@@ -108,7 +108,7 @@ def build_event_request_data(name, event):
         "privacy_level": "2", # 2 is the only option as of v10
         "scheduled_start_time": scheduled_start_time.isoformat(),
         "scheduled_end_time": scheduled_end_time.isoformat(),
-        "description": event.get("desc", ""),
+        "description": desc,
     }
     if re.fullmatch("\d+", location) and channels_by_id.get(location):
         # Location is the ID of a Discord channel
