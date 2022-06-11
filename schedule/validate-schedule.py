@@ -2,9 +2,10 @@
 import os
 import yaml
 import re
+import requests
 from datetime import datetime
 
-SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location"}
+SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location", "alias"}
 SEMINAR_MISSING_PROP_EXCEPTION = "Seminar \"{}\" is missing the property \"{}\""
 
 def validate_seminars(schedule):
@@ -36,6 +37,10 @@ def validate_whats_on(schedule):
         if location:
             # TODO: Validate location is a link or Discord channel
             pass
+
+        alias = data.get("alias")
+        if alias and len(alias) >= len(name):
+            raise Exception(f"The alias \"{alias}\" should be shorter than its seminar name \"{name}\"")
 
 def validate_date(date):
     try:

@@ -1,5 +1,5 @@
 date: "09/06/2022" # dd/mm/yyyy
-timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
+timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - metauni Algebraic Geometry:
@@ -8,6 +8,7 @@ whats on:
     desc: "pre-course #2"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: MAG
 - Tea break:
     time: 08:30-09:00
 - Singular Learning Theory:
@@ -17,6 +18,7 @@ whats on:
     note: "*This week*: working session."
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: SLT
 - Tea break:
     time: 10:00-10:30
 - Disruption:
@@ -56,6 +58,7 @@ whats off:
     organizer: Dan Murfet
     desc: learning and computation in biology.
     note: "*Next week*: thermodynamics of computation."
+    alias: CLT
 - Euclid:
     organizer: Ken Chan, Dan Murfet
     desc: Euclid’s Elements on virtual blackboards.
@@ -68,6 +71,7 @@ whats off:
     note: "*on hiatus*"
     website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: L-G
 - Foundations:
     organizer: Billy Price, Will Troiani
     desc: the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems.
