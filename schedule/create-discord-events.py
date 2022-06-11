@@ -99,6 +99,9 @@ for channel in get_discord_channels():
 def build_event_request_data(name, event):
     location = event["location"]
     scheduled_start_time, scheduled_end_time = parse_event_times(event["time"])
+    desc = event.get("desc", "")
+    if event.get("note"):
+        desc += event["note"] if len(desc) == 0 else " " + event["note"]
 
     data = {
         "name": name,
