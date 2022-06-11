@@ -44,19 +44,29 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 Scheduled readings:
 
 * **2022.06.09:**
-  Norbert Wiener, 1960, "Some moral and technical consequences of
-  automation", *Science*.
-  DOI:[10.1126/science.131.3410.1355](https://doi.org/10.1126/science.131.3410.1355).
+  Norbert Wiener,
+  1960,
+  "Some moral and technical consequences of automation",
+  *Science*.
 
-* **2022.06.16:** TBD
+* **2022.06.16:**
+  Stephen M. Omohundro,
+  2008,
+  "The basic AI drives",
+  *Proceedings of the 2008 conference on Artificial General Intelligence*.
+
+* **2022.06.23:**
+  Nick Bostrom,
+  2012,
+  "The superintelligent will: Motivation and instrumental rationality in
+  advanced artificial agents",
+  *Minds and Machines*.
 
 Topics brainstorm
 -----------------
 
 The nature of superintelligence
 
-* On the instrumental convergence thesis (Omohundro, 2008; Bostrom, 2014)
-* On the orthogonality thesis
 * Key chapters of Bostrom's *Superintelligence*
 * On embedded agency (Demski & Garrabrant, 2020)
 * Eric Drexler's report *Reframing Superintelligence*
@@ -74,8 +84,14 @@ Aligning superintelligences:
 
 Present-day issues:
 
-* Papers on algorithmic bias
-* Papers on interpretability
+* On algorithmic bias
+* On interpretability
+* On aligning recommender systems
+
+Future philosophy
+
+* On future digital ethics
+* On machine conscious
 
 Sources of readings (clearly with much mutual overlap):
 
