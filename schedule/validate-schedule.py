@@ -2,7 +2,6 @@
 import os
 import yaml
 import re
-import requests
 from datetime import datetime
 
 SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location", "alias"}
