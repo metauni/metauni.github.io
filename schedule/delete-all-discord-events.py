@@ -6,7 +6,7 @@ import time
 
 BASE_URL = f"https://discord.com/api/guilds/{os.environ['GUILD_ID']}/scheduled-events"
 HEADERS = {
-    "Authorization": f"Bot {os.environ['EVENTBOT_CLIENT_SECRET']}",
+    "Authorization": f"Bot {os.environ['EVENTBOT_TOKEN']}",
     "Content-Type": "application/json"
 }
 
