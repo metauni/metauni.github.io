@@ -15,7 +15,7 @@ We are currently preparing MAG1, a first course in algebraic geometry, which wil
   
 Orientation is **07:00-08:00** Thursday 26/5/22 AEST, to join go to [metauni](https://www.metauni.org).
 
-* **When**: starting June 16 2022, weekly 1.5 hour lectures on Thursdays 7:00-8:30am AEST, weekly 1 hour exercise sessions on Friday 18:00-19:00 AEST (Friday 10:00 CEST) and Thursday 8:30-9:30am AEST. You should plan to show up to one of the exercise sessions (and both if you like). The class will run for 8 weeks with a two-week pre-course, starting June 2nd at the same time and day as the lectures, for those wanting to brush up on the background material.
+* **When**: starting June 16 2022, weekly 1.5 hour lectures on Thursdays 7:00-8:30am AEST, weekly 1 hour exercise sessions (see below for times). The class will run for 8 weeks.
 * **Where**: [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
 * **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**. You don't need a copy as we'll post our own lecture notes based on the book, but it's a great book and we recommend getting a copy.
@@ -58,7 +58,21 @@ Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 
 * **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7`
 * **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
 
-There will be assigned exercises and students will be encouraged to complete a core subset each week. Solutions will be provided and it is up to students to seek feedback on their solutions from tutors. On the rare occasion that Roblox voice chat has some issues, we will fall back to using Roblox whiteboards with Discord for voice.
+On the rare occasion that Roblox voice chat has some issues, we will fall back to using Roblox whiteboards with Discord for voice.
+
+## Exercise sessions
+
+Mathematics is not a spectator sport: you learn by doing. Each week there will be assigned exercises, some marked *Foundation* and others marked *Extension*. You are expected to attempt all the Foundation exercises. There are three weekly 1hr exercise sessions:
+
+* Thursday 08:30-09:30 AEST
+* Thursday 16:00-17:00 AEST
+* Friday 18:00-19:00 AEST
+
+You should join the main MAG venue for these sessions, where you will be working with other students at the virtual boards. Each week one of these sessions will be supervised by an experienced volunteer tutor (that session will be advertised on Discord). It is recommended you work on the problems outside of exercise sessions as well.
+
+Problems are divided into **Foundation Example (FE)**, **Foundation Proof (FP)**, **Extension Example (EE)**, **Extension Proof (EP)**. Students are expected to attempt all foundation exercises. References are to **CLO** with `x.y.z` meaning Chapter `x`, Section `y`, Exercise `z`.
+
+* **Week 1**: FE 1.1.5, FE 1.2.7, FP 1.1.6, FP 1.2.6, EE 1.3.16 (for fans of Bezier), EP 1.2.15.
 
 ## Illustrations
 
@@ -67,14 +81,6 @@ In a virtual world we can *use the environment* to communicate ideas, using code
 <p align="center">
 <img width="500" alt="omg" src="https://user-images.githubusercontent.com/320329/165735979-036bb587-8586-4ed8-9972-18efdd049380.png">
 </p>
-
-## Exercise sessions
-
-The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions. 
-
-Problems are divided into **Foundation Example (FE)**, **Foundation Proof (FP)**, **Extension Example (EE)**, **Extension Proof (EP)**. Students are expected to attempt all foundation exercises. References are to **CLO** with `x.y.z` meaning Chapter `x`, Section `y`, Exercise `z`.
-
-* **Week 1**: FE 1.1.5, FE 1.2.7, FP 1.1.6, FP 1.2.6, EE 1.3.16 (for fans of Bezier), EP 1.2.15.
 
 ## Pre-requisites
 
