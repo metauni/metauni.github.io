@@ -5,20 +5,18 @@ whats on:
 - metauni Algebraic Geometry:
     time: 07:00-08:30
     organizer: Ken Chan, Dan Murfet
-    desc: "pre-course #2"
+    desc: "Lecture 1"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Tea break:
-    time: 08:30-09:00
+    time: 08:30-09:30
 - Singular Learning Theory:
-    time: 09:00-10:00
+    time: 09:30-10:30
     organizer: Edmund Lau
     desc: singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
     note: "*This week*: working session."
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Tea break:
-    time: 10:00-10:30
 - Disruption:
     time: 10:30-11:30
     organizer: Adam Dorr
@@ -29,13 +27,19 @@ whats on:
     time: 11:30-12:30
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week* Billy Price on multi-user interaction in metaboard."
+    note: "*This week* Ethan Curtiss works on AstroTubes."
     website: https://metauni.org/posts/events/seminar-code
     location: "#General"
 - "#metauni-dev":
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -44,13 +48,6 @@ whats on:
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 
 whats off:
-- Cryptography:
-    time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-    note: "*returns 16/6/22*"
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
 - Cell Learning Theory:
     time: 08:00-09:00
     organizer: Dan Murfet
