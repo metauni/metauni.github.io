@@ -68,11 +68,11 @@ Mathematics is not a spectator sport: you learn by doing. Each week there will b
 * Thursday 16:00-17:00 AEST
 * Friday 18:00-19:00 AEST
 
-You should join the main MAG venue for these sessions, where you will be working with other students at the virtual boards. Each week one of these sessions will be supervised by an experienced volunteer tutor (that session will be advertised on Discord). It is recommended you work on the problems outside of exercise sessions as well.
+You should join the main MAG venue for these sessions, where you will be working with other students at the virtual boards. Each week at least one of these sessions will be supervised by an experienced volunteer tutor (that session will be advertised on Discord). It is recommended you work on the problems outside of exercise sessions as well.
 
 Problems are divided into **Foundation Example (FE)**, **Foundation Proof (FP)**, **Extension Example (EE)**, **Extension Proof (EP)**. Students are expected to attempt all foundation exercises. References are to **CLO** with `x.y.z` meaning Chapter `x`, Section `y`, Exercise `z`.
 
-* **Week 1**: FE 1.1.5, FE 1.2.7, FP 1.1.6, FP 1.2.6, EE 1.3.16 (for fans of Bezier), EP 1.2.15.
+* **Week 1** (Will Troiani @ Friday session): FE 1.1.5, FE 1.2.7, FP 1.1.6, FP 1.2.6, EE 1.3.16 (for fans of Bezier), EP 1.2.15 
 
 ## Illustrations
 
