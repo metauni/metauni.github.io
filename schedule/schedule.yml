@@ -11,18 +11,14 @@ whats on:
 - Tea break:
     time: 08:30-09:30
 - Singular Learning Theory:
-    time: 09:30-10:30
+    time: 09:30-11:00
     organizer: Edmund Lau
     desc: singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
     note: "*This week*: working session."
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Disruption:
-    time: 10:30-11:30
-    organizer: Adam Dorr
-    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-    website: https://metauni.org/posts/events/seminar-disruption
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Tea break:
+    time: 11:00-11:30
 - Code:
     time: 11:30-12:30
     organizer: Ethan Curtiss
@@ -48,6 +44,12 @@ whats on:
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 
 whats off:
+- Disruption:
+    time: 10:30-11:30
+    organizer: Adam Dorr
+    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+    website: https://metauni.org/posts/events/seminar-disruption
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Cell Learning Theory:
     time: 08:00-09:00
     organizer: Dan Murfet
