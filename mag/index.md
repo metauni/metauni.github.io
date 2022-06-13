@@ -70,7 +70,9 @@ In a virtual world we can *use the environment* to communicate ideas, using code
 
 ## Exercise sessions
 
-The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions. Problems are divided into **Foundation Example (FE)**, **Foundation Proof (FP)**, **Extension Example (EE)**, **Extension Proof (EP)**. Students are expected to attempt all foundation exercises.
+The volunteer tutors will take turns hosting the exercise sessions, in which groups of students will work together at virtual boards, with a roving tutor assisting. Exercises will be assigned beforehand and students will be encouraged to make a start on problems before the exercise sessions. 
+
+Problems are divided into **Foundation Example (FE)**, **Foundation Proof (FP)**, **Extension Example (EE)**, **Extension Proof (EP)**. Students are expected to attempt all foundation exercises. References are to **CLO** with `x.y.z` meaning Chapter `x`, Section `y`, Exercise `z`.
 
 * **Week 1**: FE 1.1.5, FE 1.2.7, FP 1.1.6, FP 1.2.6, EE 1.3.16 (for fans of Bezier), EP 1.2.15.
 
