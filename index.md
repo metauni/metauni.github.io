@@ -23,7 +23,7 @@ Starting June 16th we are running a free 8-week introductory course on algebraic
 
 We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
-**Dwarf block**: Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
+Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 <!-- BEGIN WHATS ON -->
 * **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 1
 * **Tea break** **08:30-09:30**
