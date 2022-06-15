@@ -7,7 +7,7 @@ Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online al
 </p>
 
 <!--<img width="800" alt="working" src="https://user-images.githubusercontent.com/320329/166119939-5cf4f2c2-3c28-45e2-994d-d0b118bc0145.png">-->
-We are currently preparing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
+We are currently lecturing MAG1, a first course in algebraic geometry, which will be free and open to anyone with an Internet connection who is over the age of 13 (Roblox voice chat requires age verification).
 
 <p align="center">
   <span style="font-size:larger;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter MAG</a></span>
@@ -18,7 +18,7 @@ Orientation is **07:00-08:00** Thursday 26/5/22 AEST, to join go to [metauni](ht
 * **When**: starting June 16 2022, weekly 1.5 hour lectures on Thursdays 7:00-8:30am AEST, weekly 1 hour exercise sessions (see below for times). The class will run for 8 weeks.
 * **Where**: [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
 * **Why**: to introduce the beauty of algebraic geometry in a hands-on way, emphasising the link between classical ideas and modern computation.
-* **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)", referred to below as **CLO**. You don't need a copy as we'll post our own lecture notes based on the book, but it's a great book and we recommend getting a copy.
+* **What**: the textbook is D. A. Cox, J. Little, D. O’Shea "[Ideals, Varieties, and Algorithms](https://link.springer.com/book/10.1007/978-3-319-16721-3)" 4th edition, referred to below as **CLO**. You don't need a copy as we'll post our own lecture notes based on the book, but it's a great book and we recommend getting a copy.
 
 The *who* is a community of volunteers:
 
