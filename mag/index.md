@@ -67,6 +67,7 @@ Mathematics is not a spectator sport: you learn by doing. Each week there will b
 * Thursday 08:30-09:30 AEST
 * Thursday 16:00-17:00 AEST
 * Friday 18:00-19:00 AEST
+* Sunday 08:00-09:00 AEST
 
 You should join the main MAG venue for these sessions, where you will be working with other students at the virtual boards. Each week at least one of these sessions will be supervised by an experienced volunteer tutor (that session will be advertised on Discord). It is recommended you work on the problems outside of exercise sessions as well.
 
