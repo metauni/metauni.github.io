@@ -50,7 +50,7 @@ There will be a two week pre-course
 Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
 
 * **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3` *16-6-22* ([notes](http://www.therisingsea.org/notes/mag/MAG1-1.pdf)).
-* **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.4`
+* **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.5`
 * **Lecture 3:** Gröbner bases `(D) S2.1, S2.2`
 * **Lecture 4:** Division algorithm `(K) S2.3`
 * **Lecture 5:** Dickson's lemma `(D) S2.4`
