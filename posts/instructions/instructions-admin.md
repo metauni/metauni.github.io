@@ -1,12 +1,8 @@
-# Instructions for speakers and admins
+# Instructions for speakers
 
-First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice.
+These instructions aim to be a detailed guide to giving a successful talk in metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice.
 
-## Speakers
-
-Thanks for giving a talk! These instructions aim to be a detailed guide to giving a successful talk in metauni. 
-
-### Hardware
+## Hardware
 
 If you are giving a board talk we recommend running Roblox on an iPad with Pencil (or equivalent tablet and stylus) with any of the following audio-visual setups:
 
@@ -22,7 +18,20 @@ If you are presenting using slides, then you can join Roblox with any setup that
 
 * **Question: what about Wacom tablets?** People have successfully used Wacom tablets to write on metaboards, but we have not extensively tested this.
 
-### Joining the event
+### Importance of a good microphone
+
+You can greatly enhance the experience of your audience by going the extra mile with microphone quality. This can take a talk from “good-enough/intelligible” to “pleasant to listen to for an hour or more”. The easiest improvement you can make is getting a USB microphone in your price range, and having it as close to your mouth as possible. 
+
+A cheaper microphone closer to your mouth will sound better than an expensive one sitting at the end of your desk. A shorter distance increases the volume ratio between your voice and the background noise, so the microphone can be at a lower sensitivity, which cuts the room noise (as opposed to high sensitivity when your speaking far away from the mic). This sensitivity is called "gain" and most USB mics will have a dial to adjust this. The exception to this distance rule is when the microphone is too tiny and becomes overpowered by your voice (and so distorts). This happens with earbud mics. For more detail on microphone positioning see [this video](https://youtu.be/fFzwTcNAUYY).
+
+The downside with microphones that stand on your desk is that they can be a bit inconvenient while writing on a tablet, because the best position for them will prevent you from putting the tablet in a comfortable writing position. The least obtrusive option would be a lavalier mic that clips onto your shirt. It will be nice and close to your mouth while you’re looking down and is completely out of the way. Another solution if you’re really keen on having a nice setup is getting a microphone boom stand that attaches to your desk, which holds your microphone up to your face, and you can easily position it or move it out of the way when you’re not using it.
+
+Some mics that are recommended by our community:
+
+- Samson SAGOMIC USB mic ($40) ([link](https://www.amazon.com/dp/B001R76D42?th=1))
+- Blue Yeti USB mic ($200) ([link](https://www.bluemic.com/en-au/products/yeti/))
+
+## Joining the event
 
 The organiser should provide you with the URL of the Roblox world for your talk. If you are speaking in a recurring seminar, you can find the URL on the webpage for  that seminar (see the [metauni homepage](https://metauni.org)). Once you have the URL:
 
