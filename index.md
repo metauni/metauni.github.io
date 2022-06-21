@@ -25,7 +25,7 @@ We meet once a week for seminars. To join enter the [metauni Hub](https://www.ro
 
 Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 <!-- BEGIN WHATS ON -->
-* **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 1
+* **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 2
 * **Tea break** **08:30-09:30**
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **09:30-10:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
