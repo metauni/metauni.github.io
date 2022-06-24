@@ -14,25 +14,30 @@ AI safety.
 AI Safety is the field trying to figure out how to stop AI systems from
 breaking the world, and in particular, trying to do so before they break
 the world.
-Readings will mostly focus on potential issues arising from future advanced
-AI systems, and may also touch on present-day issues.
+Readings will span from potential issues arising from future advanced
+AI systems, to technical topics in AI control, to present-day issues.
 
 Seminar information:
 
 * **Organisers:**
   Matthew Farrugia-Roberts and Dan Murfet.
 * **Time:**
-  Thursday evenings, 9pm AEST (see [home page](/) for most up-to-date
-  schedule).
+  Thursday evenings, 9pm AEST, most weeks
+  (see [home page](/) for most up-to-date schedule).
 * **Venue:**
   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
-  Step into matomatical's portal (bottom-right corner of stack), or
-  use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
-  ![](seminar-ai-safety-map.jpg)
 
-New to metauni? Follow [these instructions](/posts/instructions/instructions)
-to get started.
+Directions for joining discussions:
 
+0. New to metauni?
+   Follow [these instructions](/posts/instructions/instructions)
+   to get started (including: join the Discord server, create a Roblox
+   account, enable Roblox voice chat).
+1. Launch the Roblox experience
+   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
+2. Step into matomatical's portal (bottom-right corner of stack), or
+   use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
+   ![](seminar-ai-safety-map.jpg)
 
 Readings
 --------
@@ -41,7 +46,18 @@ Completing weekly readings is recommended, but ultimately optional.
 The discussion sessions begin with a summary of the reading, lead by Matt
 (unless otherwise noted).
 
-Scheduled readings:
+Upcoming readings and discussions:
+
+* **2022.06.30:**
+  Rachel Thomas and Louisa Bartolo, 2022,
+  "AI harms are societal, not just individual",
+  [fast.ai blog](https://www.fast.ai/2022/05/17/societal-harms/).
+  Discussion lead by Dan.
+
+* There will be no discussion on **2022.07.07** or **2022.07.14**;
+  we will resume on **2022.07.21** with a reading to be announced.
+
+Past readings and discussions:
 
 * **2022.06.09:**
   Norbert Wiener,
@@ -62,10 +78,11 @@ Scheduled readings:
   advanced artificial agents",
   *Minds and Machines*.
 
+
 Topics brainstorm
 -----------------
 
-The nature of superintelligence
+The nature of superintelligence:
 
 * Key chapters of Bostrom's *Superintelligence*
 * On embedded agency (Demski & Garrabrant, 2020)
@@ -91,11 +108,11 @@ Present-day issues:
 Future philosophy
 
 * On future digital ethics
-* On machine conscious
+* On machine consciousness
 
 Sources of readings (clearly with much mutual overlap):
 
-* Matt's lists (TODO).
+* Matt's lists (TODO: share them).
 * Victoria Krakovna's
   [resource](https://vkrakovna.wordpress.com/2016/02/28/introductory-resources-on-ai-safety-research/)
   [lists](https://vkrakovna.wordpress.com/ai-safety-resources/).
