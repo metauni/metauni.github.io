@@ -80,7 +80,7 @@ Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/
 
 ## History
 
-Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift, [Billy Price](https://billyprice.me/), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [madeline](https://violetsky.dev).
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift, [Billy Price](https://billyprice.me/), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
 * 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
@@ -108,7 +108,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
 * 29/12/2021 - Re-release of the [admin commands](https://github.com/metauni/admin) and update to use new boards.
 * 8/1/2022 - Switch to spatial voice for metauni events.
-* 27/1/2022 - Integration of the Avatar Editor (by [phoebe](https://violetsky.dev)).
+* 27/1/2022 - Integration of the Avatar Editor (by [phoebe](https://phoebeivy.dev)).
 * 8/6/2022 - Automated schedule deployment system (by Ethan and phoebe).
 
 Music in the Rising Sea:
