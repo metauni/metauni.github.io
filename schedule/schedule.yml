@@ -1,11 +1,11 @@
-date: "23/06/2022" # dd/mm/yyyy
+date: "30/06/2022" # dd/mm/yyyy
 timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - metauni Algebraic Geometry:
     time: 07:00-08:30
     organizer: Ken Chan, Dan Murfet
-    desc: "Lecture 2"
+    desc: "Lecture 3"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Tea break:
@@ -35,12 +35,6 @@ whats on:
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
-- Cryptography:
-    time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -50,6 +44,12 @@ whats on:
     pocket: Gemini Pulsar 1
 
 whats off:
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
 - Cell Learning Theory:
     time: 08:00-09:00
     organizer: Dan Murfet
