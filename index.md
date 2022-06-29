@@ -17,11 +17,11 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 ## metauni Algebraic Geometry
 
-Starting June 16th we are running a free 8-week introductory course on algebraic geometry, that we call [MAG](https://www.metauni.org/mag). This is open to anybody and the pre-requisites are high school algebra and a bit of linear algebra. Registration is now open!
+We are currently running a free 8-week introductory course on algebraic geometry, that we call [MAG](https://www.metauni.org/mag). This is open to anybody and the pre-requisites are high school algebra and a bit of linear algebra.
 
 ## metauni Day
 
-We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome, but some seminars are more technical than others: **Euclid** is at the level of high school geometry and is intended to be widely accessible, **Disruption** is non-technical and **Cell Learning Theory** requires only a basic background in cell biology. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
+We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
 Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 <!-- BEGIN WHATS ON -->
