@@ -24,6 +24,8 @@ We are currently running a free 8-week introductory course on algebraic geometry
 We meet once a week for classes and seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
 Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
+
+[The schedule is also available in the iCalendar format.](webcal://metauni.org/schedule.ics)
 <!-- BEGIN WHATS ON -->
 * **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 3
 * **Tea break** **08:30-09:30**
