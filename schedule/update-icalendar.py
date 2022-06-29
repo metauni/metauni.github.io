@@ -26,7 +26,6 @@ def add_seminar_to_calendar(seminar):
     data = seminar[name]
 
     time = data.get("time")
-    organizer = data.get("organizer")
     desc = data.get("desc")
     note = data.get("note")
     website = data.get("website")
@@ -38,7 +37,6 @@ def add_seminar_to_calendar(seminar):
     event.name = name
     event.begin = scheduled_start_time.isoformat()
     event.end = scheduled_end_time.isoformat()
-    event.description = ""
 
     if desc or note:
         event.description = ""
