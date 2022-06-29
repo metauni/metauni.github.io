@@ -21,7 +21,7 @@ We are currently running a free 8-week introductory course on algebraic geometry
 
 ## metauni Day
 
-We meet once a week for seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
+We meet once a week for classes and seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
 
 Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 <!-- BEGIN WHATS ON -->
