@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+DTEND:20220630T033000Z
+LOCATION:#metaboard-dev
+DTSTART:20220630T023000Z
+SUMMARY:#metauni-dev
+UID:d75ecacf-3299-498a-bb8d-d12d33acc865@d75e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:towards a science of technological disruption. An open discussion of technological disruption\, how it works\, what it means and how to play a positive part in it.
+DTEND:20220630T013000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220630T003000Z
+SUMMARY:Disruption
+UID:7126b3ae-fef8-453a-a75e-13a3b2d265f5@7126.org
+URL:https://metauni.org/posts/events/seminar-disruption
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220629T233000Z
+DTSTART:20220629T223000Z
+SUMMARY:Tea break
+UID:9b2a2d4a-058e-44fc-8418-db58de3057b2@9b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:reading group on technical and philosophical topics in AI safety.
+DTEND:20220630T120000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220630T110000Z
+SUMMARY:AI Safety
+UID:f077c983-bffd-4188-b093-5e0a0e0babcd@f077.org
+URL:https://metauni.org/posts/events/seminar-ai-safety
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory\, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.\n\n*This week*: working session.
+DTEND:20220630T003000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220629T233000Z
+SUMMARY:Singular Learning Theory
+UID:92e5342c-f857-4c2b-af68-8bbf7c22fb41@92e5.org
+URL:https://metauni.org/posts/events/seminar-slt
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lecture 3
+DTEND:20220629T223000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220629T210000Z
+SUMMARY:metauni Algebraic Geometry
+UID:f769b7f9-be4b-495c-acd8-cd71d0417ee0@f769.org
+URL:https://metauni.org/mag/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure\, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+DTEND:20220630T023000Z
+LOCATION:#General
+DTSTART:20220630T013000Z
+SUMMARY:Code
+UID:22513be9-2629-4726-a37f-0a1a3c3a1045@2251.org
+URL:https://metauni.org/posts/events/seminar-code
+END:VEVENT
+END:VCALENDAR
