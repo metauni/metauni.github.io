@@ -25,7 +25,12 @@ We meet once a week for classes and seminars. To join enter the [metauni Hub](ht
 
 Times are given on Thursday AEST. Names in italics are the co-organisers of the seminar.
 
-[The schedule is also available in the iCalendar format.](webcal://metauni.org/schedule.ics)
+The schedule is also available in the iCalendar format.
+
+* [Google Calendar]()
+* [Apple/Android/Outlook Calendar](webcal://metauni.org/schedule.ics)
+* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a>
+
 <!-- BEGIN WHATS ON -->
 * **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 3
 * **Tea break** **08:30-09:30**
