@@ -27,7 +27,7 @@ Times are given on Thursday AEST. Names in italics are the co-organisers of the 
 
 The schedule is also available in the iCalendar format.
 
-* [Google Calendar]()
+* [Google Calendar](https://www.google.com/calendar/render?cid=mtat12fcie0kaavivca4lgpp69oqpg6v@import.calendar.google.com)
 * [Apple/Android/Outlook Calendar](webcal://metauni.org/schedule.ics)
 * <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a>
 
