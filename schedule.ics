@@ -2,21 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:towards a science of technological disruption. An open discussion of technological disruption\, how it works\, what it means and how to play a positive part in it.
-DTEND:20220630T013000Z
-LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
-DTSTART:20220630T003000Z
-SUMMARY:Disruption
-UID:afa0d9fe-3ab2-444a-92b5-fc4cf90584c5@afa0.org
-URL:https://metauni.org/posts/events/seminar-disruption
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-DTEND:20220630T033000Z
-LOCATION:#metaboard-dev
-DTSTART:20220630T023000Z
-SUMMARY:#metauni-dev
-UID:09e871d9-5bc2-446f-80e8-3bd519d778aa@09e8.org
+DESCRIPTION:coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure\, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+DTEND:20220630T023000Z
+LOCATION:#General
+DTSTART:20220630T013000Z
+SUMMARY:Code
+UID:6b336061-c0e7-416e-b50f-4815c279777e@6b33.org
+URL:https://metauni.org/posts/events/seminar-code
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lecture 3
@@ -24,14 +16,22 @@ DTEND:20220629T223000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
 DTSTART:20220629T210000Z
 SUMMARY:metauni Algebraic Geometry
-UID:ebf6c874-ce32-467f-bd93-3acca84a44bf@ebf6.org
+UID:2f38e387-2e39-4574-980f-b949120035ab@2f38.org
 URL:https://metauni.org/mag/
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20220629T233000Z
 DTSTART:20220629T223000Z
 SUMMARY:Tea break
-UID:59c111e3-d161-401f-974c-bcff7297aea0@59c1.org
+UID:1b4cb24a-679d-4daa-9960-f68e0680bb83@1b4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+DTEND:20220630T033000Z
+LOCATION:#metaboard-dev
+DTSTART:20220630T023000Z
+SUMMARY:#metauni-dev
+UID:3ccb7136-adc2-4f8b-ab66-6541019b1211@3ccb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory\, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.\n\n*This week*: working session.
@@ -39,25 +39,16 @@ DTEND:20220630T003000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
 DTSTART:20220629T233000Z
 SUMMARY:Singular Learning Theory
-UID:6e4d128e-be88-4d7e-90d0-b05283cfb8c8@6e4d.org
+UID:f39f026d-ea5d-48aa-adbb-a98802d88150@f39f.org
 URL:https://metauni.org/posts/events/seminar-slt
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:reading group on technical and philosophical topics in AI safety.
-DTEND:20220630T120000Z
+DESCRIPTION:towards a science of technological disruption. An open discussion of technological disruption\, how it works\, what it means and how to play a positive part in it.
+DTEND:20220630T013000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
-DTSTART:20220630T110000Z
-SUMMARY:AI Safety
-UID:ee0149cd-6f31-4e8a-849b-9bdbd77efd39@ee01.org
-URL:https://metauni.org/posts/events/seminar-ai-safety
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure\, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
-DTEND:20220630T023000Z
-LOCATION:#General
-DTSTART:20220630T013000Z
-SUMMARY:Code
-UID:fd868c95-022d-4dbf-82e4-11a49c05e488@fd86.org
-URL:https://metauni.org/posts/events/seminar-code
+DTSTART:20220630T003000Z
+SUMMARY:Disruption
+UID:6fed242a-5341-4f52-835f-3c179d10df19@6fed.org
+URL:https://metauni.org/posts/events/seminar-disruption
 END:VEVENT
 END:VCALENDAR
