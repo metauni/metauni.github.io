@@ -26,6 +26,7 @@ The `whats on` and `whats off` properties are a list of seminars. Each seminar i
 | note | Note specific to the upcoming metauni day | |
 | website | Website for the seminar | URL |
 | location | Location of the seminar | Roblox URL or Discord channel name|
+| pocket | The name of a pocket, used by the What's On Board. `location` must link to The Rising Sea. | Must have exact capitalization and spelling, such as `Alpha Cove 1` |
 | alias | Shorter name for the seminar to be used by the What's On board | |
 
 \* Only the `time` property is required
