@@ -48,12 +48,6 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* **2022.06.30:**
-  Rachel Thomas and Louisa Bartolo, 2022,
-  "AI harms are societal, not just individual",
-  [fast.ai blog](https://www.fast.ai/2022/05/17/societal-harms/).
-  Discussion lead by Dan.
-
 * There will be no discussion on **2022.07.07** or **2022.07.14**;
   we will resume on **2022.07.21** with a reading to be announced.
 
@@ -78,6 +72,11 @@ Past readings and discussions:
   advanced artificial agents",
   *Minds and Machines*.
 
+* **2022.06.30:**
+  Rachel Thomas and Louisa Bartolo, 2022,
+  "AI harms are societal, not just individual",
+  [fast.ai blog](https://www.fast.ai/2022/05/17/societal-harms/).
+  Discussion lead by Dan.
 
 Topics brainstorm
 -----------------
