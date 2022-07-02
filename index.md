@@ -5,6 +5,12 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 </p>
 
 <p align="center">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/FtAna8-T4Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+> Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
+
+<p align="center">
   <a target="_blank" href="https://discord.gg/9yBaAxPSK8">Discord</a> |
   <a target="_blank" href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
   <a target="_blank" href="https://github.com/metauni">GitHub</a> |
@@ -12,12 +18,6 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="https://twitter.com/_metauni">Twitter</a> |
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
-
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/FtAna8-T4Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-> Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the “invisible yet formidable boundaries” that encircle our universe. Only innocence can surmount them, which mere knowledge doesn’t even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child’s play -- Alexander Grothendieck
 
 ## metauni Algebraic Geometry
 
