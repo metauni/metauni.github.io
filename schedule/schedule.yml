@@ -1,11 +1,11 @@
-date: "30/06/2022" # dd/mm/yyyy
+date: "07/07/2022" # dd/mm/yyyy
 timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - metauni Algebraic Geometry:
     time: 07:00-08:30
     organizer: Ken Chan, Dan Murfet
-    desc: "Lecture 3"
+    desc: "Lecture 4"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Tea break:
@@ -18,12 +18,6 @@ whats on:
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gamma Events 6
-- Disruption:
-    time: 10:30-11:30
-    organizer: Adam Dorr
-    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-    website: https://metauni.org/posts/events/seminar-disruption
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Code:
     time: 11:30-12:30
     organizer: Ethan Curtiss
@@ -34,14 +28,20 @@ whats on:
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
-
-whats off:
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry
     desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
+
+whats off:
+- Disruption:
+    time: 10:30-11:30
+    organizer: Adam Dorr
+    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+    website: https://metauni.org/posts/events/seminar-disruption
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts, Dan Murfet
