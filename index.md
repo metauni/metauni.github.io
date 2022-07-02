@@ -1,5 +1,9 @@
-Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for livestreams and community organisation. All are welcome and it's easy to join in, follow the [instructions](https://metauni.org/posts/instructions/instructions) and then **[Enter the Hub](https://www.roblox.com/games/8165000775/metauni-Hub)**.
- 
+Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for livestreams and community organisation. All are welcome and it's easy to join in, check the the [instructions](https://metauni.org/posts/instructions/instructions) and
+
+<p align="center">
+  <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
+</p>
+
 <p align="center">
   <a target="_blank" href="https://discord.gg/9yBaAxPSK8">Discord</a> |
   <a target="_blank" href="https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41">YouTube</a> |
