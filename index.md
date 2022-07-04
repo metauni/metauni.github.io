@@ -36,18 +36,19 @@ The schedule is also available in the iCalendar format.
 * <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a>
 
 <!-- BEGIN WHATS ON -->
-* **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 3
+* **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 4
 * **Tea break** **08:30-09:30**
-* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **09:30-10:30** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
-* **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **09:30-11:00** (*Edmund Lau*): singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning. *This week*: working session.
+* **Tea break** **11:00-11:30**
+* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: metaboard v1 debut.
 * **#metauni-dev** **12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety.
+* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 <!-- END WHATS ON -->
 
 **Not on this week**:
 <!-- BEGIN WHATS OFF -->
-* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+* **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+* **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *On hiatus* until July 21st.
 * **Cell Learning Theory** **08:00-09:00** (*Dan Murfet*): learning and computation in biology. *Next week*: thermodynamics of computation.
 * **[Euclid](http://metauni.org/posts/events/seminar-euclid)** (*Ken Chan, Dan Murfet*): Euclid’s Elements on virtual blackboards. *on hiatus*
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** (*Dan Murfet*): on the geometry and (bi)category theory of isolated hypersurface singularities. *on hiatus*
