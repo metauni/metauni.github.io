@@ -11,17 +11,20 @@ whats on:
 - Tea break:
     time: 08:30-09:30
 - Singular Learning Theory:
-    time: 09:30-10:30
+    time: 09:30-11:00
     organizer: Edmund Lau
     desc: singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
     note: "*This week*: working session."
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gamma Events 6
+- Tea break:
+    time: 11:00-11:30
 - Code:
     time: 11:30-12:30
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
+    note: "*This week*: metaboard v1 debut."
     website: https://metauni.org/posts/events/seminar-code
     location: "#General"
 - "#metauni-dev":
