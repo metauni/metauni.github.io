@@ -76,7 +76,8 @@ Problems are divided into **Foundation Example (FE)**, **Foundation Proof (FP)**
 * **Week 1** (Will Troiani @ Friday session): FE 1.1.5, FE 1.2.7, FP 1.1.6, FP 1.2.6, EE 1.3.16 (for fans of Bezier), EP 1.2.15 
 * **Week 2** (Edmund Lau @ Thursday 8:30): FE 1.4.9, FE 1.4.10, FE 1.4.11, FP 1.4.4, FP 1.4.7, EE 1.4.12, EP 1.4.6.
 * **Week 3**: (Rohan Hitchcock @ Thursday 16:00): FE 1.5.9, FP 1.5.10, EE 1.5.17, EP 1.5.12.
-* **Week 4**: FE 2.2.1, FP 2.2.5, FP 2.2.8, FP 2.2.11, EP 2.2.12, EE 2.1.4.
+* **Week 4**: (Will Troiani @ Friday session): FE 2.2.1, FP 2.2.5, FP 2.2.8, FP 2.2.11, EP 2.2.12, EE 2.1.4.
+* **Week 5**: FE 2.4.3, FE 2.4.4, FP 2.4.2, FP 2.4.6, EP 2.4.8.
 
 ## Illustrations
 
