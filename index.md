@@ -57,7 +57,7 @@ The schedule is also available in the iCalendar format.
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events).
 
-![banner](newbanner-min.png)
+![banner2-min](https://user-images.githubusercontent.com/320329/177882287-619645de-045c-4f66-9db6-ef46c910d318.png)
 
 ## Build your own
 
