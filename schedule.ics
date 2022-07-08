@@ -2,53 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-DTEND:20220707T033000Z
-LOCATION:#metaboard-dev
-DTSTART:20220707T023000Z
-SUMMARY:#metauni-dev
-UID:25ef5add-89d8-4761-ab86-4347d2c1fba1@25ef.org
+DTEND:20220713T233000Z
+DTSTART:20220713T223000Z
+SUMMARY:Tea break
+UID:d8734a42-440b-4465-85f7-344bc7de23c3@d873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:on the geometry and (bi)category theory of isolated hypersurface singularities.
+DTEND:20220714T110000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220714T100000Z
+SUMMARY:Landau-Ginzburg
+UID:5a3eb032-4a98-4adc-a0d6-3405c3560a5c@5a3e.org
+URL:http://metauni.org/posts/events/seminar-lg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory\, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.\n\n*This week*: working session.
-DTEND:20220707T003000Z
+DTEND:20220714T010000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
-DTSTART:20220706T233000Z
+DTSTART:20220713T233000Z
 SUMMARY:Singular Learning Theory
-UID:22af6303-b628-4fdc-9b27-4b63873321dc@22af.org
+UID:07e3807b-8106-42e5-a72f-9c43ad031152@07e3.org
 URL:https://metauni.org/posts/events/seminar-slt
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-DTEND:20220707T110000Z
-LOCATION:https://www.roblox.com/games/8164849103/Deprecation
-DTSTART:20220707T100000Z
-SUMMARY:Cryptography
-UID:6c3892fc-043c-44da-9590-cd2049a05d56@6c38.org
-URL:https://lnor.net/uc-seminar.html
+DESCRIPTION:development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+DTEND:20220714T033000Z
+LOCATION:#metaboard-dev
+DTSTART:20220714T023000Z
+SUMMARY:#metauni-dev
+UID:d45fdc94-f7a1-4a7e-8790-b11a2c444fdd@d45f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure\, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
-DTEND:20220707T023000Z
-LOCATION:#General
-DTSTART:20220707T013000Z
-SUMMARY:Code
-UID:7d4341c6-b355-4d1e-8e5f-8fc086ebf26a@7d43.org
-URL:https://metauni.org/posts/events/seminar-code
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lecture 4
-DTEND:20220706T223000Z
+DESCRIPTION:Lecture 5
+DTEND:20220713T223000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
-DTSTART:20220706T210000Z
+DTSTART:20220713T210000Z
 SUMMARY:metauni Algebraic Geometry
-UID:7f5346b6-5331-40e1-9ba3-0cefdbf273fd@7f53.org
+UID:4c187ae8-af9c-451d-83b9-a5038c4fe65e@4c18.org
 URL:https://metauni.org/mag/
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20220706T233000Z
-DTSTART:20220706T223000Z
+DTEND:20220714T013000Z
+DTSTART:20220714T010000Z
 SUMMARY:Tea break
-UID:5a9e7e45-e039-4ba1-a7c4-a585fea4a02c@5a9e.org
+UID:fb95c4e4-aeeb-4ead-9b55-e0e75a8b5522@fb95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure\, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.\n\n*This week*: Ince.
+DTEND:20220714T023000Z
+LOCATION:#General
+DTSTART:20220714T013000Z
+SUMMARY:Code
+UID:79b34a9e-82ef-49a0-90bd-b8ed292928ab@79b3.org
+URL:https://metauni.org/posts/events/seminar-code
 END:VEVENT
 END:VCALENDAR
