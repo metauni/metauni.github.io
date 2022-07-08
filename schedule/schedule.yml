@@ -1,11 +1,11 @@
-date: "07/07/2022" # dd/mm/yyyy
+date: "14/07/2022" # dd/mm/yyyy
 timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - metauni Algebraic Geometry:
     time: 07:00-08:30
     organizer: Ken Chan, Dan Murfet
-    desc: "Lecture 4"
+    desc: "Lecture 5"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Tea break:
@@ -24,21 +24,27 @@ whats on:
     time: 11:30-12:30
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: metaboard v1 debut."
+    note: "*This week*: Ince."
     website: https://metauni.org/posts/events/seminar-code
     location: "#General"
 - "#metauni-dev":
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
+- Landau-Ginzburg:
+    time: 20:00-21:00
+    organizer: Rohan Hitchcock
+    desc: on the geometry and (bi)category theory of isolated hypersurface singularities.
+    website: http://metauni.org/posts/events/seminar-lg
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    
+whats off:
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry
     desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
-
-whats off:
 - Disruption:
     time: 10:30-11:30
     organizer: Adam Dorr
@@ -64,12 +70,7 @@ whats off:
     note: "*on hiatus*"
     website: http://metauni.org/posts/events/seminar-euclid
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Landau-Ginzburg:
-    organizer: Dan Murfet
-    desc: on the geometry and (bi)category theory of isolated hypersurface singularities.
-    note: "*on hiatus*"
-    website: http://metauni.org/posts/events/seminar-lg
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+
 - Foundations:
     organizer: Billy Price, Will Troiani
     desc: the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems.
