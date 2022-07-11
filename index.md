@@ -47,7 +47,7 @@ The schedule is also available in the iCalendar format.
 
 **Not on this week**:
 <!-- BEGIN WHATS OFF -->
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems. *On hiatus* until July 14th.
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** (*Billy Price, Will Troiani*): the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems. *On hiatus* until July 21st.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *On hiatus* until July 21st.
 * **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *On hiatus* until July 21st.
