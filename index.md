@@ -111,6 +111,8 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 8/1/2022 - Switch to spatial voice for metauni events.
 * 27/1/2022 - Integration of the Avatar Editor (by [phoebe](https://phoebeivy.dev)).
 * 8/6/2022 - Automated schedule deployment system (by Ethan and phoebe).
+* 7/7/2022 - First VR lecture.
+* 9/7/2022 - Metaboard v1 (led by BP).
 
 Music in the Rising Sea:
 
