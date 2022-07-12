@@ -81,7 +81,7 @@ Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/
 
 ## History
 
-Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift, [Billy Price](https://billyprice.me/), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
+Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
 
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
 * 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
@@ -89,21 +89,21 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
 * 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive (now superceded by Billy's excellent guide, see below).
 * 20/1/2021 - Implemented the challenge system, with the first two challenges for the first event `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
-* 20/1/2021 - BP has posted [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node.
-* 26/1/2021 - Discord bot rewritten by BP to use HTTP POST rather than a webhook, and repl.it database rather than MongoDB. The Rising Sea node has two new areas "Solar Peak" and the "Well of Past Events".
+* 20/1/2021 - BS has posted [detailed instructions](http://metauni.org/posts/make-your-own/make-your-own) for setting up your own node.
+* 26/1/2021 - Discord bot rewritten by BS to use HTTP POST rather than a webhook, and repl.it database rather than MongoDB. New area "Solar Peak".
 * 27/1/2021 - Social media accounts up and running (LC on Instagram, DM on Twitter).
 * 31/1/2021 - Added new talk area for Ziling Ye's event (The Island).
 * 1/2/2021 - Working whiteboards (by JC) and a new talk area (the Music Tower) for Lucas's event.
 * 10/2/2021 - [Weiqi board](https://www.roblox.com/library/6366028251/metauni-Weiqi-Go-board) first release on the Roblox Toolbox (construction [video](https://youtu.be/wWtrTFI4ppc)).
 * 11/2/2021 - [Whiteboard](https://www.roblox.com/library/6376883627/metauni-Whiteboard) and [Viewer](https://www.roblox.com/library/6377010705/metauni-Viewer) first release on the Roblox Toolbox (created by JC).
 * 17/2/2021 - Updated whiteboards, now drawing is visible to new players in a server, significant performance improvements (JC).
-* 18/2/2021 - New administration features: kick, ban, control of whiteboard access (by BP).
-* 25/2/2021 - First public release of AdminCommands (by BP).
+* 18/2/2021 - New administration features: kick, ban, control of whiteboard access (by BS).
+* 25/2/2021 - First public release of AdminCommands (by BS).
 * 1/5/2021 - Updated whiteboards, new replay feature (by JC).
 * 16/7/2021 - Public debut of the talking boards and the [locus](https://metauni.org/posts/loci/loci) concept.
-* 22/7/2021 - Debut of the personal boards and rewritten code for the replay boards (by BP).
+* 22/7/2021 - Debut of the personal boards and rewritten code for the replay boards (by BS).
 * 4/11/2021 - Debut of the "What's On" board in the metauni hub.
-* 9/12/2021 - First open source release of the [metaboard](https://github.com/metauni/metaboard) (BP).
+* 9/12/2021 - First open source release of the [metaboard](https://github.com/metauni/metaboard) (BS).
 * 18/12/2021 - First release of [private servers](https://metauni.org/posts/private/private).
 * 23/12/2021 - First release of persistent boards.
 * 27/12/2021 - First release of the [orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
@@ -112,7 +112,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 27/1/2022 - Integration of the Avatar Editor (by [phoebe](https://phoebeivy.dev)).
 * 8/6/2022 - Automated schedule deployment system (by Ethan and phoebe).
 * 7/7/2022 - First VR lecture.
-* 9/7/2022 - Metaboard v1 (led by BP).
+* 9/7/2022 - Metaboard v1 (led by BS).
 
 Music in the Rising Sea:
 
