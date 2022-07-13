@@ -53,7 +53,7 @@ Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 
 * **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.5`
 * **Lecture 3:** Monomial orderings `(D) S2.1, S2.2` ([notes](http://www.therisingsea.org/notes/mag/MAG1-3.pdf)).
 * **Lecture 4:** Division algorithm `(K) S2.3`
-* **Lecture 5:** Dickson's lemma `(D) S2.4`
+* **Lecture 5:** Dickson's lemma `(D) S2.4` ([notes](http://www.therisingsea.org/notes/mag/MAG1-5.pdf)).
 * **Lecture 6:** Hilbert basis theorem `(K) S2.5`
 * **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7`
 * **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
