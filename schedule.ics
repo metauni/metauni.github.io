@@ -2,28 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20220713T233000Z
-DTSTART:20220713T223000Z
-SUMMARY:Tea break
-UID:d8734a42-440b-4465-85f7-344bc7de23c3@d873.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:on the geometry and (bi)category theory of isolated hypersurface singularities.
 DTEND:20220714T110000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
 DTSTART:20220714T100000Z
 SUMMARY:Landau-Ginzburg
-UID:5a3eb032-4a98-4adc-a0d6-3405c3560a5c@5a3e.org
+UID:7f6e8f28-3e63-4e11-8e5c-9102151ae055@7f6e.org
 URL:http://metauni.org/posts/events/seminar-lg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory\, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.\n\n*This week*: working session.
-DTEND:20220714T010000Z
-LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
-DTSTART:20220713T233000Z
-SUMMARY:Singular Learning Theory
-UID:07e3807b-8106-42e5-a72f-9c43ad031152@07e3.org
-URL:https://metauni.org/posts/events/seminar-slt
+DTEND:20220714T013000Z
+DTSTART:20220714T010000Z
+SUMMARY:Tea break
+UID:9ccc40f2-2e84-4b04-928d-626a8e97c0a3@9ccc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
@@ -31,22 +22,16 @@ DTEND:20220714T033000Z
 LOCATION:#metaboard-dev
 DTSTART:20220714T023000Z
 SUMMARY:#metauni-dev
-UID:d45fdc94-f7a1-4a7e-8790-b11a2c444fdd@d45f.org
+UID:2db433c1-5e50-401e-bed4-afb2a53d2cdc@2db4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lecture 5
-DTEND:20220713T223000Z
+DESCRIPTION:reading group on technical and philosophical topics in AI safety.
+DTEND:20220714T120000Z
 LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
-DTSTART:20220713T210000Z
-SUMMARY:metauni Algebraic Geometry
-UID:4c187ae8-af9c-451d-83b9-a5038c4fe65e@4c18.org
-URL:https://metauni.org/mag/
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20220714T013000Z
-DTSTART:20220714T010000Z
-SUMMARY:Tea break
-UID:fb95c4e4-aeeb-4ead-9b55-e0e75a8b5522@fb95.org
+DTSTART:20220714T110000Z
+SUMMARY:AI Safety
+UID:134b0092-24ad-4fdc-9d15-d86ce10cbd6e@134b.org
+URL:https://metauni.org/posts/events/seminar-ai-safety
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure\, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.\n\n*This week*: Ince.
@@ -54,7 +39,31 @@ DTEND:20220714T023000Z
 LOCATION:#General
 DTSTART:20220714T013000Z
 SUMMARY:Code
-UID:79b34a9e-82ef-49a0-90bd-b8ed292928ab@79b3.org
+UID:6e967adc-5b40-4f9a-8185-3382b826c289@6e96.org
 URL:https://metauni.org/posts/events/seminar-code
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lecture 5
+DTEND:20220713T223000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220713T210000Z
+SUMMARY:metauni Algebraic Geometry
+UID:b1204106-2cb2-4200-a97a-8e1c1c493aed@b120.org
+URL:https://metauni.org/mag/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20220713T233000Z
+DTSTART:20220713T223000Z
+SUMMARY:Tea break
+UID:e010b8cc-fc74-42cb-b82b-fcbc72a5f6a0@e010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory\, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.\n\n*This week*: working session.
+DTEND:20220714T010000Z
+LOCATION:https://www.roblox.com/games/8165217582/The-Rising-Sea
+DTSTART:20220713T233000Z
+SUMMARY:Singular Learning Theory
+UID:0c6c0661-49a5-4de3-89e0-76a25995a37d@0c6c.org
+URL:https://metauni.org/posts/events/seminar-slt
 END:VEVENT
 END:VCALENDAR
