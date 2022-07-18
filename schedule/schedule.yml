@@ -1,25 +1,30 @@
-date: "14/07/2022" # dd/mm/yyyy
+date: "21/07/2022" # dd/mm/yyyy
 timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - metauni Algebraic Geometry:
     time: 07:00-08:30
     organizer: Ken Chan, Dan Murfet
-    desc: "Lecture 5"
+    desc: "Lecture 6"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Tea break:
     time: 08:30-09:30
 - Singular Learning Theory:
-    time: 09:30-11:00
+    time: 09:30-10:30
     organizer: Edmund Lau
     desc: singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory, which applies algebraic geometry to statistical learning theory. One of the aims is to contribute to the mathematical theory of deep learning.
     note: "*This week*: working session."
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gamma Events 6
-- Tea break:
-    time: 11:00-11:30
+- Disruption:
+    time: 10:30-11:30
+    organizer: Adam Dorr
+    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+    website: https://metauni.org/posts/events/seminar-disruption
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    note: "*On hiatus* until July 21st."
 - Code:
     time: 11:30-12:30
     organizer: Ethan Curtiss
@@ -31,40 +36,33 @@ whats on:
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
-- Landau-Ginzburg:
+- Cryptography:
     time: 20:00-21:00
-    organizer: Rohan Hitchcock
-    desc: on the geometry and (bi)category theory of isolated hypersurface singularities.
-    website: http://metauni.org/posts/events/seminar-lg
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    organizer: Eleanor McMurtry
+    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
 - AI Safety:
     time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts, Dan Murfet
+    organizer: Matthew Farrugia-Roberts
     desc: reading group on technical and philosophical topics in AI safety.
     website: https://metauni.org/posts/events/seminar-ai-safety
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gemini Pulsar 1
-    
-whats off:
 - Foundations:
+    time: 22:00-23:00
     organizer: Billy Price, Will Troiani
-    desc: the nature of mathematical objects, logic, Gödel’s theorems. Currently in the middle of proving Gödel’s incompleteness theorems.
+    desc: something new
     website: http://metauni.org/posts/events/seminar-foundations
     location: https://www.roblox.com/games/8164849103/Deprecation
-    note: "*On hiatus* until July 21st."
-- Cryptography:
+    
+whats off:
+- Landau-Ginzburg:
     time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
-- Disruption:
-    time: 10:30-11:30
-    organizer: Adam Dorr
-    desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-    website: https://metauni.org/posts/events/seminar-disruption
+    organizer: Rohan Hitchcock
+    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs every second week.
+    website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-    note: "*On hiatus* until July 21st."
 - Cell Learning Theory:
     time: 08:00-09:00
     organizer: Dan Murfet
