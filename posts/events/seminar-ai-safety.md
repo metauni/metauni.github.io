@@ -48,8 +48,18 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* There will be no discussion on **2022.07.07** or **2022.07.14**;
-  we will resume on **2022.07.21** with a reading to be announced.
+* **2022.07.21:**
+  Tobias Wängberg *et al.*,
+  2017,
+  "A game-theoretic analysis of the of the off-switch game",
+  *AGI 2017*.
+
+* **2022.07.28:**
+  Abram Demski and Scott Garrabrant,
+  2019,
+  "Embedded agency",
+  [arXiv](https://arxiv.org/abs/1902.09469).
+
 
 Past readings and discussions:
 
@@ -84,7 +94,6 @@ Topics brainstorm
 The nature of superintelligence:
 
 * Key chapters of Bostrom's *Superintelligence*
-* On embedded agency (Demski & Garrabrant, 2020)
 * Eric Drexler's report *Reframing Superintelligence*
   / Comprehensive AI Services (CAIS)
 
@@ -93,7 +102,7 @@ Aligning superintelligences:
 * Key chapters of Stuart Russell's *Human Compatible*
 * Papers on CIRL / assistance games
 * Papers on corrigibility
-* Papers on the off-switch game
+* (More) papers on the off-switch game
 * Papers on mesa optimisation / optimisation daemons
 * Papers on the complexity of values thesis
 * Key chapters of Brian Christian's *The Alignment Problem*

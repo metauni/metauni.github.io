@@ -37,6 +37,13 @@ whats on:
     desc: on the geometry and (bi)category theory of isolated hypersurface singularities.
     website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- AI Safety:
+    time: 21:00-22:00
+    organizer: Matthew Farrugia-Roberts, Dan Murfet
+    desc: reading group on technical and philosophical topics in AI safety.
+    website: https://metauni.org/posts/events/seminar-ai-safety
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    pocket: Gemini Pulsar 1
     
 whats off:
 - Foundations:
@@ -57,14 +64,6 @@ whats off:
     desc: towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
     website: https://metauni.org/posts/events/seminar-disruption
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-    note: "*On hiatus* until July 21st."
-- AI Safety:
-    time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts, Dan Murfet
-    desc: reading group on technical and philosophical topics in AI safety.
-    website: https://metauni.org/posts/events/seminar-ai-safety
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-    pocket: Gemini Pulsar 1
     note: "*On hiatus* until July 21st."
 - Cell Learning Theory:
     time: 08:00-09:00
