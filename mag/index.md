@@ -24,9 +24,8 @@ The *who* is a community of volunteers:
 
 * **Lecturers**: [Ken Chan](https://kenhchan.github.io) and [Dan Murfet](https://www.therisingsea.org), both with PhDs in algebraic geometry.
 * **Tutors**: [Edmund Lau](https://edmundlth.github.io), Rohan Hitchcock and [Will Troiani](https://williamtroiani.github.io) (and you?).
-* **Illustrators**: [Ethan Curtiss](https://twitter.com/AstroCodeRblx) (AstroCode) and [Mathias](https://twitter.com/draainhp) (and you?).
 
-Registration is now open, see below. **Subscribe to the mailing list** to receive course updates (if you keep an eye on the `#mag` channel in the metauni Discord, no need to sign up for this).
+**Subscribe to the mailing list** to receive course updates (if you keep an eye on the `#mag` channel in the metauni Discord, no need to sign up here).
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to get updates on MAG1:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
@@ -37,8 +36,6 @@ Registration is now open. Here is the registration process:
 1. Follow Steps 1 and 2 of the [instructions](https://metauni.org/posts/instructions/instructions) to setup your Roblox and Discord accounts.
 2. Open the metauni Discord server and post in the `#mag-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
 3. Join the [metauni Roblox group](https://www.roblox.com/groups/13108882/metauni#!/about). This way we can give you permission to write on the blackboards throughout metauni.
-
-If you have any problem with these steps, ask for help on the `#mag` channel of the metauni Discord, or <a target="_blank" href="mailto:admin@metauni.org">email us</a>. Before the beginning of the class we will circulate (on Discord and via email, so you may wish to sign up for the mailing list above if you haven't already) some orientation videos and announce some drop-in orientation times where you can try out metauni before class begins.
 
 ## Course content
 
@@ -57,8 +54,6 @@ Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 
 * **Lecture 6:** Hilbert basis theorem `(K) S2.5`
 * **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7`
 * **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
-
-On the rare occasion that Roblox voice chat has some issues, we will fall back to using Roblox whiteboards with Discord for voice.
 
 ## Exercise sessions
 
