@@ -28,7 +28,7 @@ whats on:
     time: 11:30-12:30
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: Constellations."
+    note: "*This week*: Excursion."
     website: https://metauni.org/posts/events/seminar-code
     location: "#General"
 - "#metauni-dev":
@@ -53,7 +53,7 @@ whats on:
     organizer: Billy Price, Will Troiani
     desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as a mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem."
     website: http://metauni.org/posts/events/seminar-foundations
-    location: https://www.roblox.com/games/8164849103/Deprecation
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     
 whats off:
 - Landau-Ginzburg:
