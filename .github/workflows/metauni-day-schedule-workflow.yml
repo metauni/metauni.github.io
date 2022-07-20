@@ -27,6 +27,7 @@ jobs:
         run: schedule/validate-schedule.py
   update-index:
     needs: validate-schedule
+    concurrency: schedule_push
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -73,6 +74,7 @@ jobs:
         run: schedule/update-data-store.py
 #  update-icalendar:
 #    needs: validate-schedule
+#    concurrency: schedule_push
 #    runs-on: ubuntu-latest
 #    steps:
 #      - uses: actions/checkout@v3
