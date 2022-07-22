@@ -30,13 +30,18 @@ Seminar information:
 Directions for joining discussions:
 
 0. New to metauni?
-   Follow [these instructions](/posts/instructions/instructions)
-   to get started (including: join the Discord server, create a Roblox
-   account, enable Roblox voice chat).
-1. Launch the Roblox experience
-   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
-2. Step into matomatical's portal (bottom-right corner of stack), or
-   use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
+   Follow [these instructions (part 2)](/posts/instructions/instructions)
+   to join the metauni Discord server, and introduce yourself in the channel
+   `#ai-safety`.
+1. Metauni talks take place in Roblox using in-game voice chat.
+   Follow [these instructions (part 1)](/posts/instructions/instructions)
+   to create a Roblox account, complete "age verification" (unfortunately,
+   this involves sharing ID with Roblox), and then enable Roblox "voice chat".
+2. At the scheduled discussion time, launch the Roblox experience
+   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea)
+   and then step into matomatical's portal (bottom-right corner of stack, see
+   picture),
+   or use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
    ![](seminar-ai-safety-map.jpg)
 
 Readings
