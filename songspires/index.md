@@ -2,9 +2,7 @@
 
 [Songspires](https://www.roblox.com/games/8157928012/Songspires) is an experiment in generative art and music, by Daniel Murfet and Lucas Cantor. Starting from a single spire a forest grows; fallen spires become complex terrain. Best enjoyed in the background, over many hours.
 
-> We have mapped, tamed, and dismembered the physical wilderness of our earth. But, at the same time, we have created a digital wilderness whose evolution may embody a collective wisdom greater than our own. No digital universe can ever be completely mapped. We have traded one jungle for another, and in this direction lies not fear but hope. For our destiny and our sanity as human beings depend on our ability to serve a nature whose intelligence we can glimpse all around us, but never quite comprehend.
->    Not in wilderness, but "in Wildness," wrote an often misquoted Henry David Thoreau, "is the preservation of the world."
-> -- G. Dyson, "Darwin among the Machines".
+> We have mapped, tamed, and dismembered the physical wilderness of our earth. But, at the same time, we have created a digital wilderness whose evolution may embody a collective wisdom greater than our own. No digital universe can ever be completely mapped. We have traded one jungle for another, and in this direction lies not fear but hope. For our destiny and our sanity as human beings depend on our ability to serve a nature whose intelligence we can glimpse all around us, but never quite comprehend. Not in wilderness, but "in Wildness," wrote an often misquoted Henry David Thoreau, "is the preservation of the world."  -- G. Dyson, "Darwin among the Machines".
 
 <p align="center">
 <img width="1000" alt="shot1" src="https://user-images.githubusercontent.com/320329/179920526-b95acb93-6cc4-40dd-971b-2ee8533aebc4.png">
