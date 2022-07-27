@@ -36,10 +36,9 @@ Times are given on Thursday AEST. Names in italics are the co-organisers of the 
 
 <!-- BEGIN WHATS ON -->
 * **[metauni Algebraic Geometry](https://metauni.org/mag/)** **07:00-08:30** (*Ken Chan, Dan Murfet*): Lecture 7
-* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Creating models in blender.
+* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Working on metaboard VR.
 * **#metauni-dev** **12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **Tea break** **13:30-14:00**
-* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **14:00-15:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session.
+* **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session.
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** **20:00-21:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
 * **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety.
 <!-- END WHATS ON -->
