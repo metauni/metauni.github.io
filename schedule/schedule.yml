@@ -12,17 +12,15 @@ whats on:
     time: 11:30-12:30
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: Creating models in blender."
+    note: "*This week*: Working on metaboard VR."
     website: https://metauni.org/posts/events/seminar-code
     location: "#General"
 - "#metauni-dev":
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
-- Tea break:
-    time: 13:30-14:00
 - Singular Learning Theory:
-    time: 14:00-15:00
+    time: 16:00-17:00
     organizer: Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     note: "*This week*: working session."
