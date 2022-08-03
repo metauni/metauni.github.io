@@ -41,12 +41,12 @@ Times are given on Thursday AEST. Names in italics are the co-organisers of the 
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
 * **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety.
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** **22:00-23:00** (*Billy Price, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as a mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. *Note* runs biweekly.
 <!-- END WHATS ON -->
 
 **Not on this week**:
 <!-- BEGIN WHATS OFF -->
 * **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** **20:00-21:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** **22:00-23:00** (*Billy Price, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as a mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. *Note* runs biweekly.
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **10:30-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 <!-- END WHATS OFF -->
 
