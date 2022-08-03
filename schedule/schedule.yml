@@ -40,6 +40,12 @@ whats on:
     website: https://metauni.org/posts/events/seminar-ai-safety
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gemini Pulsar 1
+- Foundations:
+    time: 22:00-23:00
+    organizer: Billy Price, Will Troiani
+    desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as a mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. *Note* runs biweekly."
+    website: http://metauni.org/posts/events/seminar-foundations
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     
 whats off:
 - Landau-Ginzburg:
@@ -47,12 +53,6 @@ whats off:
     organizer: Rohan Hitchcock
     desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
     website: http://metauni.org/posts/events/seminar-lg
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Foundations:
-    time: 22:00-23:00
-    organizer: Billy Price, Will Troiani
-    desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as a mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. *Note* runs biweekly."
-    website: http://metauni.org/posts/events/seminar-foundations
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Disruption:
     time: 10:30-11:30
