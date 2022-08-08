@@ -8,6 +8,12 @@ whats on:
     desc: "Lecture 9"
     website: https://metauni.org/mag/
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Disruption:
+    time: 11:00-11:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    website: https://metauni.org/posts/events/seminar-disruption
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - Code:
     time: 11:30-12:30
     organizer: Ethan Curtiss
@@ -53,10 +59,4 @@ whats off:
     organizer: Billy Price, Will Troiani
     desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. *Note* runs biweekly."
     website: http://metauni.org/posts/events/seminar-foundations
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Disruption:
-    time: 10:30-11:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-    website: https://metauni.org/posts/events/seminar-disruption
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
