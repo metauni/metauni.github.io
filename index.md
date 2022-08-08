@@ -55,7 +55,7 @@ For videos from the seminars, see the pages for the individual seminars (linked 
 On the theory that is better to show than tell, here is a video from our first course on algebraic geometry:
 
 <p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/rdzwl4t6XSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Fccfv2DWUgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Here is a recent test of lecturing using a VR headset and controllers (audience is looking at ordinary screens):
