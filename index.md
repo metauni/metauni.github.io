@@ -52,7 +52,7 @@ For videos from the seminars, see the pages for the individual seminars (linked 
 
 ## What is metauni?
 
-On the theory that is better to show than tell, here is a video from our first course on algebraic geometry:
+On the theory that is better to show than tell, here is a video from one of our recent seminars:
 
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Fccfv2DWUgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -63,6 +63,8 @@ Here is a recent test of lecturing using a VR headset and controllers (audience 
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/HeMF9-tj4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+For more see the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
 
 ## History
 
