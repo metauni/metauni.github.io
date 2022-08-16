@@ -32,7 +32,7 @@ Times are given on Thursday AEST. Names in italics are the co-organisers of the 
 
 <!-- BEGIN WHATS ON -->
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **11:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Ethan Curtiss on the cockroach game.
+* **[Code](https://metauni.org/posts/events/seminar-code)** **11:30-12:30** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Initial work on recording VR talks.
 * **#metauni-dev** **12:30-13:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
