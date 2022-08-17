@@ -19,6 +19,8 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
+We recently ran a free introductory course on algebraic geometry called [MAG](https://www.metauni.org/mag).
+
 ## metauni Day
 
 We meet once a week for classes and seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
