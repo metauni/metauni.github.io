@@ -11,7 +11,7 @@ We recommend that you open the links in each step in a separate tab, so that you
 3. Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page (if you don't see this toggle and you completed Step 1, try refreshing your page).
 4. Enter [metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
 
-That's it! Thanks for taking part in metauni. You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules). If you are a speaker or an admin, see the [instructions for speakers and admins](https://metauni.org/posts/instructions/instructions-admin).
+That's it! Thanks for taking part in metauni. You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules). If you are a speaker or an admin, see the [instructions for speakers and admins](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware).
 
 ### 2. Discord
 
