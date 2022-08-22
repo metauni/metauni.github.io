@@ -1,20 +1,13 @@
-date: "18/08/2022" # dd/mm/yyyy
+date: "25/08/2022" # dd/mm/yyyy
 timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - Disruption:
-    time: 11:00-11:30
+    time: 11:00-12:00
     organizer: Adam Dorr
     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/posts/events/seminar-disruption
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Code:
-    time: 11:30-12:30
-    organizer: Ethan Curtiss
-    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: Initial work on recording VR talks."
-    website: https://metauni.org/posts/events/seminar-code
-    location: "#General"
 - "#metauni-dev":
     time: 12:30-13:30
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
@@ -27,12 +20,12 @@ whats on:
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gamma Events 6
-- Cryptography:
+- Landau-Ginzburg:
     time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/816
+    organizer: Rohan Hitchcock
+    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
+    website: http://metauni.org/posts/events/seminar-lg
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -40,16 +33,23 @@ whats on:
     website: https://metauni.org/posts/events/seminar-ai-safety
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gemini Pulsar 1
+whats off:
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/816
+- Code:
+    time: 11:30-12:30
+    organizer: Ethan Curtiss
+    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
+    note: "*This week*: Initial work on recording VR talks."
+    website: https://metauni.org/posts/events/seminar-code
+    location: "#General"
 - Foundations:
     time: 22:00-23:00
     organizer: Billy Price, Will Troiani
     desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. *Note* runs biweekly."
     website: http://metauni.org/posts/events/seminar-foundations
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-whats off:
-- Landau-Ginzburg:
-    time: 20:00-21:00
-    organizer: Rohan Hitchcock
-    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
-    website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
