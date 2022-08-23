@@ -8,8 +8,15 @@ whats on:
     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/posts/events/seminar-disruption
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Code:
+    time: 12:00-13:00
+    organizer: Ethan Curtiss
+    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
+    note: "*This week*: Initial work on recording VR talks."
+    website: https://metauni.org/posts/events/seminar-code
+    location: "#General"
 - "#metauni-dev":
-    time: 12:30-13:30
+    time: 13:00-14:00
     desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
     location: "#metaboard-dev"
 - Singular Learning Theory:
@@ -40,13 +47,6 @@ whats off:
     desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/816
-- Code:
-    time: 11:30-12:30
-    organizer: Ethan Curtiss
-    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: Initial work on recording VR talks."
-    website: https://metauni.org/posts/events/seminar-code
-    location: "#General"
 - Foundations:
     time: 22:00-23:00
     organizer: Billy Price, Will Troiani
