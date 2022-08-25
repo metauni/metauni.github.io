@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
-We recently ran a free introductory course on algebraic geometry called [MAG](https://www.metauni.org/mag).
+We recently ran a free introductory course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/).
 
 ## metauni Day
 
