@@ -4,8 +4,6 @@ One of the reasons we have chosen to build metauni on top of Roblox is the wide 
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/I97UUnhPC2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/HeMF9-tj4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Why VR?
 
 One of the reason that metauni events are more engaging than a Zoom lecture is the sense that the participants are sharing a 3D world. This sense is only heightened in VR. Here are some of the specific benefits we have noticed so far in our experiments:
