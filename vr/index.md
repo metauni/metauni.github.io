@@ -2,6 +2,10 @@
 
 One of the reasons we have chosen to build metauni on top of Roblox is the wide accessibility of that platform: it can be accessed on PC, Mac, iOS and Android and also using Virtual Reality (VR) headsets such as the Meta Quest 2. Current headsets have their limitations, but over time we believe that VR will become one of the main ways that people choose to access metauni. To this end, we are in the process of building virtual reality support into all of the metauni tools, such as [metaboard](https://github.com/metauni/metaboard) and [metaorb](https://github.com/metauni/orb).
 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/I97UUnhPC2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/HeMF9-tj4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 So far members of our community have experience only with the [Meta Quest 2](https://store.facebook.com/au/quest/products/quest-2/) so this text will include specific references to Quest 2 hardware, but everything should work with other headsets (such as the Valve Index). 
 
 * At the moment VR support in Roblox is sufficient but not first-class, in the sense that the only way to run Roblox is by tethering your headset to a PC on which Roblox is running. This tethering is either achieved by a [link cable](https://store.facebook.com/au/quest/accessories/quest-2/link-cable/) or by Air Link, which allows your headset to play games running on your PC via a wireless connection.
@@ -13,3 +17,7 @@ So far members of our community have experience only with the [Meta Quest 2](htt
 * The 2D Roblox GUI appears as an overlay (probably transparent) near the center of your field of view in VR. You should be able to see the Roblox icon in the top left hand corner of this overlay. To activate spatial voice in VR you'll need to press the menu button on your left controller, point the right controller at the Roblox menu icon and find the toggle in the Roblox menu (see [this video](https://youtu.be/4AjUzqqjsGg)).
 
 Currently VR for metaboard is in testing and is only available in the pocket Symbolic Wilds 1 ([link](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%201) for iOS and Windows) for those with Scribe permissions.
+
+## Examples
+
+[Calculus 1 lecture](https://youtu.be/I97UUnhPC2c) and [Differentiation vs Division](https://youtu.be/HeMF9-tj4Ek).
