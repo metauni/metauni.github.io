@@ -12,7 +12,9 @@ One of the reason that metauni events are more engaging than a Zoom lecture is t
 
 * **Speakers in VR have more fun**: as a VR speaker you get to use your hands, you can write at the board and then turn to look at the audience, you can see their questions as text bubbles above their head (if they aren't using voice chat) and in general it feels much closer to the energy of an in-person lecture as compared to giving a lecture by writing on an iPad.
 
-** **It's more engaging for audiences** even if they aren't in VR: the avatar of a VR speaker is "alive" in a way that normal avatars aren't, the hands move and the head tilts when the speaker is looking at something. When they are writing on a board you can see the motion of their hand and the pen. All of this adds a rich dynamic and physical layer to the presentation, which beats words simply appearing on a board while the speaker's avatar stands stiff in front of the board.
+* **It's more engaging for audiences** even if they aren't in VR: the avatar of a VR speaker is "alive" in a way that normal avatars aren't, the hands move and the head tilts when the speaker is looking at something. When they are writing on a board you can see the motion of their hand and the pen. All of this adds a rich dynamic and physical layer to the presentation, which beats words simply appearing on a board while the speaker's avatar stands stiff in front of the board.
+
+To begin with we expect that VR will be adopted by speakers first, and later by audiences (as the technology becomes more affordable and convenient).
 
 ## Notes
 
