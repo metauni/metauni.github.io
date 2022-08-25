@@ -16,6 +16,12 @@ One of the reason that metauni events are more engaging than a Zoom lecture is t
 
 We expect that VR will be adopted by speakers first, and later by audiences (as the technology becomes more affordable and convenient).
 
+Some of the current drawbacks of VR:
+
+* While headsets are relatively inexpensive (on the order of AUD$600) compared to their historical prices, it's a significant investment if on top of that you also need to buy a gaming PC (which is currently required to run Roblox in VR, see below).
+* Wearing a headset for extended periods is not comfortable for all users.
+* Being in VR cuts you off from written notes in a way that using metauni on an iPad does not.
+
 ## Notes
 
 So far members of our community have experience only with the [Meta Quest 2](https://store.facebook.com/au/quest/products/quest-2/) so this text will include specific references to Quest 2 hardware, but everything should work with other headsets (such as the Valve Index). 
