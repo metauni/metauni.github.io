@@ -1,16 +1,16 @@
 # MAG
 
-Welcome to **m**etauni **A**lgebraic **G**eometry. This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community. The first course MAG1 ran from 16/6/2022-11/8/2022.
+Welcome to **m**etauni **A**lgebraic **G**eometry (MAG). This is a series of online algebraic geometry classes taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community. The first course MAG1 ran from 16/6/2022-11/8/2022.
 
 <p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Vy6ZNKgOo9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/roXjVedxrR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!--<img width="800" alt="working" src="https://user-images.githubusercontent.com/320329/166119939-5cf4f2c2-3c28-45e2-994d-d0b118bc0145.png">-->
 
-<p align="center">
+<!--<p align="center">
   <span style="font-size:larger;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter MAG</a></span>
-</p>
+</p>-->
 
 * **When**: starting June 16 2022, weekly 1.5 hour lectures on Thursdays 7:00-8:30am AEST, weekly 1 hour exercise sessions (see below for times). The class will run for 8 weeks.
 * **Where**: [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8). See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set it up.
@@ -22,7 +22,7 @@ The *who* is a community of volunteers:
 * **Lecturers**: [Ken Chan](https://kenhchan.github.io) and [Dan Murfet](https://www.therisingsea.org), both with PhDs in algebraic geometry.
 * **Tutors**: [Edmund Lau](https://edmundlth.github.io), Rohan Hitchcock and [Will Troiani](https://williamtroiani.github.io) (and you?).
 
-**Subscribe to the mailing list** to receive course updates (if you keep an eye on the `#mag` channel in the metauni Discord, no need to sign up here).
+**Subscribe to the mailing list** to receive updates on future classes (if you keep an eye on the `#mag` channel in the metauni Discord, no need to sign up here).
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to get updates on MAG1:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
@@ -30,12 +30,12 @@ The *who* is a community of volunteers:
 
 There will be a two week pre-course
 
-* **Pre-course 1:** Where do lines meet? (solving linear equations by Gaussian elimination) *2-6-22*.
-* **Pre-course 2:** Functions and set theory, long division for integers *9-6-22*.
+* **Pre-course 1:** Where do lines meet? (solving linear equations by Gaussian elimination) *2-6-22* ([video](https://youtu.be/hTQIt3rc9Rs)).
+* **Pre-course 2:** Functions and set theory, long division for integers *9-6-22* ([video](https://youtu.be/OUNa5TNzbnU)).
 
 Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
 
-* **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3` *16-6-22* ([notes](http://www.therisingsea.org/notes/mag/MAG1-1.pdf)).
+* **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3` *16-6-22* ([notes](http://www.therisingsea.org/notes/mag/MAG1-1.pdf) | [video](https://youtu.be/roXjVedxrR0)).
 * **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.5`
 * **Lecture 3:** Monomial orderings `(D) S2.1, S2.2` ([notes](http://www.therisingsea.org/notes/mag/MAG1-3.pdf)).
 * **Lecture 4:** Division algorithm `(K) S2.3`
