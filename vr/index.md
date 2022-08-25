@@ -10,7 +10,4 @@ So far members of our community have experience only with the [Meta Quest 2](htt
 
 * The 2D Roblox GUI appears as an overlay (probably transparent) near the center of your field of view in VR. You should be able to see the Roblox icon in the top left hand corner of this overlay. To activate spatial voice in VR you'll need to press the menu button on your left controller, point the right controller at the Roblox menu icon and find the toggle in the Roblox menu (see [this video](https://youtu.be/4AjUzqqjsGg)).
 
-Here are some things you can try at metauni in VR:
-
-* Write on a metaboard (if you have Scribe permissions)
-* View [Songspires](https://www.roblox.com/games/8157928012/Songspires), hit `Y` on your controller to enter Cinecam.
+Currently VR for metaboard is in testing and is only available in the pocket Symbolic Wilds 1 ([link](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%201) for iOS and Windows) for those with Scribe permissions.
