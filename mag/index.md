@@ -36,13 +36,13 @@ There will be a two week pre-course
 Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
 
 * **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3` *16-6-22* ([notes](http://www.therisingsea.org/notes/mag/MAG1-1.pdf) | [video](https://youtu.be/roXjVedxrR0)).
-* **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.5`
-* **Lecture 3:** Monomial orderings `(D) S2.1, S2.2` ([notes](http://www.therisingsea.org/notes/mag/MAG1-3.pdf)).
-* **Lecture 4:** Division algorithm `(K) S2.3`
-* **Lecture 5:** Dickson's lemma `(D) S2.4` ([notes](http://www.therisingsea.org/notes/mag/MAG1-5.pdf)).
-* **Lecture 6:** Hilbert basis theorem `(K) S2.5`
-* **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7` ([notes](http://www.therisingsea.org/notes/mag/MAG1-7.pdf)).
-* **Lecture 8:** Elimination theory `(K) S3.1, S3.2`
+* **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.5` ([video](https://youtu.be/tigdjV0Ng2U)).
+* **Lecture 3:** Monomial orderings `(D) S2.1, S2.2` ([notes](http://www.therisingsea.org/notes/mag/MAG1-3.pdf) | [video](https://youtu.be/yAqfbiB9CrE)).
+* **Lecture 4:** Division algorithm `(K) S2.3` ([video](https://youtu.be/SWe5kIjfmgQ)).
+* **Lecture 5:** Dickson's lemma `(D) S2.4` ([notes](http://www.therisingsea.org/notes/mag/MAG1-5.pdf) | [video](https://youtu.be/P4_ziiIne14)).
+* **Lecture 6:** Hilbert basis theorem `(K) S2.5` ([video](https://youtu.be/1t13zsp08uY)).
+* **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7` ([notes](http://www.therisingsea.org/notes/mag/MAG1-7.pdf) | [video](https://youtu.be/TuZCzo5rGm4)).
+* **Lecture 8:** Elimination theory `(K) S3.1, S3.2` ([video](https://youtu.be/c6AZIfl3_zY)).
 
 All videos can be found in [the MAG playlist](https://www.youtube.com/playlist?list=PLKnx70LRf21dbz2X5o6igq-umCGmkug1t).
 
@@ -102,13 +102,5 @@ Registration is now open. Here is the registration process:
 1. Follow Steps 1 and 2 of the [instructions](https://metauni.org/posts/instructions/instructions) to setup your Roblox and Discord accounts.
 2. Open the metauni Discord server and post in the `#mag-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
 3. Join the [metauni Roblox group](https://www.roblox.com/groups/13108882/metauni#!/about). This way we can give you permission to write on the blackboards throughout metauni.
-
-## What is it like?
-
-Here are some videos of learning at metauni in action:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QZG40ZY5TeU?start=4215" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/25ZGE0PiioE?start=3950" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Esk7G3g5X8?start=3900" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
