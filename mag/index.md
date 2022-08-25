@@ -35,13 +35,13 @@ There will be a two week pre-course
 
 Each lecture will be 1.5hr. In the schedule below, `S1.3` refers to Section 1.3 of CLO, `(K)` means Ken and `(D)` means Dan.
 
-* **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3` *16-6-22* ([notes](http://www.therisingsea.org/notes/mag/MAG1-1.pdf) | [video](https://youtu.be/roXjVedxrR0)).
+* **Lecture 1:** What is algebraic geometry? `(D) S1.1, S1.2, S1.3` *16-6-22* ([notes](http://www.therisingsea.org/notes/mag/MAG1-1.pdf), [video](https://youtu.be/roXjVedxrR0)).
 * **Lecture 2:** Ideals and polynomial division `(K) S1.4, S1.5` ([video](https://youtu.be/tigdjV0Ng2U)).
-* **Lecture 3:** Monomial orderings `(D) S2.1, S2.2` ([notes](http://www.therisingsea.org/notes/mag/MAG1-3.pdf) | [video](https://youtu.be/yAqfbiB9CrE)).
+* **Lecture 3:** Monomial orderings `(D) S2.1, S2.2` ([notes](http://www.therisingsea.org/notes/mag/MAG1-3.pdf), [video](https://youtu.be/yAqfbiB9CrE)).
 * **Lecture 4:** Division algorithm `(K) S2.3` ([video](https://youtu.be/SWe5kIjfmgQ)).
-* **Lecture 5:** Dickson's lemma `(D) S2.4` ([notes](http://www.therisingsea.org/notes/mag/MAG1-5.pdf) | [video](https://youtu.be/P4_ziiIne14)).
+* **Lecture 5:** Dickson's lemma `(D) S2.4` ([notes](http://www.therisingsea.org/notes/mag/MAG1-5.pdf), [video](https://youtu.be/P4_ziiIne14)).
 * **Lecture 6:** Hilbert basis theorem `(K) S2.5` ([video](https://youtu.be/1t13zsp08uY)).
-* **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7` ([notes](http://www.therisingsea.org/notes/mag/MAG1-7.pdf) | [video](https://youtu.be/TuZCzo5rGm4)).
+* **Lecture 7:** Buchberger's algorithm `(D) S2.6, S2.7` ([notes](http://www.therisingsea.org/notes/mag/MAG1-7.pdf), [video](https://youtu.be/TuZCzo5rGm4)).
 * **Lecture 8:** Elimination theory `(K) S3.1, S3.2` ([video](https://youtu.be/c6AZIfl3_zY)).
 
 All videos can be found in [the MAG playlist](https://www.youtube.com/playlist?list=PLKnx70LRf21dbz2X5o6igq-umCGmkug1t).
