@@ -53,26 +53,9 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* **2022.08.11:**
-  Robin Hanson,
-  2022,
-  "Why not wait on AI risk?",
-  [overcoming bias blog](https://www.overcomingbias.com/2022/06/why-not-wait-on-ai-risk.html)
-  and
-  "Foom update",
-  [overcoming bias blog](https://www.overcomingbias.com/2022/05/foom-update.html).
+* **2022.09.01:** No reading or discussion.
 
-* **2022.08.18:**
-  Evan Hubinger *et al.*,
-  2019,
-  "Risks from learned optimization"
-  [arXiv](https://arxiv.org/abs/1906.01820)
-  / [sequence](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB).
-
-* **2022.08.25:**
-  (TBC)
-  an original presentation about compression and learning in models of
-  computation embedded in the real world.
+* **2022.09.08:** Discussion resumes with reading TBD.
 
 Past readings and discussions:
 
@@ -122,6 +105,26 @@ Past readings and discussions:
   [arXiv](https://arxiv.org/abs/1609.03543v4).
   Discussion lead by Dan.
   Note: there is an updated 2020 version on arXiv.
+
+* **2022.08.11:**
+  Robin Hanson,
+  2022,
+  "Why not wait on AI risk?",
+  [overcoming bias blog](https://www.overcomingbias.com/2022/06/why-not-wait-on-ai-risk.html)
+  and
+  "Foom update",
+  [overcoming bias blog](https://www.overcomingbias.com/2022/05/foom-update.html).
+
+* **2022.08.18:**
+  Evan Hubinger *et al.*,
+  2019,
+  "Risks from learned optimization"
+  [arXiv](https://arxiv.org/abs/1906.01820)
+  / [sequence](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB).
+
+* **2022.08.25:**
+  an original presentation by Matt about compression and learning in models
+  of computation embedded in the real world.
 
 Topics brainstorm
 -----------------

@@ -33,13 +33,6 @@ whats on:
     desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/816
-- AI Safety:
-    time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts
-    desc: reading group on technical and philosophical topics in AI safety.
-    website: https://metauni.org/posts/events/seminar-ai-safety
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-    pocket: Gemini Pulsar 1
 - Foundations:
     time: 22:00-23:00
     organizer: Billy Price, Will Troiani
@@ -53,3 +46,11 @@ whats off:
     desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
     website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- AI Safety:
+    time: 21:00-22:00
+    organizer: Matthew Farrugia-Roberts
+    desc: reading group on technical and philosophical topics in AI safety.
+    website: https://metauni.org/posts/events/seminar-ai-safety
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    pocket: Gemini Pulsar 1
+    note: back September 8th.
