@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
-We recently ran a free introductory course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/).
+We recently ran a free introductory course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
 
 ## metauni Day
 
