@@ -53,9 +53,11 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* **2022.09.01:** No reading or discussion.
-
-* **2022.09.08:** Discussion resumes with reading TBD.
+* **2022.09.15:**
+  Nate Soares,
+  2022,
+  "On how various plans miss the hard bits of the alignment challenge",
+  [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
 
 Past readings and discussions:
 
@@ -126,35 +128,26 @@ Past readings and discussions:
   an original presentation by Matt about compression and learning in models
   of computation embedded in the real world.
 
+* **2022.09.08:**
+  discussion of reading group direction.
+
 Topics brainstorm
 -----------------
 
-The nature of superintelligence:
+AI safety is political philosophy complete
 
-* Key chapters of Bostrom's *Superintelligence*
-* Eric Drexler's report *Reframing Superintelligence*
-  / Comprehensive AI Services (CAIS)
+* Exernalities correspond to market alignment failures. How do we handle
+  them? Overcome them? Do we face risk from them? Would these risks be
+  exacerbated by 
+* How can we live in the midst of complex systems we don't understand, and
+  can't fully control, like civilisation, capitalism, etc.?
+* What other literatures could help us here?
 
-Aligning superintelligences:
+Other topics
 
-* Key chapters of Stuart Russell's *Human Compatible*
-* Papers on CIRL / assistance games
-* Papers on corrigibility
-* (More) papers on the off-switch game
-* Papers on mesa optimisation / optimisation daemons
-* Papers on the complexity of values thesis
-* Key chapters of Brian Christian's *The Alignment Problem*
-
-Present-day issues:
-
-* On algorithmic bias
-* On interpretability
-* On aligning recommender systems
-
-Future philosophy
-
-* On future digital ethics
-* On machine consciousness
+* AI governance
+* Is there literature on technology and society?
+* Specific safety proposals
 
 Sources of readings (clearly with much mutual overlap):
 
