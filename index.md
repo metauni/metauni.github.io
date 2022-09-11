@@ -101,6 +101,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 8/6/2022 - Automated schedule deployment system (by Ethan and phoebe).
 * 7/7/2022 - First VR lecture.
 * 9/7/2022 - Metaboard v1 (led by BS).
+* 10/9/2022 - First [VR replay](https://youtu.be/s4dfwxzXEFM) (code by BS).
 
 Music in the Rising Sea:
 
