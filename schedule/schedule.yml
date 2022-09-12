@@ -27,12 +27,6 @@ whats on:
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gamma Events 6
-- Landau-Ginzburg:
-    time: 20:00-21:00
-    organizer: Rohan Hitchcock
-    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
-    website: http://metauni.org/posts/events/seminar-lg
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -40,16 +34,22 @@ whats on:
     website: https://metauni.org/posts/events/seminar-ai-safety
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gemini Pulsar 1
-whats off:
-- Cryptography:
-    time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/816
 - Foundations:
     time: 22:00-23:00
     organizer: Billy Price, Will Troiani
     desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem."
     website: http://metauni.org/posts/events/seminar-foundations
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+whats off:
+- Landau-Ginzburg:
+    time: 20:00-21:00
+    organizer: Rohan Hitchcock
+    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
+    website: http://metauni.org/posts/events/seminar-lg
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/816
