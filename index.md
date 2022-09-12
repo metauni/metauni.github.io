@@ -34,17 +34,17 @@ Times are given on Thursday AEST. Names in italics are the co-organisers of the 
 
 <!-- BEGIN WHATS ON -->
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **11:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
-* **[Code](https://metauni.org/posts/events/seminar-code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Excursion.
+* **[Code](https://metauni.org/posts/events/seminar-code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: What breaks with streaming?
 * **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/posts/events/seminar-slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt presenting his new theorem.
-* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** **20:00-21:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
 * **[AI Safety](https://metauni.org/posts/events/seminar-ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety.
+* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** **22:00-23:00** (*Billy Price, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem.
 <!-- END WHATS ON -->
 
 **Not on this week**:
 <!-- BEGIN WHATS OFF -->
+* **[Landau-Ginzburg](http://metauni.org/posts/events/seminar-lg)** **20:00-21:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
-* **[Foundations](http://metauni.org/posts/events/seminar-foundations)** **22:00-23:00** (*Billy Price, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem.
 <!-- END WHATS OFF -->
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The tools we use are [open source](https://metauni.org/posts/open/open) and we'll happily help you set up your own seminars and teach you how to record them, just jump into the Discord and say hi.
