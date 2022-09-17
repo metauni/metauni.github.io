@@ -44,7 +44,8 @@ for seminar in schedule["whats on"]:
         "desc": seminarData.get("desc"),
         "note": seminarData.get("note"),
         "location": seminarData.get("location"), # Used on Roblox to get place id or identify if it's something else (Discord)
-        "pocket": seminarData.get("pocket"),
+        "alias": seminarData.get("alias"),
+        "pocket": seminarData.get("pocket")
     }
 
     newWhatsOn.append(newSeminar)

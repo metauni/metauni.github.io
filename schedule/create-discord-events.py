@@ -79,7 +79,7 @@ def get_discord_channels():
     try:
         return response.json()
     except Exception as e:
-        print("FAILED TO GET DISCORD CHANNELS:", e)
+        print("FAILED TO GET DISCORD CHANNELS: ", e)
         raise Exception(e)
 
 def parse_event_times(time):
@@ -130,6 +130,13 @@ for seminar in schedule["whats on"]:
     location = data.get("location")
     if location and location[0] == "#" and channels_by_name.get(location[1:]):
         data["location"] = channels_by_name.get(location[1:])
+
+    # Append note to description
+    if data.get("note"):
+        if data.get("desc"):
+            data["desc"] += " " + data["note"]
+        else:
+            data["desc"] = data["note"]
 
 for name, event in current_events.items():
     print("GOT EXISTING EVENT ", name)

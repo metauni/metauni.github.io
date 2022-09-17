@@ -1,5 +1,5 @@
-date: "15/09/2022" # dd/mm/yyyy
-timezone: "+1000" # AEST is 10 hours and 00 minutes ahead of UTC
+date: "22/09/2022" # dd/mm/yyyy
+timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - Disruption:
@@ -52,4 +52,4 @@ whats off:
     organizer: Eleanor McMurtry
     desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
     website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/816
+    location: https://www.roblox.com/games/8164849103/Deprecation

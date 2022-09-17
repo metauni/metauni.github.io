@@ -47,7 +47,7 @@ jobs:
   create-discord-events:
     needs: validate-schedule
     env:
-      GUILD_ID: "798370332758245407" # metauni guild ID
+      GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
       EVENTBOT_CLIENT_ID: ${{ secrets.EVENTBOT_CLIENT_ID }}
       EVENTBOT_TOKEN: ${{ secrets.EVENTBOT_TOKEN }}
     runs-on: ubuntu-latest
