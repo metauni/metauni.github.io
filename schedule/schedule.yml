@@ -27,6 +27,7 @@ whats on:
     website: https://metauni.org/posts/events/seminar-slt
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
     pocket: Gamma Events 6
+    alias: SLT
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -47,6 +48,7 @@ whats off:
     desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
     website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: LG
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry
