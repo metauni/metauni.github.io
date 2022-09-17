@@ -4,7 +4,7 @@ import yaml
 import re
 from datetime import datetime
 
-SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location", "alias"}
+SEMINAR_PROPS = {"time", "organizer", "desc", "note", "website", "location", "alias", "pocket"}
 SEMINAR_MISSING_PROP_EXCEPTION = "Seminar \"{}\" is missing the property \"{}\""
 
 def validate_seminars(schedule):

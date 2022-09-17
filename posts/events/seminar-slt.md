@@ -1,6 +1,6 @@
 # Singular Learning Theory
 
-Singularities are knowledge. This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)'s Singular Learning Theory. For articles that augment and complete this seminar series see [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/). Thursdays `10:00am-12:00pm AEDT`.
+Singularities are knowledge. This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)'s Singular Learning Theory. For articles that augment and complete this seminar series see [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 
 * **Co-organisers**: Edmund Lau and Dan Murfet.
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).

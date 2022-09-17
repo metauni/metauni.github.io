@@ -1,28 +1,8 @@
-# Instructions for speakers and admins
+# Instructions for speakers
 
-First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice.
+These instructions aim to be a detailed guide to giving a successful talk in metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for information about tablets and microphones.
 
-## Speakers
-
-Thanks for giving a talk! These instructions aim to be a detailed guide to giving a successful talk in metauni. 
-
-### Hardware
-
-If you are giving a board talk we recommend running Roblox on an iPad with Pencil (or equivalent tablet and stylus) with any of the following audio-visual setups:
-
-1. Headphones with in-built microphone plugged into the `3.5mm` jack.
-2. Headphones with in-built microphone plugged into the Lightning plug.
-3. The built-in speaker and microphone (i.e. no headphones).
-
-We've had speakers successfully give talks with all three setups, but perhaps among them (1) is optimal because it allows you to plug your iPad into a power outlet if the battery gets low during your talk. On that note:
-
-* **Lower graphics quality for battery life**: If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting. At high settings Roblox will rapidly consume your device's battery. On the minimum setting I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
-
-If you are presenting using slides, then you can join Roblox with any setup that supports spatial voice (e.g. your laptop with headphones).
-
-* **Question: what about Wacom tablets?** People have successfully used Wacom tablets to write on metaboards, but we have not extensively tested this.
-
-### Joining the event
+## Joining the event
 
 The organiser should provide you with the URL of the Roblox world for your talk. If you are speaking in a recurring seminar, you can find the URL on the webpage for  that seminar (see the [metauni homepage](https://metauni.org)). Once you have the URL:
 
