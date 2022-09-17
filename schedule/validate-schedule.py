@@ -18,31 +18,31 @@ def validate_seminars(schedule):
                 raise Exception(f"\"key\" property for seminar \"{name}\" must be a string, got {type(value).__name__}")
 
 # Validates that the seminar times do not overlap
-def validate_seminar_times(seminars):
-    times = []
-    for seminar in seminars:
-        name = next(iter(seminar))
-        data = seminar[name]
+# def validate_seminar_times(seminars):
+#     times = []
+#     for seminar in seminars:
+#         name = next(iter(seminar))
+#         data = seminar[name]
 
-        time = data["time"]
-        times.append({
-            "name": name,
-            "start": int(time[0:2])*60 + int(time[3:5]),
-            "end": int(time[6:8])*60 + int(time[9:11])
-        })
-    times.sort(key=lambda e: e["start"])
+#         time = data["time"]
+#         times.append({
+#             "name": name,
+#             "start": int(time[0:2])*60 + int(time[3:5]),
+#             "end": int(time[6:8])*60 + int(time[9:11])
+#         })
+#     times.sort(key=lambda e: e["start"])
     
-    overlaps = []
-    for i in range(len(times) - 1):
-        this_overlaps = []
-        for j in range(i + 1, len(times) - 1):
-            if times[i]["end"] > times[j]["start"]:
-                this_overlaps.append(times[j]["name"])
-        if len(this_overlaps) > 0:
-            overlaps.append(f"\"{times[i]['name']}\" extends into \"" + "\", \"".join(this_overlaps) + "\"")
+#     overlaps = []
+#     for i in range(len(times) - 1):
+#         this_overlaps = []
+#         for j in range(i + 1, len(times) - 1):
+#             if times[i]["end"] > times[j]["start"]:
+#                 this_overlaps.append(times[j]["name"])
+#         if len(this_overlaps) > 0:
+#             overlaps.append(f"\"{times[i]['name']}\" extends into \"" + "\", \"".join(this_overlaps) + "\"")
 
-    if len(overlaps) > 0:
-        raise Exception("The following seminars overlap:\n" + "\n".join(overlaps))
+#     if len(overlaps) > 0:
+#         raise Exception("The following seminars overlap:\n" + "\n".join(overlaps))
 
 
 def validate_whats_on(schedule):
@@ -73,7 +73,7 @@ def validate_whats_on(schedule):
         alias = data.get("alias")
         if alias and len(alias) >= len(name):
             raise Exception(f"The alias \"{alias}\" should be shorter than its seminar name \"{name}\"")
-    validate_seminar_times(schedule)
+    # validate_seminar_times(schedule)
 
 def validate_date(date):
     try:
