@@ -79,7 +79,7 @@ def get_discord_channels():
     try:
         return response.json()
     except Exception as e:
-        print("FAILED TO GET DISCORD CHANNELS:", e)
+        print("FAILED TO GET DISCORD CHANNELS: ", e)
         raise Exception(e)
 
 def parse_event_times(time):

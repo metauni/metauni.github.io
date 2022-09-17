@@ -5,6 +5,7 @@
 1. Update `index.md` with generated markdown.
 1. Create/update/delete Discord events.
 1. Put schedule data in a Roblox data store, which is read from in-game by the What's On board.
+1. Update `schedule.ics` with events.
 
 ## `schedule.yml` format
 
@@ -37,5 +38,6 @@ Updating `schedule.yml` triggers the `metauni-day-schedule-workflow.yml` workflo
 * `update-index.py`
 * `create-discord-events.py`
 * `update-data-store.py`
+* `update-icalendar.py`
 
 Some of these scripts need secrets like a Roblox API key and Discord bot token; these can be seen at https://github.com/metauni/metauni.github.io/settings/secrets/actions.
