@@ -100,7 +100,7 @@ def build_event_request_data(name, event):
 current_events = get_discord_events()
 new_events = {}
 for seminar in schedule["whats on"]:
-    name = seminar.get()
+    name = seminar.get("name")
     new_events[name] = seminar
 
     # Convert locations which are Discord channel names to their IDs
@@ -109,11 +109,12 @@ for seminar in schedule["whats on"]:
         seminar["location"] = channels_by_name.get(location[1:])
 
     # Append note to description
-    if seminar.get("note"):
+    note = seminar.get("note")
+    if note:
         if seminar.get("desc"):
-            seminar["desc"] += " " + seminar["note"]
+            seminar["desc"] += " " + note
         else:
-            seminar["desc"] = seminar["note"]
+            seminar["desc"] = note
 
 for name, event in current_events.items():
     print("GOT EXISTING EVENT ", name)
