@@ -13,7 +13,7 @@ Besides dictionaries, all values should be strings. YAML strings can usually be 
 
 | Property | Description | Format |
 | --- | --- | --- |
-| date | Date of the next metauni day | dd/mm/yyyy |
+| metauni day | Date of the next metauni day | dd/mm/yyyy |
 | timezone | Timezone for the seminar times | [+-]hh:mm |
 | whats on | Seminars on for the next metauni day | dictionary |
 | whats off | Seminars off for the next metauni day | dictionary |
@@ -21,7 +21,8 @@ Besides dictionaries, all values should be strings. YAML strings can usually be 
 The `whats on` and `whats off` properties are a list of seminars. Each seminar is a dictionary with its name as the key. The dictionary can contain the following properties:
 | Property | Description | Format |
 | --- | --- | --- |
-| time* | Time of the seminar | hh:mm-hh:mm | 12:00-13:00 |
+| date | Date of the seminar. Defaults to the metauni day date if empty. | dd/mm/yyyy |
+| time* | Time of the seminar | hh:mm-hh:mm |
 | organizer | Names of the organizers | |
 | desc | Description of the seminar | |
 | note | Note specific to the upcoming metauni day | |
@@ -30,7 +31,7 @@ The `whats on` and `whats off` properties are a list of seminars. Each seminar i
 | pocket | The name of a pocket, used by the What's On Board. `location` must link to The Rising Sea. | Must have exact capitalization and spelling, such as `Alpha Cove 1` |
 | alias | Shorter name for the seminar to be used by the What's On board | |
 
-\* Only the `time` property is required
+\* `time` is the only required property.
 
 ## Project structure
 
