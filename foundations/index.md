@@ -2,7 +2,8 @@
 
 A seminar on the nature of mathematical objects, logic, Gödel's theorems. Thursdays `8:00am-9:00am AEDT`.
 
-**Co-organisers**: Billy Price and Will Troiani.
+* **Co-organisers**: Billy Price and Will Troiani.
+* **Venue**: [Deprecation](https://www.roblox.com/games/8164849103/Deprecation).
 
 ![foundations](seminar-foundations-min.png)
 
@@ -16,3 +17,8 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems. Thurs
 * [Seminar 7](https://youtu.be/QfNGjmP65Fw): any consistent, complete and saturated system is satisfiable.
 * [Seminar 8](https://youtu.be/kMhX5f0UN44): Completeness theorem. 
 * [Seminar 9](https://youtu.be/TRhR88anv3M): Gödel's theorem I
+* [Seminar 10](https://youtu.be/GQ4DFMNKvwY): Gödel's theorem II
+* **10-2-22** (*Will Troiani*): Gödel's incompleteness theorem Part 3 ([video](https://youtu.be/hz-IWh9CF9A)).
+* **17-2-22** (*Will Troiani*): Gödel's incompleteness theorem Part 4 ([video](https://youtu.be/KxnE1mwRG-k)).
+* **3-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 5 ([video](https://youtu.be/gw_rks-tLdI)).
+* **17-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 6 ([video](https://youtu.be/25ZGE0PiioE)).

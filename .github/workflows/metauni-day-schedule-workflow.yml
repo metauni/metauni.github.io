@@ -1,0 +1,94 @@
+# If you get a "permission denied" error, run the following git command on each python file:
+# git update-index --chmod=+x path-to-script.py
+
+name: metauni Day Schedule
+
+on:
+  workflow_dispatch: # Enables triggering from the website
+  push:
+    branches:
+      - main
+    paths:
+      - schedule/schedule.yml
+
+env:
+  SCHEDULE_PATH: schedule/schedule.yml
+
+jobs:
+  validate-schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3 # Checks out repository
+      - uses: actions/setup-python@v3 # Sets up python env
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml
+      - name: Validate schedule
+        run: schedule/validate-schedule.py
+  update-index:
+    needs: validate-schedule
+    concurrency: schedule_push
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml
+      - name: Update index.md
+        run: schedule/update-index.py
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add index.md
+          git commit -m "Auto-update schedule" || echo "No changes to commit"
+          git push
+  create-discord-events:
+    needs: validate-schedule
+    env:
+      GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+      EVENTBOT_CLIENT_ID: ${{ secrets.EVENTBOT_CLIENT_ID }}
+      EVENTBOT_TOKEN: ${{ secrets.EVENTBOT_TOKEN }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml requests
+      - name: Create Discord events
+        run: schedule/create-discord-events.py
+  update-data-stores:
+    needs: validate-schedule
+    env:
+      ROBLOX_API_KEY: ${{ secrets.ROBLOX_API_KEY }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+      - run: pip install pyyaml requests
+      - name: Update data store
+        run: schedule/update-data-store.py
+#  update-icalendar:
+#    needs: validate-schedule
+#    concurrency: schedule_push
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v3
+#      - uses: actions/setup-python@v3
+#        with:
+#          python-version: 3.x
+#      - run: pip install pyyaml ics
+#      - name: Update iCalendar
+#        run: schedule/update-icalendar.py
+#      - name: Commit and push
+#        run: |
+#          git config user.name github-actions
+#          git config user.email github-actions@github.com
+#          git add schedule.ics
+#          git pull
+#          git commit -m "Auto-update calendar" || echo "No changes to commit"
+#          git push
