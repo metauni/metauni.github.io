@@ -34,6 +34,13 @@ whats on:
     desc: on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week.
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
+- Landau-Ginzburg:
+    time: 21:00-22:00
+    organizer: Rohan Hitchcock
+    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
+    website: http://metauni.org/lg
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: LG
 whats off:
 - Foundations:
     time: 22:00-23:00
@@ -55,10 +62,3 @@ whats off:
     desc: what is an abstraction? Are they universal?
     website: http://metauni.org/abstraction
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Landau-Ginzburg:
-    time: 22:00-23:00
-    organizer: Rohan Hitchcock
-    desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
-    website: http://metauni.org/lg
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-    alias: LG
