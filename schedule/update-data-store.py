@@ -21,8 +21,6 @@ timezone = schedule.get("timezone")
 
 # Create JSON data from schedule
 new_whats_on = []
-schedule["whats off"] = None
-schedule["whats on"] = new_whats_on
 for seminar in schedule["whats on"]:
     name = seminar.get("name")
     date = seminar.get("date")
@@ -40,6 +38,8 @@ for seminar in schedule["whats on"]:
         "alias": seminar.get("alias"),
         "pocket": seminar.get("pocket")
     })
+schedule["whats off"] = None
+schedule["whats on"] = new_whats_on
 schedule_json = json.dumps(schedule)
 
 # Send post request to datastore
