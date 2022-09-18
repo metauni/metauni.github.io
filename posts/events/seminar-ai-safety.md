@@ -53,11 +53,13 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* **2022.09.15:**
-  Nate Soares,
-  2022,
-  "On how various plans miss the hard bits of the alignment challenge",
-  [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
+* **2022.09.22:** break week
+
+* **2022.09.29:**
+  Eliezer Yudkowsky,
+  2013,
+  "Intelligence explosion microeconomics",
+  MIRI [technical report](https://intelligence.org/files/IEM.pdf).
 
 Past readings and discussions:
 
@@ -130,6 +132,12 @@ Past readings and discussions:
 
 * **2022.09.08:**
   discussion of reading group direction.
+
+* **2022.09.15:**
+  Nate Soares,
+  2022,
+  "On how various plans miss the hard bits of the alignment challenge",
+  [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
 
 Topics brainstorm
 -----------------

@@ -28,13 +28,6 @@ whats on:
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206
     pocket: Gamma Events 6
     alias: SLT
-- AI Safety:
-    time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts
-    desc: reading group on technical and philosophical topics in AI safety.
-    website: https://metauni.org/posts/events/seminar-ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
-    pocket: Gemini Pulsar 1
 - Foundations:
     time: 22:00-23:00
     organizer: Billy Price, Will Troiani
@@ -42,6 +35,14 @@ whats on:
     website: http://metauni.org/posts/events/seminar-foundations
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
 whats off:
+- AI Safety:
+    time: 21:00-22:00
+    organizer: Matthew Farrugia-Roberts
+    desc: reading group on technical and philosophical topics in AI safety.
+    website: https://metauni.org/posts/events/seminar-ai-safety
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
+    pocket: Gemini Pulsar 1
+    note: Back next week
 - Landau-Ginzburg:
     time: 20:00-21:00
     organizer: Rohan Hitchcock
