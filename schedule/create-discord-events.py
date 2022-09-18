@@ -16,7 +16,6 @@ HEADERS = {
 
 # Load schedule from yaml
 schedule = load_schedule()
-metauni_day = schedule.get("metauni day")
 timezone = schedule.get("timezone")
 
 def get_discord_events():
@@ -75,8 +74,7 @@ for channel in get_discord_channels():
 
 def build_event_request_data(name, event):
     location = event.get("location")
-    date = event.get("date")
-    start_time, end_time = parse_event_times(date or metauni_day, timezone, event.get("time"))
+    start_time, end_time = parse_event_times(event.get("date"), timezone, event.get("time"))
 
     data = {
         "name": name,
@@ -126,9 +124,7 @@ for name, event in current_events.items():
         continue
 
     # Modify event if its details are different in seminar.yml
-    new_event_date = new_event.get("date")
-    new_event_time = new_event.get("time")
-    new_event_start_time, new_event_end_time = parse_event_times(new_event_date or metauni_day, timezone, new_event_time)
+    new_event_start_time, new_event_end_time = parse_event_times(new_event.get("date"), timezone, new_event.get("time"))
     if (
         # These apply to all events
         event["description"] != new_event.get("desc")

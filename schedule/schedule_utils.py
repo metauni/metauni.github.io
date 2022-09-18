@@ -23,7 +23,7 @@ def run_with_retry(method, *args, **kwargs):
         try:
             response_json = response.json()
             if type(response_json) is dict and response_json.get("retry_after"):
-                print(f"Rate limited for {response_json['retry_after']}s")
+                print(f"Rate limited for {response_json['retry_after']}ms")
                 time.sleep(response_json["retry_after"]/1000 + 1)
             else:
                 return response
@@ -34,6 +34,7 @@ def run_with_retry(method, *args, **kwargs):
 def load_schedule():
     with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
         schedule = yaml.safe_load(f)
+        metauni_day = schedule.get("metauni day")
 
         # Reformat "whats on" and "whats off"
         whats_on = []
@@ -41,6 +42,7 @@ def load_schedule():
             name = next(iter(seminar))
             data = seminar[name]
             data["name"] = name
+            data["date"] = data.get("date") or metauni_day
             whats_on.append(data)
         schedule["whats on"] = whats_on
 
@@ -49,6 +51,7 @@ def load_schedule():
             name = next(iter(seminar))
             data = seminar[name]
             data["name"] = name
+            data["date"] = data.get("date") or metauni_day
             whats_off.append(data)
         schedule["whats off"] = whats_off
 

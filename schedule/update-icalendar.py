@@ -6,8 +6,7 @@ from schedule_utils import parse_event_times, load_schedule
 
 # Load schedule from yaml
 schedule = load_schedule()
-metauni_day = schedule["metauni_day"]
-timezone = schedule["timezone"]
+timezone = schedule.get("timezone")
 
 # Create calendar
 cal = Calendar()
@@ -20,7 +19,7 @@ def add_seminar_to_calendar(seminar):
     note = seminar.get("note")
     website = seminar.get("website")
     location = seminar.get("location")
-    start_time, end_time = parse_event_times(date or metauni_day, timezone, time)
+    start_time, end_time = parse_event_times(date, timezone, time)
 
     event = Event()
     event.name = name

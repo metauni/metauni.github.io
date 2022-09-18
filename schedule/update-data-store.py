@@ -16,7 +16,6 @@ DATASTORE_KEY = "Schedule"
 
 # Load schedule from yaml
 schedule = load_schedule()
-metauni_day = schedule.get("metauni day")
 timezone = schedule.get("timezone")
 
 # Create JSON data from schedule
@@ -24,10 +23,11 @@ new_whats_on = []
 for seminar in schedule["whats on"]:
     name = seminar.get("name")
     date = seminar.get("date")
-    start_time, end_time = parse_event_times(date or metauni_day, timezone, seminar.get("time"))
+    start_time, end_time = parse_event_times(date, timezone, seminar.get("time"))
 
     new_whats_on.append({
         "name": name,
+        "date": seminar.get("date"),
         "time": seminar.get("time"),
         "start_datetime": start_time.isoformat(),
         "end_datetime": end_time.isoformat(),
@@ -41,6 +41,12 @@ for seminar in schedule["whats on"]:
 schedule["whats off"] = None
 schedule["whats on"] = new_whats_on
 schedule_json = json.dumps(schedule)
+
+# Sort whats on
+def sort_seminars(seminar):
+    start_time, end_time = parse_event_times(seminar.get("date"), timezone, seminar.get("time"))
+    return start_time.timestamp()
+schedule["whats on"].sort(key=sort_seminars)
 
 # Send post request to datastore
 content_md5 = str(base64.b64encode(hashlib.md5(bytes(schedule_json, encoding="utf8")).digest()), encoding="utf8")

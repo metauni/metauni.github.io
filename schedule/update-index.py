@@ -65,26 +65,24 @@ def list_to_table_row(array):
 # with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
 #     schedule = yaml.safe_load(f)
 schedule = load_schedule()
-metauni_day = schedule["metauni day"]
 timezone = schedule["timezone"]
 
 # Categorize seminars by date
 seminars_by_date = {}
 for seminar in schedule["whats on"]:
-    date = seminar.get("date") or metauni_day
-    if date:
-        timestamp = parse_date(date).timestamp() # Time since Unix epoch as a float
-        seminars_list = seminars_by_date.get(timestamp)
-        if seminars_list:
-            seminars_list.append(seminar)
-        else:
-            seminars_by_date[timestamp] = [seminar]
+    date = seminar.get("date")
+    timestamp = parse_date(date).timestamp() # Time since Unix epoch as a float
+    seminars_list = seminars_by_date.get(timestamp)
+    if seminars_list:
+        seminars_list.append(seminar)
+    else:
+        seminars_by_date[timestamp] = [seminar]
 seminars_by_date = list(seminars_by_date.items()) # Convert dictionary to list of the form [(timestamp, seminar)]
 seminars_by_date.sort(key=lambda x: x[0]) # Sorts the list by timestamp
 
 # Generate markdown for seminars
 def sort_seminars(seminar):
-    start_time, end_time = parse_event_times(seminar.get("date") or metauni_day, timezone, seminar.get("time"))
+    start_time, end_time = parse_event_times(seminar.get("date"), timezone, seminar.get("time"))
     return start_time.timestamp()
 
 whats_on_md = ""
