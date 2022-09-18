@@ -20,6 +20,7 @@ def seminar_to_markdown(seminar):
     note = seminar.get("note")
     website = seminar.get("website")
     location = seminar.get("location")
+    location_is_roblox = type(location) == str and "roblox.com" in location
 
     text = "* "
     if website:
@@ -30,12 +31,14 @@ def seminar_to_markdown(seminar):
         text += f" **{time}**"
     if organizer:
         text += f" (*{organizer}*)"
-    if desc or note:
+    if desc or note or location_is_roblox:
         text += ":"
         if desc:
             text += f" {desc}"
         if note:
             text += f" {note}"
+        if location_is_roblox:
+            text += f" [Join now]({location})"
 
     return text
 
@@ -52,11 +55,11 @@ for seminar in schedule["whats on"]:
 seminars_by_date = list(seminars_by_date.items()) # Convert dictionary to list of the form [(timestamp, seminar)]
 seminars_by_date.sort(key=lambda x: x[0]) # Sorts the list by timestamp
 
-# Generate markdown for seminars
 def sort_seminars(seminar):
     start_time, end_time = parse_event_times(seminar.get("date"), timezone, seminar.get("time"))
     return start_time.timestamp()
 
+# Generate markdown for seminars
 whats_on_md = ""
 whats_off_md = ""
 for item in seminars_by_date:
