@@ -2,8 +2,6 @@ metauni day: "22/09/2022" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
-- Asdf:
-    time: 13:30-14:30
 - Disruption:
     time: 11:00-12:00
     organizer: Adam Dorr
@@ -27,7 +25,7 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     note: "*This week*: Matt presenting his new theorem."
     website: https://metauni.org/posts/events/seminar-slt
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206
     pocket: Gamma Events 6
     alias: SLT
 - AI Safety:
@@ -35,7 +33,7 @@ whats on:
     organizer: Matthew Farrugia-Roberts
     desc: reading group on technical and philosophical topics in AI safety.
     website: https://metauni.org/posts/events/seminar-ai-safety
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
     pocket: Gemini Pulsar 1
 - Foundations:
     time: 22:00-23:00
@@ -43,15 +41,6 @@ whats on:
     desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem."
     website: http://metauni.org/posts/events/seminar-foundations
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-- Non-Thursday Seminar:
-    date: 19/09/2022
-    time: 00:00-01:00
-    organizer: "yee"
-    desc: "haw"
-    website: https://google.com
-    location: https://google.com
-    pocket: Gamma Events 6
-    alias: NTS
 whats off:
 - Landau-Ginzburg:
     time: 20:00-21:00
