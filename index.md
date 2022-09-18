@@ -33,7 +33,7 @@ Times are given in AEST. Names in italics are the co-organisers of the seminar.
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### September 18, 2022
+### September 19, 2022
 * **[Non-Thursday Seminar](https://google.com)** **00:00-01:00** (*yee*): haw
 ### September 22, 2022
 * **[Disruption](https://metauni.org/posts/events/seminar-disruption)** **11:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
