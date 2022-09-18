@@ -2,41 +2,30 @@
 import os
 import yaml
 from ics import Calendar, Event
-from datetime import datetime
+from schedule_utils import parse_event_times, load_schedule
 
-schedule = None
-with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
-    schedule = yaml.safe_load(f)
+# Load schedule from yaml
+schedule = load_schedule()
+metauni_day = schedule["metauni_day"]
+timezone = schedule["timezone"]
 
-DATE = schedule["date"]
-TIMEZONE = schedule["timezone"]
-
+# Create calendar
 cal = Calendar()
 
-def parse_event_times(time):
-    start_time = time[0:5]
-    end_time = time[6:11]
-    return (
-        datetime.strptime(f"{DATE} {start_time} {TIMEZONE}", "%d/%m/%Y %H:%M %z"),
-        datetime.strptime(f"{DATE} {end_time} {TIMEZONE}", "%d/%m/%Y %H:%M %z")
-    )
-
 def add_seminar_to_calendar(seminar):
-    name = next(iter(seminar))
-    data = seminar[name]
-
-    time = data.get("time")
-    desc = data.get("desc")
-    note = data.get("note")
-    website = data.get("website")
-    location = data.get("location")
-
-    scheduled_start_time, scheduled_end_time = parse_event_times(time)
+    name = seminar.get("name")
+    date = seminar.get("date")
+    time = seminar.get("time")
+    desc = seminar.get("desc")
+    note = seminar.get("note")
+    website = seminar.get("website")
+    location = seminar.get("location")
+    start_time, end_time = parse_event_times(date or metauni_day, timezone, time)
 
     event = Event()
     event.name = name
-    event.begin = scheduled_start_time.isoformat()
-    event.end = scheduled_end_time.isoformat()
+    event.begin = start_time.isoformat()
+    event.end = end_time.isoformat()
 
     if desc or note:
         event.description = ""
@@ -53,5 +42,5 @@ def add_seminar_to_calendar(seminar):
 for seminar in schedule["whats on"]:
     add_seminar_to_calendar(seminar)
 
-with open('schedule.ics', 'w') as f:
+with open("schedule.ics", "w") as f:
     f.writelines(cal)

@@ -1,7 +1,9 @@
-date: "22/09/2022" # dd/mm/yyyy
+metauni day: "22/09/2022" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
+- Asdf:
+    time: 13:30-14:30
 - Disruption:
     time: 11:00-12:00
     organizer: Adam Dorr
@@ -41,6 +43,15 @@ whats on:
     desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem."
     website: http://metauni.org/posts/events/seminar-foundations
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+- Non-Thursday Seminar:
+    date: 18/09/2022
+    time: 00:00-01:00
+    organizer: "yee"
+    desc: "haw"
+    website: https://google.com
+    location: https://google.com
+    pocket: Gamma Events 6
+    alias: NTS
 whats off:
 - Landau-Ginzburg:
     time: 20:00-21:00
