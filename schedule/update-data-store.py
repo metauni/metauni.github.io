@@ -3,10 +3,9 @@ import os
 import sys
 import requests
 import json
-import yaml
 # Used to generate Content-MD5 which is used by Roblox to check data integrity
 import base64, hashlib
-from schedule_utils import parse_event_times, load_schedule
+from schedule_utils import *
 
 ROBLOX_API_KEY = os.environ["ROBLOX_API_KEY"]
 UNIVERSE_ID = 3138032475
@@ -14,7 +13,6 @@ BASE_URL = f"https://apis.roblox.com/datastores/v1/universes/{UNIVERSE_ID}"
 DATASTORE_NAME = "Schedule"
 DATASTORE_KEY = "Schedule"
 
-# Load schedule from yaml
 schedule = load_schedule()
 timezone = schedule.get("timezone")
 

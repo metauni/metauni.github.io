@@ -1,14 +1,15 @@
 #!/usr/bin/env python
-import os
-import yaml
 from datetime import datetime
-from schedule_utils import parse_date, parse_event_times, load_schedule
+from schedule_utils import *
 
 BEGIN_WHATS_ON = "<!-- BEGIN WHATS ON -->"
 END_WHATS_OFF = "<!-- END WHATS OFF -->"
 BEGIN_WHATS_OFF = "<!-- BEGIN WHATS OFF -->"
 END_WHATS_ON = "<!-- END WHATS ON -->"
 DATE_FORMAT = "%B %d, %Y" # ex. September 17, 2022
+
+schedule = load_schedule()
+timezone = schedule["timezone"]
 
 def seminar_to_markdown(seminar):
     name = seminar.get("name")
@@ -37,35 +38,6 @@ def seminar_to_markdown(seminar):
             text += f" {note}"
 
     return text
-
-# Formats a list of strings as a row of a markdown table
-def list_to_table_row(array):
-    row = "|"
-    for value in array:
-        row += f" {value or ''} |"
-    return row
-
-# def seminar_to_markdown(seminar):
-    # name = next(iter(seminar))
-    # data = seminar[name]
-    # return list_to_table_row([
-    #     name,
-    #     # data.get("date"),
-    #     data.get("time"),
-    #     data.get("organizer"),
-    #     data.get("desc"),
-    #     data.get("note"),
-    #     # data.get("website"),
-    #     f"[Roblox]({data.get('location')})",
-    #     # data.get("location")
-    # ])
-
-# Load schedule.yml into dictionary
-# schedule = None
-# with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
-#     schedule = yaml.safe_load(f)
-schedule = load_schedule()
-timezone = schedule["timezone"]
 
 # Categorize seminars by date
 seminars_by_date = {}

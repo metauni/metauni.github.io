@@ -3,10 +3,12 @@ import os
 import yaml
 import re
 from datetime import datetime
-from schedule_utils import parse_date, load_schedule
+from schedule_utils import *
 
 SEMINAR_PROPS = {"date", "time", "organizer", "desc", "note", "website", "location", "alias", "pocket"}
 SEMINAR_MISSING_PROP_EXCEPTION = "Seminar \"{}\" is missing the property \"{}\""
+
+schedule = load_schedule()
 
 def validate_seminars(schedule):
     for seminar in schedule:
@@ -65,20 +67,18 @@ def validate_timezone(timezone):
     except ValueError as e:
         raise Exception("\"timezone\" value does not match (+|-)hhmm format")
 
-SCHEDULE_PROPS = {
+schedule_props = {
     "whats on": validate_whats_on,
     "whats off": validate_seminars,
     "metauni day": validate_metauni_day,
     "timezone": validate_timezone
 }
 
-schedule = load_schedule()
-
 # Validate required props
 with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
     schedule = yaml.safe_load(f)
 
-    for prop, validator in SCHEDULE_PROPS.items():
+    for prop, validator in schedule_props.items():
         value = schedule.get(prop)
         if value:
             validator(value)
@@ -87,5 +87,5 @@ with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
 
     # Warn about extraneous props
     for prop in schedule.keys():
-        if not SCHEDULE_PROPS.get(prop):
+        if not schedule_props.get(prop):
             raise Exception(f"Schedule has unknown property \"{prop}\"")

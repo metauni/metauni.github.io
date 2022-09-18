@@ -1,14 +1,10 @@
 #!/usr/bin/env python
-import os
-import yaml
 from ics import Calendar, Event
-from schedule_utils import parse_event_times, load_schedule
+from schedule_utils import *
 
-# Load schedule from yaml
 schedule = load_schedule()
 timezone = schedule.get("timezone")
 
-# Create calendar
 cal = Calendar()
 
 def add_seminar_to_calendar(seminar):

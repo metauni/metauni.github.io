@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 import os
-import sys
 import re
-import yaml
 import json
 import requests
 from datetime import datetime
-from schedule_utils import run_with_retry, parse_event_times, parse_date, load_schedule
+from schedule_utils import *
 
 BASE_URL = f"https://discord.com/api/guilds/{os.environ['GUILD_ID']}"
 HEADERS = {
@@ -14,7 +12,6 @@ HEADERS = {
     "Content-Type": "application/json"
 }
 
-# Load schedule from yaml
 schedule = load_schedule()
 timezone = schedule.get("timezone")
 
