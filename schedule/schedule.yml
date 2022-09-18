@@ -1,4 +1,4 @@
-date: "22/09/2022" # dd/mm/yyyy
+metauni day: "22/09/2022" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -25,14 +25,15 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     note: "*This week*: Matt presenting his new theorem."
     website: https://metauni.org/posts/events/seminar-slt
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206
     pocket: Gamma Events 6
+    alias: SLT
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
     desc: reading group on technical and philosophical topics in AI safety.
     website: https://metauni.org/posts/events/seminar-ai-safety
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
     pocket: Gemini Pulsar 1
 - Foundations:
     time: 22:00-23:00
@@ -47,6 +48,7 @@ whats off:
     desc: on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly.
     website: http://metauni.org/posts/events/seminar-lg
     location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: LG
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry

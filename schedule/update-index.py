@@ -1,22 +1,26 @@
 #!/usr/bin/env python
-import os
-import yaml
+from datetime import datetime
+from schedule_utils import *
 
 BEGIN_WHATS_ON = "<!-- BEGIN WHATS ON -->"
 END_WHATS_OFF = "<!-- END WHATS OFF -->"
 BEGIN_WHATS_OFF = "<!-- BEGIN WHATS OFF -->"
 END_WHATS_ON = "<!-- END WHATS ON -->"
+DATE_FORMAT = "%B %d, %Y" # ex. September 17, 2022
+
+schedule = load_schedule()
+timezone = schedule["timezone"]
 
 def seminar_to_markdown(seminar):
-    name = next(iter(seminar))
-    data = seminar[name]
-
-    time = data.get("time")
-    organizer = data.get("organizer")
-    desc = data.get("desc")
-    note = data.get("note")
-    website = data.get("website")
-    location = data.get("location")
+    name = seminar.get("name")
+    date = seminar.get("date")
+    time = seminar.get("time")
+    organizer = seminar.get("organizer")
+    desc = seminar.get("desc")
+    note = seminar.get("note")
+    website = seminar.get("website")
+    location = seminar.get("location")
+    location_is_roblox = type(location) == str and "roblox.com" in location
 
     text = "* "
     if website:
@@ -27,25 +31,46 @@ def seminar_to_markdown(seminar):
         text += f" **{time}**"
     if organizer:
         text += f" (*{organizer}*)"
-    if desc or note:
+    if desc or note or location_is_roblox:
         text += ":"
         if desc:
             text += f" {desc}"
         if note:
             text += f" {note}"
+        if location_is_roblox:
+            text += f" [Join now]({location})"
 
     return text
 
-# Load schedule.yml into dictionary
-schedule = None
-with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
-    schedule = yaml.safe_load(f)
+# Categorize seminars by date
+seminars_by_date = {}
+for seminar in schedule["whats on"]:
+    date = seminar.get("date")
+    timestamp = parse_date(date).timestamp() # Time since Unix epoch as a float
+    seminars_list = seminars_by_date.get(timestamp)
+    if seminars_list:
+        seminars_list.append(seminar)
+    else:
+        seminars_by_date[timestamp] = [seminar]
+seminars_by_date = list(seminars_by_date.items()) # Convert dictionary to list of the form [(timestamp, seminar)]
+seminars_by_date.sort(key=lambda x: x[0]) # Sorts the list by timestamp
+
+def sort_seminars(seminar):
+    start_time, end_time = parse_event_times(seminar.get("date"), timezone, seminar.get("time"))
+    return start_time.timestamp()
 
 # Generate markdown for seminars
 whats_on_md = ""
 whats_off_md = ""
-for seminar in schedule["whats on"]:
-    whats_on_md += seminar_to_markdown(seminar) + "\n"
+for item in seminars_by_date:
+    timestamp = item[0]
+    seminars = item[1]
+    seminars.sort(key=sort_seminars)
+    whats_on_md += f"### {datetime.fromtimestamp(timestamp).strftime(DATE_FORMAT)}\n"
+    # whats_on_md += list_to_table_row(["Name", "Time", "Organizer", "&nbsp; "*5 + "Description" + "&nbsp; "*5, "Note", "Location"]) + "\n"
+    # whats_on_md += "|---"*6 + "|\n"
+    for seminar in seminars:
+        whats_on_md += seminar_to_markdown(seminar) + "\n"
 for seminar in schedule["whats off"]:
     whats_off_md += seminar_to_markdown(seminar) + "\n"
 

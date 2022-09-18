@@ -1,38 +1,19 @@
 #!/usr/bin/env python
 import os
-import sys
 import re
-import yaml
 import json
 import requests
-import time
 from datetime import datetime
-
-schedule = None
-with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
-    schedule = yaml.safe_load(f)
+from schedule_utils import *
 
 BASE_URL = f"https://discord.com/api/guilds/{os.environ['GUILD_ID']}"
 HEADERS = {
     "Authorization": f"Bot {os.environ['EVENTBOT_TOKEN']}",
     "Content-Type": "application/json"
 }
-DATE = schedule["date"]
-TIMEZONE = schedule["timezone"]
 
-def run_with_retry(method, *args, **kwargs):
-    while True:
-        response = method(*args, **kwargs)
-        try:
-            response_json = response.json()
-            if type(response_json) is dict and response_json.get("retry_after"):
-                print(f"Rate limited for {response_json['retry_after']}s")
-                time.sleep(response_json["retry_after"]/1000 + 1)
-            else:
-                return response
-        except Exception as e:
-            # Likely means the response wasn't json
-            return response
+schedule = load_schedule()
+timezone = schedule.get("timezone")
 
 def get_discord_events():
     url = BASE_URL + "/scheduled-events"
@@ -82,14 +63,6 @@ def get_discord_channels():
         print("FAILED TO GET DISCORD CHANNELS: ", e)
         raise Exception(e)
 
-def parse_event_times(time):
-    start_time = time[0:5]
-    end_time = time[6:11]
-    return (
-        datetime.strptime(f"{DATE} {start_time} {TIMEZONE}", "%d/%m/%Y %H:%M %z"),
-        datetime.strptime(f"{DATE} {end_time} {TIMEZONE}", "%d/%m/%Y %H:%M %z")
-    )
-
 channels_by_name = {}
 channels_by_id = {}
 for channel in get_discord_channels():
@@ -97,14 +70,14 @@ for channel in get_discord_channels():
     channels_by_id[channel["id"]] = channel["name"]
 
 def build_event_request_data(name, event):
-    location = event["location"]
-    scheduled_start_time, scheduled_end_time = parse_event_times(event["time"])
+    location = event.get("location")
+    start_time, end_time = parse_event_times(event.get("date"), timezone, event.get("time"))
 
     data = {
         "name": name,
         "privacy_level": "2", # 2 is the only option as of v10
-        "scheduled_start_time": scheduled_start_time.isoformat(),
-        "scheduled_end_time": scheduled_end_time.isoformat(),
+        "scheduled_start_time": start_time.isoformat(),
+        "scheduled_end_time": end_time.isoformat(),
         "description": event.get("desc", ""),
     }
     if re.fullmatch("\d+", location) and channels_by_id.get(location):
@@ -122,21 +95,21 @@ def build_event_request_data(name, event):
 current_events = get_discord_events()
 new_events = {}
 for seminar in schedule["whats on"]:
-    name = next(iter(seminar))
-    data = seminar[name]
-    new_events[name] = data
+    name = seminar.get("name")
+    new_events[name] = seminar
 
     # Convert locations which are Discord channel names to their IDs
-    location = data.get("location")
+    location = seminar.get("location")
     if location and location[0] == "#" and channels_by_name.get(location[1:]):
-        data["location"] = channels_by_name.get(location[1:])
+        seminar["location"] = channels_by_name.get(location[1:])
 
     # Append note to description
-    if data.get("note"):
-        if data.get("desc"):
-            data["desc"] += " " + data["note"]
+    note = seminar.get("note")
+    if note:
+        if seminar.get("desc"):
+            seminar["desc"] += " " + note
         else:
-            data["desc"] = data["note"]
+            seminar["desc"] = note
 
 for name, event in current_events.items():
     print("GOT EXISTING EVENT ", name)
@@ -148,7 +121,7 @@ for name, event in current_events.items():
         continue
 
     # Modify event if its details are different in seminar.yml
-    new_event_start_time, new_event_end_time = parse_event_times(new_event["time"])
+    new_event_start_time, new_event_end_time = parse_event_times(new_event.get("date"), timezone, new_event.get("time"))
     if (
         # These apply to all events
         event["description"] != new_event.get("desc")
