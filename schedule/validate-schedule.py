@@ -5,12 +5,14 @@ import re
 from datetime import datetime
 from schedule_utils import parse_date, load_schedule
 
-SEMINAR_PROPS = {"name", "date", "time", "organizer", "desc", "note", "website", "location", "alias", "pocket"}
+SEMINAR_PROPS = {"date", "time", "organizer", "desc", "note", "website", "location", "alias", "pocket"}
 SEMINAR_MISSING_PROP_EXCEPTION = "Seminar \"{}\" is missing the property \"{}\""
 
 def validate_seminars(schedule):
     for seminar in schedule:
-        for key, value in seminar.items():
+        name = next(iter(seminar))
+        data = seminar[name]
+        for key, value in data.items():
             if not key in SEMINAR_PROPS:
                 raise Exception(f"Unknown property \"{key}\" for seminar \"{name}\"")
             if type(value) != str: # Currently all properties are string. This could change. /shrug
@@ -19,15 +21,16 @@ def validate_seminars(schedule):
 def validate_whats_on(schedule):
     validate_seminars(schedule)
     for seminar in schedule:
-        name = seminar.get("name")
-        date = seminar.get("date")
+        name = next(iter(seminar))
+        data = seminar[name]
+        date = data.get("date")
         if date:
             try:
                 parse_date(date)
             except ValueError as e:
                 raise Exception(f"\"date\" value for seminar \"{name}\" does not match dd/mm/yyyy format")
 
-        time = seminar.get("time")
+        time = data.get("time")
         if time:
             time_match = re.match("\d{2}:\d{2}-\d{2}:\d{2}", time)
             if not time_match:
@@ -41,12 +44,12 @@ def validate_whats_on(schedule):
         else:
             raise Exception(SEMINAR_MISSING_PROP_EXCEPTION.format(name, "time"))
 
-        location = seminar.get("location")
+        location = data.get("location")
         if location:
             # TODO: Validate location is a link or Discord channel
             pass
 
-        alias = seminar.get("alias")
+        alias = data.get("alias")
         if alias and len(alias) >= len(name):
             raise Exception(f"The alias \"{alias}\" should be shorter than its seminar name \"{name}\"")
 
@@ -72,14 +75,17 @@ SCHEDULE_PROPS = {
 schedule = load_schedule()
 
 # Validate required props
-for prop, validator in SCHEDULE_PROPS.items():
-    value = schedule.get(prop)
-    if value:
-        validator(value)
-    else:
-        raise Exception(f"Schedule is missing \"{prop}\" property")
+with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
+    schedule = yaml.safe_load(f)
 
-# Warn about extraneous props
-for prop in schedule.keys():
-    if not SCHEDULE_PROPS.get(prop):
-        raise Exception(f"Schedule has unknown property \"{prop}\"")
+    for prop, validator in SCHEDULE_PROPS.items():
+        value = schedule.get(prop)
+        if value:
+            validator(value)
+        else:
+            raise Exception(f"Schedule is missing \"{prop}\" property")
+
+    # Warn about extraneous props
+    for prop in schedule.keys():
+        if not SCHEDULE_PROPS.get(prop):
+            raise Exception(f"Schedule has unknown property \"{prop}\"")
