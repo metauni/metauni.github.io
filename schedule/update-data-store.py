@@ -16,7 +16,7 @@ DATASTORE_KEY = "Schedule"
 
 # Load schedule from yaml
 schedule = load_schedule()
-metauni_day = schedule.get("date")
+metauni_day = schedule.get("metauni day")
 timezone = schedule.get("timezone")
 
 # Create JSON data from schedule

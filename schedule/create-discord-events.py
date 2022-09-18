@@ -16,8 +16,8 @@ HEADERS = {
 
 # Load schedule from yaml
 schedule = load_schedule()
-metauni_day = schedule["metauni_day"]
-timezone = schedule["timezone"]
+metauni_day = schedule.get("metauni day")
+timezone = schedule.get("timezone")
 
 def get_discord_events():
     url = BASE_URL + "/scheduled-events"
