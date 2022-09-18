@@ -126,7 +126,9 @@ for name, event in current_events.items():
         continue
 
     # Modify event if its details are different in seminar.yml
-    new_event_start_time, new_event_end_time = parse_event_times(new_event["time"])
+    new_event_date = new_event.get("date")
+    new_event_time = new_event.get("time")
+    new_event_start_time, new_event_end_time = parse_event_times(new_event_date or metauni_day, timezone, new_event_time)
     if (
         # These apply to all events
         event["description"] != new_event.get("desc")
