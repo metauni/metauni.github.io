@@ -42,7 +42,7 @@ Directions for joining discussions:
    and then step into matomatical's portal (bottom-right corner of stack, see
    picture),
    or use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
-   ![](seminar-ai-safety-map.jpg)
+   ![](map.jpg)
 
 Readings
 --------
