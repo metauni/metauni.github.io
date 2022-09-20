@@ -39,7 +39,7 @@ Times are given in AEST. Names in italics are the co-organisers of the seminar.
 * **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt presenting his new theorem. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206)
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
-* **[Landau-Ginzburg](http://metauni.org/lg)** **21:00-22:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
+* **[Landau-Ginzburg](http://metauni.org/lg)** **22:00-23:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 <!-- END WHATS ON -->
 
 ### Not on this week
