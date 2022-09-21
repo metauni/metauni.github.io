@@ -1,6 +1,6 @@
 # Songspires
 
-[Songspires](https://www.roblox.com/games/8157928012/Songspires) is an experiment in generative art and music, by Daniel Murfet and Lucas Cantor. Starting from a single spire a forest grows; fallen spires become complex terrain. Best enjoyed in the background, over many hours.
+[Songspires](https://www.roblox.com/games/8157928012/Songspires) is an experiment in generative art and music, by Daniel Murfet and Lucas Cantor.
 
 > We have mapped, tamed, and dismembered the physical wilderness of our earth. But, at the same time, we have created a digital wilderness whose evolution may embody a collective wisdom greater than our own. No digital universe can ever be completely mapped. We have traded one jungle for another, and in this direction lies not fear but hope. For our destiny and our sanity as human beings depend on our ability to serve a nature whose intelligence we can glimpse all around us, but never quite comprehend. Not in wilderness, but "in Wildness," wrote an often misquoted Henry David Thoreau, "is the preservation of the world."  -- G. Dyson, "Darwin among the Machines".
 
