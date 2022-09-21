@@ -62,6 +62,8 @@ Spatial voice is still in beta, and there are known issues:
 
 * If you installed Roblox on Windows from the App Store, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home).
 
+* If you're having camera problems, try switching your Camera Settings to `Default (Classic)`.
+
 ### 4.2 Privacy and age-verification
 
 The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Roblox says that they never store "raw ID document data" but in order to verify your age, they send the picture of the government-issued ID that you upload to a third-party company called Veriff ([FAQ](https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs)). They say in the FAQ that "Information uploaded to Veriff is retained for a period of 90 days. After this period, the uploaded data is removed from Veriff." 
