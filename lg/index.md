@@ -25,6 +25,10 @@ Dates are AEDT.
 * **17-2-22** (*Rohan Hitchcock*): Matrix factorisations and geometry ([notes](https://rohanhitchcock.com/notes/matrix-factorisations-geometry.pdf), [video](https://youtu.be/Wa_kQs0PGKY)).
 * **24-2-22** (*Rohan Hitchcock*): The perturbation lemma I ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/-gWUA5tCgc4)).
 * **3-3-22** (*Rohan Hitchcock*): The perturbation lemma II ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/n_jlHU0FuwA)).
+* **14-7-22** (*Rohan Hitchcock*): Composition in LG ([video](https://youtu.be/MZhsDkBHPmY)).
+* **18-7-22** (*Daniel Murfet*): Matrix factorisation and quantum error correcting codes ([video](https://youtu.be/t6ChUnR-hTc)).
+* **4-8-22** (*Rohan Hitchcock*): The cut operation Part 1 ([video](https://youtu.be/zbAYN4MsEVA)).
+* **11-8-22** (*Rohan Hitchcock*): The cut operation Part 2 ([video](https://youtu.be/e1c5HosIs_g)).
 
 ## Notes
 
