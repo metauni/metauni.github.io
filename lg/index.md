@@ -29,6 +29,7 @@ Dates are AEDT.
 * **18-7-22** (*Daniel Murfet*): Matrix factorisation and quantum error correcting codes ([video](https://youtu.be/t6ChUnR-hTc)).
 * **4-8-22** (*Rohan Hitchcock*): The cut operation Part 1 ([video](https://youtu.be/zbAYN4MsEVA)).
 * **11-8-22** (*Rohan Hitchcock*): The cut operation Part 2 ([video](https://youtu.be/e1c5HosIs_g)).
+* **25/8/22** (*Rohan Hitchcock*): Differentiation and Euclidean division ([video](https://youtu.be/tiYctrHB-b4)).
 
 ## Notes
 
