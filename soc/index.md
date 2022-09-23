@@ -75,7 +75,7 @@ For tablet and microphone recommends see the [hardware](https://www.metauni.org/
 Registration is now open. Here is the registration process:
 
 1. Follow Steps 1 and 2 of the [instructions](https://metauni.org/posts/instructions/instructions) to setup your Roblox and Discord accounts.
-2. Open the metauni Discord server and post in the `#shadows-of-computation-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
+2. Open the metauni Discord server and post in the `#soc-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
 3. Join the [metauni Roblox group](https://www.roblox.com/groups/13108882/metauni#!/about). This way we can give you permission to write on the blackboards throughout metauni.
 
 ## Foundations Seminar
