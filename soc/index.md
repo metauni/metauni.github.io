@@ -33,7 +33,7 @@ Each lecture will be 1.5hr. In the schedule below, the references are given afte
 * **Lecture 6:** The category of λ-terms and the Curry-Howard correspondence `(W)` ([Gentzen-Mints-Zucker Duality](https://arxiv.org/abs/2008.10131).
 * **Lecture 7:** The Yoneda Lemma `(W) R 2.2`.
 * **Lecture 8:** Monads/how to present mathematics 2 `(W) R 5.1`.
-* **Lecture 9:** Moggi's Notions of Computation `(W)` [Notions of Computation and Monads](https://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf) ([video](https://youtu.be/rdzwl4t6XSM)).
+* **Lecture 9:** Moggi's Notions of Computation `(W)` [Notions of Computation and Monads](https://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf).
 
 <!-- All videos can be found in [the PRGM playlist](). -->
 
