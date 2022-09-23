@@ -80,4 +80,4 @@ Registration is now open. Here is the registration process:
 
 ## Foundations Seminar
 
-Every two weeks we also host the foundations seminar, which will run immediately after the Shadows of Computation lecture, at 21:00 AEST. [Click here for details](https://metauni.org/foundations/). The first seminar will be on the 17th at 21:00 AEST.
+Every two weeks we also host the foundations seminar, which will run immediately after the Shadows of Computation lecture, at 21:00 AEST. [Click here for details](https://metauni.org/foundations/). The first seminar will be on the 17th of October at 21:00 AEST.
