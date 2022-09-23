@@ -10,6 +10,7 @@ This course will be taught at [metauni](https://metauni.org), using Roblox for t
 * **Location**: [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%201), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8) for communication outside of Roblox. See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set up spatial audio.
 
 > **Important**: _you must have spatial voice set up (before you join a lecture) to hear other people speaking_.
+
 * **Goal**: to introduce the beauty of category theory in a concrete way which reveals the philosophical ideas, the links to and between foundations, mathematics, and theoretical computer science. By concrete, we mean that we will not be telling you these ideas and insisting you accept them, but instead we will let the mathematics do the talking.
 * **Resources**: the textbook is the excellent textbook E. Rhiel "[Category Theory in context](https://math.jhu.edu/~eriehl/context.pdf)", which is available freely online. Other resources for the computer science component will be used and referenced throughout the course. An example of the ideas we will explore can be found here: "[Theorems for free](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)".
 
