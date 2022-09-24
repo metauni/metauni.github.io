@@ -41,4 +41,4 @@ From 17-10-22, foundations will run every 2 weeks at 21:00 AEDT (UTC +11), immed
 * **4-8-22** (*Will Troiani*): The geometric part ([video](https://www.youtube.com/watch?v=49QuhzdEy50&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=17))
 * **18-8-22** (*Will Troiani*): Skolemisation ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=18))
 * **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=20))
-* **15-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=20))
+* **15-9-22** (*Will Troiani*): Łoś-Vaught Test
