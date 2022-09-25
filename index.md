@@ -33,15 +33,15 @@ Times are given in AEST. Names in italics are the co-organisers of the seminar.
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### September 22, 2022
+### September 26, 2022
+* **[Foundations](http://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea&launchData=pocket:Moonlight%20Forest%201)
+### September 29, 2022
 * **[Disruption](https://metauni.org/disruption)** **11:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 * **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Putting art on metaboards
 * **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt presenting his new theorem. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206)
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
 * **[Landau-Ginzburg](http://metauni.org/lg)** **21:00-22:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
-### September 26, 2022
-* **[Foundations](http://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea&launchData=pocket:Moonlight%20Forest%201)
 <!-- END WHATS ON -->
 
 ### Not on this week
