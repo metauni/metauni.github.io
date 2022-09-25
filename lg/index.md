@@ -19,17 +19,19 @@ Dates are AEDT.
 
 * **13-1-22** (*Dan Murfet*): Introduction Part 1 ([notes](http://www.therisingsea.org/notes/metauni/lg-seminar1.pdf), [video](https://youtu.be/ByXnta8BQDk)).
 * **20-1-22** (*Dan Murfet*): Introduction Part 2 ([video](https://youtu.be/d_2Nu9hnkGE)).
-* **27-1-22** (*Rohan Hitchcock*): Bicategories Part 1 ([notes](http://www.therisingsea.org/notes/metauni/lg-category_n.pdf), [video](https://youtu.be/K6W_3tMz0qA)).
+* **27-1-22** (*Rohan Hitchcock*): Bicategories ([notes](http://www.therisingsea.org/notes/metauni/lg-category_n.pdf), [video](https://youtu.be/K6W_3tMz0qA)).
 * **3-2-22** (*Daniel Murfet*): From dynamical systems to quadratic forms ([notes](http://therisingsea.org/notes/talk-symbicatlg.pdf), [video](https://youtu.be/Mkyi_d5fGwg)).
 * **10-2-22** (*Daniel Murfet*): From quadratic forms to bicategories ([notes](http://therisingsea.org/notes/talk-symbicatlg.pdf), [video](https://youtu.be/vvmGPhMRM5o)).
 * **17-2-22** (*Rohan Hitchcock*): Matrix factorisations and geometry ([notes](https://rohanhitchcock.com/notes/matrix-factorisations-geometry.pdf), [video](https://youtu.be/Wa_kQs0PGKY)).
 * **24-2-22** (*Rohan Hitchcock*): The perturbation lemma I ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/-gWUA5tCgc4)).
 * **3-3-22** (*Rohan Hitchcock*): The perturbation lemma II ([notes](https://rohanhitchcock.com/notes/pertubation-lemma.pdf), [video](https://youtu.be/n_jlHU0FuwA)).
-* **14-7-22** (*Rohan Hitchcock*): Composition in LG ([video](https://youtu.be/MZhsDkBHPmY)).
+* **14-7-22** (*Rohan Hitchcock*): Composition in LG ([notes](https://rohanhitchcock.com/notes/composition-in-LG.pdf), [video](https://youtu.be/MZhsDkBHPmY)).
 * **18-7-22** (*Daniel Murfet*): Matrix factorisation and quantum error correcting codes ([video](https://youtu.be/t6ChUnR-hTc)).
-* **4-8-22** (*Rohan Hitchcock*): The cut operation Part 1 ([video](https://youtu.be/zbAYN4MsEVA)).
-* **11-8-22** (*Rohan Hitchcock*): The cut operation Part 2 ([video](https://youtu.be/e1c5HosIs_g)).
-* **25/8/22** (*Rohan Hitchcock*): Differentiation and Euclidean division ([video](https://youtu.be/tiYctrHB-b4)).
+* **4-8-22** (*Rohan Hitchcock*): The cut operation Part 1 ([notes](https://rohanhitchcock.com/notes/cut-operation.pdf), [video](https://youtu.be/zbAYN4MsEVA)).
+* **11-8-22** (*Rohan Hitchcock*): The cut operation Part 2 ([notes](https://rohanhitchcock.com/notes/cut-operation.pdf), [video](https://youtu.be/e1c5HosIs_g)).
+* **25/8/22** (*Rohan Hitchcock*): Differentiation and Euclidean division 1 ([notes](https://rohanhitchcock.com/notes/differentiation-and-division.pdf), [video](https://youtu.be/tiYctrHB-b4)).
+* **8/9/22** Differentiation and Euclidean division 2 ([notes](https://rohanhitchcock.com/notes/differentiation-and-division.pdf)).
+* **22/9/22** The cut operation revisited ([notes](https://rohanhitchcock.com/notes/cut-operation-2.pdf]).
 
 ## Notes
 
