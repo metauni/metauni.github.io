@@ -40,11 +40,12 @@ Times are given in AEST. Names in italics are the co-organisers of the seminar.
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt presenting his new theorem. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206)
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
 * **[Landau-Ginzburg](http://metauni.org/lg)** **21:00-22:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
+### September 26, 2022
+* **[Foundations](http://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea&launchData=pocket:Moonlight%20Forest%201)
 <!-- END WHATS ON -->
 
 ### Not on this week
 <!-- BEGIN WHATS OFF -->
-* **[Foundations](http://metauni.org/foundations)** **22:00-23:00** (*Billy Price, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using model theory to prove the Ax-Grothendieck Theorem. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. Back next week [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 * **[Abstraction](http://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 <!-- END WHATS OFF -->
