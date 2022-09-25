@@ -71,6 +71,7 @@ for item in seminars_by_date:
     # whats_on_md += "|---"*6 + "|\n"
     for seminar in seminars:
         whats_on_md += seminar_to_markdown(seminar) + "\n"
+    whats_on_md += "\n"
 for seminar in schedule["whats off"]:
     whats_off_md += seminar_to_markdown(seminar) + "\n"
 
