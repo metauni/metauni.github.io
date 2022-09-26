@@ -44,5 +44,5 @@ Here are what I think of as the current margins to improve on the quality of met
 * **Microphones**: getting more speakers to use better microphones.
 * **Background noise removal**: better tools for removing background noise and artifacts (I have tried a few but they stink).
 * **Removing unnecessary Roblox UI**: generally I'm recording on an account I'm also using to interact with the world, communicate in the chat with audience members, switching to Discord to take care of admin tasks, etc., and all of this makes it into the recording.
-* **Beter intros and outros**: "so let's get started"
+* **Better intros and outros**: "so let's get started" -> "In today's seminar"
 * **Obnoxious visual effects**: when it's done right, the "living" environment of metauni experiences adds to the recording, but when the lighting is bad or exaggerated (I'm looking at you *SunRays*) it can be quite bad.
