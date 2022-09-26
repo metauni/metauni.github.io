@@ -9,7 +9,7 @@ The workflow for recording a seminar (not as speaker) are as follows:
 0. **Prep**. Make sure you have enough disk space to record (somewhere between 20-30Gb per hour, depending on your settings, to record both your local audio and system audio and screen), microphones and devices are plugged into power, etc.
 1. **Recording**. Make sure to record both the microphone on the local machine (for your voice), system audio (which is what will capture the voice of the speaker coming through Roblox voice chat or Discord) and the screen. It's a good idea to test your settings before recording a live seminar. Join Roblox and attach as Listener to the relevant Orb, and get into Orbcam.
 2. **Editing**: most of the time in preparing videos lies in the editing process, and most of this lies in editing out background audio of your own voice track (which is not audible to others during the event, if you're muted). Generally it takes me somewhere from 3-6min per 1hr of video to process.
-3. **Uploading**
+3. **Uploading**. Depending on your Internet connection, uploading a 1hr seminar to YouTube may take an hour or more.
 4. **Processing**: adding titles and descriptions, choosing a thumbnail and playlists. While YouTube autograbs potential thumbnails (and does a surprisingly good job) you will probably want to upload higher quality screenshots. Tag the videos in the description with the recording date (which is generally going to be different to the upload date) to maintain sanity later.
 
 ## Tools
@@ -29,12 +29,10 @@ In the early days quite a few seminar recordings were lost (a crime!), principal
 * Running out of disk space (solution: *be rigorous about uploading old seminars to Dropbox or external storage well before new recording dates*).
 * Failing to capture system audio (solution: *double check after system upgrades or Camtasia upgrades, as the system audio plugins may stop working*).
 
-Some notes:
+Some other remarks:
 
-* It's better to process videos as soon as possible after recording, because you will want to fill in detailed descriptions while your memory of the seminar is fresh. **Use good thumbnails**.
+* YouTube is likely to be one of the principal ways that people discover your seminar. Therefore, you should make sure to put links to relevant webpages in the description of every one of your videos. Note that *Google search loves to recommend YouTube videos* so you might be surprised at the upside to putting a bit more effort into descriptions in your videos (Google also generates transcripts with ML and Google search seems to hook into those transcripts).
 
-* Take pictures to post in Discord
+* It's better to process videos as soon as possible after recording, because you will want to fill in detailed descriptions while your memory of the seminar is fresh. **Use good thumbnails**. You probably want to be taking screenshots during the seminar itself in order to generate those thumbnails.
 
-* YouTube as principal funnel
-
-* Our videos all link to metauni itself, and the webpage for the particular seminar. YouTube and Google Search (which prioritises YouTube videos to a degree you may underestimate) will be one of the principal ways in which you attract people to your seminars, make sure it is easy for people to find you once they notice your video.
+* It's a good idea to take a few screenshots during every seminar, to post to social media or into your community Discord.
