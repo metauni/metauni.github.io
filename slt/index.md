@@ -34,6 +34,9 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **24-3-22** (*Edmund Lau*): The influence of sampling ([video](https://youtu.be/JyZnMinS86Q)).
 * **7-4-22** (*Edmund Lau*): Main Theorem 1 ([video](https://youtu.be/70UtL7pfxNo)).
 * **14-4-22** (*Edmund Lau*): Main Theorem 2 ([video](https://youtu.be/qE3v1044BwU)).
+* **8-9-22** (*Matt Faruggia-Roberts*): Complexity of rank estimation ([video](https://youtu.be/s2bgR_t3aGM)).
+* **15-9-22** (*Matt Faruggia-Roberts*): Piecewise-linear paths in equivalent networks ([video](https://youtu.be/WBiFFIhGIZM)).
+* **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU)).
 
 ## Background reading
 
