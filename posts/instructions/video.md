@@ -46,3 +46,4 @@ Here are what I think of as the current margins to improve on the quality of met
 * **Removing unnecessary Roblox UI**: generally I'm recording on an account I'm also using to interact with the world, communicate in the chat with audience members, switching to Discord to take care of admin tasks, etc., and all of this makes it into the recording.
 * **Better intros and outros**: "so let's get started" -> "In today's seminar"
 * **Obnoxious visual effects**: when it's done right, the "living" environment of metauni experiences adds to the recording, but when the lighting is bad or exaggerated (I'm looking at you *SunRays*) it can be quite bad.
+* **Speaker uncertainty about orbs**: sometimes speakers will be obstructing the view of the board in orbcam but be unaware, or the orbcam may be looking at the wrong set of boards (it tries to follow you, but maybe you aren't standing in the right spot, or forgot to move).
