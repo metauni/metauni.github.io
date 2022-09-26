@@ -21,11 +21,9 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 The second metauni course Shadows of Computation (SOC) is **starting soon** (October 10) and will cover introductory category theory and the relation to computer science. It's free! You should go and [register](https://metauni.org/soc/) if you're interested. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
 
-## metauni Day
+## Schedule
 
-We meet once a week for classes and seminars. To join enter the [metauni Hub](https://www.roblox.com/games/8165000775/metauni-Hub) and click the "Join now" button on the What's On board. All are welcome. Click the name of the seminar for a detailed schedule of future talks and links to videos of past talks.
-
-Times are given in AEST. Names in italics are the co-organisers of the seminar.
+To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEST. Names in italics are the co-organisers of the seminar.
 <!-- The schedule is also available in the iCalendar format. -->
 
 <!--* [Google Calendar](https://www.google.com/calendar/render?cid=mtat12fcie0kaavivca4lgpp69oqpg6v@import.calendar.google.com)-->
