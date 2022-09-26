@@ -52,7 +52,7 @@ Each lecture will be 1.5hr. In the schedule below, the references are given afte
 
 ## Exercise Sessions
 
-We encourage learning by doing. Each week there will be assigned exercises for you to practice and better your understanding of the lecture content with your peers. There will be a regular exercise session on Wednesdays at 20:00 AEDT in [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%201), where you can get help from Billy, Will, or another experienced tutor.
+We encourage learning by doing. Each week there will be assigned exercises for you to practice and better your understanding of the lecture content with your peers. There will be a regular exercise session on Wednesdays at 20:00 AEDT in [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202), where you can get help from Billy, Will, or another experienced tutor.
 
 It's hard to pick a time that works for every timezone, so it is also encouraged for you to schedule your own times to meet with other students for a study/exercise session.
 
