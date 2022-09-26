@@ -32,7 +32,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- BEGIN WHATS ON -->
 ### September 26, 2022
-* **[Foundations](http://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%201)
+* **[Foundations](http://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
 
 ### September 29, 2022
 * **[Disruption](https://metauni.org/disruption)** **11:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
