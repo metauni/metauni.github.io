@@ -13,7 +13,7 @@ There is a timezone change on the 2nd October for daylight savings in Melbourne.
 
 The next few seminars will be as follows:
 
-* **26-9-22 21:00 AEST (UTC +10)** (*Billy Snikkers*): Ultrafilters
+* **26-9-22 21:00 AEST (UTC +10)** (*Billy Snikkers*): Ultrafilters ([notes](./notes/ultrafilters.pdf))
 * **3-10-22 21:00 AEDT (UTC +11)** (*Billy Snikkers*): Non-standard models of arithmetic
 * **17-10-22 21:00 AEDT (UTC +11)** (TBA): TBA
 
