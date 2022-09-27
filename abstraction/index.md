@@ -1,6 +1,8 @@
 # Abstraction
 
+<p align="center"
 ![header](header.png)
+</p>
 
 Renormalisation references:
 
