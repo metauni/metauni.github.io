@@ -18,6 +18,7 @@ Some of the topics to be explored:
 
 Renormalisation references:
 
+* Emch-Liu "The Logic of Thermostatistical Physics" Section 13.2 [The renormalisation program](http://www.therisingsea.org/notes/renorm.pdf).
 * Di Francesco-Mathieu-Sénéchal "Conformal Field Theory" Ch. 3, [statistical mechanics](http://www.therisingsea.org/notes/CFT-ch3.pdf).
 * A [tour of renormalisation](https://www.complexityexplorer.org/courses/67-introduction-to-renormalization) by Simon Dedeo.
 
