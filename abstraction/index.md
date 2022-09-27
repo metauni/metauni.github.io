@@ -2,7 +2,7 @@
 
 Renormalisation references:
 
-* Di Francesco-Mathieu-Sénéchal "Conformal Field Theory" Ch. 3, [statistical mechanics](https://www.therisingsea.org/notes/CFT-ch3.pdf).
+* Di Francesco-Mathieu-Sénéchal "Conformal Field Theory" Ch. 3, [statistical mechanics](http://www.therisingsea.org/notes/CFT-ch3.pdf).
 
 ## Schedule
 
