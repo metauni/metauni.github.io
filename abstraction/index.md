@@ -1,5 +1,7 @@
 # Abstraction
 
+![header](header.png)
+
 Renormalisation references:
 
 * Di Francesco-Mathieu-Sénéchal "Conformal Field Theory" Ch. 3, [statistical mechanics](http://www.therisingsea.org/notes/CFT-ch3.pdf).
