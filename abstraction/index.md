@@ -23,4 +23,7 @@ Renormalisation references:
 
 ## Schedule
 
-* **29-9-22** *Alexander Oldenziel* On Wentworth's Natural Abstractions
+* **29-9-22** *Alexander Oldenziel* Natural Abstraction I
+* **13-10-22** *Daniel Murfet* Resolution I: Blowing up
+* **27-10-22** *Ben Gerraty* Renormalisation I: The Ising model
+* **10-11-22** *Alexander Oldenziel* Natural Abstraction II
