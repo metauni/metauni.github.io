@@ -7,8 +7,8 @@ description:
 
 # Abstraction
 
-<p align="center"
-![header](header.png)
+<p align="center">
+<img src="header.png">
 </p>
 
 Renormalisation references:
