@@ -9,6 +9,10 @@ Singularities are knowledge. This is a seminar on [Sumio Watanabe](http://watana
 
 *Image from Sumio Watanabe's [homepage](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)*.
 
+## References
+
+* S. Watanabe "Algebraic geometry and statistical learning theory", 2009.
+
 ## Schedule
 
 Each week there is a main session and a supplementary session. Dates are AEDT.
