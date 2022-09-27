@@ -1,3 +1,10 @@
+---
+title:
+    Abstraction seminar
+description:
+    Abstraction, Renormalisation, Resolution
+---
+
 # Abstraction
 
 <p align="center"
