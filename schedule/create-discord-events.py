@@ -124,7 +124,7 @@ for name, event in current_events.items():
     new_event_start_time, new_event_end_time = parse_event_times(new_event.get("date"), timezone, new_event.get("time"))
 
     # Delete existing event if the new one is in the past
-    if new_event_start_time < datetime.now(start_time.tzinfo):
+    if new_event_start_time < datetime.now(new_event_start_time.tzinfo):
         delete_discord_event(event["id"], name)
         continue
 
