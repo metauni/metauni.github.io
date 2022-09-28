@@ -1,6 +1,6 @@
 # Instructions for speakers
 
-These instructions aim to be a detailed guide to giving a successful talk in metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for information about tablets and microphones.
+These instructions aim to be a detailed guide to giving a successful talk in metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for tablet and microphone recommendations.
 
 ## Joining the event
 
@@ -16,22 +16,38 @@ The organiser should provide you with the URL of the Roblox world for your talk.
 
 If you feel uncomfortable managing the orb, please ask the session organiser if they can take care of it for you.
 
+## Presenting
+
+If you are giving a board talk we recommend running Roblox on an iPad with Pencil (or equivalent tablet and stylus) with any of the following audio-visual setups:
+
+1. Headphones with in-built microphone plugged into the `3.5mm` jack.
+2. Headphones with in-built microphone plugged into the Lightning plug.
+
+We've had speakers successfully give talks with both setups, but perhaps among them (1) is optimal because it allows you to plug your iPad into a power outlet if the battery gets low during your talk. On that note:
+
+* **Lower graphics quality for battery life**: If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting. At high settings Roblox will rapidly consume your device's battery. On the minimum setting I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
+
+If you are presenting using slides, then you can join Roblox with any setup that supports spatial voice (e.g. your laptop with headphones).
+
+## Presenting
+
+If you are giving a board talk we recommend running Roblox on an iPad with Pencil (or equivalent tablet and stylus) with any of the following audio-visual setups:
+
+1. Headphones with in-built microphone plugged into the `3.5mm` jack.
+2. Headphones with in-built microphone plugged into the Lightning plug.
+
+We've had speakers successfully give talks with both setups, but perhaps among them (1) is optimal because it allows you to plug your iPad into a power outlet if the battery gets low during your talk. On that note:
+
+* **Lower graphics quality for battery life**: If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting. At high settings Roblox will rapidly consume your device's battery. On the minimum setting I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
+
+If you are presenting using slides, then you can join Roblox with any setup that supports spatial voice (e.g. your laptop with headphones).
+
 ## Admins
 
 Here is the checklist we follow before metauni events:
 
 * Speakers have been sent the above instructions.
-* Speakers have the appropriate `scribe` permission (e.g. by typing `/setscribe username` in the server).
+* Speakers have the appropriate `scribe` permission (e.g. by typing `/setscribe <username>` in the server).
 * Boards are off for guests.
-* Discord events have been created for all sessions.
 
-## Recording
-
-Here is my checklist for recording:
-
-* Plug in headphones
-* Start recording software (e.g. Camtasia)
-* Start Roblox and join the experience
-* Start the keepalive script
-* Test audio (joining with another account with spatial voice enabled, speak near the recording player account)
-* Put the recording player into GUI-less orbcam with `Shift-C`
+For information on recording videos of events, see our [video page](video).
