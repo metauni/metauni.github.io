@@ -149,7 +149,6 @@ for name, event in current_events.items():
 
 for name, event in new_events.items():
     if event.get("location"):
-
         start_time, end_time = parse_event_times(event.get("date"), timezone, event.get("time"))
 
         # Create the event as long as it's in the future
