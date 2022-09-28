@@ -1,6 +1,6 @@
 # Instructions for speakers
 
-These instructions aim to be a detailed guide to giving a successful talk in metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for tablet and microphone recommendations.
+These instructions aim to be a detailed guide to giving a successful talk at metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for tablet and microphone recommendations.
 
 ## Joining the event
 
@@ -24,9 +24,7 @@ If you are giving a board talk we recommend running Roblox on an iPad with Penci
 
 We've had speakers successfully give talks with both setups, but perhaps among them (1) is optimal because it allows you to plug your iPad into a power outlet if the battery gets low during your talk. On that note:
 
-* **Lower graphics quality and brightness for battery life**: If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting and turning down the screen brightness in the system menu of your device. At high settings Roblox will rapidly consume your device's battery. On the minimum Graphics Quality setting and around 1/3 brightness I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
-
-If you are presenting using slides, then you can join Roblox with any setup that supports spatial voice (e.g. your laptop with headphones).
+* **Lower graphics quality and brightness for battery life**: We recommend setting *Graphics Quality* in Roblox to its minimum setting and turning down the screen brightness in the system menu of your device. At high settings Roblox will rapidly consume your device's battery. On the minimum Graphics Quality setting and around 1/3 brightness I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
 
 ## Admins
 
