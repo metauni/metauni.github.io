@@ -122,6 +122,12 @@ for name, event in current_events.items():
 
     # Modify event if its details are different in seminar.yml
     new_event_start_time, new_event_end_time = parse_event_times(new_event.get("date"), timezone, new_event.get("time"))
+
+    # Delete existing event if the new one is in the past
+    if new_event_start_time < datetime.now(start_time.tzinfo):
+        delete_discord_event(event["id"], name)
+        continue
+
     if (
         # These apply to all events
         event["description"] != new_event.get("desc")
@@ -143,4 +149,9 @@ for name, event in current_events.items():
 
 for name, event in new_events.items():
     if event.get("location"):
-        create_discord_event(build_event_request_data(name, event))
+
+        start_time, end_time = parse_event_times(event.get("date"), timezone, event.get("time"))
+
+        # Create the event as long as it's in the future
+        if start_time >= datetime.now(start_time.tzinfo):
+            create_discord_event(build_event_request_data(name, event))
