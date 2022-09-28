@@ -7,10 +7,11 @@ On this page you can find information about how the videos in the metauni [YouTu
 The workflow for recording a seminar (not as speaker) are as follows:
 
 0. **Prep**. Make sure you have enough disk space to record (somewhere between 20-30Gb per hour, depending on your settings, to record both your local audio and system audio and screen), microphones and devices are plugged into power, etc.
-1. **Recording**. Make sure to record both the microphone on the local machine (for your voice), system audio (which is what will capture the voice of the speaker coming through Roblox voice chat or Discord) and the screen. It's a good idea to test your settings before recording a live seminar. Join Roblox and attach as Listener to the relevant Orb, and get into Orbcam.
-2. **Editing**: most of the time in preparing videos lies in the editing process, and most of this lies in editing out background audio of your own voice track (which is not audible to others during the event, if you're muted). Generally it takes me somewhere from 3-6min per 1hr of video to process.
-3. **Uploading**. Depending on your Internet connection, uploading a 1hr seminar to YouTube may take an hour or more.
-4. **Processing**: adding titles and descriptions, choosing a thumbnail and playlists. While YouTube autograbs potential thumbnails (and does a surprisingly good job) you will probably want to upload higher quality screenshots. Tag the videos in the description with the recording date (which is generally going to be different to the upload date) to maintain sanity later.
+1. **Start Recording**. Make sure to record both the microphone on the local machine (for your voice), system audio (which is what will capture the voice of the speaker coming through Roblox voice chat or Discord) and the screen. It's a good idea to test your settings before recording a live seminar. You may want to run a keepalive script that moves your character every `X` minutes, in order to avoid having to manually interact with Roblox during the recording (the game will kick you for inactivity after 20 minutes).
+2. **Join Roblox** and (a) Attach as Listener to the relevant Orb (b) use `Shift-C` to get into Orbcam without the Roblox UI.
+3. **Editing**: most of the time in preparing videos lies in the editing process, and most of this lies in editing out background audio of your own voice track (which is not audible to others during the event, if you're muted). Generally it takes me somewhere from 3-6min per 1hr of video to process.
+4. **Uploading**. Depending on your Internet connection, uploading a 1hr seminar to YouTube may take an hour or more.
+5. **Processing**: adding titles and descriptions, choosing a thumbnail and playlists. While YouTube autograbs potential thumbnails (and does a surprisingly good job) you will probably want to upload higher quality screenshots. Tag the videos in the description with the recording date (which is generally going to be different to the upload date) to maintain sanity later.
 
 ## Tools
 
