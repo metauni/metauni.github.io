@@ -10,6 +10,7 @@ on:
       - main
     paths:
       - schedule/schedule.yml
+      - schedule/**.py
 
 env:
   SCHEDULE_PATH: schedule/schedule.yml
