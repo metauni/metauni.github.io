@@ -18,19 +18,6 @@ What doesn't work:
 
 * Huion H610 Pro V2
 
-## Presenting
-
-If you are giving a board talk we recommend running Roblox on an iPad with Pencil (or equivalent tablet and stylus) with any of the following audio-visual setups:
-
-1. Headphones with in-built microphone plugged into the `3.5mm` jack.
-2. Headphones with in-built microphone plugged into the Lightning plug.
-
-We've had speakers successfully give talks with both setups, but perhaps among them (1) is optimal because it allows you to plug your iPad into a power outlet if the battery gets low during your talk. On that note:
-
-* **Lower graphics quality for battery life**: If you are using an iPad to present in metauni, we highly recommend setting *Graphics Quality* to its minimum setting. At high settings Roblox will rapidly consume your device's battery. On the minimum setting I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
-
-If you are presenting using slides, then you can join Roblox with any setup that supports spatial voice (e.g. your laptop with headphones).
-
 ## Microphone
 
 You can greatly enhance the experience of your audience by going the extra mile with microphone quality. This can take a talk from “good-enough/intelligible” to “pleasant to listen to for an hour or more”. The easiest improvement you can make is getting a USB microphone in your price range, and having it as close to your mouth as possible. 
