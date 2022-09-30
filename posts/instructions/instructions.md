@@ -11,11 +11,11 @@ We recommend that you open the links in each step in a separate tab, so that you
 3. Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page (if you don't see this toggle and you completed Step 1, try refreshing your page).
 4. Enter [metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
 
-That's it! Thanks for taking part in metauni. You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules). If you are a speaker or an admin, see the [instructions for speakers and admins](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware).
+You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules). See also the [instructions for speakers and admins](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware).
 
 ### 2. Discord
 
-The installation of Discord is optional but recommended:
+The installation of Discord is recommended:
 
 1. Create a [Discord](https://www.discord.com) account.
 2. Join the [Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
@@ -26,13 +26,11 @@ Roblox is a 3D game environment in which you move your character with the arrows
 
 * To use the in-game chat press `/` or click on the appropriate icon in the top left corner of the screen. Roblox text chat is moderated, and you will be unable to post URLs and other kidns of information. We use Discord for this kind of communication.
 
-* **Showing thanks.** You can trigger animations by typing in the chat: type `hello` to wave or `gg`, `yay` to applaud. You can access more animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
+* You can trigger animations by typing in the chat: type `hello` to wave or `gg`, `yay` to applaud. You can access more animations, such as waves, by pressing `.`. You can enable additional animations on the Roblox website.
 
 * It's convenient to quickly toggle between fullscreen and windowed, which is `fn + F11` on a Mac, but you'll have to first disable the "Show Desktop" shortcut in System Preferences.
 
 * You can zoom into your character's point of view by pressing `I` and then out again with `O` (for "out").
-
-* Note that on an iPad, using the Home button to switch to another running application will cause Roblox to quit, so you should plan for keeping Roblox in the foreground for your entire talk.
 
 ## 4. Spatial voice
 
@@ -46,15 +44,9 @@ The microphone status indicator above your head has the states shown below. From
 
 ![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
 
-You can mute other players (i.e. block their voice) by clicking the microphone icon above their head. However, since this icon only appears when they are speaking, you may be unable to *unmute* them in the same way. You can change the block status of other players in the Roblox menu:
-
-<img width="600" alt="mutestates" src="https://user-images.githubusercontent.com/320329/148659807-0d994053-728e-4d46-9241-99cef46ae5ff.png">
-
 ### 4.1 Troubleshooting
 
 Spatial voice is still in beta, and there are known issues:
-
-* ([GitHub issue](https://github.com/metauni/orb/issues/20)) You may accidentally mute other players by clicking on their microphone icon. If you notice this, check the Roblox menu. 
 
 * ([GitHub issue](https://github.com/metauni/orb/issues/10)) If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
 
@@ -71,12 +63,6 @@ The official instructions are [here](https://en.help.roblox.com/hc/en-us/article
 It is worth reading Veriff's [privacy policy](https://www.veriff.com/privacy-policy).
 
 > A human will be involved if the automated verification tool (the Robot) is not able to reach a decision on its own. This may occur, when the picture is blurry or the Robot runs into some other difficulty in analysing the verification session.. In the case of fully automated decision-making, where the decision has a significant effect on you, we will be transparent about such processing.
-
-## 5. Boards and Orbs
-
-The image below shows two metauni whiteboards (we call them *metaboards*). To use one, just click on it with your mouse or tap on it on a mobile device. The rusty-looking sphere half in the ground is an *orb* which is a "public announcement" system for talks in metauni. If you walk up the orb you will see some prompts appear above it; follow the instructions in the prompts to *Attach as Listener*. Now even when you are away from the location of a talk, you can hear whatever the orb hears (e.g. the speaker at a board) by clicking the speaker icon on the left hand side of your screen (detach from an orb by clicking the red button).
-
-<img width="600" alt="boards-and-orb" src="https://user-images.githubusercontent.com/320329/148659479-d4a3a155-4e9e-48b5-815c-967e897eaf17.png">
 
 ## 6. Troubleshooting
 
