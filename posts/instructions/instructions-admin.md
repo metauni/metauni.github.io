@@ -1,5 +1,9 @@
 # Instructions for speakers
 
+<p align="center">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/DOROFm_oDv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 These instructions aim to be a detailed guide to giving a successful talk at metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for tablet and microphone recommendations. Some notes:
 
 * If you are giving a slide talk, please prepare your slides at a `4:3` ratio and send them as a PDF to the seminar organiser at least a few days before your talk (they will have to upload PNGs of each slide into Roblox, which may take a while).
