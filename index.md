@@ -31,23 +31,21 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### September 26, 2022
-* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
-
-### September 29, 2022
+### October 06, 2022
 * **[Disruption](https://metauni.org/disruption)** **11:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 * **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: How to build a gallery
 * **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan giving an introduction to information theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206)
-* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)
+* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 
 <!-- END WHATS ON -->
 
 ### Not on this week
 <!-- BEGIN WHATS OFF -->
-* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *Note:* runs every second week. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
-* **[Landau-Ginzburg](https://metauni.org/lg)** **21:00-22:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *Note:* runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
+* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
+* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)
+* **[Landau-Ginzburg](https://metauni.org/lg)** **21:00-22:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. Runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 <!-- END WHATS OFF -->
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The tools we use are [open source](https://metauni.org/posts/open/open) and we'll happily help you set up your own seminars and teach you how to record them, just jump into the Discord and say hi. For information on how we record our videos see [this page](https://metauni.org/posts/instructions/video).
