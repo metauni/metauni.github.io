@@ -34,19 +34,20 @@ All lectures will be recorded and posted to the [metauni youtube channel](https:
 
 We think there's some magic in replays, even beyond the ability to *attend* asynchronously, and we will run some replay viewing sessions where we'll experiment with some of our ideas. Imagine being able to pause the replay-lecturer, and ask the real lecturer (or tutor) to clarify what was just said, or elaborate on some interesting tangent. 
 
-## Course content
+## Course Schedule
 
 Each lecture will be 1.5hr. In the schedule below, the references are given after the section number, eg `R 1.3` refers to Section 1.3 of Category Theory in Context. The lecturer is given in brackets, `(B)` means Billy and `(W)` means Will (subject to change).
 
-* **Lecture 1:** Making subtle ideas apparent `(W) R 1.1`.
-* **Lecture 2:** Structure preservation `(B) R 1.3`.
-* **Lecture 3:** Naturality/how to present mathematics 1 `(W) R 1.4`.
-* **Lecture 4:** Limits `(B) R 3.1, 3.2`.
-* **Lecture 5:** The untyped and the simply typed λ-calculus `(B) R 1.2, 3.3` [Lectures on the Curry-Howard Isomorphism](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf).
-* **Lecture 6:** The category of λ-terms and the Curry-Howard correspondence `(W)` ([Gentzen-Mints-Zucker Duality](https://arxiv.org/abs/2008.10131).
-* **Lecture 7:** The Yoneda Lemma `(W) R 2.2`.
-* **Lecture 8:** Monads/how to present mathematics 2 `(W) R 5.1`.
-* **Lecture 9:** Moggi's Notions of Computation `(W)` [Notions of Computation and Monads](https://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf).
+* **03-10-22** **Welcome** Introductions + Setup assistance.
+* **10-10-22** **Lecture 1:** Making subtle ideas apparent `(W) R 1.1`.
+* **17-10-22** **Lecture 2:** Structure preservation `(B) R 1.3`.
+* **24-10-22** **Lecture 3:** Naturality/how to present mathematics 1 `(W) R 1.4`.
+* **31-10-22** **Lecture 4:** Limits `(B) R 3.1, 3.2`.
+* **07-11-22** **Lecture 5:** The untyped and the simply typed λ-calculus `(B) R 1.2, 3.3` [Lectures on the Curry-Howard Isomorphism](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf).
+* **14-11-22** **Lecture 6:** The category of λ-terms and the Curry-Howard correspondence `(W)` ([Gentzen-Mints-Zucker Duality](https://arxiv.org/abs/2008.10131).
+* **21-11-22** **Lecture 7:** The Yoneda Lemma `(W) R 2.2`.
+* **28-11-22** **Lecture 8:** Monads/how to present mathematics 2 `(W) R 5.1`.
+* **05-12-22** **Lecture 9:** Moggi's Notions of Computation `(W)` [Notions of Computation and Monads](https://www.cs.cmu.edu/~crary/819-f09/Moggi91.pdf).
 
 <!-- All videos can be found in [the PRGM playlist](). -->
 
