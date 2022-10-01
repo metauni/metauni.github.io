@@ -32,6 +32,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- BEGIN WHATS ON -->
 ### October 03, 2022
+* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: Welcome session. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
 * **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
 
 ### October 06, 2022
