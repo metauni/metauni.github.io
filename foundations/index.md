@@ -36,9 +36,12 @@ From 17-10-22, foundations will run every 2 weeks at 21:00 AEDT (UTC +11), immed
 * **3-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 5 ([video](https://youtu.be/gw_rks-tLdI)).
 * **17-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 6 ([video](https://youtu.be/25ZGE0PiioE)).
 
-### Season 2 - Ax-Grothendieck and Model Theory
-* **21-7-22** (*Will Troiani*): Ax-Grothendieck and model theory ([video](https://www.youtube.com/watch?v=Fccfv2DWUgM&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=15))
-* **4-8-22** (*Will Troiani*): The geometric part ([video](https://www.youtube.com/watch?v=49QuhzdEy50&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=17))
-* **18-8-22** (*Will Troiani*): Skolemisation ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=18))
-* **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ&list=PLKnx70LRf21eZyNPtPhnaMbCg1XLw2ueV&index=20))
-* **15-9-22** (*Will Troiani*): Łoś-Vaught Test
+### Season 2 
+
+### Ax-Grothendieck and Model Theory
+* **21-7-22** (*Will Troiani*): Ax-Grothendieck and model theory ([video](https://www.youtube.com/watch?v=Fccfv2DWUgM))
+* **4-8-22** (*Will Troiani*): The geometric part ([video](https://www.youtube.com/watch?v=49QuhzdEy50))
+* **18-8-22** (*Will Troiani*): Skolemisation ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
+* **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
+* **15-9-22** (*Will Troiani*): Finishing the Ax-Grothendieck theorem ([video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
+* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilers ([notes](./notes/ultrafilters.pdf), [video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
