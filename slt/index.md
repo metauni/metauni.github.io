@@ -40,8 +40,8 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **15-9-22** (*Matt Faruggia-Roberts*): Piecewise-linear paths in equivalent networks ([video](https://youtu.be/WBiFFIhGIZM)).
 * **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4)).
-* **6-9-22** (*Zhongtian Chen*): The Kraft-McMillan theorem
-* **13-9-22** (*tbd*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory.
+* **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem
+* **13-10-22** (*tbd*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory.
 
 ## Background reading
 
