@@ -22,7 +22,7 @@ Seminar information:
 * **Organisers:**
   Matthew Farrugia-Roberts and Dan Murfet.
 * **Time:**
-  Thursday evenings, 9pm AEST, most weeks
+  Thursday evenings, 9pm AEDT (UTC +11), most weeks
   (see [home page](/) for most up-to-date schedule).
 * **Venue:**
   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
