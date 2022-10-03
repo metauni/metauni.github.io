@@ -14,7 +14,7 @@ There is a timezone change on the 2nd October for daylight savings in Melbourne.
 The next few seminars will be as follows:
 
 * **26-9-22 21:00 AEST (UTC +10)** (*Billy Snikkers*): Ultrafilters ([notes](./notes/ultrafilters.pdf))
-* **3-10-22 21:00 AEDT (UTC +11)** (*Billy Snikkers*): Non-standard models of arithmetic
+* **3-10-22 21:00 AEDT (UTC +11)** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf))
 * **17-10-22 21:00 AEDT (UTC +11)** (TBA): TBA
 
 From 17-10-22, foundations will run every 2 weeks at 21:00 AEDT (UTC +11), immediately after the Shadows of Computation lecture.
@@ -45,3 +45,4 @@ From 17-10-22, foundations will run every 2 weeks at 21:00 AEDT (UTC +11), immed
 * **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **15-9-22** (*Will Troiani*): Finishing the Ax-Grothendieck theorem ([video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
 * **26-9-22** (*Billy Snikkers*): Filters and Ultrafilers ([notes](./notes/ultrafilters.pdf), [video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
+* **3-10-22** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf))
