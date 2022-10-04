@@ -40,13 +40,13 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: How to build a gallery
 * **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan giving an introduction to information theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gamma%20Events%206)
-* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 
 <!-- END WHATS ON -->
 
 ### Not on this week
 <!-- BEGIN WHATS OFF -->
+* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
 * **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)
 * **[Landau-Ginzburg](https://metauni.org/lg)** **21:00-22:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. Runs biweekly. [Join now](https://www.roblox.com/games/8165217582/The-Rising-Sea)
 <!-- END WHATS OFF -->
