@@ -13,7 +13,7 @@ This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/
 
 ## Schedule
 
-Each week there is a main session and a supplementary session. Dates are AEDT.
+Each week there is a main session and a supplementary session.
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
     * **Supplementary** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
@@ -41,7 +41,7 @@ Each week there is a main session and a supplementary session. Dates are AEDT.
 * **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4)).
 * **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem
-* **13-10-22** (*tbd*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory.
+* **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory.
 
 ## Background reading
 
