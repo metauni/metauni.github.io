@@ -30,7 +30,7 @@ If you are giving a board talk we recommend running Roblox on an iPad with Penci
 
 We've had speakers successfully give talks with both setups, but perhaps among them (1) is optimal because it allows you to plug your iPad into a power outlet if the battery gets low during your talk. On that note:
 
-* **Lower graphics quality and brightness for battery life**: We recommend setting *Graphics Quality* in Roblox to its minimum setting and turning down the screen brightness in the system menu of your device. At high settings Roblox will rapidly consume your device's battery. On the minimum Graphics Quality setting and around 1/3 brightness I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
+* **Lower graphics quality and brightness for battery life**: We recommend setting *Graphics Quality* in Roblox to its minimum setting and turning down the screen brightness in the system menu of your device. At high settings Roblox will rapidly consume your device's battery. To set the *Graphics Quality* open the Roblox Settings menu (via the Roblox icon in the top left hand corner of your screen), switch *Graphics Mode* to *Manual* and then reduce *Graphics Quality* until there is only one coloured bar. On the minimum Graphics Quality setting and around 1/3 brightness I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
 
 ## Admins
 
