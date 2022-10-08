@@ -26,7 +26,7 @@ This course will be taught at [metauni](https://metauni.org), using Roblox for t
 * **Resources**: the textbook is the excellent textbook E. Rhiel "[Category Theory in context](https://math.jhu.edu/~eriehl/context.pdf)", which is available freely online. Other resources for the computer science component will be used and referenced throughout the course. An example of the ideas we will explore can be found here: "[Theorems for free](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)".
 
 Organisers:
-* [Will Troiani](https://williamtroiani.github.io/Mathematics.html) ([Fleetwood_Obdurate](https://www.roblox.com/users/2312973422/profile) on Roblox) and [Billy Snikkers](https://billy-price.github.io/web/) ([blinkybill](https://www.roblox.com/users/2293079954/profile) on Roblox), neither with PhDs in category theory.
+* [Will Troiani](https://williamtroiani.github.io/Mathematics.html) ([Fleetwood_Obdurate](https://www.roblox.com/users/2312973422/profile) on Roblox) and [Billy Snikkers](https://blinkybool.github.io/web/) ([blinkybill](https://www.roblox.com/users/2293079954/profile) on Roblox), neither with PhDs in category theory.
 
 ## Asynchronous Attendance
 
