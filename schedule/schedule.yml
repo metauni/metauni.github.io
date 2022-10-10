@@ -1,4 +1,4 @@
-metauni day: "06/10/2022" # dd/mm/yyyy
+metauni day: "13/10/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -27,21 +27,21 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202
     alias: SLT
+- Shadows of Computation:
+   time: 19:30-21:00
+   date: 10/10/2022
+   organizer: Billy Snikkers, Will Troiani
+   desc: "The shadows cast by computation onto category theory."
+   note: "**This Week**: Lecture 1 - Making subtle ideas apparent."
+   website: https://metauni.org/soc
+   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
+whats off:
 - Foundations:
    time: 21:00-22:00
-   date: 3/10/2022
    organizer: Billy Snikkers, Will Troiani
    desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models."
    website: https://metauni.org/foundations
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
-- Shadows of Computation:
-   time: 19:30-21:00
-   date: 3/10/2022
-   organizer: Billy Snikkers, Will Troiani
-   desc: "The shadows cast by computation onto category theory. **This Week**: Welcome session."
-   website: https://metauni.org/soc
-   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
-whats off:
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
