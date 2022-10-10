@@ -3,21 +3,13 @@
 A seminar on the nature of mathematical objects, logic, Gödel's theorems.
 
 * **Co-organisers**: Billy Snikkers and Will Troiani.
-* **Venue**: [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%201).
+* **Venue**: [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202).
 
 ![foundations](moonlight-forest.png)
 
 ## Schedule
 
-There is a timezone change on the 2nd October for daylight savings in Melbourne. The foundations seminar timeslot will stick to Melbourne time, which will change from AEST (UTC +10) to AEDT (UTC +11).
-
-The next few seminars will be as follows:
-
-* **26-9-22 21:00 AEST (UTC +10)** (*Billy Snikkers*): Ultrafilters ([notes](./notes/ultrafilters.pdf))
-* **3-10-22 21:00 AEDT (UTC +11)** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf))
-* **17-10-22 21:00 AEDT (UTC +11)** (TBA): TBA
-
-From 17-10-22, foundations will run every 2 weeks at 21:00 AEDT (UTC +11), immediately after the Shadows of Computation lecture.
+The seminar will run on a bi-weekly timeslot, on Thursdays at 21:00 AEDT (Melbourne, Australia time).
 
 ## Past seminars
 
@@ -36,13 +28,11 @@ From 17-10-22, foundations will run every 2 weeks at 21:00 AEDT (UTC +11), immed
 * **3-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 5 ([video](https://youtu.be/gw_rks-tLdI)).
 * **17-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 6 ([video](https://youtu.be/25ZGE0PiioE)).
 
-### Season 2 
-
-### Ax-Grothendieck and Model Theory
+### Season 2 - Ax-Grothendieck and Model Theory
 * **21-7-22** (*Will Troiani*): Ax-Grothendieck and model theory ([video](https://www.youtube.com/watch?v=Fccfv2DWUgM))
 * **4-8-22** (*Will Troiani*): The geometric part ([video](https://www.youtube.com/watch?v=49QuhzdEy50))
 * **18-8-22** (*Will Troiani*): Skolemisation ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **15-9-22** (*Will Troiani*): Finishing the Ax-Grothendieck theorem ([video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
-* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilers ([notes](./notes/ultrafilters.pdf), [video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
-* **3-10-22** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf))
+* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilters ([notes](./notes/ultrafilters.pdf), [video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
+* **3-10-22** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf), [video](https://www.youtube.com/watch?v=PtFTpwcYGRM))
