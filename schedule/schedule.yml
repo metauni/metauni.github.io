@@ -23,10 +23,16 @@ whats on:
     time: 16:00-17:00
     organizer: Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
-    note: "*This week*: Dan giving an introduction to information theory."
+    note: "*This week*: Edmund on the Watanabe's renormalizable condition."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202
     alias: SLT
+- Abstraction:
+    time: 20:00-21:00
+    organizer: Alexander Oldenziel
+    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Dan on blowups."
+    website: https://metauni.org/abstraction
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201
 - Shadows of Computation:
    time: 19:30-21:00
    date: 10/10/2022
@@ -35,6 +41,7 @@ whats on:
    note: "**This Week**: Lecture 1 - Making subtle ideas apparent."
    website: https://metauni.org/soc
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
+   
 whats off:
 - Foundations:
    time: 21:00-22:00
@@ -55,12 +62,6 @@ whats off:
     desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
-- Abstraction:
-    time: 20:00-21:00
-    organizer: Alexander Oldenziel
-    desc: "what is an abstraction? Are they universal? Runs biweekly."
-    website: https://metauni.org/abstraction
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201
 - Landau-Ginzburg:
     time: 21:00-22:00
     organizer: Rohan Hitchcock
