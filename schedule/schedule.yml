@@ -12,7 +12,7 @@ whats on:
     time: 12:00-13:00
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: How to build a gallery"
+    note: "*This week*: Building some hub pockets."
     website: https://metauni.org/code
     location: "#General"
 - "#metauni-dev":
@@ -23,7 +23,7 @@ whats on:
     time: 16:00-17:00
     organizer: Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
-    note: "*This week*: Edmund on the Watanabe's renormalizable condition."
+    note: "*This week*: Edmund on Watanabe's renormalizable condition."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202
     alias: SLT
