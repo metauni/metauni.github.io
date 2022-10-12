@@ -15,10 +15,6 @@ whats on:
     note: "*This week*: Building some hub pockets."
     website: https://metauni.org/code
     location: "#General"
-- "#metauni-dev":
-    time: 13:00-14:00
-    desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-    location: "#metaboard-dev"
 - Singular Learning Theory:
     time: 16:00-17:00
     organizer: Edmund Lau
@@ -43,6 +39,10 @@ whats on:
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
    
 whats off:
+- "#metauni-dev":
+    time: 13:00-14:00
+    desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+    location: "#metaboard-dev"
 - Foundations:
    time: 21:00-22:00
    organizer: Billy Snikkers, Will Troiani
