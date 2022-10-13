@@ -1,4 +1,4 @@
-metauni day: "13/10/2022" # dd/mm/yyyy
+metauni day: "20/10/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -15,6 +15,17 @@ whats on:
     note: "*This week*: Building some hub pockets."
     website: https://metauni.org/code
     location: "#General"
+- "#metauni-dev":
+    time: 13:00-14:00
+    desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+    location: "#metaboard-dev"
+- Landau-Ginzburg:
+    time: 15:00-16:00
+    organizer: Rohan Hitchcock
+    desc: "on the geometry and (bi)category theory of isolated hypersurface singularities. *This week* Rohan's thesis talk."
+    website: https://metauni.org/lg
+    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
+    alias: LG
 - Singular Learning Theory:
     time: 16:00-17:00
     organizer: Edmund Lau
@@ -23,32 +34,28 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202
     alias: SLT
+- Foundations:
+   time: 20:00-21:00
+   organizer: Billy Snikkers, Will Troiani
+   desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models."
+   website: https://metauni.org/foundations
+   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
+- Shadows of Computation:
+   time: 19:30-21:00
+   date: 17/10/2022
+   organizer: Billy Snikkers, Will Troiani
+   desc: "The shadows cast by computation onto category theory."
+   note: "**This Week**: Lecture 2."
+   website: https://metauni.org/soc
+   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
+   
+whats off:
 - Abstraction:
     time: 20:00-21:00
     organizer: Alexander Oldenziel
     desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Dan on blowups."
     website: https://metauni.org/abstraction
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201
-- Shadows of Computation:
-   time: 19:30-21:00
-   date: 10/10/2022
-   organizer: Billy Snikkers, Will Troiani
-   desc: "The shadows cast by computation onto category theory."
-   note: "**This Week**: Lecture 1 - Making subtle ideas apparent."
-   website: https://metauni.org/soc
-   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
-   
-whats off:
-- "#metauni-dev":
-    time: 13:00-14:00
-    desc: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-    location: "#metaboard-dev"
-- Foundations:
-   time: 21:00-22:00
-   organizer: Billy Snikkers, Will Troiani
-   desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models."
-   website: https://metauni.org/foundations
-   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -62,10 +69,3 @@ whats off:
     desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
-- Landau-Ginzburg:
-    time: 21:00-22:00
-    organizer: Rohan Hitchcock
-    desc: "on the geometry and (bi)category theory of isolated hypersurface singularities. Runs biweekly."
-    website: https://metauni.org/lg
-    location: https://www.roblox.com/games/8165217582/The-Rising-Sea
-    alias: LG
