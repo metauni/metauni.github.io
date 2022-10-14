@@ -12,7 +12,6 @@ whats on:
     time: 12:00-13:00
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on."
-    note: "*This week*: Building some hub pockets."
     website: https://metauni.org/code
     location: "#General"
 - "#metauni-dev":
@@ -30,12 +29,17 @@ whats on:
     time: 16:00-17:00
     organizer: Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
-    note: "*This week*: Edmund on Watanabe's renormalizable condition."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202
     alias: SLT
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
 - Foundations:
-   time: 20:00-21:00
+   time: 21:00-22:00
    organizer: Billy Snikkers, Will Troiani
    desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. Currently using ultrafilters to make wacky models."
    website: https://metauni.org/foundations
@@ -63,9 +67,3 @@ whats off:
     website: https://metauni.org/ai-safety
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
     pocket: Gemini Pulsar 1
-- Cryptography:
-    time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
