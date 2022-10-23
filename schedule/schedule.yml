@@ -2,8 +2,15 @@ metauni day: "20/10/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
+- Shadows of Computation:
+   time: 19:30-21:00
+    date: 25/10/2022
+   organizer: Billy Snikkers, Will Troiani
+   desc: "The shadows cast by computation onto category theory."
+   website: https://metauni.org/soc
+   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
 - Disruption:
-    time: 11:00-12:00
+    time: 10:00-12:00
     organizer: Adam Dorr
     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/disruption
@@ -26,18 +33,20 @@ whats on:
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209
     alias: LG
 - Singular Learning Theory:
-    time: 16:00-17:00
+    time: 16:00-17:30
     organizer: Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010
     alias: SLT
-- Cryptography:
+- Abstraction:
     time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
+    organizer: Alexander Oldenziel
+    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Ben on renormalisation."
+    website: https://metauni.org/abstraction
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201
+    
+whats off:
 - Foundations:
    time: 21:00-22:00
    organizer: Billy Snikkers, Will Troiani
@@ -45,21 +54,12 @@ whats on:
    note: "**This Week**: Discussion about compactness vs completeness"
    website: https://metauni.org/foundations
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
-   
-whats off:
-- Shadows of Computation:
-   time: 19:30-21:00
-#    date: 17/10/2022
-   organizer: Billy Snikkers, Will Troiani
-   desc: "The shadows cast by computation onto category theory."
-   website: https://metauni.org/soc
-   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
-- Abstraction:
+- Cryptography:
     time: 20:00-21:00
-    organizer: Alexander Oldenziel
-    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Dan on blowups."
-    website: https://metauni.org/abstraction
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201
+    organizer: Eleanor McMurtry
+    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
