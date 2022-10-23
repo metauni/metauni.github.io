@@ -4,7 +4,7 @@ timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 whats on:
 - Shadows of Computation:
    time: 19:30-21:00
-    date: 25/10/2022
+   date: 25/10/2022
    organizer: Billy Snikkers, Will Troiani
    desc: "The shadows cast by computation onto category theory."
    website: https://metauni.org/soc
