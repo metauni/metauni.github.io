@@ -42,7 +42,7 @@ Each lecture will be 1.5hr. In the schedule below, the references are given afte
 
 * **03-10-22** **Welcome** Introductions + Setup assistance.
 * **10-10-22** **Lecture 1:** Making subtle ideas apparent `(W) R 1.1` ([notes](https://williamtroiani.github.io/CategoryTheory/Lecture1.pdf), [video](https://youtu.be/pF2Q0slMN8o)).
-* **24-10-22** **Lecture 2:** Structure preservation `(B) R 1.3` ([notes](./Notes/Lecture%202%20Notes.pdf)).
+* **24-10-22** **Lecture 2:** Structure preservation `(B) R 1.3` ([notes](./Notes/Lecture%202%20Notes.pdf), [video](https://youtu.be/ZTMAe2hxNE4)).
 * **Lecture 3:** Naturality/how to present mathematics 1 `(W) R 1.4`.
 * **Lecture 4:** Limits `(B) R 3.1, 3.2`.
 * **Lecture 5:** The untyped and the simply typed λ-calculus `(B) R 1.2, 3.3` [Lectures on the Curry-Howard Isomorphism](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf).
