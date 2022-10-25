@@ -62,7 +62,7 @@ It's hard to pick a time that works for every timezone, so it is also encouraged
 Exercise sheets will appear here and also in the discord channels for each week.
 
 - **Week 1:** [Exercises](./Exercises/Week1.pdf)
-- **Week 2:** [Exercises](./Exercises/Week2.pdf)
+- **Week 2:** [Exercises](./Exercises/Week2SoC.pdf)
 <!-- - **Week 3:** [Exercises](./Exercises/Week3.pdf) -->
 
 ## Pre-requisites
