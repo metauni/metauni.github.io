@@ -1,6 +1,6 @@
 # Singular Learning Theory
 
-This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)'s Singular Learning Theory, co-organised by Edmund Lau and Dan Murfet.
+This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)'s Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory, co-organised by Edmund Lau and Dan Murfet.
 
 ![banner](seminar-slt.png)
 
@@ -8,7 +8,14 @@ This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/
 
 ## References
 
-* S. Watanabe "Algebraic geometry and statistical learning theory", 2009.
+The canonical references are Watanabe's two textbooks:
+
+* **The gray book:** S. Watanabe "[Algebraic geometry and statistical learning theory](https://www.cambridge.org/core/books/algebraic-geometry-and-statistical-learning-theory/9C8FD1BDC817E2FC79117C7F41544A3A)" 2009.
+* **The green book:** S. Watanabe "[Mathematical theory of Bayesian statistics](https://www.routledge.com/Mathematical-Theory-of-Bayesian-Statistics/Watanabe/p/book/9780367734817)" 2018.
+
+Some other references:
+
+* S. Wei, D. Murfet, M. Gong, H. Li , J. Gell-Redman, T. Quella "[Deep learning is singular, and that's good](https://www.suswei.com/publication/wei-2022-singular/wei-2022-singular.pdf)" 2022.
 * E. Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 
 ## Schedule
@@ -42,6 +49,7 @@ Each week there is a main session and a supplementary session.
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4)).
 * **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem
 * **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg)).
+* **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo)).
 * **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE)).
 
 ## Background reading
