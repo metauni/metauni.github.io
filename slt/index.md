@@ -41,7 +41,8 @@ Each week there is a main session and a supplementary session.
 * **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4)).
 * **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem
-* **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory.
+* **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg)).
+* **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE)).
 
 ## Background reading
 
