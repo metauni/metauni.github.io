@@ -16,11 +16,13 @@ Some of the topics to be explored:
 * Renormalisation of Ising models and diagonalisation of Hamiltonians (= finding a presentation of the dynamics that emphasises creation and annihilation operators for degrees of freedom that are "important", i.e. have large eigenvalues).
 * PCA (= finding a presentation of data that emphasises degrees of freedom that are "important" i.e. such that a scalar projection has large variance) 
 
-Renormalisation references:
+References:
 
 * Emch-Liu "The Logic of Thermostatistical Physics" Section 13.2 [The renormalisation program](http://www.therisingsea.org/notes/renorm.pdf).
 * Di Francesco-Mathieu-Sénéchal "Conformal Field Theory" Ch. 3, [statistical mechanics](http://www.therisingsea.org/notes/CFT-ch3.pdf).
 * A [tour of renormalisation](https://www.complexityexplorer.org/courses/67-introduction-to-renormalization) by Simon Dedeo.
+* C. Bergbauer, R. Brunetti, D. Kreimer "[Renormalization and resolution of singularities](https://arxiv.org/abs/0908.0633)" 2009.
+* A. Pagano "[Lecture notes on statistical mechanics](https://github.com/AlicePagano/Lecture-Notes-of-Statistical-Mechanics)".
 
 ## Schedule
 
