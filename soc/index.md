@@ -21,12 +21,6 @@ This course will be taught at [metauni](https://metauni.org), using Roblox for t
 Organisers:
 * [Will Troiani](https://williamtroiani.github.io/Mathematics.html) ([Fleetwood_Obdurate](https://www.roblox.com/users/2312973422/profile) on Roblox) and [Billy Snikkers](https://blinkybool.github.io/web/) ([blinkybill](https://www.roblox.com/users/2293079954/profile) on Roblox), neither with PhDs in category theory.
 
-## Asynchronous Attendance
-
-All lectures will be recorded and posted to the [metauni youtube channel](https://www.youtube.com/c/TheRisingSea), but we will also experimenting with something we call *replays*. This means that we will present some lectures with VR, recording the presenters movements, writing and voice so that you can actually *attend* a past lecture in Roblox. Here's our [first attempt](https://www.youtube.com/watch?v=s4dfwxzXEFM) at it, which you can actually experience right now in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
-
-We think there's some magic in replays, even beyond the ability to *attend* asynchronously, and we will run some replay viewing sessions where we'll experiment with some of our ideas. Imagine being able to pause the replay-lecturer, and ask the real lecturer (or tutor) to clarify what was just said, or elaborate on some interesting tangent. 
-
 ## Course Schedule
 
 Each lecture will be 1.5hr. In the schedule below, the references are given after the section number, eg `R 1.3` refers to Section 1.3 of Category Theory in Context. The lecturer is given in brackets, `(B)` means Billy and `(W)` means Will (subject to change).
@@ -55,6 +49,12 @@ Exercise sheets will appear here and also in the discord channels for each week.
 - **Week 1:** [Exercises](./Exercises/Week1.pdf)
 - **Week 2:** [Exercises](./Exercises/Week2SoC.pdf)
 <!-- - **Week 3:** [Exercises](./Exercises/Week3.pdf) -->
+
+## Asynchronous Attendance
+
+All lectures will be recorded and posted to the [metauni youtube channel](https://www.youtube.com/c/TheRisingSea), but we will also experimenting with something we call *replays*. This means that we will present some lectures with VR, recording the presenters movements, writing and voice so that you can actually *attend* a past lecture in Roblox. Here's our [first attempt](https://www.youtube.com/watch?v=s4dfwxzXEFM) at it, which you can actually experience right now in [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
+
+We think there's some magic in replays, even beyond the ability to *attend* asynchronously, and we will run some replay viewing sessions where we'll experiment with some of our ideas. Imagine being able to pause the replay-lecturer, and ask the real lecturer (or tutor) to clarify what was just said, or elaborate on some interesting tangent. 
 
 ## Registration
 
