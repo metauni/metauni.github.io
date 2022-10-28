@@ -47,10 +47,11 @@ Each week there is a main session and a supplementary session.
 * **15-9-22** (*Matt Faruggia-Roberts*): Piecewise-linear paths in equivalent networks ([video](https://youtu.be/WBiFFIhGIZM)).
 * **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4)).
-* **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem
-* **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg)).
-* **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo)).
-* **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE)).
+* **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem ([video](https://youtu.be/N30wJhaO68k), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
+* **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
+* **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)).
+* **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010)).
+* **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)).
 
 ## Background reading
 
