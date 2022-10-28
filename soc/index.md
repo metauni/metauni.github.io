@@ -6,15 +6,6 @@ Welcome to Shadows of Computation. This (free!) online course covers the foundat
 
 There is also a secondary aim of the course: to teach how to present theoretical ideas. Two of the lectures will be about lecturing, and students will be encouraged to present a short talk at the end of the course, covering an extension of the ideas presented in the lectures.
 
-## Registration
-
-<b>REGISTER NOW</b>. There's a 45 student limit to the course, which is the most people we can have in a single Roblox server. So registration is essential for live attendance, but recorded lectures will be publicly available. Here is the registration process:
-
-1. Follow Steps 1 and 2 of the [instructions](https://metauni.org/posts/instructions/instructions) to setup your Roblox and Discord accounts.
-2. Open the [metauni Discord server](https://discord.gg/9yBaAxPSK8) and post in the `#soc-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
-3. Join the [metauni Roblox group](https://www.roblox.com/groups/13108882/metauni#!/about). This way we can give you permission to write on the blackboards throughout metauni.
-4. If you don't check discord regularly, you can subscribe to the mailing list to receive important updates from now until the first class (this is the same mailing list used for mag). Otherwise you can watch the `#shadows-of-computation` channel in the [metauni Discord](https://discord.gg/9yBaAxPSK8) for updates.
-
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/adminmetauni" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/adminmetauni', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to get updates on Shadows of Computation:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
 This course will be taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community.
@@ -41,8 +32,8 @@ We think there's some magic in replays, even beyond the ability to *attend* asyn
 Each lecture will be 1.5hr. In the schedule below, the references are given after the section number, eg `R 1.3` refers to Section 1.3 of Category Theory in Context. The lecturer is given in brackets, `(B)` means Billy and `(W)` means Will (subject to change).
 
 * **03-10-22** **Welcome** Introductions + Setup assistance.
-* **10-10-22** **Lecture 1:** Making subtle ideas apparent `(W) R 1.1` ([notes](https://williamtroiani.github.io/CategoryTheory/Lecture1.pdf), [video](https://youtu.be/pF2Q0slMN8o)).
-* **24-10-22** **Lecture 2:** Structure preservation `(B) R 1.3` ([notes](./Notes/Lecture%202%20Notes.pdf), [video](https://youtu.be/ZTMAe2hxNE4)).
+* **10-10-22** **Lecture 1:** Making subtle ideas apparent `(W) R 1.1` ([notes](https://williamtroiani.github.io/CategoryTheory/Lecture1.pdf), [video](https://youtu.be/pF2Q0slMN8o), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)).
+* **24-10-22** **Lecture 2:** Structure preservation `(B) R 1.3` ([notes](./Notes/Lecture%202%20Notes.pdf), [video](https://youtu.be/ZTMAe2hxNE4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%203)).
 * **Lecture 3:** Naturality/how to present mathematics 1 `(W) R 1.4`.
 * **Lecture 4:** Limits `(B) R 3.1, 3.2`.
 * **Lecture 5:** The untyped and the simply typed λ-calculus `(B) R 1.2, 3.3` [Lectures on the Curry-Howard Isomorphism](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf).
@@ -64,6 +55,15 @@ Exercise sheets will appear here and also in the discord channels for each week.
 - **Week 1:** [Exercises](./Exercises/Week1.pdf)
 - **Week 2:** [Exercises](./Exercises/Week2SoC.pdf)
 <!-- - **Week 3:** [Exercises](./Exercises/Week3.pdf) -->
+
+## Registration
+
+There's a 45 student limit to the course, which is the most people we can have in a single Roblox server. So registration is essential for live attendance, but recorded lectures will be publicly available. Here is the registration process:
+
+1. Follow Steps 1 and 2 of the [instructions](https://metauni.org/posts/instructions/instructions) to setup your Roblox and Discord accounts.
+2. Open the [metauni Discord server](https://discord.gg/9yBaAxPSK8) and post in the `#soc-registration` channel with your Roblox username and how you want people to refer to you. This is mainly for your classmates, so you may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure though, your Roblox username is enough (for administration purposes we need to know the connection between Discord accounts and Roblox usernames).
+3. Join the [metauni Roblox group](https://www.roblox.com/groups/13108882/metauni#!/about). This way we can give you permission to write on the blackboards throughout metauni.
+4. If you don't check discord regularly, you can subscribe to the mailing list to receive important updates from now until the first class (this is the same mailing list used for mag). Otherwise you can watch the `#shadows-of-computation` channel in the [metauni Discord](https://discord.gg/9yBaAxPSK8) for updates.
 
 ## Pre-requisites
 
