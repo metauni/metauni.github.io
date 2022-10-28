@@ -30,7 +30,7 @@ Dates are AEDT.
 * **4-8-22** (*Rohan Hitchcock*): The cut operation Part 1 ([video](https://youtu.be/zbAYN4MsEVA)).
 * **11-8-22** (*Rohan Hitchcock*): The cut operation Part 2 ([video](https://youtu.be/e1c5HosIs_g)).
 * **25/8/22** (*Rohan Hitchcock*): Differentiation and Euclidean division ([video](https://youtu.be/tiYctrHB-b4)).
-* **20/10/22** (*Rohan Hitchcock*): Differentiation, division and the bicategory of Landau-Ginzburg models (MSc thesis presentation) ([video](https://youtu.be/386z_oBmR3w)).
+* **20/10/22** (*Rohan Hitchcock*): Differentiation, division and the bicategory of Landau-Ginzburg models (MSc thesis presentation) ([video](https://youtu.be/386z_oBmR3w), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209)).
 
 ## Notes
 
