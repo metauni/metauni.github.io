@@ -48,6 +48,7 @@ Exercise sheets will appear here and also in the discord channels for each week.
 
 - **Week 1:** [Exercises](./Exercises/Week1.pdf)
 - **Week 2:** [Exercises](./Exercises/Week2SoC.pdf)
+- **Week 3:** [Exercises](./Ecercises/Week3SoC.pdf)
 <!-- - **Week 3:** [Exercises](./Exercises/Week3.pdf) -->
 
 ## Asynchronous Attendance
