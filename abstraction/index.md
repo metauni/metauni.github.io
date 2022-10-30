@@ -26,7 +26,7 @@ References:
 
 ## Schedule
 
-* **29-9-22** *Alexander Oldenziel* Natural Abstraction I ([video](https://youtu.be/rll6LzXztDM)).
+* **29-9-22** *Alexander Oldenziel* Natural Abstraction I ([video](https://youtu.be/rll6LzXztDM)), [notes](https://drive.google.com/file/d/1mhqpeE7xmKP2BmcvZoU6PU6nrhogSrZm/view).
 * **13-10-22** *Daniel Murfet* Resolution I: Blowing up ([video](https://youtu.be/CWNaKMP8Teo)).
 * **27-10-22** *Ben Gerraty* Renormalisation I: The Ising model
 * **10-11-22** *Alexander Oldenziel* Natural Abstraction II
