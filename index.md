@@ -40,7 +40,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session, open problem list. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
-* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
+* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. *This week* Morgan on what logic has to contribute to other areas of mathematics, using the language of Morita equivalences. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)
 
 <!-- END WHATS ON -->
 
