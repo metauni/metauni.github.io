@@ -29,18 +29,29 @@ whats on:
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: what is in-context learning?"
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session, open problem list."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011
     alias: SLT
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
+- Foundations:
+   time: 21:00-22:00
+   organizer: Billy Snikkers, Will Troiani
+   desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves."
+   website: https://metauni.org/foundations
+   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
+whats off:
 - Abstraction:
     time: 20:00-21:00
     organizer: Alexander Oldenziel
     desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Ben on renormalisation."
     website: https://metauni.org/abstraction
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203
-    
-whats off:
 - Landau-Ginzburg:
     time: 15:00-16:00
     organizer: Rohan Hitchcock
@@ -48,19 +59,6 @@ whats off:
     website: https://metauni.org/lg
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209
     alias: LG
-- Foundations:
-   time: 21:00-22:00
-   organizer: Billy Snikkers, Will Troiani
-   desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves."
-   note: "**This Week**: Discussion about compactness vs completeness"
-   website: https://metauni.org/foundations
-   location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202
-- Cryptography:
-    time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
