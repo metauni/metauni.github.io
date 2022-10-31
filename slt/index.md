@@ -13,8 +13,10 @@ The canonical references are Watanabe's two textbooks:
 * **The gray book:** S. Watanabe "[Algebraic geometry and statistical learning theory](https://www.cambridge.org/core/books/algebraic-geometry-and-statistical-learning-theory/9C8FD1BDC817E2FC79117C7F41544A3A)" 2009.
 * **The green book:** S. Watanabe "[Mathematical theory of Bayesian statistics](https://www.routledge.com/Mathematical-Theory-of-Bayesian-Statistics/Watanabe/p/book/9780367734817)" 2018.
 
-Some other references:
+Some other introductory references:
 
+* Spencer Wong's MSc thesis, May 2022, [From Analytic to Algebraic: The Algebraic Geometry of Two Layer Neural Networks](http://therisingsea.org/notes/MScThesisSpencerWong.pdf).
+* [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s MSc thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
 * S. Wei, D. Murfet, M. Gong, H. Li , J. Gell-Redman, T. Quella "[Deep learning is singular, and that's good](https://www.suswei.com/publication/wei-2022-singular/wei-2022-singular.pdf)" 2022.
 * E. Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 
