@@ -1,10 +1,10 @@
-metauni day: "27/10/2022" # dd/mm/yyyy
+metauni day: "03/11/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
 - Shadows of Computation:
    time: 19:30-21:00
-   date: 24/10/2022
+   date: 31/10/2022
    organizer: Billy Snikkers, Will Troiani
    desc: "The shadows cast by computation onto category theory."
    note: "**This Week**: The gap between equivalent concepts"
@@ -19,7 +19,7 @@ whats on:
 - Code:
     time: 12:00-13:00
     organizer: Ethan Curtiss
-    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Ethan demos cleaning up the desert."
+    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Billy on Render and graphs."
     website: https://metauni.org/code
     location: "#General"
 - "#metauni-dev":
