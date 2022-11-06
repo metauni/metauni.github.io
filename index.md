@@ -32,7 +32,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- BEGIN WHATS ON -->
 ### October 31, 2022
-* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: The gap between equivalent concepts [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204)
+* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: A Natural Presentation [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%205)
 
 ### November 03, 2022
 * **[Disruption](https://metauni.org/disruption)** **10:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
