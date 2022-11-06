@@ -1,6 +1,6 @@
 # Shadows of Computation
 
-<center> <h1><a href="https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204" target="_blank">JOIN NOW </a> </h1></center>
+<center> <h1><a href="https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%205" target="_blank">JOIN NOW </a> </h1></center>
 
 Welcome to Shadows of Computation. This (free!) online course covers the foundations of category theory, which is used by computer scientists to abstract computing systems to reveal their intrinsic mathematical properties. This course is targeted towards those who are mathematically inclined, and interested in learning how category theory can be used in theoretical computer science.
 
@@ -11,7 +11,7 @@ There is also a secondary aim of the course: to teach how to present theoretical
 This course will be taught at [metauni](https://metauni.org), using Roblox for the 3D virtual environment and voice chat and Discord for community.
 
 * **Time**: starting October 10 2022, weekly 1.5 hour lectures on Mondays 19:30-21:00 AEDT (UTC +11), weekly 1 hour exercise sessions Wednesdays 20:00 AEDT (UTC +11). The class will run for 9 weeks. We realise that the timeslot will not be feasible in certain timezones, but this may not be a problem - see [Asynchronous Attendance](#asynchronous-attendance).
-* **Location**: [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8) for communication outside of Roblox. See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set up spatial audio.
+* **Location**: [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%205), a 3D virtual world built in Roblox, which is part of [metauni](https://metauni.org). At metauni we write on blackboards (which retain their contents when you leave) and talk using position-based voice chat (people far away can't hear you). We also use the [metauni Discord](https://discord.gg/9yBaAxPSK8) for communication outside of Roblox. See the [instructions](https://metauni.org/posts/instructions/instructions) for how to set up spatial audio.
 
 > **Important**: _you must have spatial voice set up (before you join a lecture) to hear other people speaking_.
 
@@ -29,7 +29,7 @@ Each lecture will be 1.5hr. In the schedule below, the references are given afte
 * **10-10-22** **Lecture 1:** Making subtle ideas apparent `(W) R 1.1` ([notes](https://williamtroiani.github.io/CategoryTheory/Lecture1.pdf), [video](https://youtu.be/pF2Q0slMN8o), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%202)).
 * **24-10-22** **Lecture 2:** If it quacks like a duck... `(B) R 1.3` ([notes](./Notes/Lecture%202%20Notes.pdf), [video](https://youtu.be/ZTMAe2hxNE4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%203)).
 * **Lecture 3:** **Lecture 3:** The gap between equivalent concepts `(W) R 1.4` (The notes are spread out between [this file](https://williamtroiani.github.io/CategoryTheory/Lecture2.pdf) and [this file](https://williamtroiani.github.io/CategoryTheory/Lecture345.pdf), [video](https://youtu.be/r-q-wQOQ-IU), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204)).
-* **Lecture 4:** Limits `(B) R 3.1, 3.2`.
+* **Lecture 4:** A natural presentation `(W) R 1.4` ([notes](https://williamtroiani.github.io/CategoryTheory/Lecture345.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%205)).
 * **Lecture 5:** The untyped and the simply typed λ-calculus `(B) R 1.2, 3.3` [Lectures on the Curry-Howard Isomorphism](https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf).
 * **Lecture 6:** The category of λ-terms and the Curry-Howard correspondence `(W)` ([Gentzen-Mints-Zucker Duality](https://arxiv.org/abs/2008.10131).
 * **Lecture 7:** The Yoneda Lemma `(W) R 2.2`.
@@ -38,7 +38,7 @@ Each lecture will be 1.5hr. In the schedule below, the references are given afte
 
 ## Exercise Sessions
 
-We encourage learning by doing. Each week there will be assigned exercises for you to practice and better your understanding of the lecture content with your peers. There will be a regular exercise session on Wednesdays at 20:00 AEDT in [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204), where you can get help from Billy, Will, or another experienced tutor.
+We encourage learning by doing. Each week there will be assigned exercises for you to practice and better your understanding of the lecture content with your peers. There will be a regular exercise session on Wednesdays at 20:00 AEDT in [Moonlight Forest](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%205), where you can get help from Billy, Will, or another experienced tutor.
 
 It's hard to pick a time that works for every timezone, so it is also encouraged for you to schedule your own times to meet with other students for a study/exercise session.
 
@@ -48,7 +48,8 @@ Exercise sheets will appear here and also in the discord channels for each week.
 
 - **Week 1:** [Exercises](./Exercises/Week1.pdf)
 - **Week 2:** [Exercises](./Exercises/Week2SoC.pdf)
-- **Week 3:** [Exercises](./Ecercises/Week3SoC.pdf)
+- **Week 3:** [Exercises](./Exercises/Week3SoC.pdf)
+- **Week 4:** [Exercises](./Exercises/Week4SoC.pdf)
 <!-- - **Week 3:** [Exercises](./Exercises/Week3.pdf) -->
 
 ## Asynchronous Attendance
