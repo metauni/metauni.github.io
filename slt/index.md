@@ -1,6 +1,6 @@
 # Singular Learning Theory
 
-This is a seminar on [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)'s Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory, co-organised by Edmund Lau and Dan Murfet.
+This is the homepage of a seminar on Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory founded by [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/). The seminar takes place at [metauni](https://www.metauniorg) every Thursday and all are welcome, for the future schedule see the metauni homepage.
 
 ![banner](seminar-slt.png)
 
@@ -54,6 +54,7 @@ Each week there is a main session and a supplementary session.
 * **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)).
 * **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010)).
 * **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)).
+* **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012)).
 
 ## Background reading
 
