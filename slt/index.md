@@ -23,6 +23,8 @@ Some other introductory references:
 
 ## Schedule
 
+![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
+
 Each week there is a main session and a supplementary session.
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
