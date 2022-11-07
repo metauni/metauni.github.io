@@ -25,21 +25,21 @@ Some other introductory references:
 Each week there is a main session and a supplementary session.
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
-    * **Supplementary** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
+* **13-1-22** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
 * **20-1-22** (*Edmund Lau*):  Fisher information, KL-divergence and singular models ([video](https://youtu.be/U9bnkWuFSSM)).
-    * **Supplementary** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
+* **20-1-22** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
 * **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8))
-    * **Supplementary** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
+* **27-1-22** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
 * **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4)).
-    * **Supplementary** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
+* **3-2-22** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
 * **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf)).
-    * **Supplementary** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
+* **10-2-22** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU)).
-    * **Supplementary**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
+* **17-2-22**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
 * **24-2-22** (*Edmund Lau*): Free energy asymptotics ([video](https://youtu.be/QBaJH5QRAA8))
-    * **Supplementary**: Working session 2 ([video](https://youtu.be/c7Di-oAZxNg))
+* **24-2-22**: Working session 2 ([video](https://youtu.be/c7Di-oAZxNg))
 * **3-3-22** (*Spencer Wong*): From analytic to algebraic III ([video](https://youtu.be/LWylEE5M9lc)).
-    * **Supplementary**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0)).
+* **3-3-22**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0)).
 * **10-3-22** (*Tom Waring*): Regularly parametrised models ([video](https://youtu.be/T8Lgvt0mfuY)).
 * **17-3-22** (*Edmund Lau*): Bounding the partition function ([video](https://youtu.be/7x16e4yHsHg)).
 * **24-3-22** (*Edmund Lau*): The influence of sampling ([video](https://youtu.be/JyZnMinS86Q)).
