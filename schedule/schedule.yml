@@ -1,4 +1,4 @@
-metauni day: "03/11/2022" # dd/mm/yyyy
+metauni day: "10/11/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -19,7 +19,7 @@ whats on:
 - Code:
     time: 12:00-13:00
     organizer: Ethan Curtiss
-    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Billy on Render and graphs."
+    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Excursion."
     website: https://metauni.org/code
     location: "#General"
 - "#metauni-dev":
@@ -29,29 +29,29 @@ whats on:
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session, open problem list."
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Edmund on toric methods."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012
     alias: SLT
+- Abstraction:
+    time: 20:00-21:00
+    organizer: Alexander Oldenziel
+    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Alexander on abstraction."
+    website: https://metauni.org/abstraction
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203
+whats off:
 - Foundations:
    time: 21:00-22:00
    organizer: Billy Snikkers, Will Troiani
    desc: "The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. *This week* Morgan on what logic has to contribute to other areas of mathematics, using the language of Morita equivalences."
    website: https://metauni.org/foundations
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%203
-whats off:
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry
     desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
-- Abstraction:
-    time: 20:00-21:00
-    organizer: Alexander Oldenziel
-    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Ben on renormalisation."
-    website: https://metauni.org/abstraction
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203
 - Landau-Ginzburg:
     time: 15:00-16:00
     organizer: Rohan Hitchcock
