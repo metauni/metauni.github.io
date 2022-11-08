@@ -30,3 +30,5 @@ References:
 * **13-10-22** *Daniel Murfet* Resolution I: Blowing up ([video](https://youtu.be/CWNaKMP8Teo)).
 * **27-10-22** *Ben Gerraty* Renormalisation I: The Ising model
 * **10-11-22** *Alexander Oldenziel* Natural Abstraction II
+* **24-11-22** *Ben Gerraty* Renormalisation II
+* **8-12-22** *Calin Lazaroiu* RG flows and partial localisation.
