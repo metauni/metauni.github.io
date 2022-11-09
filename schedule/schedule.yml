@@ -11,15 +11,20 @@ whats on:
    website: https://metauni.org/soc
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204
 - Disruption:
-    time: 10:00-12:00
+    time: 10:00-11:30
     organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: more on AGI timelines, meaning."
     website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Tea break:
+    time: 11:30-12:00
+    organizer: Tetley
+    desc: "Have a break, have a Bicat. Mess around."
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Code:
     time: 12:00-13:00
     organizer: Ethan Curtiss
-    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Excursion."
+    desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: Excursion #3."
     website: https://metauni.org/code
     location: "#General"
 - "#metauni-dev":
