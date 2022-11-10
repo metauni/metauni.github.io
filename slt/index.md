@@ -58,6 +58,9 @@ Each week there is a main session and a supplementary session.
 * **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010)).
 * **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)).
 * **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012)).
+* **10-11-22** (*Edmund Lau*): Toric methods
+* **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis
+* **24-11-22** (*Susan Wei*): TBD
 
 ## Background reading
 
