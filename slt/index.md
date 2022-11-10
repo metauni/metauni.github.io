@@ -60,7 +60,8 @@ Each week there is a main session and a supplementary session.
 * **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012)).
 * **10-11-22** (*Edmund Lau*): Toric methods
 * **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis
-* **24-11-22** (*Susan Wei*): TBD
+
+* **8-12-22** (*Susan Wei*): TBD
 
 ## Background reading
 
