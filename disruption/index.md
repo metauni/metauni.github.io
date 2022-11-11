@@ -1,6 +1,6 @@
 # Disruption
 
-Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
+Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 
 * **Organiser**: Adam Dorr.
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
@@ -20,3 +20,4 @@ Towards a science of technological disruption. Thursdays `2:30pm-3:00pm AEDT`.
 * **31-3-22** Seminar 14: conceptual frameworks for automation and disruption ([video](https://youtu.be/PljCm-O5fe0)).
 * **28-4-22** Seinar 15: pulses and restoration ([video](https://youtu.be/DSgHO6wSzd0)).
 * **5-5-22** Seminar 16: pulses and restoration Part 2 ([video](https://youtu.be/DSgHO6wSzd0)).
+* **10-11-22** Seminar 31: Why do we do mathematics? ([video](https://youtu.be/6GNsMD2d4j0)).
