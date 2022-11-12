@@ -14,3 +14,4 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 * *Dan Murfet*
 * *Isaac Smith* (to be confirmed)
 * *Adam Dorr* (to be confirmed)
+* *Will Troiani*
