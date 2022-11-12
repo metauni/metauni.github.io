@@ -15,3 +15,4 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 * *Isaac Smith* (to be confirmed)
 * *Adam Dorr* (to be confirmed)
 * *Will Troiani*
+* *Lucas Cantor*
