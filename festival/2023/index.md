@@ -6,7 +6,7 @@ On the 14th of January 2023, [metauni](https://www.metauni.org) will turn two ye
 <img src="https://user-images.githubusercontent.com/320329/201472401-d4fa2fc7-e83d-4958-9585-a1f8c5f96948.png">
 </p>
 
-Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (*please!*) then propose a topic to speak about in the Discord channel. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
+Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (and please do) then propose a topic to speak about in the Discord channel. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
 
 ## Speakers
 
