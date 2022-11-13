@@ -17,6 +17,7 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 * *Adam Dorr*
 * *Will Troiani*
 * *Lucas Cantor*
+* *Joey Velez-Ginorio*
 
 ## Instructions
 
