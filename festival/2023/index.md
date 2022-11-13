@@ -21,4 +21,4 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 
 ## Instructions
 
-At metauni most talks are given with a tablet, writing on a board. You can also give a slide talk, but these will have to be sent to an organiser at least a day before to be uploaded and placed into the world. Please see the [general instructions](https://metauni.org/posts/instructions/instructions) for how to get into metauni, and the [speaker instructions](https://metauni.org/posts/instructions/instructions-admin) for more detailed information on giving a talk in the virtual environment.
+At metauni most talks are given with a tablet, writing on a board in the virtual world. You can also give a slide talk, but these will have to be sent to an organiser at least a day before to be uploaded and placed into the world. Please see the [general instructions](https://metauni.org/posts/instructions/instructions) for how to get into metauni, and the [speaker instructions](https://metauni.org/posts/instructions/instructions-admin) for more detailed information on giving a talk in the virtual environment.
