@@ -2,7 +2,7 @@
 
 ## 1. Setup
 
-Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation. Roblox is necessary, Discord is optional (but fun!). Both applications can be used on PC, Mac, iOS and Android. To set up spatial voice, Roblox's voice chat, you will need 5-10 minutes and a photo ID showing that you are at least 13 years old.
+Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation. Roblox is necessary, Discord is optional (but recommended). Both applications can be used on PC, Mac, iOS and Android. To set up spatial voice, Roblox's voice chat, you will need 5-10 minutes and a photo ID showing that you are at least 13 years old.
 
 We recommend that you open the links in each step in a separate tab, so that you can refer back to these instructions:
 
@@ -10,8 +10,9 @@ We recommend that you open the links in each step in a separate tab, so that you
 2. Complete *Age verification* on the [Settings](https://www.roblox.com/my/account#!/info) page (under your Birthday).
 3. Toggle *Enable voice chat* to *On* on the [Privacy](https://www.roblox.com/my/account#!/privacy) page (if you don't see this toggle and you completed Step 1, try refreshing your page).
 4. Enter [metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
+5. It is not the case that anything goes at metauni, please check the [Roblox rules](http://metauni.org/posts/rules/rules) and use common sense (do not be verbally abusive, for example).
 
-You might like to review the [Roblox rules](http://metauni.org/posts/rules/rules). See also the [instructions for speakers and admins](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware).
+If you're giving a talk, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware).
 
 ### 2. Discord
 
