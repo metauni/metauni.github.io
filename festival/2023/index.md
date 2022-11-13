@@ -6,14 +6,15 @@ On the 14th of January 2023, [metauni](https://www.metauni.org) will turn two ye
 <img src="https://user-images.githubusercontent.com/320329/201472401-d4fa2fc7-e83d-4958-9585-a1f8c5f96948.png">
 </p>
 
-Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (and please do) then propose a topic to speak about in the Discord channel. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
+Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (and please do) then propose a topic to speak about in the Discord channel; mentorship on giving talks is available. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
 
-## Speakers
+## Confirmed speakers
+
+We hope to have about twenty speakers, spread across enough timeslots so that no matter your timezone there is a bunch of interesting talks to attend. So far the list of speakers is:
 
 * *Ethan Curtiss*
 * *Dan Murfet*
-* *Isaac Smith* (to be confirmed)
-* *Adam Dorr* (to be confirmed)
+* *Adam Dorr*
 * *Will Troiani*
 * *Lucas Cantor*
 
