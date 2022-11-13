@@ -12,12 +12,12 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 
 We hope to have about twenty speakers, spread across enough timeslots so that no matter your timezone there is a bunch of interesting talks to attend. So far the list of speakers is:
 
-* *Ethan Curtiss*
-* *Dan Murfet*
-* *Adam Dorr*
-* *Will Troiani*
-* *Lucas Cantor*
-* *Joey Velez-Ginorio*
+* *Ethan Curtiss* (math)
+* *Dan Murfet* (?)
+* *Adam Dorr* (?)
+* *Will Troiani* (math, logic)
+* *Lucas Cantor* (music)
+* *Joey Velez-Ginorio* (neuroscience, logic)
 
 ## Instructions
 
