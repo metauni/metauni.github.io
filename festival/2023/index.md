@@ -24,6 +24,8 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 * *Will Troiani* (math, logic)
 * *Lucas Cantor* (music)
 * *Joey Velez-Ginorio* (neuroscience, logic)
+* *Eleanor McMurtry* (cryptography)
+* *Rohan Hitchcock* (?)
 
 ## Other contributions
 
