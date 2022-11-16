@@ -33,9 +33,9 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!-- BEGIN WHATS ON -->
 ### November 17, 2022
 * **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: more on AGI timelines, meaning. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **Tea break** **11:30-12:00** (*Tetley*): Have a break, have a Bicat. Mess around. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **Tea break** **11:30-12:00** (*Tetley*): Celebrating Purposelessness. *This week* the metauni conference centre! [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: AIs in virtual worlds.
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt on his thesis. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2013)
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt on his thesis. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2015)
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
 
 <!-- END WHATS ON -->
