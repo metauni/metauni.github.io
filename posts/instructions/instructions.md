@@ -21,7 +21,40 @@ The installation of Discord is recommended:
 1. Create a [Discord](https://www.discord.com) account.
 2. Join the [Discord](https://discord.gg/9yBaAxPSK8), the official Discord server for metauni. If that link doesn't work properly for you, open Discord, click the large Plus "Add Server" button on on the left hand side, click "Join a Server" and paste `https://discord.gg/9yBaAxPSK8` into the textbox.
 
-## 3. The Basics
+## 3. Troubleshooting
+
+Here are the most common problems and what to do about them. 
+
+The only serious problem we commonly encounter is **Roblox voice chat** failures. Roblox's voice chat is in beta, and is not always reliable. Sometimes it will fail to start properly when you join an experience, or it will stop during a talk. It may sometimes happen that you can hear some people but not others. **Usually this is resolved by leaving the game and rejoining**. It seems there are multiple causes, and in general that the voice chat is just more vulnerable to interruption than say a Zoom call. That means if your WiFi connection is spotty, or bluetooth headphones lose connection momentarily etc., Roblox voice chat may fail. Here is a checklist we recommend:
+
+* Try rejoining the experience (multiple times).
+
+* Try cycling through the audio devices in the Roblox settings.
+
+* Try joining a different WiFi network.
+
+* Try to join the experience with plugged-in headphones (rather than Bluetooth).
+
+* Try restarting your device.
+
+* Try to make sure bandwidth heavy applications like Dropbox are disabled.
+
+Some other problems:
+
+* If you installed Roblox on Windows from the App Store, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home).
+
+* If you're having camera problems, try switching your Camera Settings to `Default (Classic)`.
+
+* If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN.
+
+* You may have problems using Firefox on the Roblox site.
+
+* If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
+
+* When drawing on the metaboards you might want to turn off the in-game chat by clicking on its icon (next to the Roblox icon in the top left).
+
+
+## 4. The Basics
 
 Roblox is a 3D game environment in which you move your character with the arrows keys or `W, A, S, D`, jump with `Spacebar`, and look around by holding down the right mouse down or doing a two-finger drag on a trackpad. You can click your mouse or tap your trackpad to interact with interface elements in the world (such as the whiteboards).
 
@@ -45,18 +78,6 @@ The microphone status indicator above your head has the states shown below. From
 
 ![micinstructions](https://user-images.githubusercontent.com/320329/148659348-4049c4a0-6ffd-48c8-9f48-7f9fad5b3baa.png)
 
-### 4.1 Troubleshooting
-
-Spatial voice is still in beta, and there are known issues:
-
-* ([GitHub issue](https://github.com/metauni/orb/issues/10)) If you suddenly stop hearing another player, or they stop hearing you, we recommend that you (a) try unplugging your headphones and plugging them in again, and waiting a few moments to see if this resolves the problem, and if not then (b) try leaving and rejoining the experience.
-
-* Spatial voice is more demanding on your Internet connection than the other parts of Roblox (e.g. the 3D spatial environment). You may find that, for example if your WiFi signal is low, you are able to join the Roblox experience *but spatial voice refuses to work* (e.g. it continues to show the red triangle). Sometimes simply moving closer to your WiFi router will fix the problem.
-
-* If you installed Roblox on Windows from the App Store, try installing the version of Roblox from [roblox.com](https://www.roblox.com/home).
-
-* If you're having camera problems, try switching your Camera Settings to `Default (Classic)`.
-
 ### 4.2 Privacy and age-verification
 
 The official instructions are [here](https://en.help.roblox.com/hc/en-us/articles/4405807645972-Spatial-Voice-). Roblox says that they never store "raw ID document data" but in order to verify your age, they send the picture of the government-issued ID that you upload to a third-party company called Veriff ([FAQ](https://en.help.roblox.com/hc/en-us/articles/4407276151188-Age-ID-Verification-FAQs)). They say in the FAQ that "Information uploaded to Veriff is retained for a period of 90 days. After this period, the uploaded data is removed from Veriff." 
@@ -64,14 +85,6 @@ The official instructions are [here](https://en.help.roblox.com/hc/en-us/article
 It is worth reading Veriff's [privacy policy](https://www.veriff.com/privacy-policy).
 
 > A human will be involved if the automated verification tool (the Robot) is not able to reach a decision on its own. This may occur, when the picture is blurry or the Robot runs into some other difficulty in analysing the verification session.. In the case of fully automated decision-making, where the decision has a significant effect on you, we will be transparent about such processing.
-
-## 6. Troubleshooting
-
-* If you have trouble connecting to Roblox (and you have clicked Retry a few times) you might have to turn off your VPN.
-* You may have problems using Firefox on the Roblox site.
-* If your mouse gets locked try zooming all the way in with `I` and then out with `O`.
-* When drawing on the whiteboards you might want to turn off the in-game chat by clicking on its icon (next to the Roblox icon in the top left).
-* If you're having connectivity issues (which often manifest as Roblox voice chat not working) make sure bandwidth heavy applications like Dropbox are disabled.
 
 ## 7. VR
 
