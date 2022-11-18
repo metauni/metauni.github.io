@@ -15,6 +15,10 @@ Some background knowledge about how lectures in metauni work: players walk their
 
 ## Antics
 
+When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
+
+The ability to manifest your own will, creatively, in a shared space makes it feel real. This feeling of reality buttresses the rest of the experience. Creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards, or saying "thanks" to the speaker by writing it in fancy colours on your personal board) to the social and complex (see the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
+
 <img width="700" alt="Screen Shot 2022-07-21 at 7 31 50 am copy" src="https://user-images.githubusercontent.com/320329/180327328-cadeab5b-e67e-4434-a0d0-07fe9a596875.png">
 
 > The problem is that passively watching a lecture does not quite light up enough different parts of the brain for focus to flow naturally
