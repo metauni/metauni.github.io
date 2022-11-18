@@ -5,7 +5,7 @@ description:
     Some high level principles and guidelines
 ---
 
-Metauni is a new institution of higher learning. It has been running since January 2021, 
+Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here.
 
 ## Guiding principles
 
