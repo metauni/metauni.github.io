@@ -13,6 +13,10 @@ Some background knowledge about how lectures in metauni work: players walk their
 * At some interval (perhaps every few boards, perhaps per set) disengage Orbcam and navigate their character to the next set of boards
 * Re-engage Orbcam
 
+## Video is overrated
+
+In Zoom the feeling of co-presence is based on being able to see other people's faces. This is better than lecturing to a blank screen, but it is also [exhausting](https://psycnet.apa.org/fulltext/2021-77825-003.pdf). In a 3D environment you get a sense of other people paying attention to what is going on, without having to constantly see their faces and your own.
+
 ## Antics
 
 When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
