@@ -72,7 +72,9 @@ Roblox is a utility platform for large-scale 3D social environments (see [Baszuc
 
 Metauni is not a University, and is not aiming to become one.
 
-Universities are large bureaucratic solutions to a set of problems of how to coordinate lecturers, students, knowledge, research, certification of job readiness and physical infrastructure. Some of these, like certification of job readiness and physical infrastructure, metauni is not concerned with at all. For the remaining items, our observation is that new technology, particularly the Internet maturing enough to support vibrant virtual worlds full of people and artificial intelligence, has allowed for these coordination problems to be solved in a new and better way. Metauni is a contraction mapping iterating towards one of the fixed points in this new space.
+Universities are large bureaucratic solutions to a set of problems of how to coordinate lecturers, students, knowledge, research, certification of job readiness and physical infrastructure. Some of these, like certification of job readiness and physical infrastructure, metauni is not concerned with at all. For the remaining items, our observation is that new technology, particularly the Internet maturing enough to support vibrant virtual worlds full of people and artificial intelligence, has allowed for these coordination problems to be solved in a new and better way. 
+
+Metauni is a contraction mapping iterating towards one of the fixed points in this newly enlarged space.
 
 ## Seminar-first
 
