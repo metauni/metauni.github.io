@@ -7,6 +7,8 @@ description:
 
 Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. Some of the discussion is abstract: for more on how to instantiate these principles concretely, see the [praxis page](https://metauni.org/praxis/).
 
+Metauni is a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 we have been meeting every week for seminars on Thursdays (AEDT) and have run several classes ([MAG](https://www.metauni.org/mag), [SoC](https://www.metauni.org/soc)). To see what we've been up to, the best way is to check the [YouTube channel](https://www.youtube.com/@_metauni).
+
 ## Guiding principles
 
 1. Virtual Is Real
