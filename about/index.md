@@ -5,7 +5,7 @@ description:
     Some high level principles and guidelines
 ---
 
-Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. For reflections on practical aspects of running events in virtual spaces, see the [theory page](https://metauni.org/theory/).
+Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. Some of the discussion is abstract: for more on how to instantiate these principles concretely, see the [praxis page](https://metauni.org/praxis/).
 
 ## Guiding principles
 
@@ -26,8 +26,6 @@ It is my strong belief that this process can’t be short-circuited, can’t be 
 
 ## 2. Celebrate Purposelessness
 
-Let me tell you a story. 
-
 > A long time ago a carpenter was travelling between cities, when he came across an oak tree which was so vast that a thousand people could stand underneath it. A boat could be carved from each of its major branches. Masses of people came to see it, giving the place a carnival atmosphere. But the carpenter didn’t even look at the tree, he just went on his way. His assistant was shocked, and said to his master “Why did you not even glance at it nor stop, I have never seen such a great tree!”
 
 > The master said “This tree is useless, make a boat from it and it would sink; make a coffin and it would rot quickly; make some furniture and it would fall to pieces. This wood is useless and good for nothing. This is why it has lived so long”
@@ -41,10 +39,6 @@ Let me tell you a story.
 That’s a story from Chuang Tzu, I don’t know a better way of saying it.
 
 A virtual world in which everyone knows exactly why they are there, and every detail has a clear purpose, is a dead place with as much soul as a car park or a vending machine. To breathe life into a virtual world, celebrate purposelessness. Recognise that some ends can only be approached obliquely and over long periods of time.
-
-When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
-
-The ability to manifest your own will, creatively, in a shared space makes it feel real. This feeling of reality buttresses the rest of the experience. Creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards, or saying "thanks" to the speaker by writing it in fancy colours on your personal board) to the social and complex (see the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
 
 ## Why Roblox?
 
