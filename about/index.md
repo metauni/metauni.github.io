@@ -5,7 +5,7 @@ description:
     Some high level principles and guidelines
 ---
 
-Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here.
+Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. For reflections on practical aspects of running events in virtual spaces, see the [theory page](https://metauni.org/theory/).
 
 ## Guiding principles
 
@@ -13,6 +13,18 @@ Metauni is a new institution of higher learning, founded in early 2021. This is 
 2. Celebrate Purposelessness
 3. Beauty Is Infrastructure
 4. In Wildness
+
+## 1. Virtual is Real
+
+## 2. Celebrate Purposelessness
+
+When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
+
+The ability to manifest your own will, creatively, in a shared space makes it feel real. This feeling of reality buttresses the rest of the experience. Creative acts range from the individual and simple (demonstrating your attention by following the speaker between boards, or saying "thanks" to the speaker by writing it in fancy colours on your personal board) to the social and complex (see the [Pillars Incident](https://youtu.be/jryDAxI3XSo)).
+
+## Why Roblox?
+
+Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
 
 ## Not a University 
 
@@ -24,6 +36,18 @@ Universities are large bureaucratic solutions to a set of problems of how to coo
 
 Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years.
 
+## Video is overrated
+
+In Zoom the feeling of co-presence is based on being able to see other people's faces. This is better than lecturing to a blank screen, but it is also [exhausting](https://psycnet.apa.org/fulltext/2021-77825-003.pdf). In a 3D environment you get a sense of other people paying attention to what is going on, without having to constantly see their faces and your own.
+
 ## Not always free
 
 Seminars will always be free, because they are our gift to each other. We expect to be releasing most of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source. We expect to be offering paid short classes sometime in 2023.
+
+We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
+
+> I really keenly feel that the 3d world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
+
+## Historical influences
+
+Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin), [Lianda](https://en.wikipedia.org/wiki/National_Southwestern_Associated_University) and [Sabishii University](https://www.kimstanleyrobinson.info/content/shabishii).
