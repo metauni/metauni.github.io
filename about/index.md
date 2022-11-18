@@ -78,7 +78,7 @@ Metauni is a contraction mapping iterating towards one of the fixed points in th
 
 ## Seminar-first
 
-Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years.
+Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years. As an institution, our primary goal is to **make metauni seminars great**. We view classes, replays, AI agents and our code infrastructure as ways to servie that mission: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
 
 ## Not always free
 
