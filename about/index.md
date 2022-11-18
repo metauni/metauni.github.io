@@ -13,6 +13,16 @@ Metauni is a new institution of higher learning, founded in early 2021. This is 
 
 * **Infrastructure**: while metauni is built in Roblox, we have built substantial libraries of our own code to facilitate intellectual activities. This includes [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects (see our [GitHub](https://github.com/metauni)). Most of this is being released as open source.
 
+From 2023 onwards we expect the following elements to also play a large role:
+
+* **Replays**: replays are multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects (it's better to experience it yourself, see the [video](https://youtu.be/s4dfwxzXEFM) or jump into the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea) to see it in action). We believe these are a compelling new format for communicating complex ideas.
+
+* **AIs**: we have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds.
+
+## Some metrics
+
+As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` regular weekly attendees. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
+
 ## Guiding principles
 
 1. Virtual Is Real
