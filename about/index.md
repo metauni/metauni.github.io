@@ -40,6 +40,12 @@ That’s a story from Chuang Tzu, I don’t know a better way of saying it.
 
 A virtual world in which everyone knows exactly why they are there, and every detail has a clear purpose, is a dead place with as much soul as a car park or a vending machine. To breathe life into a virtual world, celebrate purposelessness. Recognise that some ends can only be approached obliquely and over long periods of time.
 
+## 4. In Wildness
+
+> We have mapped, tamed, and dismembered the physical wilderness of our earth. But, at the same time, we have created a digital wilderness whose evolution may embody a collective wisdom greater than our own. No digital universe can ever be completely mapped. We have traded one jungle for another, and in this direction lies not fear but hope. For our destiny and our sanity as human beings depend on our ability to serve a nature whose intelligence we can glimpse all around us, but never quite comprehend. Not in wilderness, but "in Wildness," wrote an often misquoted Henry David Thoreau, "is the preservation of the world."  -- G. Dyson, "Darwin among the Machines".
+
+At metauni we value contact between human intelligence and Nature, which in virtual worlds mainfests in several forms including generative environments like [Songspires](https://www.metauni.org/songspires) that are the result of long-running computations with unpredictable and beautiful consequences, and artificially intelligent agents. 
+
 ## Why Roblox?
 
 Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
@@ -53,10 +59,6 @@ Universities are large bureaucratic solutions to a set of problems of how to coo
 ## Seminar-first
 
 Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years.
-
-## Video is overrated
-
-In Zoom the feeling of co-presence is based on being able to see other people's faces. This is better than lecturing to a blank screen, but it is also [exhausting](https://psycnet.apa.org/fulltext/2021-77825-003.pdf). In a 3D environment you get a sense of other people paying attention to what is going on, without having to constantly see their faces and your own.
 
 ## Not always free
 
