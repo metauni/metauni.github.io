@@ -60,11 +60,7 @@ In Zoom the feeling of co-presence is based on being able to see other people's 
 
 ## Not always free
 
-Seminars will always be free, because they are our gift to each other. We expect to be releasing most of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source. We expect to be offering paid short classes sometime in 2023.
-
-We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
-
-> I really keenly feel that the 3d world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
+Seminars will always be free, because they are our gift to each other. We expect to be releasing most of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source, but eventually some of it may not be publicly released. We expect to be offering paid short classes sometime in 2023.
 
 ## Historical influences
 
