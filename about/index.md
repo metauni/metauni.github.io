@@ -82,7 +82,11 @@ Metauni is a seminar-first institution. Seminars are live social events, where a
 
 ## Not always free
 
-Seminars will always be free, because they are our gift to each other. We expect to be releasing most of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source, but eventually some of it may not be publicly released. We expect to be offering paid short classes sometime in 2023.
+In the long term we hope metauni creates opportunities for young people to make a living sharing knowledge, but it is not clear yet what form what will take. Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. A few other things are clear:
+
+* Seminars are the beating heart of metauni, and they will always be free: they are our gift to each other.
+* We expect to continue to release key parts of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source, but some parts of it might become paid to support other activities (this requires further discussion, we have no clear plans).
+* We may be offerring a paid short classes as a trial sometime in 2023. One possible model is that lecturers teach for free (if they have academic positions) but students are expected to compensate tutors (who are generally not in secure positions).
 
 ## Historical influences
 
