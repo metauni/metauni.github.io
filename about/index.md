@@ -16,7 +16,31 @@ Metauni is a new institution of higher learning, founded in early 2021. This is 
 
 ## 1. Virtual is Real
 
+Metauni is not built out of atoms, but it is nonetheless a real place. Many things are real but not physical: for example money and laws are real because they have real effects on the way we think and act, and there is a distributed consensus in the minds of millions of people on the subject of what money and laws are.
+
+The way in which virtual worlds can be real is different, however, because they involve in a fundamental way a simulation of space. A virtual world starts to become real when people spend a large amount of time there interacting in a way that depends on the simulation of physical space, when they form memories of those interactions, and those interactions shape who they are, the relationships they form and the ideas they have.
+
+Our observation at metauni over the past few years has been that when people meet to discuss ideas that matter deeply to them, on a regular basis, and over an extended period, and their joint creativity shapes the world around them in a way that is persistent, a virtual world can come to feel as meaningful and real as a physical space.
+
+It is my strong belief that this process can’t be short-circuited, can’t be rushed and can’t be faked in the same way a complex ecosystem like a forest can’t be faked. Virtual worlds can be real, but it isn’t automatic. If you want to build a virtual world that is a real place, do it slowly, with genuine intent and a respect for the capacity of the creative expression of individuals to shape their environment.
+
 ## 2. Celebrate Purposelessness
+
+Let me tell you a story. 
+
+> A long time ago a carpenter was travelling between cities, when he came across an oak tree which was so vast that a thousand people could stand underneath it. A boat could be carved from each of its major branches. Masses of people came to see it, giving the place a carnival atmosphere. But the carpenter didn’t even look at the tree, he just went on his way. His assistant was shocked, and said to his master “Why did you not even glance at it nor stop, I have never seen such a great tree!”
+
+> The master said “This tree is useless, make a boat from it and it would sink; make a coffin and it would rot quickly; make some furniture and it would fall to pieces. This wood is useless and good for nothing. This is why it has lived so long”
+
+> That night the tree appeared to the master carpenter in a dream, saying “what are you comparing to me, calling me useless? A fruit tree? They have only their usefulness to blame for their destruction by people, I on the other hand have spent a long time studying to be useless; I have nearly perfected it, and this uselessness is very useful to me! If I had been of use, how could I have grown so vast? Somebody would have cut me down hundreds of years ago for my wood”
+
+> When the carpenter awoke and told his assistant about his dream, the assistant said “if that tree wants to be useless, why is it used as the shrine for the spirits of the land? There are constant crowds around it, isn’t that called being useful?”
+
+> “Hush! Don’t say another word!” said the master “The tree happens to be here so it is an altar. By this it protects itself from harm from those who do not realise it is useless, for were it not an altar, it would run the risk of of being chopped down” 
+
+That’s a story from Chuang Tzu, I don’t know a better way of saying it.
+
+A virtual world in which everyone knows exactly why they are there, and every detail has a clear purpose, is a dead place with as much soul as a car park or a vending machine. To breathe life into a virtual world, celebrate purposelessness. Recognise that some ends can only be approached obliquely and over long periods of time.
 
 When unexpected things happen (red bouncy chairs, people abducting you in a floating boat, personal board climbing, etc) and they are fun, it reinforces a sense of shared experience and refills our "I want to be here" tank for a while. It seems that for virtual events to work, this mix of "serious" content and play needs to be carefully managed to keep these tanks nonempty.
 
