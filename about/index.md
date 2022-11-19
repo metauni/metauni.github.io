@@ -21,11 +21,13 @@ From 2023 onwards we expect the following elements to also play a large role:
 
 ## Seminar-first
 
-Metauni is a seminar-first institution, and our primary goal is to **make metauni seminars great**. Seminars are live social events, where a small group of people work towards understanding a topic. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no "teacher" or "students". We view classes, replays, AI agents and our code infrastructure as ultimately ways to directly or indirectly serve the seminars: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
+Metauni is a seminar-first institution: our primary goal is to **make seminars great**. 
+
+Seminars are live social events, where a small group of people work towards understanding a topic. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no "teacher" or "students". We view classes, replays, AI agents and our code infrastructure as ultimately ways to directly or indirectly serve the seminars: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
 
 ## Some metrics
 
-As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` regular weekly attendees. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
+As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
 
 ## Guiding principles
 
@@ -82,10 +84,10 @@ Metauni is a contraction mapping iterating towards one of the fixed points in th
 
 ## Not always free
 
-In the long term we hope metauni creates opportunities for young people to make a living sharing knowledge, but it is not clear yet what form what will take. Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. A few other things are clear:
+We hope that one day metauni creates opportunities for young people to make a living sharing knowledge, but it is not clear yet what form what will take. Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. A few other things are clear:
 
 * Seminars are the beating heart of metauni, and they will always be free: they are our gift to each other.
-* We expect to continue to release key parts of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source, but some parts of it might become paid to support other activities (this requires further discussion, we have no clear plans).
+* We expect to continue to release the key parts of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source.
 * We may be offerring a paid short classes as a trial sometime in 2023. One possible model is that lecturers teach for free (if they have academic positions) but students are expected to compensate tutors (who are generally not in secure positions).
 
 ## Historical influences
