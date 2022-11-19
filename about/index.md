@@ -86,7 +86,7 @@ Metauni is a contraction mapping iterating towards one of the fixed points in th
 
 Seminars are at the heart of metauni, and they will always be free: they are our gift to each other. We also expect to continue releasing the key parts of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source.
 
-However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. along the lines of the [AMSI summer schools](https://ss.amsi.org.au) in Australia). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult to secure a permanent academic position, and one of our priorities is to help interested young people explore new ways of making a career out of helping others to pursue higher learning. 
+However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. the [AMSI summer schools](https://ss.amsi.org.au)). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult for young people to secure permanent academic positions, and one of our priorities is to help those who are interested to explore new ways of making a career in higher education. 
 
 For example, we view it as reasonable to ask students to pay for a class where the tutors are mathematicians without secure positions.
 
