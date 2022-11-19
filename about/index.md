@@ -19,6 +19,14 @@ From 2023 onwards we expect the following elements to also play a large role:
 
 * **AIs**: we have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds.
 
+## History
+
+We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom.
+
+> I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
+
+The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
+
 ## Seminar-first
 
 Metauni is a seminar-first institution: our primary goal is to **make seminars great**. 
