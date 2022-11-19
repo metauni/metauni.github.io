@@ -2,7 +2,7 @@
 title:
     About metauni
 description:
-    Some high level principles and guidelines
+    FAQ and guiding principles
 ---
 
 Metauni is an institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
