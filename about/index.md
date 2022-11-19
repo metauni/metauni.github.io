@@ -21,7 +21,7 @@ From 2023 onwards we expect the following elements to also play a large role:
 
 ## Seminar-first
 
-Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years. As an institution, our primary goal is to **make metauni seminars great**. We view classes, replays, AI agents and our code infrastructure as ways to servie that mission: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
+Metauni is a seminar-first institution, and our primary goal is to **make metauni seminars great**. Seminars are live social events, where a small group of people work towards understanding a topic. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no "teacher" or "students". We view classes, replays, AI agents and our code infrastructure as ultimately ways to directly or indirectly serve the seminars: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
 
 ## Some metrics
 
