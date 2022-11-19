@@ -33,9 +33,15 @@ Metauni is a seminar-first institution: our primary goal is to **make seminars g
 
 Seminars are live social events, where a small group of people work towards understanding a topic. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no "teacher" or "students". We view classes, replays, AI agents and our code infrastructure as ultimately ways to directly or indirectly serve the seminars: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
 
-## Some metrics
+## Supporting metauni
 
-As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
+If you believe that what we're trying to do is worthwhile, support us:
+
+* Start or participate in a seminar
+* Contribute to one of our open source projects (submit a pull request, or say Hi on the [Discord](https://discord.gg/9yBaAxPSK8) in `#metauni-dev`).
+* Tell other people about metauni
+
+As we expand the scope of our work on the technical underpinnings of metauni (e.g. with replays and AI agents) we are starting to apply for grants from philanthropic sources in order to fund some part-time work on the open-source projects, which we believe will have a significant impact as more people start to take higher learning in virtual worlds seriously. If you have suggestions, please <a target="_blank" href="mailto:admin@metauni.org">get in touch by email</a>.
 
 ## Guiding principles
 
@@ -46,17 +52,17 @@ As of November 2022, metauni is a small but stably growing community. Our YouTub
 
 For more information on how we instantiate these principles concretely, see the [praxis page](https://metauni.org/praxis/).
 
-## 1. Virtual is Real
+### 1. Virtual is Real
 
-Metauni is not built out of atoms, but it is nonetheless a real place. Many things are real but not physical: for example money and laws are real because they have real effects on the way we think and act, and there is a distributed consensus in the minds of millions of people on the subject of what money and laws are.
+Metauni is a real place. Many things are real but not physical: money and laws are real because they have real effects on the way we think and act, and there is a distributed consensus in the minds of millions of people on the subject of what money and laws are.
 
 The way in which virtual worlds can be real is different, however, because they involve in a fundamental way a simulation of space. A virtual world starts to become real when people spend a large amount of time there interacting in a way that depends on the simulation of physical space, when they form memories of those interactions, and those interactions shape who they are, the relationships they form and the ideas they have.
 
 Our observation at metauni over the past few years has been that when people meet to discuss ideas that matter deeply to them, on a regular basis, and over an extended period, and their joint creativity shapes the world around them in a way that is persistent, a virtual world can come to feel as meaningful and real as a physical space.
 
-It is my strong belief that this process can’t be short-circuited, can’t be rushed and can’t be faked in the same way a complex ecosystem like a forest can’t be faked. Virtual worlds can be real, but it isn’t automatic. If you want to build a virtual world that is a real place, do it slowly, with genuine intent and a respect for the capacity of the creative expression of individuals to shape their environment.
+We believe that this process can’t be rushed and can’t be faked in the same way a complex ecosystem like a forest can’t be faked. Building a virtual world that is a real place must be done with genuine intent and a respect for the capacity of the creative expression of individuals to shape their environment.
 
-## 2. Celebrate Purposelessness
+### 2. Celebrate Purposelessness
 
 > A long time ago a carpenter was travelling between cities, when he came across an oak tree which was so vast that a thousand people could stand underneath it. A boat could be carved from each of its major branches. Masses of people came to see it, giving the place a carnival atmosphere. But the carpenter didn’t even look at the tree, he just went on his way. His assistant was shocked, and said to his master “Why did you not even glance at it nor stop, I have never seen such a great tree!”
 
@@ -72,7 +78,7 @@ That’s a story from Chuang Tzu, I don’t know a better way of saying it.
 
 A virtual world in which everyone knows exactly why they are there, and every detail has a clear purpose, is a dead place with as much soul as a car park or a vending machine. To breathe life into a virtual world, celebrate purposelessness. Recognise that some ends can only be approached obliquely and over long periods of time.
 
-## 4. In Wildness
+### 4. In Wildness
 
 > We have mapped, tamed, and dismembered the physical wilderness of our earth. But, at the same time, we have created a digital wilderness whose evolution may embody a collective wisdom greater than our own. No digital universe can ever be completely mapped. We have traded one jungle for another, and in this direction lies not fear but hope. For our destiny and our sanity as human beings depend on our ability to serve a nature whose intelligence we can glimpse all around us, but never quite comprehend. Not in wilderness, but "in Wildness," wrote an often misquoted Henry David Thoreau, "is the preservation of the world."  -- G. Dyson, "Darwin among the Machines".
 
@@ -81,6 +87,10 @@ At metauni we value contact between human intelligence and Nature, which in virt
 ## Why Roblox?
 
 Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
+
+## Some metrics
+
+As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
 
 ## Not a University 
 
