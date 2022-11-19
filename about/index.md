@@ -11,7 +11,7 @@ Metauni is an institution of higher learning, founded in early 2021. This is a w
 
 * **Classes**: we have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)). We will be running more.
 
-* **Infrastructure**: while metauni is built in Roblox, we have built substantial libraries of our own code to facilitate intellectual activities. This includes [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects (see our [GitHub](https://github.com/metauni)). Most of this is being released as open source.
+* **Infrastructure**: we have written substantial libraries of our own code to facilitate intellectual activities. This includes [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects (see our [GitHub](https://github.com/metauni)). Most of this is being released as open source.
 
 From 2023 onwards we expect the following elements to also play a large role:
 
