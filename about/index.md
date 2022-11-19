@@ -25,7 +25,7 @@ We started running events in Roblox in early 2021 due to COVID lockdowns in Melb
 
 > I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
 
-The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
+The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader. Similarly, while there was an early focus on mathematics, coding, artificial intelligence and similar topics, we expect the range of seminars to expand over time.
 
 ## Seminar-first
 
