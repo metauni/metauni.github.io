@@ -78,7 +78,7 @@ Roblox is a utility platform for large-scale 3D social environments (see [Baszuc
 
 Metauni is not a University, and is not aiming to become one.
 
-Universities are large bureaucratic solutions to a set of problems of how to coordinate lecturers, students, knowledge, research, certification of job readiness and physical infrastructure. Some of these, like certification of job readiness and physical infrastructure, metauni is not concerned with at all. For the remaining items, our observation is that new technology, particularly the Internet maturing enough to support vibrant virtual worlds full of people and artificial intelligence, has allowed for these coordination problems to be solved in a new and better way. 
+Universities are large bureaucratic solutions to a set of problems of how to coordinate lecturers, students, knowledge, research, certification of job readiness and physical infrastructure. Some of these, like certification of job readiness and physical infrastructure, metauni is not concerned with at all. For the remaining items, our observation is that new technology, particularly the Internet maturing enough to support vibrant virtual worlds full of people and artificial intelligence, has allowed for some of these coordination problems to be solved in a new and better way. 
 
 Metauni is a contraction mapping iterating towards one of the fixed points in this newly enlarged space.
 
@@ -86,7 +86,9 @@ Metauni is a contraction mapping iterating towards one of the fixed points in th
 
 Seminars are at the heart of metauni, and they will always be free: they are our gift to each other. We also expect to continue releasing the key parts of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source.
 
-However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. along the lines of the [AMSI summer schools](https://ss.amsi.org.au) in Australia). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult to secure a permanent academic position, and one of our priorities is to help interested young people explore new ways of making a career out of helping others to pursue higher learning.
+However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. along the lines of the [AMSI summer schools](https://ss.amsi.org.au) in Australia). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult to secure a permanent academic position, and one of our priorities is to help interested young people explore new ways of making a career out of helping others to pursue higher learning. 
+
+For example, we view it as reasonable to ask students to pay for a class where the tutors are mathematicians without secure positions.
 
 ## Historical influences
 
