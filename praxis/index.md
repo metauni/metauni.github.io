@@ -29,10 +29,6 @@ The ability to manifest your own will, creatively, in a shared space makes it fe
 
 Antics give a way of distracting some part of your mind that is itching to do something, in a way that isn't disruptive (and actually is in some strange way constructive) and is sufficiently in-context that the other part of your mind can continue to focus.
 
-We started running events in Roblox in 2020 due to COVID lockdowns in Melbourne, Australia. To our surprise we found that we actually enjoyed it, especially as compared to events in Zoom. It still isn't clear to us exactly *why* it is better, but here are some ideas:
-
-> I really keenly feel that the 3d world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
-
 ## Rhythm
 
 The illusion of being physically present in a virtual space is a powerful tool. It is desirable to have regular prompts to "re-enter" the illusion of being physically present. E.g. the boards come in sets, and we have developed a habit of exiting orbcam to move our character to the next set of boards and then re-entering orbcam. It's not a coincidence I think that the board climbing in the screenshot started shortly after one of those transitions - it's almost an invitation to engage your brain for a bit in the illusion of moving around.
