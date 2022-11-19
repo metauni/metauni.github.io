@@ -5,7 +5,7 @@ description:
     Some high level principles and guidelines
 ---
 
-Metauni is a new institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
+Metauni is an institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
 
 * **Seminars**: we have been meeting every week for seminars, see the [main page](https://www.metauni.org) for the current schedule. We have run seminars on [Euclid's elements](https://metauni.org/posts/events/seminar-euclid), [Foundations of mathematics](https://metauni.org/foundations), [Technological disruption](https://metauni.org/disruption), [Cryptography](https://lnor.net/uc-seminar.html) and many other topics. The best way to see what's going on in our seminars is to see the individual seminar pages and [YouTube channel](https://www.youtube.com/@_metauni).
 
