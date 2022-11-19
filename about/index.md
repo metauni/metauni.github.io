@@ -9,7 +9,7 @@ Metauni is an institution of higher learning, founded in early 2021. This is a w
 
 * **Seminars**: we have been meeting every week for seminars, see the [main page](https://www.metauni.org) for the current schedule. We have run seminars on [Euclid's elements](https://metauni.org/posts/events/seminar-euclid), [Foundations of mathematics](https://metauni.org/foundations), [Technological disruption](https://metauni.org/disruption), [Cryptography](https://lnor.net/uc-seminar.html) and many other topics. The best way to see what's going on in our seminars is to see the individual seminar pages and [YouTube channel](https://www.youtube.com/@_metauni).
 
-* **Classes**: we have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)). We will be running more of these.
+* **Classes**: we have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)). We will be running more.
 
 * **Infrastructure**: while metauni is built in Roblox, we have built substantial libraries of our own code to facilitate intellectual activities. This includes [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects (see our [GitHub](https://github.com/metauni)). Most of this is being released as open source.
 
@@ -18,6 +18,10 @@ From 2023 onwards we expect the following elements to also play a large role:
 * **Replays**: replays are multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects (it's better to experience it yourself, see the [video](https://youtu.be/s4dfwxzXEFM) or jump into the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea) to see it in action). We believe these are a compelling new format for communicating complex ideas.
 
 * **AIs**: we have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds.
+
+## Seminar-first
+
+Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years. As an institution, our primary goal is to **make metauni seminars great**. We view classes, replays, AI agents and our code infrastructure as ways to servie that mission: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
 
 ## Some metrics
 
@@ -75,10 +79,6 @@ Metauni is not a University, and is not aiming to become one.
 Universities are large bureaucratic solutions to a set of problems of how to coordinate lecturers, students, knowledge, research, certification of job readiness and physical infrastructure. Some of these, like certification of job readiness and physical infrastructure, metauni is not concerned with at all. For the remaining items, our observation is that new technology, particularly the Internet maturing enough to support vibrant virtual worlds full of people and artificial intelligence, has allowed for these coordination problems to be solved in a new and better way. 
 
 Metauni is a contraction mapping iterating towards one of the fixed points in this newly enlarged space.
-
-## Seminar-first
-
-Metauni is a seminar-first institution. Seminars are live social events, where a small group of people work towards understanding a topic. They are about a personal journey, which unfolds over years. As an institution, our primary goal is to **make metauni seminars great**. We view classes, replays, AI agents and our code infrastructure as ways to servie that mission: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
 
 ## Not always free
 
