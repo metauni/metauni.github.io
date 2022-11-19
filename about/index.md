@@ -37,11 +37,11 @@ Seminars are live social events, where a small group of people work towards unde
 
 If you believe that what we're trying to do is worthwhile, support us:
 
-* Start or participate in a seminar
+* Start or participate in a seminar (proposals for new seminars are welcome).
 * Contribute to one of our open source projects (submit a pull request, or say Hi on the [Discord](https://discord.gg/9yBaAxPSK8) in `#metauni-dev`).
-* Tell other people about metauni
+* Tell other people about metauni (we're pretty bad at marketing, help lol).
 
-As we expand the scope of our work on the technical underpinnings of metauni (e.g. with replays and AI agents) we are starting to apply for grants from philanthropic sources in order to fund some part-time work on the open-source projects, which we believe will have a significant impact as more people start to take higher learning in virtual worlds seriously. If you have suggestions, please <a target="_blank" href="mailto:admin@metauni.org">get in touch by email</a>.
+Since the work on the technical underpinnings of metauni has expanded in scope (e.g. with replays and AI agents) we are starting to apply for grants from philanthropic sources in order to fund some part-time work on the open-source projects. We believe some of these (like metaboard) will be foundational technologies for academic communities making the move to virtual worlds, and will have a significant impact. If you know of sources we should apply to, please <a target="_blank" href="mailto:admin@metauni.org">get in touch by email</a>.
 
 ## Guiding principles
 
