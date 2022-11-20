@@ -29,9 +29,17 @@ The early crowd at metauni were University of Melbourne students and lecturers, 
 
 ## Seminar-first
 
-Metauni is a seminar-first institution: our primary goal is to **make seminars great**. 
+Metauni is a seminar-first institution.
 
-Seminars are live social events, where a small group of people work towards understanding a topic. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no "teacher" or "students". We view classes, replays, AI agents and our code infrastructure as ultimately ways to directly or indirectly serve the seminars: for example, our class on algebraic geometry raised the general level of geometry knowledge in the community, which has helped those attending the [Singular Learning Theory](https://metauni.org/slt) seminar.
+Seminars are live social events, where a small group of people explore a set of ideas. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no formal division between "teacher" and "students". Once you finish your undergraduate and graduate degrees, seminars are *how you teach yourself new things*; you take turns reading up on, and presenting, papers, and the discipline of preparing and delivering talks to an audience of your peers is what keeps you honest.
+
+Usually seminars are organised around a theme or area of research. The aim varies. Here are some examples:
+
+* A seminar can be about participants sharing their current research, as well as covering important papers in the literature, in order to support a research program (examples: [Singular Learning Theory seminar](https://metauni.org/slt), [Abstraction](https://metauni.org/abstraction)).
+* A seminar can exist because the speakers want to learn the details in a topic and structure a seminar around their own expeditions into the texts (example: [Foundations](https://metauni.org/foundations)).
+* A seminar can be a social event in which people share cool things and work collaboratively (example: [Code seminar](https://metauni.org/code)).
+
+Some of us in the metauni community have a lot of experience preparing seminar talks, and mentoring others in preparing them. We're keen to pass on some of that expertise and help others organise seminars and give great seminar talks.
 
 ## Supporting metauni
 
