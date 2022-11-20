@@ -31,7 +31,7 @@ The early crowd at metauni were University of Melbourne students and lecturers, 
 
 Metauni is a seminar-first institution.
 
-Seminars are live social events, where a small group of people explore a set of ideas. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no formal division between "teacher" and "students". Once you finish your undergraduate and graduate degrees, seminars are *how you teach yourself new things*; you take turns reading up on, and presenting, papers, and the discipline of preparing and delivering talks to an audience of your peers is what keeps you honest.
+Seminars are live social events, where a small group of people explore a set of ideas. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no formal division between "teacher" and "students". Once you finish your undergraduate and graduate degrees, seminars are *how you teach yourself new things*; you take turns reading up on, and presenting, papers, and the discipline of preparing and delivering talks to an audience of your peers is what keeps you honest. In principle you can teach yourself anything, in practice you master a subject by preparing to teach others.
 
 Usually seminars are organised around a theme or area of research. The aim varies. Here are some examples:
 
