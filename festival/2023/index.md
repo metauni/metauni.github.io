@@ -26,6 +26,7 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 * *Joey Velez-Ginorio* (neuroscience, logic)
 * *Eleanor McMurtry* (cryptography)
 * *Rohan Hitchcock* (?)
+* *Isaac David Smith* (quantum computing)
 
 ## Other contributions
 
