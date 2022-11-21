@@ -2,8 +2,20 @@
 title:
     AI safety reading group
 description:
-    preventing civilisation from destroying itself
+    For thousands of years men dreamed of pacts with demons.
+    Only now are such things possible.
 ---
+    
+<!--
+`You are worse than a fool,' Michle said, getting to her
+feet, the pistol in her hand.  `You have no care for your species. 
+For thousands of years men dreamed of pacts with demons. 
+Only now are such things possible.  And what would you be
+paid with?  What would your price be, for aiding this thing to
+free itself and grow?'
+
+---William Gibson, <i>Neuromancer</i>
+-->
 
 AI safety reading group
 =======================
@@ -53,7 +65,10 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* **2022.10.06:**
+* **2022.11.24**:
+  Talk on "Clarifying AI X-risk" by Elliot Catt.
+
+* **2022.12.01:**
   Eliezer Yudkowsky,
   2013,
   "Intelligence explosion microeconomics",
