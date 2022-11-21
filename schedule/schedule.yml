@@ -35,9 +35,10 @@ whats on:
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts, Dan Murfet
-    desc: "reading group on technical and philosophical topics in AI safety. *This week* [Elliot Catt](https://catt.id) on AI Safety"
+    desc: "reading group on technical and philosophical topics in AI safety. *This week* [Elliot Catt](https://catt.id) on AI Safety (in the [Discord](https://discord.gg/9yBaAxPSK8))" 
     website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
+    #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
+    location: "#General"
     pocket: Gemini Pulsar 1
 whats off:
 - Cryptography:
