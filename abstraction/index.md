@@ -31,5 +31,5 @@ References:
 * **27-10-22** (*Ben Gerraty*) Renormalisation I: The Ising model
 * **10-11-22** (*Alexander Oldenziel*) Sufficient statistics and the Koopman-Pitman-Darmois theorem ([video](https://youtu.be/4hwdJuzlSqQ), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2014)).
 * **24-11-22** (*Ben Gerraty*) Renormalisation II
-* **1-12-22** (*Daniel Murfet*) Resolution II: Embedded resolution of a quadratic form
 * **8-12-22** (*Calin Lazaroiu*) RG flows and partial localisation.
+* **15-12-22** (*Daniel Murfet*) Resolution II: Embedded resolution of a quadratic form
