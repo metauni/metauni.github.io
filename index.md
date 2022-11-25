@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
-The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **starting soon** (October 10) and will cover introductory category theory and the relation to computer science. It's free! You should go and [register](https://metauni.org/soc/) if you're interested. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
+The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. It's free! You should go and [register](https://metauni.org/soc/) if you're interested. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
 
 ## Schedule
 
