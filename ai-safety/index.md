@@ -2,12 +2,12 @@
 title:
     AI safety reading group
 description:
-    For thousands of years men dreamed of pacts with demons.
-    Only now are such things possible.
+    ❝For thousands of years men dreamed of pacts with demons.
+    Only now are such things possible.❞
 ---
     
 <!--
-`You are worse than a fool,' Michle said, getting to her
+`You are worse than a fool,' Michéle said, getting to her
 feet, the pistol in her hand.  `You have no care for your species. 
 For thousands of years men dreamed of pacts with demons. 
 Only now are such things possible.  And what would you be
