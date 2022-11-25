@@ -19,7 +19,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="mailto:admin@metauni.org">Email</a>
 </p>
 
-The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **starting soon** (October 10) and will cover introductory category theory and the relation to computer science. It's free! You should go and [register](https://metauni.org/soc/) if you're interested. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
+The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. It's free! You should go and [register](https://metauni.org/soc/) if you're interested. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
 
 ## Schedule
 
@@ -31,24 +31,23 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### October 31, 2022
-* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: A Natural Presentation [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%205)
-
-### November 03, 2022
-* **[Disruption](https://metauni.org/disruption)** **10:00-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week* Billy on Render and graphs.
-* **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: working session, open problem list. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012)
-* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. *This week* Morgan on what logic has to contribute to other areas of mathematics, using the language of Morita equivalences. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%203)
+### November 24, 2022
+* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **Tea break** **11:30-12:00** (*Tetley*): Celebrating Purposelessness. *This week* chatting to AIs within metauni. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: [James Harland](http://titan.csit.rmit.edu.au/~e24991/) on teaching and learning in VR.
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan on toric geometry. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)
+* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *This week* Ben Gerraty on renormalisation. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%204)
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *This week* [Elliot Catt](https://catt.id) on Mathematical Approaches to AGI Safety (in the [Discord](https://discord.gg/9yBaAxPSK8))
 
 <!-- END WHATS ON -->
 
 ### Not on this week
 <!-- BEGIN WHATS OFF -->
 * **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
-* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *This week* Ben on renormalisation. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203)
+* **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)). *On hiatus* resuming 8/12/22.
+* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: The gap between equivalent concepts [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%204)
+* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. *This week* Morgan on what logic has to contribute to other areas of mathematics, using the language of Morita equivalences. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%203)
 * **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *This week* Rohan's thesis talk. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 <!-- END WHATS OFF -->
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The tools we use are [open source](https://metauni.org/posts/open/open) and we'll happily help you set up your own seminars and teach you how to record them, just jump into the Discord and say hi. For information on how we record our videos see [this page](https://metauni.org/posts/instructions/video).
