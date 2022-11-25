@@ -2,8 +2,8 @@
 title:
     AI safety reading group
 description:
-    ❝For thousands of years men dreamed of pacts with demons.
-    Only now are such things possible.❞
+    “For thousands of years men dreamed of pacts with demons.
+    Only now are such things possible.”
 ---
     
 <!--
@@ -64,9 +64,6 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 (unless otherwise noted).
 
 Upcoming readings and discussions:
-
-* **2022.11.24**:
-  Talk on "Clarifying AI X-risk" by Elliot Catt.
 
 * **2022.12.01:**
   Eliezer Yudkowsky,
@@ -152,14 +149,17 @@ Past readings and discussions:
   "On how various plans miss the hard bits of the alignment challenge",
   [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
 
+* **2022.11.24:**
+  Talk on "Mathematical approaches to AI safety" by Elliot Catt.
+
 Topics brainstorm
 -----------------
 
-AI safety is political philosophy complete
+AI safety is political philosophy complete:
 
-* Exernalities correspond to market alignment failures. How do we handle
-  them? Overcome them? Do we face risk from them? Would these risks be
-  exacerbated by 
+* Exernalities correspond to market alignment failures. How does society
+  such alignment failures? (How) does society overcome them? Does society
+  face risk from them? Would such risks be exacerbated by AI progress?
 * How can we live in the midst of complex systems we don't understand, and
   can't fully control, like civilisation, capitalism, etc.?
 * What other literatures could help us here?
