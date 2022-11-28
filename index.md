@@ -31,16 +31,16 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### November 24, 2022
+### November 28, 2022
+* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: The line is part of a circle [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%207)
+
+### December 01, 2022
 * **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **Tea break** **11:30-12:00** (*Tetley*): Celebrating Purposelessness. *This week* chatting to AIs within metauni. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *This week*: [James Harland](http://titan.csit.rmit.edu.au/~e24991/) on teaching and learning in VR.
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan on toric geometry. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)
 * **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *This week* Ben Gerraty on renormalisation. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%204)
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *This week* [Elliot Catt](https://catt.id) on Mathematical Approaches to AGI Safety (in the [Discord](https://discord.gg/9yBaAxPSK8))
-
-### November 28, 2022
-* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: The line is part of a circle [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%207)
 
 <!-- END WHATS ON -->
 
