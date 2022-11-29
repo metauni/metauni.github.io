@@ -10,6 +10,17 @@ whats on:
    note: "**This Week**: The line is part of a circle"
    website: https://metauni.org/soc
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%207
+- Disruption:
+    time: 10:00-11:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: disrupting the small things."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Tea break:
+    time: 11:30-12:00
+    organizer: Tetley
+    desc: "Celebrating Purposelessness. *This week* Songspires in TRS."
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
@@ -24,11 +35,6 @@ whats on:
     website: https://lnor.net/uc-seminar.html
     location: https://www.roblox.com/games/8164849103/Deprecation
 whats off:
-- Tea break:
-    time: 15:30-16:00
-    organizer: Tetley
-    desc: "Celebrating Purposelessness. *This week* Songspires in TRS."
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Code:
     time: 12:00-13:00
     organizer: Ethan Curtiss
@@ -66,9 +72,3 @@ whats off:
     website: https://metauni.org/lg
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209
     alias: LG
-- Disruption:
-    time: 10:00-11:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *On hiatus*."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
