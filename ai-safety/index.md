@@ -71,6 +71,23 @@ Upcoming readings and discussions:
   "Intelligence explosion microeconomics",
   MIRI [technical report](https://intelligence.org/files/IEM.pdf).
 
+* **2022.12.08:**
+  External speaker, details TBD
+
+* **2022.12.15:**
+  Scott Aaronson,
+  2022,
+  "Reform AI Alignment",
+  [*Shtetl-Optimized* blog](https://scottaaronson.blog/?p=6821).
+  Also,
+  Boaz Barak and Ben Edelman,
+  2022,
+  "AI will change the world, but won't take it over by playing '3-dimensional
+  chess'",
+  [*Windows On Theory* blog](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/).
+  Discussion lead by Dan?
+
+
 Past readings and discussions:
 
 * **2022.06.09:**
@@ -150,7 +167,8 @@ Past readings and discussions:
   [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
 
 * **2022.11.24:**
-  Talk on "Mathematical approaches to AI safety" by Elliot Catt.
+  Guest speaker: Elliot Catt.
+  An overview of mathematical approaches to AGI safety.
 
 Topics brainstorm
 -----------------
