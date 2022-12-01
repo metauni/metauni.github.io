@@ -25,7 +25,7 @@ Some other introductory references:
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
-Each week there is a main session and a supplementary session.
+Below you can find the schedule for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
 * **13-1-22** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
@@ -58,11 +58,18 @@ Each week there is a main session and a supplementary session.
 * **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010)).
 * **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)).
 * **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012)).
-* **10-11-22** (*Edmund Lau*): Newton diagrams in singular learning theory ([video](https://youtu.be/0FowiD36jwg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2013))
-* **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis
-* **24-11-22** (*Dan Murfet*): Jet schemes I
-* **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2
-* **8-12-22** (*Susan Wei*): TBD
+* **10-11-22** (*Edmund Lau*): Newton diagrams in singular learning theory ([video](https://youtu.be/0FowiD36jwg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2013)).
+* **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis ([video](https://youtu.be/KwI-O8VKVv4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2015)).
+* **24-11-22** (*Dan Murfet*): Jet schemes I ([video](https://youtu.be/8g6dZZ7lWGk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
+* **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
+
+Upcoming seminars:
+
+* **8-12-22** (*Dan Murfet*): Jet schemes II
+* **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3
+* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
+
+After this the seminar will go on hiatus until 19-1-2023.
 
 ## Background reading
 
