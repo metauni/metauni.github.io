@@ -1,59 +1,60 @@
-metauni day: "01/12/2022" # dd/mm/yyyy
+metauni day: "08/12/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
 - Shadows of Computation:
    time: 19:30-21:00
-   date: 28/11/2022
+   date: 05/12/2022
    organizer: Billy Snikkers, Will Troiani
    desc: "The shadows cast by computation onto category theory."
-   note: "**This Week**: The line is part of a circle"
+   note: "**This Week**: Monads and how to present mathematics Pt 2"
    website: https://metauni.org/soc
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%207
 - Disruption:
     time: 10:00-11:30
     organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: disrupting the small things."
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Tea break:
     time: 11:30-12:00
     organizer: Tetley
-    desc: "Celebrating Purposelessness. *This week* Songspires in TRS."
+    desc: "Celebrating Purposelessness."
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt Farrugia-Roberts on his MSc thesis, Part 2."
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan on Jet schemes, Part 2."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016
     alias: SLT
-- Cryptography:
-    time: 20:00-21:00
-    organizer: Eleanor McMurtry
-    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). Runs biweekly."
-    website: https://lnor.net/uc-seminar.html
-    location: https://www.roblox.com/games/8164849103/Deprecation
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts, Dan Murfet
-    desc: "reading group on technical and philosophical topics in AI safety." 
+    desc: "reading group on technical and philosophical topics in AI safety. *This week* [Tom Everitt](https://scholar.google.se/citations?user=BdulyjIAAAAJ&hl=en) (in the [Discord](https://discord.gg/9yBaAxPSK8))." 
     website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
-    pocket: Gemini Pulsar 1
+#    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
+    location: "#General"
+#    pocket: Gemini Pulsar 1
+- Abstraction:
+    time: 20:00-21:00
+    organizer: Alexander Oldenziel
+    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* [Calin Lazaroiu](https://events.theory.nipne.ro/gap/index.php/8-homepage/10-calin-lazaroiu-homepage) on path integrals via supersymmetric localisation."
+    website: https://metauni.org/abstraction
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%204
 whats off:
+- Cryptography:
+    time: 20:00-21:00
+    organizer: Eleanor McMurtry
+    desc: "on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *On hiatus*."
+    website: https://lnor.net/uc-seminar.html
+    location: https://www.roblox.com/games/8164849103/Deprecation
 - Code:
     time: 12:00-13:00
     organizer: Ethan Curtiss
     desc: "coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *On hiatus until 2023*."
     website: https://metauni.org/code
     location: "#General"
-- Abstraction:
-    time: 20:00-21:00
-    organizer: Alexander Oldenziel
-    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* Ben Gerraty on renormalisation."
-    website: https://metauni.org/abstraction
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%204
 - "#metauni-dev":
     time: 13:00-14:00
     desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)). *On hiatus* resuming 8/12/22."
