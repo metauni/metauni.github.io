@@ -20,6 +20,9 @@ Past seminars and videos:
 * **31-3-22** Seminar 14: conceptual frameworks for automation and disruption ([video](https://youtu.be/PljCm-O5fe0)).
 * **28-4-22** Seinar 15: pulses and restoration ([video](https://youtu.be/DSgHO6wSzd0)).
 * **5-5-22** Seminar 16: pulses and restoration Part 2 ([video](https://youtu.be/DSgHO6wSzd0)).
+
+The videos from 17-30 haven't been posted to this page yet! But see the [YouTube channel](https://www.youtube.com/@_metauni).
+
 * **10-11-22** Seminar 31: Why do we do mathematics? ([video](https://youtu.be/6GNsMD2d4j0)).
 * **17-11-22** Seminar 32: Individuals and AGI ([video](https://youtu.be/Y7eAZqUuV44)).
 * **24-11-22** Seminar 33: AGI and politics ([video](https://youtu.be/zP3zUDpUA54)).
