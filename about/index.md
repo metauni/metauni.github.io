@@ -27,6 +27,10 @@ We started running events in Roblox in early 2021 due to COVID lockdowns in Melb
 
 The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader. Similarly, while there was an early focus on mathematics, coding, artificial intelligence and similar topics, we expect the range of seminars to expand over time.
 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4_ziiIne14?clip=UgkxLYZexGL4j1W6k4am-nDJAsfdwdlxQCoe&amp;clipt=EObrkQIYp8CVAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## Seminar-first
 
 Metauni is a seminar-first institution.
@@ -73,6 +77,10 @@ Our observation at metauni over the past few years has been that when people mee
 We believe that this process can’t be rushed and can’t be faked in the same way a complex ecosystem like a forest can’t be faked. Building a virtual world that is a real place must be done with genuine intent and a respect for the capacity of the creative expression of individuals to shape their environment.
 
 ### 2. Celebrate Purposelessness
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iynEwzqxxt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 > A long time ago a carpenter was travelling between cities, when he came across an oak tree which was so vast that a thousand people could stand underneath it. A boat could be carved from each of its major branches. Masses of people came to see it, giving the place a carnival atmosphere. But the carpenter didn’t even look at the tree, he just went on his way. His assistant was shocked, and said to his master “Why did you not even glance at it nor stop, I have never seen such a great tree!”
 
