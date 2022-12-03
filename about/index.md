@@ -13,6 +13,10 @@ Metauni is an institution of higher learning, founded in early 2021. This is a w
 
 * **Infrastructure**: we have written substantial libraries of our own code to facilitate intellectual activities. This includes [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects (see our [GitHub](https://github.com/metauni)). Most of this is being released as open source.
 
+<p align="center">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/P4_ziiIne14?clip=UgkxLYZexGL4j1W6k4am-nDJAsfdwdlxQCoe&amp;clipt=EObrkQIYp8CVAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 From 2023 onwards we expect the following elements to also play a large role:
 
 * **Replays**: replays are multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects (it's better to experience it yourself, see the [video](https://youtu.be/s4dfwxzXEFM) or jump into the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea) to see it in action). We believe these are a compelling new format for communicating complex ideas.
@@ -26,10 +30,6 @@ We started running events in Roblox in early 2021 due to COVID lockdowns in Melb
 > I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
 
 The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader. Similarly, while there was an early focus on mathematics, coding, artificial intelligence and similar topics, we expect the range of seminars to expand over time.
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P4_ziiIne14?clip=UgkxLYZexGL4j1W6k4am-nDJAsfdwdlxQCoe&amp;clipt=EObrkQIYp8CVAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## Seminar-first
 
@@ -78,10 +78,6 @@ We believe that this process can’t be rushed and can’t be faked in the same 
 
 ### 2. Celebrate Purposelessness
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iynEwzqxxt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 > A long time ago a carpenter was travelling between cities, when he came across an oak tree which was so vast that a thousand people could stand underneath it. A boat could be carved from each of its major branches. Masses of people came to see it, giving the place a carnival atmosphere. But the carpenter didn’t even look at the tree, he just went on his way. His assistant was shocked, and said to his master “Why did you not even glance at it nor stop, I have never seen such a great tree!”
 
 > The master said “This tree is useless, make a boat from it and it would sink; make a coffin and it would rot quickly; make some furniture and it would fall to pieces. This wood is useless and good for nothing. This is why it has lived so long”
@@ -95,6 +91,10 @@ We believe that this process can’t be rushed and can’t be faked in the same 
 That’s a story from Chuang Tzu, I don’t know a better way of saying it.
 
 A virtual world in which everyone knows exactly why they are there, and every detail has a clear purpose, is a dead place with as much soul as a car park or a vending machine. To breathe life into a virtual world, celebrate purposelessness. Recognise that some ends can only be approached obliquely and over long periods of time.
+
+<p align="center">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/iynEwzqxxt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### 4. In Wildness
 
