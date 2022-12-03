@@ -1,4 +1,4 @@
-Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for community organisation. All are welcome: see the [instructions](https://metauni.org/posts/instructions/instructions).
+Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for community organisation. All are welcome! See the [instructions](https://metauni.org/posts/instructions/instructions) for how to join in, and for more background see the [About page](https://metauni.org/about/).
 
 <p align="center">
   <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
@@ -16,7 +16,8 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="https://github.com/metauni">GitHub</a> |
   <a target="_blank" href="https://www.roblox.com/groups/13108882/metauni#!/about">Roblox Group</a> |
   <a target="_blank" href="https://twitter.com/_metauni">Twitter</a> |
-  <a target="_blank" href="mailto:admin@metauni.org">Email</a>
+  <a target="_blank" href="mailto:admin@metauni.org">Email</a> |
+  <a target="_blank" href="/about">About</a>
 </p>
 
 The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. It's free! You should go and [register](https://metauni.org/soc/) if you're interested. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). You can access metauni in [VR](https://metauni.org/vr/). For the 2022 RDC Game Jam the metauni dev team made [Super Starway 66](https://www.roblox.com/games/10752934445/Super-Starway-66-NEW), please enjoy!
@@ -64,13 +65,7 @@ On the theory that is better to show than tell, here is a video from one of our 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/Fccfv2DWUgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Here is a recent test of lecturing using a VR headset and controllers (audience is looking at ordinary screens):
-
-<p align="center">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/HeMF9-tj4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-For more see the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
+For more see the [about page](https://metauni.org/about/) and the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41).
 
 ## History
 
