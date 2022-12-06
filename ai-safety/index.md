@@ -65,14 +65,9 @@ The discussion sessions begin with a summary of the reading, lead by Matt
 
 Upcoming readings and discussions:
 
-* **2022.12.01:**
-  Eliezer Yudkowsky,
-  2013,
-  "Intelligence explosion microeconomics",
-  MIRI [technical report](https://intelligence.org/files/IEM.pdf).
-
 * **2022.12.08:**
-  External speaker, details TBD
+  Guest speaker: Tom Everitt
+  (Location: Discord)
 
 * **2022.12.15:**
   Scott Aaronson,
@@ -169,6 +164,12 @@ Past readings and discussions:
 * **2022.11.24:**
   Guest speaker: Elliot Catt.
   An overview of mathematical approaches to AGI safety.
+
+* **2022.12.01:**
+  Eliezer Yudkowsky,
+  2013,
+  "Intelligence explosion microeconomics",
+  MIRI [technical report](https://intelligence.org/files/IEM.pdf).
 
 Topics brainstorm
 -----------------
