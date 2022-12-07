@@ -19,7 +19,7 @@ whats on:
 - Tea break:
     time: 11:30-12:00
     organizer: Tetley
-    desc: "Celebrating Purposelessness."
+    desc: "Celebrating Purposelessness. *This week* playing with GPT reading boards."
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
@@ -33,8 +33,8 @@ whats on:
     organizer: Alexander Oldenziel
     desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* [Calin Lazaroiu](https://events.theory.nipne.ro/gap/index.php/8-homepage/10-calin-lazaroiu-homepage) on path integrals via supersymmetric localisation (in the [Discord](https://discord.gg/9yBaAxPSK8))."
     website: https://metauni.org/abstraction
-#    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%204
-    location: "#General"
+   location: "#General"
+whats off:
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts, Dan Murfet
@@ -43,7 +43,6 @@ whats on:
 #    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
     location: "#General"
 #    pocket: Gemini Pulsar 1
-whats off:
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry
