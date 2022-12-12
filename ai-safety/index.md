@@ -60,7 +60,7 @@ Readings
 --------
 
 Completing weekly readings is recommended, but ultimately optional.
-The discussion sessions begin with a summary of the reading, lead by Matt
+The discussion sessions begin with a summary of the reading, led by Matt
 (unless otherwise noted).
 
 Upcoming readings and discussions:
@@ -80,7 +80,7 @@ Upcoming readings and discussions:
   "AI will change the world, but won't take it over by playing '3-dimensional
   chess'",
   [*Windows On Theory* blog](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/).
-  Discussion lead by Dan?
+  Discussion led by Dan?
 
 
 Past readings and discussions:
@@ -109,7 +109,7 @@ Past readings and discussions:
   2022,
   "AI harms are societal, not just individual",
   [fast.ai blog](https://www.fast.ai/2022/05/17/societal-harms/).
-  Discussion lead by Dan.
+  Discussion led by Dan.
 
 * **2022.07.21:**
   Tobias Wängberg *et al.*,
@@ -129,7 +129,7 @@ Past readings and discussions:
   2017,
   "Logical induction",
   [arXiv](https://arxiv.org/abs/1609.03543v4).
-  Discussion lead by Dan.
+  Discussion led by Dan.
   Note: there is an updated 2020 version on arXiv.
 
 * **2022.08.11:**
