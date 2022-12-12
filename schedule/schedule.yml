@@ -1,7 +1,37 @@
-metauni day: "08/12/2022" # dd/mm/yyyy
+metauni day: "15/12/2022" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
+- Disruption:
+    time: 10:00-11:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. **This week**: Disrupting education Pt 2"
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Singular Learning Theory:
+    time: 16:00-17:30
+    organizer: Dan Murfet, Edmund Lau
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt on his MSc thesis, Part 3."
+    website: https://metauni.org/slt
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2017
+- AI Safety:
+    time: 21:00-22:00
+    organizer: Matthew Farrugia-Roberts, Dan Murfet
+    desc: "reading group on technical and philosophical topics in AI safety. *This week* [Tom Everitt](https://scholar.google.se/citations?user=BdulyjIAAAAJ&hl=en) (in the [Discord](https://discord.gg/9yBaAxPSK8))." 
+    website: https://metauni.org/ai-safety
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
+whats off:
+- Tea break:
+    time: 11:30-12:00
+    organizer: Tetley
+    desc: "Celebrating Purposelessness. *This week* playing with GPT reading boards."
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Abstraction:
+    time: 20:00-21:00
+    organizer: Alexander Oldenziel
+    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* [Calin Lazaroiu](https://events.theory.nipne.ro/gap/index.php/8-homepage/10-calin-lazaroiu-homepage) on path integrals via supersymmetric localisation (in the [Discord](https://discord.gg/9yBaAxPSK8))."
+    website: https://metauni.org/abstraction
+    location: "#General"
 - Shadows of Computation:
    time: 19:30-21:00
    date: 05/12/2022
@@ -10,36 +40,6 @@ whats on:
    note: "**This Week**: Because it's there"
    website: https://metauni.org/soc
    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%208
-- Disruption:
-    time: 10:00-11:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. **This week**: Disrupting education?"
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- Tea break:
-    time: 11:30-12:00
-    organizer: Tetley
-    desc: "Celebrating Purposelessness. *This week* playing with GPT reading boards."
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- Singular Learning Theory:
-    time: 16:00-17:30
-    organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan on Jet schemes, Part 2."
-    website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016
-- Abstraction:
-    time: 20:00-21:00
-    organizer: Alexander Oldenziel
-    desc: "what is an abstraction? Are they universal? Runs biweekly. *This week* [Calin Lazaroiu](https://events.theory.nipne.ro/gap/index.php/8-homepage/10-calin-lazaroiu-homepage) on path integrals via supersymmetric localisation (in the [Discord](https://discord.gg/9yBaAxPSK8))."
-    website: https://metauni.org/abstraction
-    location: "#General"
-whats off:
-- AI Safety:
-    time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts, Dan Murfet
-    desc: "reading group on technical and philosophical topics in AI safety. *This week* [Tom Everitt](https://scholar.google.se/citations?user=BdulyjIAAAAJ&hl=en) (in the [Discord](https://discord.gg/9yBaAxPSK8))." 
-    website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
 - Cryptography:
     time: 20:00-21:00
     organizer: Eleanor McMurtry
