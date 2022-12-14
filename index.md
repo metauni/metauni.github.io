@@ -35,7 +35,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 ### December 15, 2022
 * **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. **This week**: Disrupting education Pt 2 [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Matt on his MSc thesis, Part 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2017)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *This week* [Tom Everitt](https://scholar.google.se/citations?user=BdulyjIAAAAJ&hl=en) (in the [Discord](https://discord.gg/9yBaAxPSK8)). [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *This week* on Aaronson's 'Reform AI Alignment'. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 
 <!-- END WHATS ON -->
 
