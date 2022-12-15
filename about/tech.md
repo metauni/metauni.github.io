@@ -13,7 +13,7 @@ For the code see the [Metaboard GitHub repo](https://github.com/metauni/metaboar
 
 ## Boards and the web
 
-Each board at metauni has a URL. Think of it like a Zoom meeting URL: when you visit the board URL in a web-browser, you can click on the "Visit Board" link to launch Roblox with the information required to take you directly to the board inside metauni. You can also view a board as a PNG.
+Each board at metauni has a URL. Think of it like a Zoom meeting URL: when you visit the board URL in a web-browser, you can click on the "Visit Board" link to launch Roblox with the information required to take you directly to the board inside metauni. You can also view a board as a PNG. To find the URL of a board use the knot menu as shown in the video, and paste the Key into [metauniService](http://service.metauni.org).
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wrNxdVPv2Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
