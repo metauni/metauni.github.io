@@ -5,7 +5,7 @@ description:
     How it works
 ---
 
-This page is a series of videos with short descriptions, intended as a bare-bones guide to navigating metauni and using its tools effectively.
+This page is a series of videos with short descriptions, intended as a bare-bones guide to the tech underlying metauni. For more instructions on particupating at metauni, see the [instructions](https://metauni.org/posts/instructions/instructions) page.
 
 # Boards
 
