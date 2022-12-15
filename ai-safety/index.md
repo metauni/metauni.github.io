@@ -65,23 +65,9 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2022.12.08:**
+* **TBD (2023):**
   Guest speaker: Tom Everitt
   (Location: Discord)
-
-* **2022.12.15:**
-  Scott Aaronson,
-  2022,
-  "Reform AI Alignment",
-  [*Shtetl-Optimized* blog](https://scottaaronson.blog/?p=6821).
-  Also,
-  Boaz Barak and Ben Edelman,
-  2022,
-  "AI will change the world, but won't take it over by playing '3-dimensional
-  chess'",
-  [*Windows On Theory* blog](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/).
-  Discussion led by Dan?
-
 
 Past readings and discussions:
 
@@ -170,6 +156,20 @@ Past readings and discussions:
   2013,
   "Intelligence explosion microeconomics",
   MIRI [technical report](https://intelligence.org/files/IEM.pdf).
+
+* **2022.12.15:**
+  Scott Aaronson,
+  2022,
+  "Reform AI Alignment",
+  [*Shtetl-Optimized* blog](https://scottaaronson.blog/?p=6821).
+  Also,
+  Boaz Barak and Ben Edelman,
+  2022,
+  "AI will change the world, but won't take it over by playing '3-dimensional
+  chess'",
+  [*Windows On Theory* blog](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/).
+  Discussion led by Dan.
+
 
 Topics brainstorm
 -----------------
