@@ -19,8 +19,6 @@ Some other introductory references:
 
 ## Schedule
 
-![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
-
 Below you can find the schedule for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
@@ -66,6 +64,8 @@ Upcoming seminars:
 * **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
 
 After this the seminar will go on hiatus until 19-1-2023.
+
+![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
 ## Background reading
 
