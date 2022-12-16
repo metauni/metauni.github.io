@@ -22,9 +22,21 @@ Some other introductory references:
 * S. Wei, D. Murfet, M. Gong, H. Li , J. Gell-Redman, T. Quella "[Deep learning is singular, and that's good](https://www.suswei.com/publication/wei-2022-singular/wei-2022-singular.pdf)" 2022.
 * E. Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 
-## Schedule
+## Upcoming seminars
 
-Below you can find the schedule for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
+The currently scheduled seminars are:
+
+* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
+
+After this the seminar will go on hiatus until 19-1-2023. Some topics we will discuss in early 2023:
+
+* More on jet schemes
+* The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
+* Koopman-Pitman-Darmois theorem
+
+## Past seminars
+
+Below you can find the seminars for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
 * **13-1-22** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
@@ -52,7 +64,7 @@ Below you can find the schedule for 2022, with videos and pocket links (which ta
 * **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%205)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%207)).
 * **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem ([video](https://youtu.be/N30wJhaO68k), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
-* **13-10-22** (*Edmund Lau*): On Watanabe's paper: Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
+* **13-10-22** (*Edmund Lau*): Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
 * **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)).
 * **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010)).
 * **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)).
@@ -63,12 +75,6 @@ Below you can find the schedule for 2022, with videos and pocket links (which ta
 * **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3
- 
-Upcoming seminars:
-
-* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
-
-After this the seminar will go on hiatus until 19-1-2023.
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
