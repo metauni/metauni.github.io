@@ -42,3 +42,17 @@ Currently metauni is organised as one top-level world ([The Rising Sea](https://
 You will need the appropriate permissions to create new pockets.
 
 For the code see the [Metaportal GitHub repo](https://github.com/metauni/metaportal).
+
+# VR and Replays
+
+You can attend metauni events in VR with devices such as the Meta Quest (linked to a PC running Roblox). For more information see the [VR page](/vr). Replays are multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects. We believe these are a compelling new format for communicating complex ideas.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4dfwxzXEFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+To experience it for yourself, jump into the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
+
+# AI
+
+We have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds.
