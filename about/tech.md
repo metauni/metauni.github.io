@@ -33,4 +33,6 @@ For the code see the [Orb GitHub repo](https://github.com/metauni/orb).
 
 # Pockets
 
+Currently metauni is organised as one top-level world ([The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea)) and numerous Pockets, which are worlds built from a template. For example, [Symbolic Wilds 5](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205) and [Symbolic Wilds 6](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%206) are based off the same "world template" but the boards within have an independent existence (write on boards in Symbolic Wilds 5 and it doesn't affect what you see in Symbolic Wilds 6). Links connect webpages and portals connect *Pockets*. 
+
 For the code see the [Metaportal GitHub repo](https://github.com/metauni/metaportal).
