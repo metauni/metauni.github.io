@@ -1,12 +1,8 @@
 # Singular Learning Theory
 
-This is the homepage of a seminar on Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory founded by [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/). The seminar takes place at [metauni](https://www.metauniorg) every Thursday and all are welcome, for the future schedule see the metauni homepage.
+This is the homepage of a seminar on Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory founded by [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/). The seminar takes place at [metauni](https://www.metauniorg), for the schedule see the metauni homepage.
 
-![banner](seminar-slt.png)
-
-*Image from Sumio Watanabe's [homepage](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/)*.
-
-## References
+![slt-pic-min](https://user-images.githubusercontent.com/320329/208009611-93289eb6-4813-436d-864e-4deb487a8b73.png)
 
 The canonical references are Watanabe's two textbooks:
 
@@ -62,11 +58,11 @@ Below you can find the schedule for 2022, with videos and pocket links (which ta
 * **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis ([video](https://youtu.be/KwI-O8VKVv4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2015)).
 * **24-11-22** (*Dan Murfet*): Jet schemes I ([video](https://youtu.be/8g6dZZ7lWGk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
-
+* **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
+* **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3
+ 
 Upcoming seminars:
 
-* **8-12-22** (*Dan Murfet*): Jet schemes II
-* **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3
 * **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
 
 After this the seminar will go on hiatus until 19-1-2023.
