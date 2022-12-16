@@ -9,7 +9,7 @@ This page is a series of videos with short descriptions, intended as a bare-bone
 
 # Boards
 
-For the code see the [Metaboard GitHub repo](https://github.com/metauni/metaboard).
+Metaboard are our multiplayer boards for sharing knowledge within Roblox. They are persistent (their contents stay there when you leave), accurate (all users see the same thing, even with redo/undo) and fast. For the code see the [Metaboard GitHub repo](https://github.com/metauni/metaboard).
 
 ## Boards and the web
 
@@ -24,6 +24,10 @@ Each board at metauni has a URL. Think of it like a Zoom meeting URL: when you v
 Orbs make it easy to attend a seminar at metauni, by making it *optional* to control your avatar in 3D while listening to a talk. When you join an event, walk up to the orb, "Attach as Listener" and you'll hear from the position of the Orb (which is near the speaker) and have the option to engage "Orbcam" which gives you a fullscreen view of the boards. Disable Orbcam to move your avatar around and "Detach" at the end of the talk so you can listen from the position of your avatar again.
 
 A white ring above your head means you are currently attached as a Listener (*note*: if you are far from an Orb, and can't hear someone speaking next to you, this might be why, as your "Metaverse ears" are somewhere else) and a black ring means someone is viewing through Orbcam.
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9kDwbWJGgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 For the code see the [Orb GitHub repo](https://github.com/metauni/orb).
 
