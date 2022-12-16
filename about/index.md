@@ -13,12 +13,6 @@ Metauni is an institution of higher learning, founded in early 2021. This is a w
 
 * **Infrastructure**: we have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [tech page](/about/tech) for more information.
 
-From 2023 onwards we expect the following elements to also play a large role:
-
-* **Replays**: replays are multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects (it's better to experience it yourself, see the [video](https://youtu.be/s4dfwxzXEFM) or jump into the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea) to see it in action). We believe these are a compelling new format for communicating complex ideas.
-
-* **AIs**: we have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds.
-
 ## History
 
 We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom.
