@@ -1,4 +1,9 @@
-# Singular Learning Theory
+---
+title:
+    Singular Learning Theory seminar
+description:
+    Algebraic Geometry & Statistical Learning Theory
+---
 
 This is the homepage of a seminar on Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory founded by [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/). The seminar takes place at [metauni](https://www.metauniorg), for the schedule see the metauni homepage.
 
