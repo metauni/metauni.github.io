@@ -1,4 +1,4 @@
-Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and whiteboards and other [open source tools](https://metauni.org/posts/open/open) scripted in Luau. We use [Discord](https://www.discord.com) for community organisation. All are welcome! See the [instructions](https://metauni.org/posts/instructions/instructions) for how to join in, and for more background see the [About page](https://metauni.org/about/).
+Metauni is a community of scholars in the Metaverse, with 3D virtual environment and voice chat provided by [Roblox](https://www.roblox.com/) and community organisation in [Discord](https://www.discord.com). All are welcome! To join in see the [Instructions](https://metauni.org/posts/instructions/instructions) and for more information see the [About page](https://metauni.org/about/).
 
 <p align="center">
   <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
@@ -20,7 +20,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="/about">About</a>
 </p>
 
-The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). There will be a **[Festival](https://metauni.org/festival/2023/)** on the 12th of January 2023! You can "redeem" keys for boards on the [metauniService](http://metauniservice.com:8080/) page.
+See our page on [open source tools](https://metauni.org/posts/open/open). The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). There will be a **[Festival](https://metauni.org/festival/2023/)** on the 12th of January 2023! You can "redeem" keys for boards on the [metauniService](http://metauniservice.com:8080/) page.
 
 ## Schedule
 
