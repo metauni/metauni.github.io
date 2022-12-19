@@ -27,6 +27,7 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 * *Eleanor McMurtry* (cryptography)
 * *Rohan Hitchcock* (?)
 * *Isaac David Smith* (quantum computing)
+* *Russell Goyder* (Clifford algebras)
 
 ## Other contributions
 
