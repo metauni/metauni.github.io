@@ -46,16 +46,21 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 ### Not on this week
 <!-- BEGIN WHATS OFF -->
-* **Tea break** **11:30-12:00** (*Tetley*): Celebrating Purposelessness. *This week* playing with GPT reading boards. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *This week* [Calin Lazaroiu](https://events.theory.nipne.ro/gap/index.php/8-homepage/10-calin-lazaroiu-homepage) on path integrals via supersymmetric localisation (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Shadows of Computation](https://metauni.org/soc)** **19:30-21:00** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory. **This Week**: Because it's there [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%208)
-* **[Cryptography](https://lnor.net/uc-seminar.html)** **20:00-21:00** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof). *On hiatus*. [Join now](https://www.roblox.com/games/8164849103/Deprecation)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety. *Back in 2023*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
-* **[Code](https://metauni.org/code)** **12:00-13:00** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on. *On hiatus until 2023*.
-* **#metauni-dev** **13:00-14:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)). *On hiatus* resuming 8/12/22.
-* **[Foundations](https://metauni.org/foundations)** **21:00-22:00** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. *This week* Morgan on what logic has to contribute to other areas of mathematics, using the language of Morita equivalences. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Moonlight%20Forest%203)
-* **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *This week* Rohan's thesis talk. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209)
+
+
+
 <!-- END WHATS OFF -->
+
+### Resuming in 2023
+
+* **[Abstraction](https://metauni.org/abstraction)** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly.
+* **[Shadows of Computation](https://metauni.org/soc)** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory.
+* **[Cryptography](https://lnor.net/uc-seminar.html)** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
+* **[AI Safety](https://metauni.org/ai-safety)** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety.
+* **[Code](https://metauni.org/code)** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+* **#metauni-dev**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Foundations](https://metauni.org/foundations)** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. 
+* **[Landau-Ginzburg](https://metauni.org/lg)** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities.
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The tools we use are [open source](https://metauni.org/posts/open/open) and we'll happily help you set up your own seminars and teach you how to record them, just jump into the Discord and say hi. For information on how we record our videos see [this page](https://metauni.org/posts/instructions/video).
 
