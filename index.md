@@ -20,12 +20,13 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="/about">About</a>
 </p>
 
-The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). There will be a **[Festival](https://metauni.org/festival/2023/)** on the 12th of January 2023! Got a Board Key from Roblox? To view the baord on the web, or subscribe to notifications, see:
+The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). There will be a **[Festival](https://metauni.org/festival/2023/)** on the 12th of January 2023! 
+
+Got a Board Key from Roblox? To view the board on the web, or subscribe to notifications, enter the Key at:
 
 <p align="center">
   <span style="font-size:x-large;"><a target="_blank" href="http://service.metauni.org">metauniService</a></span>
 </p>
-
 
 ## Schedule
 
