@@ -9,8 +9,9 @@ The Omniseminar is the *Anything At All* seminar. The two most important parts o
 
 If you’re thinking “I know about this topic and I want a reason to engage with it seriously and an opportunity to practicing presenting/explaining, but I don’t really know who would be interested enough to attend and I’m not very confident in my presentation skills” then you do it at this seminar.
 
+![banner](https://user-images.githubusercontent.com/320329/208764469-938ea10b-c3da-4f90-823a-4c7415be99e6.png)
+
 ## Schedule
 
 * **TBD** (*Tessa Snikkers*): Textiles and Reptilian conspiracy theory
 * **TBD** (*Will Troiani*): Composing music that hurts your brain (but in a good way)
-* 
