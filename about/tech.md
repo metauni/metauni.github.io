@@ -9,7 +9,11 @@ This page is a series of videos with short descriptions, intended as a bare-bone
 
 # Boards
 
-Metaboard are our multiplayer boards for sharing knowledge within Roblox. They are persistent (their contents stay there when you leave), accurate (all users see the same thing, even with redo/undo) and fast. For the code see the [Metaboard GitHub repo](https://github.com/metauni/metaboard).
+Metaboard are our multiplayer boards for sharing knowledge within Roblox. They are persistent (their contents stay there when you leave), accurate (all users see the same thing, even with redo/undo) and fast. For the code see the [Metaboard GitHub repo](https://github.com/metauni/metaboard). The easiest way to view boards is the Look button:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oo3aM0Ga5-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Boards and the web
 
