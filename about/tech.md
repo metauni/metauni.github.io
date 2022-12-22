@@ -59,4 +59,8 @@ To experience it for yourself, jump into the [Rising Sea](https://www.roblox.com
 
 # AI
 
-We have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds.
+We have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds. Right now, everywhere in metauni you can ask GPT about the contents of any board (although it doesn't always say something useful, just wait until GPT4!).
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SD2Wr_UFXZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
