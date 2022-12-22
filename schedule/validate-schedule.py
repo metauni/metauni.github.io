@@ -83,7 +83,10 @@ with open(os.environ["SCHEDULE_PATH"], "r", encoding="utf-8") as f:
         if value:
             validator(value)
         else:
-            raise Exception(f"Schedule is missing \"{prop}\" property")
+            pass
+            # Removed because sometimes there are no seminars on, and sometimes
+            # there are no seminars off.
+            # raise Exception(f"Schedule is missing \"{prop}\" property")
 
     # Warn about extraneous props
     for prop in schedule.keys():
