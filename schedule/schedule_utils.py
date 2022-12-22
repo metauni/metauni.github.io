@@ -38,21 +38,23 @@ def load_schedule():
 
         # Reformat "whats on" and "whats off"
         whats_on = []
-        for seminar in schedule["whats on"]:
-            name = next(iter(seminar))
-            data = seminar[name]
-            data["name"] = name
-            data["date"] = data.get("date") or metauni_day
-            whats_on.append(data)
+        if schedule["whats on"] != None:
+            for seminar in schedule["whats on"]:
+                name = next(iter(seminar))
+                data = seminar[name]
+                data["name"] = name
+                data["date"] = data.get("date") or metauni_day
+                whats_on.append(data)
         schedule["whats on"] = whats_on
 
         whats_off = []
-        for seminar in schedule["whats off"]:
-            name = next(iter(seminar))
-            data = seminar[name]
-            data["name"] = name
-            data["date"] = data.get("date") or metauni_day
-            whats_off.append(data)
+        if schedule["whats off"] != None:
+            for seminar in schedule["whats off"]:
+                name = next(iter(seminar))
+                data = seminar[name]
+                data["name"] = name
+                data["date"] = data.get("date") or metauni_day
+                whats_off.append(data)
         schedule["whats off"] = whats_off
 
         return schedule
