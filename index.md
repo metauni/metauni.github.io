@@ -80,12 +80,14 @@ For more see the [about page](https://metauni.org/about/) and the [YouTube chann
 
 Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
 
+* 11/1/2021 - metauni founded
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
 * 16/1/2021 - Update with clickable documents, audio plinths and working teleports, [another video](https://youtu.be/CJeuAvoRE9U).
 * 17/1/2021 - Rewrote Discord bot to use MongoDB, fixed some bugs, implemented slide presentations ([video](https://youtu.be/9-fyJvrTRzA)).
 * 17/1/2021 - Implemented popover "fullscreen" GUI for looking at slides, synced to the presenter's current slide. There is a [video](https://youtu.be/rNtZGYnRHdA) demoing this feature as well as recapping the other features.
 * 18/1/2021 - Instructions for [building your own node](https://youtu.be/SEwmyMInqTM) to be read in conjunction with [this blog post](https://towardsdatascience.com/creating-a-discord-bot-from-scratch-and-connecting-to-mongodb-828ad1c7c22e) for the database and [this one](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) for keep alive (now superceded by Billy's excellent guide, see below).
 * 20/1/2021 - Implemented the challenge system, with the first two challenges for the first event `#1A, #1B` see [challenges](http://metauni.org/posts/challenges/challenges).
+* 22/1/2021 - First public event
 * 27/1/2021 - Social media accounts up and running (LC on Instagram, DM on Twitter).
 * 31/1/2021 - Added new talk area for Ziling Ye's event (The Island).
 * 1/2/2021 - Working whiteboards (by JC) and a new talk area (the Music Tower) for Lucas's event.
