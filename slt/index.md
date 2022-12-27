@@ -24,15 +24,16 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-The currently scheduled seminars are:
+The seminar is on hiatus until 19-1-2023. Scheduled talks in 2023:
 
-* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
+* **19-1-22** (*Russell Goyder*): Physical entropy vs information-theoretic entropy
+* **26-1-22** (*Ben Gerraty*): The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
+* **TBD** (*Zhongtian Chen*): Proof of the Koopman-Pitman-Darmois theorem
+* **TBD** (*Daniel Murfet*): Jet schemes III
 
-After this the seminar will go on hiatus until 19-1-2023. Some topics we will discuss in early 2023:
+Some topics and papers to be discussed:
 
-* More on jet schemes
-* The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
-* Koopman-Pitman-Darmois theorem
+* "[Scaling laws for reward model overoptimization](https://arxiv.org/abs/2210.10760)" L. Gao, J. Schulman, J. Hilton (played a role in the creation of ChatGPT).
 
 ## Past seminars
 
@@ -75,6 +76,7 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3 ([video](https://youtu.be/FngNdKxCIuY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2017)).
+* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
