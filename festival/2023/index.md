@@ -18,7 +18,7 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 
 We hope to have about twenty speakers, spread across enough timeslots so that no matter your timezone there is a bunch of interesting talks to attend. So far the list of speakers is:
 
-* *Dan Murfet* (?)
+* (*Dan Murfet*): The case for short AGI timelines
 * *Adam Dorr* (?)
 * *Will Troiani* (math, logic)
 * *Lucas Cantor* (music)
