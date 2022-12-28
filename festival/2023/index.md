@@ -27,7 +27,7 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 * *Rohan Hitchcock* (?)
 * *Isaac David Smith* (quantum computing)
 * *Russell Goyder* (Clifford algebras)
-* *Ethan Armitage* (math, *Flows on the Hyperbolic Plane*)
+* (*Ethan Armitage*): Flows on the Hyperbolic Plane
 
 ## Other contributions
 
