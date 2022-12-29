@@ -19,14 +19,14 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 We hope to have about twenty speakers, spread across enough timeslots so that no matter your timezone there is a bunch of interesting talks to attend. So far the list of speakers is:
 
 * (*Dan Murfet*): The case for short AGI timelines
-* *Adam Dorr* (?)
-* *Will Troiani* (math, logic)
-* *Lucas Cantor* (music)
-* *Joey Velez-Ginorio* (neuroscience, logic)
-* *Eleanor McMurtry* (cryptography)
-* *Rohan Hitchcock* (?)
-* *Isaac David Smith* (quantum computing)
-* *Russell Goyder* (Clifford algebras)
+* (*Adam Dorr*): TBD
+* (*Will Troiani*): Logic and quantum computing - from cut-elimination to correction error correction codes
+* (*Lucas Cantor*): TBD
+* (*Joey Velez-Ginorio*): TBD
+* (*Eleanor McMurtry*): Ceci n’est pas un secret
+* (*Rohan Hitchcock*): TBD
+* (*Isaac David Smith*): TBD
+* (*Russell Goyder*): Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
 
 ## Other contributions
