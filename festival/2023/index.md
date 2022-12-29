@@ -18,20 +18,17 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 
 We hope to have about twenty speakers, spread across enough timeslots so that no matter your timezone there is a bunch of interesting talks to attend. So far the list of speakers is:
 
-* (*Dan Murfet*): The case for short AGI timelines
-* (*Adam Dorr*): TBD
-* (*Will Troiani*): Logic and quantum computing - from cut-elimination to correction error correction codes
-* (*Lucas Cantor*): TBD
-* (*Joey Velez-Ginorio*): TBD
-* (*Eleanor McMurtry*): Ceci n’est pas un secret
-* (*Rohan Hitchcock*): TBD
+* (*[Lucas Cantor](https://www.lucascantormusic.com)*): The end of Music
+* (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*): Architecture in virtual worlds
+* (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
+* (*[Adam Dorr](https://adamdorr.com)*): TBD
+* (*[Will Troiani](https://williamtroiani.github.io)*): Logic and quantum computing - from cut-elimination to correction error correction codes
+* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): Programs in your brain
+* (*[Eleanor McMurtry](https://lnor.net)*): Ceci n’est pas un secret
+* (*[Rohan Hitchcock](https://rohanhitchcock.com)*): TBD
 * (*Isaac David Smith*): TBD
-* (*Russell Goyder*): Geometric Algebra in 2D - complex numbers without the square root of minus one
+* (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
-
-## Other contributions
-
-We're also inviting contributions in the form of art, architecture, interactive objects, special effects, whatever you like. If you'd like to show off something in one of these categories, please get in touch.
 
 ## Instructions
 
