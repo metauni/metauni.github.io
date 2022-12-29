@@ -16,10 +16,10 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 
 ## Contributed talks
 
-We hope to have about twenty speakers, spread across enough timeslots so that no matter your timezone there is a bunch of interesting talks to attend. So far the list of speakers is:
+Times below are the 12th of January, times are AEDT. The current list of speakers is:
 
 * (*[Lucas Cantor](https://www.lucascantormusic.com)*): The end of Music
-* (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*): Architecture in virtual worlds
+* (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-17:30**: Architecture in virtual worlds
 * (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
 * (*[Adam Dorr](https://adamdorr.com)*): TBD
 * (*[Will Troiani](https://williamtroiani.github.io)*): Logic and quantum computing
