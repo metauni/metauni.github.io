@@ -22,7 +22,7 @@ We hope to have about twenty speakers, spread across enough timeslots so that no
 * (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*): Architecture in virtual worlds
 * (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
 * (*[Adam Dorr](https://adamdorr.com)*): TBD
-* (*[Will Troiani](https://williamtroiani.github.io)*): Logic and quantum computing - from cut-elimination to correction error correction codes
+* (*[Will Troiani](https://williamtroiani.github.io)*): Logic and quantum computing
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): Programs in your brain
 * (*[Eleanor McMurtry](https://lnor.net)*): Ceci n’est pas un secret
 * (*[Rohan Hitchcock](https://rohanhitchcock.com)*): TBD
