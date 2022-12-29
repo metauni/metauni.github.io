@@ -5,21 +5,13 @@ description:
     FAQ and guiding principles
 ---
 
-Metauni is an institution of higher learning, founded in early 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
+Metauni is an institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
 
 * **Seminars**: we meet every week for seminars, see the [main page](https://www.metauni.org) for the current schedule and links to the pages for individual seminars, and for recordings see the [YouTube channel](https://www.youtube.com/@_metauni).
 
 * **Classes**: we have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)). We will be running more.
 
-* **Infrastructure**: we have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [tech page](/about/tech) for more information.
-
-## History
-
-We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom.
-
-> I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
-
-The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader. Similarly, while there was an early focus on mathematics, coding, artificial intelligence and similar topics, we expect the range of seminars to expand over time.
+* **Infrastructure**: we have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [Tech page](/about/tech) for more information.
 
 ## Seminar-first
 
@@ -36,6 +28,14 @@ Usually seminars are organised around a theme or area of research. The aim varie
 * A seminar can be a social event in which people share cool things and work collaboratively (example: [Code seminar](https://metauni.org/code)).
 
 Some of us in the metauni community have a lot of experience preparing seminar talks, and mentoring others in preparing them. We're keen to pass on some of that expertise and help others organise seminars and give great seminar talks.
+
+## History
+
+We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom.
+
+> I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
+
+The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
 
 ## Supporting metauni
 
