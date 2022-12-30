@@ -33,7 +33,7 @@ Some of us in the metauni community have a lot of experience preparing seminar t
 <img width="331" src="https://user-images.githubusercontent.com/320329/210023359-afa573ba-b5bc-4f79-aa62-8c0985d3cbd1.png">
 </p>
 
-If we organise great seminars they'll attract participants, which will in turn inspire more people to join in and start their own seminars, which will attract more participants, and so on.
+If we organise great seminars they'll attract participants, which will in turn inspire more people to join in and start their own seminars, which will attract more participants, and so on. In pratice, what happens is that people join metauni to attend a seminar, gain over time an appreciation of how it works and how they could benefit from running one, and then they start their own seminars.
 
 ## History
 
