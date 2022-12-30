@@ -140,6 +140,11 @@ Seminars are at the heart of metauni, and they will always be free: they are our
 
 However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. the [AMSI summer schools](https://ss.amsi.org.au)). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult for young people to secure permanent academic positions, and one of our priorities is to help those who are interested to explore new ways of making a career in higher education. We are also trying to figure out ways of supporting people to make contributions to the underlying technology stack that makes metauni possible.
 
-## Historical influences
+## Historical Influences and Reading List
 
 Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin), [Lianda](https://en.wikipedia.org/wiki/National_Southwestern_Associated_University) and [Sabishii University](https://www.kimstanleyrobinson.info/content/shabishii).
+
+Recommended reading:
+
+* Matthew Ball "[The Metaverse And How It Will Revolutionize Everything](https://a.co/d/0rTLM1N)" 2022.
+* Herman Narula "[Virtual Society: The Metaverse and the New Frontiers of Human Experience](https://a.co/d/964fB6s)" 2022.
