@@ -20,8 +20,7 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 
 * (*[Lucas Cantor](https://www.lucascantormusic.com)*): The end of Music
 * (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-17:30**: Architecture in virtual worlds
-* (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
-* (*[Adam Dorr](https://adamdorr.com)*): TBD
+* (*[Adam Dorr](https://adamdorr.com)*): Brighter, the case for rational optimism
 * (*[Will Troiani](https://williamtroiani.github.io)*): Logic and quantum computing
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): Programs in your brain
 * (*[Eleanor McMurtry](https://lnor.net)*): Ceci n’est pas un secret
@@ -29,6 +28,7 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 * (*Isaac David Smith*): TBD
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
+* (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
 
 ## Instructions
 
