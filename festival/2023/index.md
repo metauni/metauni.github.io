@@ -18,17 +18,17 @@ Organisation of the event is taking place in the [metauni Discord](https://disco
 
 Times below are the 12th of January, times are AEDT. The current list of speakers is:
 
-* (*[Lucas Cantor](https://www.lucascantormusic.com)*): The end of Music
-* (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-17:30**: Architecture in virtual worlds
-* (*[Adam Dorr](https://adamdorr.com)*): [Brighter](https://a.co/d/aNprf06), Optimism, Progress, and the Future of Environmentalism
+* (*[Lucas Cantor](https://www.lucascantormusic.com)*): The End of Music
+* (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-17:30**: Architecture in Virtual Worlds
+* (*[Adam Dorr](https://adamdorr.com)*): [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
 * (*[Will Troiani](https://williamtroiani.github.io)*): Logic and quantum computing
-* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): Programs in your brain
+* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): Programs in Your Brain
 * (*[Eleanor McMurtry](https://lnor.net)*): Ceci n’est pas un secret
 * (*[Rohan Hitchcock](https://rohanhitchcock.com)*): TBD
 * (*Isaac David Smith*): TBD
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
-* (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
+* (*[Dan Murfet](http://therisingsea.org)*): The Case for Short AGI Timelines
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): Considering a Career in AI Safety
 
 ## Instructions
