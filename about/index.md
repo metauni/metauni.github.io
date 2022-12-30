@@ -9,9 +9,11 @@ Metauni is an institution of higher learning, founded at the beginning of 2021. 
 
 * **Seminars**: we meet every week for seminars, see the [main page](https://www.metauni.org) for the current schedule and links to the pages for individual seminars, and for recordings see the [YouTube channel](https://www.youtube.com/@_metauni).
 
+* **Infrastructure**: we have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [Tech page](/about/tech) for more information.
+
 * **Classes**: we have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)). We will be running more.
 
-* **Infrastructure**: we have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [Tech page](/about/tech) for more information.
+Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation.
 
 ## Seminar-first
 
@@ -37,11 +39,31 @@ If we organise great seminars they'll attract participants, which will in turn i
 
 ## History
 
-We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom.
+We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom. The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
 
 > I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
 
-The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
+In 2021 metauni was an experiment with running events in virtual worlds: we ran [nine events](https://metauni.org/posts/events/events) across the year, each lasting for a few hours. From late 2021 through 2022 metauni became focused on seminars: we ran 59 "metauni days" consisting of several 1-1.5hr seminars spread across Thursdays. The [tech stack](/about/tech) matured across the year into a set of reliable and capable tools for running seminars on Roblox.
+
+### Some metrics
+
+As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
+
+## Future
+
+The plan for 2023 is to double down on seminars. That means: more seminars, more effort to recruit attendees for your seminar, and more cool tech that everyone can use. The public-facing focus areas for 2023: 
+
+* **Marketing**: on behalf of seminar organisers, we want more people to show up to their seminars. Organising a seminar is to some extent its own reward, but it's effort, and that effort is hard to sustain unless there's an audience. In most cases there are people out there who *would* love to attend a seminar if only they could discover it existed; over the next year we'll become more competent at enabling that discovery.
+
+* **Replays**: right now there's nothing to do at metauni if there's no seminar on (except ride the AstroTubes, I have the stats). In 2023 that will change, as we start to populate the worlds of metauni with *replays* (multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects). 
+
+* **Meta-metauni**: being more systematic about describing what a seminar is and how to run one successfully. That means writing guides for running seminars and giving talks, editing videos, attracting seminar participants, etc. We've run a lot of seminars and people can learn from what worked.
+
+The focus areas for the tech stack:
+
+* **Replays and Journeys**: this requires progress on VR, the replay system itself, and we'll need a system for incorporating multiple replays into Journeys that have tracked progress. The idea is that replays and journeys grow out of seminars (if you want your attendees to have an easy way to be onboarded into a technical seminar, maybe you should provide it).
+* **AI**: with tools like [ChatGPT](https://openai.com/blog/chatgpt/) reaching maturity, it seems clear that any future-looking institution should be incorporating these tools. We've already started integrating GPT3 into seminars (see [Tech](/about/tech)) and we'll build on this foundation in 2023 by for example fine-tuning models on transcripts and other data generated from seminars (eventually, AIs should be valuable contributors to your seminar, if you wish).
+* **metauniOS**: more tools for fine-tuning AIs, automating the production of videos, scheduling and reminders.
 
 ## Supporting metauni
 
@@ -101,10 +123,6 @@ At metauni we value contact between human intelligence and Nature, which in virt
 ## Why Roblox?
 
 Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
-
-## Some metrics
-
-As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
 
 ## Not a University 
 
