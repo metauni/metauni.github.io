@@ -62,10 +62,10 @@ The plan for 2023 is to double down on seminars. That means: more seminars, more
 The focus areas for the tech stack:
 
 * **Replays and Journeys**: this requires progress on VR, the replay system itself, and we'll need a system for incorporating multiple replays into Journeys that have tracked progress. The idea is that replays and journeys grow out of seminars (if you want your attendees to have an easy way to be onboarded into a technical seminar, maybe you should provide it).
-* **AI**: with tools like [ChatGPT](https://openai.com/blog/chatgpt/) reaching maturity, it seems clear that any future-looking institution should be incorporating these tools. We've already started integrating GPT3 into seminars (see [Tech](/about/tech)) and we'll build on this foundation in 2023 by for example fine-tuning models on transcripts and other data generated from seminars (eventually, AIs should be valuable contributors to your seminar, if you wish).
-* **metauniService](http://service.metauni.org)**: the website will steadily become a tool for seminar organisers to upload slides, manage permissions, signups and reminders, scheduling, pockets and boards, etc.
+* **AI**: with tools like [ChatGPT](https://openai.com/blog/chatgpt/) reaching maturity, it seems clear that any future-looking institution should be incorporating these tools. We've already started integrating GPT3 into seminars (see [Tech](/about/tech)) and we'll build on this foundation in 2023 by for example fine-tuning models on transcripts and other data generated from seminars (eventually, AIs should be valuable contributors to your seminar, if you wish). We'll be experimenting with various kinds of AI agents and interaction modes.
+* **[metauniService](http://service.metauni.org)**: the website will steadily become a tool for seminar organisers to upload slides, manage permissions, signups and reminders, scheduling, pockets and boards, etc.
 
-If you want to support metauni and know how to code, one of the ways to do it is to put up your hand to help develop these systems, which will benefit everyone who attends and organises seminars at metauni.
+All of this tech will be released as open source. If any of this sounds exciting to you, and you'd like to contribute to a project which will benefit everyone who attends and organises seminars at metauni, see below.
 
 ## Supporting metauni
 
