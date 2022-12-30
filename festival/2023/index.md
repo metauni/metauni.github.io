@@ -29,6 +29,7 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
 * (*[Dan Murfet](http://therisingsea.org)*): The case for short AGI timelines
+* (*[Matthew Farrugia-Roberts](https://far.in.net)*): Considering a Career in AI Safety
 
 ## Instructions
 
