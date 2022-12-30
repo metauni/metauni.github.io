@@ -17,9 +17,9 @@ Metauni is an institution of higher learning, founded at the beginning of 2021. 
 
 Metauni is a seminar-first institution.
 
-Seminars are live social events, where a small group of people explore a set of ideas. Seminars have organisers, and naturally some participants are more knowledgeable than others, but they have no formal division between "teacher" and "students". 
+Seminars are live social events, where a small group of people explore a set of ideas. Seminars have organisers, and naturally some attendees are more knowledgeable than others, but they have no formal division between "teacher" and "students". 
 
-Once you finish your undergraduate and graduate degrees, seminars are *how you teach yourself new things*; you take turns reading up on, and presenting, papers, and the discipline of preparing and delivering talks to an audience of your peers is what keeps you honest. In principle you can teach yourself anything, in practice you master a subject by preparing to teach others.
+Once you leave the formal education system seminars are *how you teach yourself new things*: you take turns reading up on and presenting papers, and the discipline of preparing and delivering talks keeps you honest. In principle you can teach yourself anything, in practice you master a subject by preparing to teach others.
 
 Usually seminars are organised around a theme or area of research. The aim varies. Here are some examples:
 
@@ -27,7 +27,13 @@ Usually seminars are organised around a theme or area of research. The aim varie
 * A seminar can exist because the speakers want to learn the details in a topic and structure a seminar around their own expeditions into the texts (example: [Foundations](https://metauni.org/foundations)).
 * A seminar can be a social event in which people share cool things and work collaboratively (example: [Code seminar](https://metauni.org/code)).
 
-Some of us in the metauni community have a lot of experience preparing seminar talks, and mentoring others in preparing them. We're keen to pass on some of that expertise and help others organise seminars and give great seminar talks.
+Some of us in the metauni community have a lot of experience preparing seminar talks, and mentoring others in preparing them. We're keen to pass on some of that expertise and help others organise seminars and give great seminar talks. To that end metauni is organised conceptually around the following flywheel:
+
+<p align="center">
+<img width="331" src="https://user-images.githubusercontent.com/320329/210023359-afa573ba-b5bc-4f79-aa62-8c0985d3cbd1.png">
+</p>
+
+If we organise great seminars they'll attract participants, which will in turn inspire more people to join in and start their own seminars, which will attract more participants, and so on.
 
 ## History
 
