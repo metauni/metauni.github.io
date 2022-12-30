@@ -32,7 +32,7 @@ AI systems, to technical topics in AI control, to present-day issues.
 Seminar information:
 
 * **Organisers:**
-  Matthew Farrugia-Roberts and Dan Murfet.
+  [Matthew Farrugia-Roberts](https://far.in.net) and Dan Murfet.
 * **Time:**
   Thursday evenings, 9pm AEDT (UTC +11), most weeks
   (see [home page](/) for most up-to-date schedule).
