@@ -24,7 +24,6 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 * (*[Will Troiani](https://williamtroiani.github.io)*): Logic and Quantum Computing
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): When do neurons represent True?
 * (*[Eleanor McMurtry](https://lnor.net)*): Ceci n’est pas un secret
-* (*[Rohan Hitchcock](https://rohanhitchcock.com)*): TBD
 * (*Isaac David Smith*): TBD
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
