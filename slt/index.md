@@ -28,8 +28,11 @@ The seminar is on hiatus until 19-1-2023. Scheduled talks in 2023:
 
 * **19-1-22** (*Russell Goyder*): Physical entropy vs information-theoretic entropy
 * **26-1-22** (*Ben Gerraty*): The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
+* **TBD** (*Dan Murfet*): Revisiting the renormalisation condition 
 * **TBD** (*Zhongtian Chen*): Proof of the Koopman-Pitman-Darmois theorem
-* **TBD** (*Daniel Murfet*): Jet schemes III
+* **TBD** (*Dan Murfet*): Jet schemes III
+* **TBD** (*Edmund Lau*): RLCT for 1-hidden layer ReLU networks
+* **TBD** (*Edmund Lau*): Main formulas 3, 4 (series of talks)
 
 Some topics and papers to be discussed:
 
