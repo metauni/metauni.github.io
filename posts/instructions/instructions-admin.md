@@ -32,12 +32,11 @@ We've had speakers successfully give talks with both setups, but perhaps among t
 
 * **Lower graphics quality and brightness for battery life**: We recommend setting *Graphics Quality* in Roblox to its minimum setting and turning down the screen brightness in the system menu of your device. At high settings Roblox will rapidly consume your device's battery. To set the *Graphics Quality* open the Roblox Settings menu (via the Roblox icon in the top left hand corner of your screen), switch *Graphics Mode* to *Manual* and then reduce *Graphics Quality* until there is only one coloured bar. On the minimum Graphics Quality setting and around 1/3 brightness I get approximately `3.3 hours` of battery life on a `iPad Pro 12.9inch 2nd gen`.
 
-## Admins
+## Moderation
 
-Here is the checklist we follow before metauni events:
+Currently all images displayed in Roblox are moderated. That means that if you want to upload slides, you have to be aware of the moderation rules. Here are some of the rule violations you are likely to encounter in preparing academic content for Roblox:
 
-* Speakers have been sent the above instructions.
-* Speakers have the appropriate `scribe` permission (e.g. by typing `/setscribe <username>` in the server).
-* Boards are off for guests.
-
-For information on recording videos of events, see our [video page](video).
+* Make sure your in-game text and images do not contain **URLs or email addresses** (e.g. the first or last page of preprints). Their AI will catch anything that even remotely looks like either, so "a@b" or "a.b" is risky. However links to YouTube, Twitter, Twitch are explicitly allowed. Don't try to be clever and replace `bill@gmail.com` by `bill at gmail dot com`.
+* Do not put information about Discord in-world or instructions for using it
+* Photos of people (they are afraid of users identifying other users)
+* Make sure the text in your images is not too small for the filtration system to read (this may easily happen if you compress high resolution images, rendering small fonts close to unreadable).
