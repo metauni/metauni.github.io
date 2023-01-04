@@ -2,11 +2,13 @@
 
 There will be a festival at [metauni](https://www.metauni.org) on the 12th of January, to celebrate metauni's second birthday. The festival will consist of
 
-* A number of short seminar-style talks (most will be 30min) from a wide range of speakers in areas including logic, mathematics, computer science, physics, game programming, neuroscience, AI and more. 
-* Meta talks on metauni, what is working and what isn't, and the future of the institution.
-* General nonsense (did someone say Hilbert Ferris Wheel?).
+* A number of short talks (most will be 30min) on a wide variety of topics, see the schedule below.
+* Discussion sessions about metauni and the future of the institution.
+* General nonsense
 
-Young presenters (e.g. undergraduate or graduate students) are particularly encouraged to speak. The goal is to have a bit of fun, learn about something from outside our own fields, and continue to figure out how to run events like this in virtual worlds. 
+<p align="center">
+  <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
+</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/320329/201472401-d4fa2fc7-e83d-4958-9585-a1f8c5f96948.png">
@@ -14,7 +16,11 @@ Young presenters (e.g. undergraduate or graduate students) are particularly enco
 
 Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (and please do) then propose a topic to speak about in the Discord channel; mentorship on giving talks is available. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
 
-## Contributed talks
+## How to attend
+
+Install Roblox, register for voice chat, and click on the big "Enter metauni" link above. For more details see the [instructions](https://metauni.org/posts/instructions/instructions). Each of the scheduled talks will have a dedicated link that will take you into the world at the exact location of the talk, see **Join now** next to the talk in the schedule.
+
+## Schedule
 
 Times below are the 12th of January, times are AEDT. The current list of speakers is:
 
@@ -30,6 +36,16 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 * (*[Dan Murfet](http://therisingsea.org)*): The Case for Short AGI Timelines
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): Considering a Career in AI Safety
 
-## Instructions
+## Instructions for speakers
 
-At metauni most talks are given with a tablet, writing on a board in the virtual world. You can also give a slide talk, but these will have to be sent to an organiser at least a day before to be uploaded and placed into the world. Please see the [general instructions](https://metauni.org/posts/instructions/instructions) for how to get into metauni, and the [speaker instructions](https://metauni.org/posts/instructions/instructions-admin) for more detailed information on giving a talk in the virtual environment.
+For a quick introduction to giving a talk at metauni, see [here](https://metauni.org/posts/instructions/instructions-admin).
+
+You have two options:
+
+1. **Board talk**: you'll need a tablet that can run Roblox (or a stylus, or another way of getting similar input to a computer running Roblox, see the instructions) and you'll give the talk by writing on boards that will be set up in the virtual world.
+
+2. **Slide talk**: every slide for your talk will be put up in sequence in the world, and you'll present by speaking and moving between them.
+
+If you wish to give a board talk and this is your first time doing so at metauni, you should give it a trial run beforehand. Please get in touch with me (Daniel Murfet aka `starsonthars`) on the Discord and we can run through it together in-world at a time that suits you. If you're giving a slide talk you **must prepare your sides in 4:3 format** and send them to me as PNG files labelled in the right order, **no later** than three days before the festival (Monday the 9th AEDT). Given the number of slides that need to be uploaded, and the possibility of back-and-forth required to deal with potential moderation, I can't guarantee getting your slides setup if they arrive later than that.
+
+Please be aware that you cannot include URLs, email addresses, photos of people or small text on slides in Roblox (see the Moderation section of the [instructions](https://metauni.org/posts/instructions/instructions-admin).
