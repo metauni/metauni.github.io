@@ -42,7 +42,7 @@ For a quick introduction to giving a talk at metauni, see [here](https://metauni
 
 You have two options:
 
-1. **Board talk**: you'll need a tablet that can run Roblox (or a stylus, or another way of getting similar input to a computer running Roblox, see the instructions) and you'll give the talk by writing on boards that will be set up in the virtual world.
+1. **Board talk**: you'll need a tablet that can run Roblox (or a stylus, or another way of getting similar input to a computer running Roblox, see the [instructions](https://metauni.org/posts/instructions/instructions)) and you'll give the talk by writing on boards that will be set up in the virtual world.
 
 2. **Slide talk**: every slide for your talk will be put up in sequence in the world, and you'll present by speaking and moving between them.
 
