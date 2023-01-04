@@ -48,4 +48,4 @@ You have two options:
 
 If you wish to give a board talk and this is your first time doing so at metauni, you should give it a trial run beforehand. Please get in touch with me (Daniel Murfet aka `starsonthars`) on the Discord and we can run through it together in-world at a time that suits you. If you're giving a slide talk you **must prepare your sides in 4:3 format** and send them to me as PNG files labelled in the right order, **no later** than three days before the festival (Monday the 9th AEDT). Given the number of slides that need to be uploaded, and the possibility of back-and-forth required to deal with potential moderation, I can't guarantee getting your slides setup if they arrive later than that.
 
-Please be aware that you cannot include URLs, email addresses, photos of people or small text on slides in Roblox (see the Moderation section of the [instructions](https://metauni.org/posts/instructions/instructions-admin).
+Please be aware that you cannot include URLs, email addresses, photos of people or small text on slides in Roblox (see the Moderation section of the [instructions](https://metauni.org/posts/instructions/instructions-admin)).
