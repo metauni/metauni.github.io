@@ -2,8 +2,8 @@
 
 There will be a festival at [metauni](https://www.metauni.org) on the 12th of January, to celebrate metauni's second birthday. The festival will consist of
 
-* A number of short talks (most will be 30min) on a wide variety of topics, see the schedule below.
-* Discussion sessions about metauni and the future of the institution.
+* Short talks on a wide variety of topics.
+* Discussion sessions, including some about metauni.
 * General nonsense
 
 <p align="center">
