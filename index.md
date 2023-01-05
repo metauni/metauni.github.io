@@ -28,7 +28,7 @@ The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SO
 
 ## Schedule
 
-Join in [All I Want For Christmas Is Antimatter](http://metauniservice.com:8080/submit?boardKey=10088371393-19-1).
+All seminars are on hiatus until the 19th of January 2023. In the meantime, check out [All I Want For Christmas Is Antimatter](http://metauniservice.com:8080/submit?boardKey=10088371393-19-1).
 
 To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEDT (UTC +11). Names in italics are the co-organisers of the seminar.
 <!-- The schedule is also available in the iCalendar format. -->
@@ -41,7 +41,6 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- END WHATS ON -->
 
-### Not on this week
 <!-- BEGIN WHATS OFF -->
 
 <!-- END WHATS OFF -->
