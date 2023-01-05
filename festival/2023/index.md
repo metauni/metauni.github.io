@@ -26,7 +26,7 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 
 * (*[Lucas Cantor](https://www.lucascantormusic.com)*): The End of Music
 * (*[Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-17:30**: Architecture in Virtual Worlds
-* (*[Adam Dorr](https://adamdorr.com)*): [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
+* (*[Adam Dorr](https://adamdorr.com)*): **10:00-10:30** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
 * (*[Will Troiani](https://williamtroiani.github.io)*): Logic and Quantum Computing
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): When do neurons represent True?
 * (*[Eleanor McMurtry](https://lnor.net)*): Ceci n’est pas un secret
