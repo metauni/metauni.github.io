@@ -16,6 +16,11 @@ The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one
 * (*Ken Chan*): **14:00-15:00** An invitation to Euclid's Elements - the proof of Pythagorus' theorem (time tbc)
 
+a discussion panel block
+
+* *GPT for NPCs*: **14:00-14:30** Making virtual worlds come alive with intelligent agents (panellists tbc)
+* *Classes vs replays & AIs at metauni*: **14:30-15:00** what does higher education look like in the future? (panellists tbc)
+
 and an evening block
 
 * (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track
@@ -24,11 +29,6 @@ and an evening block
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
 * (*[Eleanor McMurtry](https://lnor.net)*): **21:00-22:00** Ceci n’est pas un secret
 * (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing
-
-Discussion sessions
-
-* *GPT for NPCs*: Making virtual worlds come alive with intelligent agents
-* *Classes vs replays & AIs at metauni*: what does higher education look like in the future?
 
 Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
 
