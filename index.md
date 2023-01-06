@@ -20,17 +20,15 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="/about">About</a>
 </p>
 
-The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). There will be a **[Festival](https://metauni.org/festival/2023/)** on the 12th of January 2023!
-
-Got a Board Key from Roblox? To view the board on the web enter the Key at:
+The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](http://service.metauni.org). On the **12th of January AEDT** there will be the
 
 <p align="center">
-  <span style="font-size:x-large;"><a target="_blank" href="http://service.metauni.org">metauniService</a></span>
+  <span style="font-size:x-large;"><a target="_blank" href="https://metauni.org/festival/">metauni Festival 2023</a></span>
 </p>
 
 ## Schedule
 
-Join in [All I Want For Christmas Is Antimatter](http://metauniservice.com:8080/submit?boardKey=10088371393-19-1).
+All seminars are on hiatus until the 19th of January 2023. In the meantime, check out [All I Want For Christmas Is Antimatter](http://metauniservice.com:8080/submit?boardKey=10088371393-19-1).
 
 To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEDT (UTC +11). Names in italics are the co-organisers of the seminar.
 <!-- The schedule is also available in the iCalendar format. -->
@@ -40,19 +38,17 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### January 12, 2023
-* **[Festival](https://metauni.org/festival/2023/)** **09:00-21:00** (*Dan Murfet*): The second annual metauni Festival: if the Universe were a piñata would you smash it? [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
 <!-- END WHATS ON -->
 
-### Not on this week
 <!-- BEGIN WHATS OFF -->
-* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. **This week**: Disrupting education Pt 2 [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Russell Goyder on Physical Entropy and Information Entropy. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)
+
 <!-- END WHATS OFF -->
 
 ### Resuming in 2023
 
+* **[Disruption](https://metauni.org/disruption)** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+* **[Singular Learning Theory](https://metauni.org/slt)** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory.
 * **[Abstraction](https://metauni.org/abstraction)** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly.
 * **[Shadows of Computation](https://metauni.org/soc)** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
