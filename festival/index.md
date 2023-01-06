@@ -14,7 +14,7 @@ The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk
 * (*Ethan Armitage*): **11:00-12:00** Flows on the Hyperbolic Plane
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True?
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one
-* (*Ken Chan*): **14:00-15:00** An invitation to Euclid's Elements - the proof of Pythagorus' theorem (time tbc)
+* (*Ken Chan*): **14:00-15:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem (time tbc)
 
 a discussion panel block
 
