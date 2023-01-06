@@ -19,3 +19,4 @@ The organiser for this seminar is *Billy Snikkers*. To propose a talk, post in `
 
 * **TBD** (*Tessa Snikkers*): Textiles and Reptilian conspiracy theory
 * **TBD** (*Will Troiani*): Composing music that hurts your brain (but in a good way)
+* **TBD** (*Billy Hibbard*): On homeschooling
