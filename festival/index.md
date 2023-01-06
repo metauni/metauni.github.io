@@ -18,8 +18,8 @@ The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk
 
 a discussion panel block
 
-* *GPT for NPCs*: **14:00-14:30** Making virtual worlds come alive with intelligent agents (panellists tbc)
-* *Classes vs replays & AIs at metauni*: **14:30-15:00** what does higher education look like in the future? (panellists tbc)
+* *GPT for NPCs*: **14:00-14:30** Making virtual worlds come alive with intelligent agents
+* *Classes & replays at metauni*: **14:30-15:00** what does higher education look like in the future?
 
 and an evening block
 
