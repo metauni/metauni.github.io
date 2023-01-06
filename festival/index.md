@@ -24,7 +24,7 @@ a discussion panel block
 and an evening block
 
 * (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track
-* (*Blake Barbeau aka [Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds
+* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds
 * (*Isaac David Smith*): **18:00-19:00** Quantum Combs, the min entropy and their uses
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
 * (*[Eleanor McMurtry](https://lnor.net)*): **21:00-22:00** Ceci n’est pas un secret
