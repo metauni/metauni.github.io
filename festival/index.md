@@ -8,7 +8,7 @@ There will be a festival at [metauni](https://www.metauni.org) on the 12th of Ja
 
 The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break. There is a morning block
 
-* (*[Lucas Cantor](https://www.lucascantormusic.com)*): Collaborating With Machines (time tbc)
+* (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines
 * (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines
 * (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
 * (*Ethan Armitage*): **11:00-12:00** Flows on the Hyperbolic Plane
