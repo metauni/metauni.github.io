@@ -1,10 +1,6 @@
 # Festival 2023
 
-There will be a festival at [metauni](https://www.metauni.org) on the 12th of January, to celebrate metauni's second birthday. The festival will consist of
-
-* Short talks on a wide variety of topics.
-* Discussion sessions, including some about metauni.
-* General nonsense
+There will be a festival at [metauni](https://www.metauni.org) on the 12th of January, to celebrate metauni's second birthday.
 
 <p align="center">
   <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
@@ -14,15 +10,7 @@ There will be a festival at [metauni](https://www.metauni.org) on the 12th of Ja
 <img src="https://user-images.githubusercontent.com/320329/201472401-d4fa2fc7-e83d-4958-9585-a1f8c5f96948.png">
 </p>
 
-Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (and please do) then propose a topic to speak about in the Discord channel; mentorship on giving talks is available. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
-
-## How to attend
-
-Install Roblox, register for voice chat, and click on the big "Enter metauni" link above. For more details see the [instructions](https://metauni.org/posts/instructions/instructions). Each of the scheduled talks will have a dedicated link that will take you into the world at the exact location of the talk, see **Join now** next to the talk in the schedule.
-
-## Schedule
-
-Times below are the 12th of January, times are AEDT. The current list of speakers is:
+The schedule is below (times are AEDT).
 
 * (*[Lucas Cantor](https://www.lucascantormusic.com)*): The End of Music
 * (*Blake Barbeau aka [Corrival Rhyme](https://twitter.com/CorrivalRhyme)*) **17:00-17:30**: ArchViz in Virtual Worlds
@@ -35,11 +23,23 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 * (*Ethan Armitage*): Flows on the Hyperbolic Plane
 * (*[Dan Murfet](http://therisingsea.org)*): The Case for Short AGI Timelines
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): Considering a Career in AI Safety
+* (*Liam Carroll*): In Wildness, walking Tasmania's Overland Track
+* (*Ken Chan*): An invitation to Euclid's Elements - the proof of Pythagorus' theorem
 
 Discussion sessions
 
 * *GPT for NPCs*: Making virtual worlds come alive with intelligent agents
 * *Classes vs replays & AIs at metauni*: what does higher education look like in the future?
+
+Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. If you would like to give a talk (and please do) then propose a topic to speak about in the Discord channel; mentorship on giving talks is available. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
+
+## How to attend
+
+Install Roblox, register for voice chat, and click on the big "Enter metauni" link above. For more details see the [instructions](https://metauni.org/posts/instructions/instructions). Each of the scheduled talks will have a dedicated link that will take you into the world at the exact location of the talk, see **Join now** next to the talk in the schedule.
+
+## Schedule
+
+
 
 ## Instructions for speakers
 
