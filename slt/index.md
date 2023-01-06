@@ -38,6 +38,7 @@ Some topics and papers to be discussed:
 
 * "[Scaling laws for reward model overoptimization](https://arxiv.org/abs/2210.10760)" L. Gao, J. Schulman, J. Hilton (played a role in the creation of ChatGPT).
 * "Statistical inference, Occam's razor, and statistical mechanics on the space of probability distributions" V. Balasubramanian.
+* "[Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html)" Anthropic.
 
 ## Past seminars
 
