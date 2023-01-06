@@ -36,6 +36,11 @@ Times below are the 12th of January, times are AEDT. The current list of speaker
 * (*[Dan Murfet](http://therisingsea.org)*): The Case for Short AGI Timelines
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): Considering a Career in AI Safety
 
+Discussion sessions
+
+* *GPT for NPCs*: Making virtual worlds come alive with intelligent agents
+* *Classes vs replays & AIs at metauni*: what does higher education look like in the future?
+
 ## Instructions for speakers
 
 For a quick introduction to giving a talk at metauni, see [here](https://metauni.org/posts/instructions/instructions-admin).
