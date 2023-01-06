@@ -42,7 +42,7 @@ Install Roblox, register for voice chat, and click on the big "Enter metauni" li
 
 ## Instructions for speakers
 
-For a quick introduction to giving a talk at metauni, see [here](https://metauni.org/posts/instructions/instructions-admin).
+For a quick introduction to giving a talk at metauni, see [here](https://metauni.org/posts/instructions/instructions-admin). All talks will be recorded, we'll be in touch to get your permission to post them to the metauni YouTube channel (or not, it's completely up to you).
 
 You have two options:
 
