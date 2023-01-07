@@ -74,7 +74,7 @@ For more see the [about page](https://metauni.org/about/) and the [YouTube chann
 
 ## History
 
-Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
+Contributors to the tech stack in chronological order are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
 
 * 11/1/2021 - metauni founded
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
@@ -107,6 +107,7 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 10/9/2022 - First [VR replay](https://youtu.be/s4dfwxzXEFM) (code by BS).
 * 25/11/2022 - Integration of GPT for seminars.
 * 10/12/2022 - Launch of metauniService (http://service.metauni.org).
+* 2/1/2023 - metauniOS absorbs portals, orbs and part of metaboard.
 * 4/1/2023 - Launch of GPT-based NPCs at metauni: Youtwice, Shoal and Ginger ([video](https://youtu.be/Jh3xyaBy0LA)).
 
 Music in the Rising Sea:
