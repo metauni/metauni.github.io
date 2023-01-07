@@ -105,8 +105,9 @@ Current contributors are [Daniel Murfet](http://www.therisingsea.org) `starsonth
 * 7/7/2022 - First VR lecture.
 * 9/7/2022 - Metaboard v1 (led by BS).
 * 10/9/2022 - First [VR replay](https://youtu.be/s4dfwxzXEFM) (code by BS).
-* 25/11/2022 - Integration of GPT.
+* 25/11/2022 - Integration of GPT for seminars.
 * 10/12/2022 - Launch of metauniService (http://service.metauni.org).
+* 4/1/2023 - Launch of GPT-based NPCs at metauni: Youtwice, Shoal and Ginger ([video](https://youtu.be/Jh3xyaBy0LA)).
 
 Music in the Rising Sea:
 
