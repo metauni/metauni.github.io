@@ -45,18 +45,21 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- END WHATS OFF -->
 
-### Resuming in 2023
+### Resuming
 
 * **[Disruption](https://metauni.org/disruption)** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Singular Learning Theory](https://metauni.org/slt)** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory.
 * **[Abstraction](https://metauni.org/abstraction)** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly.
+* **[AI Safety](https://metauni.org/ai-safety)** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety.
+* **[Landau-Ginzburg](https://metauni.org/lg)** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities.
+
+### On hiatus
+
 * **[Shadows of Computation](https://metauni.org/soc)** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
-* **[AI Safety](https://metauni.org/ai-safety)** (*Matthew Farrugia-Roberts, Dan Murfet*): reading group on technical and philosophical topics in AI safety.
 * **[Code](https://metauni.org/code)** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
 * **#metauni-dev**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Foundations](https://metauni.org/foundations)** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. 
-* **[Landau-Ginzburg](https://metauni.org/lg)** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities.
 
 For videos from the seminars, see the pages for the individual seminars (linked above) or the [YouTube channel](https://www.youtube.com/playlist?list=PLKnx70LRf21eZQ7ZfEU5SibsJrAFvJU41). If you are a speaker in one of the seminars, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). For information about past events and videos see the [events page](http://metauni.org/posts/events/events). The tools we use are [open source](https://metauni.org/posts/open/open) and we'll happily help you set up your own seminars and teach you how to record them, just jump into the Discord and say hi. For information on how we record our videos see [this page](https://metauni.org/posts/instructions/video).
 
