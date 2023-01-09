@@ -1,4 +1,9 @@
-# Festival 2023
+---
+title:
+    Festival 2023
+description:
+    Celebrating two years of metauni
+---
 
 There will be a festival at [metauni](https://www.metauni.org) on the 12th of January, to celebrate metauni's second birthday.
 
