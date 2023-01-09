@@ -45,8 +45,9 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- END WHATS OFF -->
 
-### Resuming
+### Resuming late Jan, early Feb
 
+* **Anything At All* seminar.
 * **[Disruption](https://metauni.org/disruption)** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Singular Learning Theory](https://metauni.org/slt)** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory.
 * **[Abstraction](https://metauni.org/abstraction)** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly.
