@@ -6,6 +6,10 @@ There will be a festival at [metauni](https://www.metauni.org) on the 12th of Ja
   <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
 </p>
 
+<p align="center">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/1oTmfZE9uEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 To join in you'll need to install [Roblox](https://www.roblox.com/) and sign up for voice chat (it's straightforward and takes a few minutes for most, see the [instructions](https://metauni.org/posts/instructions/instructions)). Optionally come say Hi on the [metauni Discord](https://www.metauni.org/discord).
 
 The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break. There is a morning block
