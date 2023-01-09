@@ -39,6 +39,8 @@ and an evening block
 
 Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
 
+A preview of Liam Carroll's talk on the Overland track:
+
 <p align="center">
 <iframe width="750" height="450" src="https://www.youtube.com/embed/1oTmfZE9uEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
