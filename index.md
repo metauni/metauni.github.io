@@ -44,10 +44,35 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!-- BEGIN WHATS OFF -->
 
 <!-- END WHATS OFF -->
+### Festival 2023
+
+The schedule for Thursday 12/1/2022 is below (times are AEDT, so it might be Wednesday for you!). Each 1hr block consists of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break. There is a morning block
+
+* (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines
+* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines
+* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
+* (*Ethan Armitage*): **11:00-12:00** Flows on the Hyperbolic Plane
+* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True?
+* (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one
+
+a discussion panel block
+
+* *GPT for NPCs*: **14:00-14:30** Making virtual worlds come alive with intelligent agents
+* *Classes & replays at metauni*: **14:30-15:00** what does higher education look like in the future?
+
+and an evening block
+
+* (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track
+* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds
+* (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem
+* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses
+* (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
+* (*[Eleanor McMurtry](https://lnor.net)*): **21:00-22:00** Ceci n’est pas un secret
+* (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing
 
 ### Resuming late Jan, early Feb
 
-* **Anything At All* seminar.
+* **Anything At All** seminar.
 * **[Disruption](https://metauni.org/disruption)** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 * **[Singular Learning Theory](https://metauni.org/slt)** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory.
 * **[Abstraction](https://metauni.org/abstraction)** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly.
