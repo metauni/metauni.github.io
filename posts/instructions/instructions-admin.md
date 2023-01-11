@@ -6,7 +6,10 @@
 
 These instructions aim to be a detailed guide to giving a successful talk at metauni. First you should follow the [normal instructions](instructions) to install and setup Roblox and spatial voice. Then you should check the [hardware](hardware) page for tablet and microphone recommendations. Some notes:
 
-* If you are giving a slide talk, please prepare your slides at a `4:3` ratio and send them as a PDF to the seminar organiser at least a few days before your talk (they will have to upload PNGs of each slide into Roblox, which may take a while).
+* If you are giving a slide talk, please prepare your slides at a `4:3` ratio and send them as a PDF to the seminar organiser at least a few days before your talk (they will have to upload PNGs of each slide into Roblox, which may take a while). We prefer `4:3` because we typically have two slides next to each other (to provide context to the viewer) and this works better at `4:3` than `16:9`.
+* Please prepare your slides with a **black** background rather than white, as this is easier to read in the context of the virtual world.
+* Make text larger than you would for a Zoom presentation with only one slide at a time, and put less on each slide.
+* Do not use animations (i.e. multiple takes on a single slide) as these cannot be translated in-world: we have one physical board per slide and do not move between slides on a single board.
 
 ## Joining the event
 
