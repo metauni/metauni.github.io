@@ -19,7 +19,7 @@ The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk
 * (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines
 * (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
 * (*Ethan Armitage*): **11:00-12:00** Flows on the Hyperbolic Plane
-* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True?
+* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([notes](https://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf)
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one
 
 a discussion panel block
@@ -30,9 +30,9 @@ a discussion panel block
 and an evening block
 
 * (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track
-* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds
+* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds ([notes](https://www.therisingsea.org/notes/festival2023/festival2023-corrivalrhyme.pdf)
 * (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem
-* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses
+* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([notes](https://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf)
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
 * (*[Eleanor McMurtry](https://lnor.net)*): **21:00-22:00** Ceci n’est pas un secret
 * (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing
