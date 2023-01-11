@@ -30,7 +30,7 @@ a discussion panel block
 and an evening block
 
 * (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track
-* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-corrivalrhyme.pdf))
+* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds
 * (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem
 * (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf))
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
