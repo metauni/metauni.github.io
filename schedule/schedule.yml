@@ -1,4 +1,4 @@
-metauni day: "12/01/2023" # dd/mm/yyyy
+metauni day: "19/01/2023" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -11,15 +11,21 @@ whats on:
 - Euclid:
     time: 11:30-12:00
     organizer: Dan Murfet, Ken Chan
-    desc: "Book two of Euclid with an AI assistant, just for fun."
+    desc: "Book two of Euclid with an AI assistant, just for fun. *This week* first propositions of Book 2."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
-    time: 16:00-17:30
+    time: 16:00-17:00
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Russell Goyder on Physical Entropy and Information Entropy (Part 2)."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020
+- Anything At All:
+    time: 17:00-18:00
+    organizer: Various
+    desc: "The seminar for everyone."
+    website: https://metauni.org/anythingatall
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 whats off:
 - AI Safety:
     time: 21:00-22:00
