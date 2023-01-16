@@ -46,6 +46,8 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- END WHATS ON -->
 
+### What's off
+
 <!-- BEGIN WHATS OFF -->
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *Resuming 26-1-2023*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 * **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203)
