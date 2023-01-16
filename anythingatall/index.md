@@ -15,9 +15,11 @@ If you’re thinking “I know about this topic and I want a reason to engage wi
 
 ## Schedule
 
-The organiser for this seminar is *Billy Snikkers*. To propose a talk, post in `#anything-at-all` on the metauni Discord, or DM Billy.
+To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
+* **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds
 * **TBD** (*Tessa Snikkers*): Textiles and Reptilian conspiracy theory
 * **TBD** (*Will Troiani*): Composing music that hurts your brain (but in a good way)
 * **TBD** (*Billy Hibbard*): On homeschooling
 * **TBD** (*Alok Singh*): TBC
+* **TBD** (*Russell Goyder*): The algebra of the sun
