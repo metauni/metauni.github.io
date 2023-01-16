@@ -20,15 +20,9 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="/about">About</a>
 </p>
 
-The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is **now running** and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](http://service.metauni.org). On the **12th of January AEDT** there will be the
-
-<p align="center">
-  <span style="font-size:x-large;"><a target="_blank" href="https://metauni.org/festival/">metauni Festival 2023</a></span>
-</p>
+The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is now runnin and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](http://service.metauni.org). We recently held the [2023 metauni festival](/festival).
 
 ## Schedule
-
-All seminars are on hiatus until the 19th of January 2023. In the meantime, check out [All I Want For Christmas Is Antimatter](http://metauniservice.com:8080/submit?boardKey=10088371393-19-1).
 
 To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEDT (UTC +11). Names in italics are the co-organisers of the seminar.
 <!-- The schedule is also available in the iCalendar format. -->
@@ -113,6 +107,7 @@ Contributors to the tech stack in chronological order are [Daniel Murfet](http:/
 * 10/12/2022 - Launch of metauniService (http://service.metauni.org).
 * 2/1/2023 - metauniOS absorbs portals, orbs and part of metaboard.
 * 4/1/2023 - Launch of GPT-based NPCs at metauni: Youtwice, Shoal and Ginger ([video](https://youtu.be/Jh3xyaBy0LA)).
+* 12/1/2023 - Festival 2023
 
 Music in the Rising Sea:
 
