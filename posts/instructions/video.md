@@ -48,3 +48,22 @@ Here are what I think of as the current margins to improve on the quality of met
 * **Better intros and outros**: "so let's get started" -> "In today's seminar"
 * **Obnoxious visual effects**: when it's done right, the "living" environment of metauni experiences adds to the recording, but when the lighting is bad or exaggerated (I'm looking at you *SunRays*) it can be quite bad.
 * **Speaker uncertainty about orbs**: sometimes speakers will be obstructing the view of the board in orbcam but be unaware, or the orbcam may be looking at the wrong set of boards (it tries to follow you, but maybe you aren't standing in the right spot, or forgot to move).
+
+## Recording seminars in OBS
+
+- Record to mkv, not mp4. Then remux to mp4. From the OBS forum: 
+
+> MKV if you need multi-track audio, FLV if you only need a single audio track. On a crash with either of these you may lose a second or two at the end. It's why they're the default format, and why an orange warning message pops up when you switch to mp4 warning you not to record to mp4. MP4 should NEVER be recorded to directly. As you've discovered, it is not a recording-safe format, and many editors have problems with the mp4 files that OBS creates when recorded direct anyway. Just record to MKV, then go you OBS' File menu, Remux Recordings to convert them to mp4s. You can also automatically remux at the completion of a recording by ticking a checkbox in Settings->Advanced.
+
+- Under Settings > Video, set both Base and Output canvas resolution to 1920x1080, and fps to 30
+- The rest of the recording config is under Output > Recording
+- Recording Format: mkv
+- Audio Track: Select 1 and 2
+- Encoder: x264 or Apple VT H264 Software/Hardware. I'd assume the hardware one is the best of the 3 options but may depend on your machine.
+- Encoder Settings: Bitrate is the per-second data budget. 2,500 is low, 60,000 is super-high. Lower bitrate becomes noticeable when there's a lot of movement on the screen. 6,000 is my currently chosen sweet spot for seminars and I'd estimate an hour is ~3GB.
+- Rate Control: CBR is constant bitrate. That's probably fine. ABR and VBR adaptively adjust the bitrate in different ways. Maybe ABR would be beneficial - it varies bitrate across different regions of the screen. Maybe good for long songspires recordings.
+- Keyframe Interval: 2 seconds. Helpful for preview scrubbing and editing.
+- Add a new source and choose "macOS Screen Capture". You can configure this to capture the display or a specific window/application. This will also add an audio track to the scene.
+- Right click the preview > Transform > Fit to Screen (or cmd + F). Then resize it as desired if you have a black margin in the preview.
+- You should have two audio tracks, macOS Screen Capture and Mic/Aux. You can mute or unmute these and adjust audio levels to balance in game voice chat with your own voice. Click the three dots > Advanced Audio Properties, then make sure macOS Screen Capture is ticked on 1 and unticked on 2, and Mic/Aux is unticked on 1 and ticked on 2. This means we record Roblox audio to track 1 and microphone to track 2 - convenient for editing.
+- If you can, wear headphones while recording (but still take microphone input from your desired source). Easier in editing to find sections where you're actually speaking and cut out the rest for improved audio experience. When both tracks are playing and the desktop audio is also audible in the mic, other peoples voices aren't as crisp and we hear background noise and super-bassy-keyboard-typing.
