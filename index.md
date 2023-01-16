@@ -38,11 +38,17 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
+### January 12, 2023
+* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: review of the festival discussion, plans for 2023. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book 2 of Euclid with an AI assistant, just for fun. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Russell Goyder on Physical Entropy and Information Entropy (Part 2). [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)
 
 <!-- END WHATS ON -->
 
 <!-- BEGIN WHATS OFF -->
-
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *Resuming 26-1-2023*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
+* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203)
+* **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209)
 <!-- END WHATS OFF -->
 ### Festival 2023
 
