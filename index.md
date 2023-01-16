@@ -42,7 +42,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: review of the festival discussion, plans for 2023. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* first propositions of Book 2. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Russell Goyder on Physical Entropy and Information Entropy (Part 2). [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)
-* **[Anything At All](https://metauni.org/anythingatall)** **17:00-18:00** (*Various*): The seminar for everyone. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Anything At All](https://metauni.org/anythingatall)** **17:00-18:00** (*Various*): The seminar for everyone. *This week* Blake Barbeau aka CorrivalRhyme on ArchViz in Virtual Worlds. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
 <!-- END WHATS ON -->
 
