@@ -40,7 +40,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!-- BEGIN WHATS ON -->
 ### January 12, 2023
 * **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: review of the festival discussion, plans for 2023. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book 2 of Euclid with an AI assistant, just for fun. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Russell Goyder on Physical Entropy and Information Entropy (Part 2). [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)
 
 <!-- END WHATS ON -->
