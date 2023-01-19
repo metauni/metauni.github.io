@@ -5,7 +5,7 @@ Euclid's Elements on virtual blackboards.
 * **Co-organisers**: Ken Chan and Dan Murfet.
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
-![banner](seminar-euclid-min.png)
+![banner](posts/events/seminar-euclid-min.png)
 
 ## Book 1
 
