@@ -81,7 +81,7 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3 ([video](https://youtu.be/FngNdKxCIuY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2017)).
-* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy
+* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)).
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
