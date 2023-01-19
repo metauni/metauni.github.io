@@ -19,7 +19,7 @@ The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk
 * (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI))
 * (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E))
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf))
-* (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one
+* (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one ([video](https://youtu.be/PDyzWFsAtUU))
 
 a discussion panel block
 
