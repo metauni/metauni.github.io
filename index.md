@@ -72,7 +72,7 @@ For more see the [about page](https://metauni.org/about/) and the [YouTube chann
 
 ## History
 
-Contributors to the tech stack in chronological order are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/EthanCurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
+Contributors to the tech stack in chronological order are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/ecurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
 
 * 11/1/2021 - metauni founded
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
