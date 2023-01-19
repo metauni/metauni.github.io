@@ -5,51 +5,34 @@ description:
     Celebrating two years of metauni
 ---
 
-There will be a festival at [metauni](https://www.metauni.org) on the 12th of January, to celebrate metauni's second birthday.
+The 2023 [metauni](https://www.metauni.org) festival was on the 12th of January, to celebrate metauni's second birthday.
 
 <p align="center">
-  <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/07M89R-AExw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-To join in you'll need to install [Roblox](https://www.roblox.com/) and sign up for voice chat (it's straightforward and takes a few minutes for most, see the [instructions](https://metauni.org/posts/instructions/instructions)). Optionally come say Hi on the [metauni Discord](https://www.metauni.org/discord).
-
-The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break. There is a morning block
+Each 1hr block consisted of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break.
 
 * (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines ([video](https://youtu.be/EMPj9ch33gE))
 * (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI))
 * (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E))
-* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf))
+* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([video](https://youtu.be/ibjtIGxtTwU), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf))
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one ([video](https://youtu.be/PDyzWFsAtUU))
-
-a discussion panel block
 
 * *GPT for NPCs*: **14:00-14:30** Making virtual worlds come alive with intelligent agents
 * *Classes & replays at metauni*: **14:30-15:00** what does higher education look like in the future?
 
-and an evening block
-
-* (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track
-* (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*) **17:00-18:00**: ArchViz in Virtual Worlds
-* (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem
-* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf))
+* (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track ([video](https://youtu.be/b551xqu54Zk))
+* (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem ([video](https://youtu.be/tI8AKSjl_1Y))
+* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([video](https://youtu.be/6pbedwGH2AM), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf))
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
-* (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing
+* (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing ([video](https://youtu.be/JMmR7iwmkK4))
 
-Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
-
-A preview of Liam Carroll's talk on the Overland track:
-
-<p align="center">
-<iframe width="750" height="450" src="https://www.youtube.com/embed/1oTmfZE9uEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
+Thanks to Billy Snikkers for a lot of bug fixing before the event in metauniOS, and to Tessa Snikkers for editing all of the videos.
 
 <!--<p align="center">
 <img src="https://user-images.githubusercontent.com/320329/201472401-d4fa2fc7-e83d-4958-9585-a1f8c5f96948.png">
 </p>-->
-
-## How to attend
-
-Install Roblox, register for voice chat, and click on the big "Enter metauni" link above. For more details see the [instructions](https://metauni.org/posts/instructions/instructions). Each of the scheduled talks will have a dedicated link that will take you into the world at the exact location of the talk, see **Join now** next to the talk in the schedule.
 
 ## Instructions for speakers
 
