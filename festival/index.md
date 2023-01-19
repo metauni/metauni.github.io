@@ -15,10 +15,9 @@ To join in you'll need to install [Roblox](https://www.roblox.com/) and sign up 
 
 The schedule is below (times are AEDT). Each 1hr block consists of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break. There is a morning block
 
-* (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines
-* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines
-* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism
-* (*Ethan Armitage*): **11:00-12:00** Flows on the Hyperbolic Plane
+* (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines ([video](https://youtu.be/EMPj9ch33gE))
+* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI))
+* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E))
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf))
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one
 
@@ -34,7 +33,6 @@ and an evening block
 * (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem
 * (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf))
 * (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
-* (*[Eleanor McMurtry](https://lnor.net)*): **21:00-22:00** Ceci n’est pas un secret
 * (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing
 
 Organisation of the event is taking place in the [metauni Discord](https://discord.gg/9yBaAxPSK8) in the channel `#festival-2023`. The first [metauni Festival](https://metauni.org/posts/festival/festival) was held in August 2021.
