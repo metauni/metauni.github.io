@@ -1,4 +1,9 @@
-# Euclid
+---
+title:
+    Euclid seminar
+description:
+    All the cool kids are doing it
+---
 
 Weekly readings of Euclid's Elements, with Ken Chan and Dan Murfet at [metauni](https://www.metauni.org). To join enter Roblox at [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
