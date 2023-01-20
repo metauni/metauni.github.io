@@ -25,7 +25,7 @@ Each 1hr block consisted of a ~30min talk, ~15min questions and ~15min roaming d
 * (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track ([video](https://youtu.be/b551xqu54Zk))
 * (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem ([video](https://youtu.be/tI8AKSjl_1Y))
 * (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([video](https://youtu.be/6pbedwGH2AM), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf))
-* (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety
+* (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety ([video](https://youtu.be/G5tyKpG20Wc))
 * (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing ([video](https://youtu.be/JMmR7iwmkK4))
 
 Thanks to Billy Snikkers for a lot of bug fixing before the event in metauniOS, and to Tessa Snikkers for editing all of the videos.
