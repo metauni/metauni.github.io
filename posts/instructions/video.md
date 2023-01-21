@@ -67,3 +67,13 @@ Here are what I think of as the current margins to improve on the quality of met
 - Right click the preview > Transform > Fit to Screen (or cmd + F). Then resize it as desired if you have a black margin in the preview.
 - You should have two audio tracks, macOS Screen Capture and Mic/Aux. You can mute or unmute these and adjust audio levels to balance in game voice chat with your own voice. Click the three dots > Advanced Audio Properties, then make sure macOS Screen Capture is ticked on 1 and unticked on 2, and Mic/Aux is unticked on 1 and ticked on 2. This means we record Roblox audio to track 1 and microphone to track 2 - convenient for editing.
 - If you can, wear headphones while recording (but still take microphone input from your desired source). Easier in editing to find sections where you're actually speaking and cut out the rest for improved audio experience. When both tracks are playing and the desktop audio is also audible in the mic, other peoples voices aren't as crisp and we hear background noise and super-bassy-keyboard-typing.
+
+## Adding summaries and titles with ChatGPT
+
+The summaries for YouTube descriptions and titles can be automaticaly inferred by ChatGPT and then edited by a human. Here are the steps
+
+- Install the Chrome extension "YouTube Summary with ChatGPT" [here](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli/related).
+- Go to the video in YouTube Studio and click the preview on the left to "View on YouTube".
+- In the top right you should see a new box "Transcript and Summary" (if not, restart Chrome).
+- Open it and click the "OpenAI" logo to pass the transcript to ChatGPT and get a summary.
+- If a title is required, ask ChatGPT to "Give a short title for the talk". If it's too long, give it a word limit.
