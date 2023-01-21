@@ -12,7 +12,7 @@ We recommend that you open the links in each step in a separate tab, so that you
 4. Enter [metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea). Once you click "Play" you will see a prompt to "Download and Install Roblox" which you can ignore if you have already installed the game: wait and the Roblox application should be launched.
 5. It is not the case that anything goes at metauni, please check the [Roblox rules](http://metauni.org/posts/rules/rules) and use common sense (do not be verbally abusive, for example).
 
-If you're giving a talk, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware).
+If you're giving a talk, see the [instructions for speakers](https://metauni.org/posts/instructions/instructions-admin). If you're looking for information on tablets or microphones compatible with Roblox, see [hardware](hardware). There are also instructions for [video editing](https://metauni.org/posts/instructions/video).
 
 ### 2. Discord
 
