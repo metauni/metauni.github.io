@@ -17,7 +17,7 @@ If you’re thinking “I know about this topic and I want a reason to engage wi
 
 To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
-* **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds
+* **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds ([video](https://youtu.be/rZGAdaaq6C4))
 * **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles
 * **TBD** (*Will Troiani*): Composing music that hurts your brain (but in a good way)
 * **TBD** (*Billy Hibbard*): On homeschooling
