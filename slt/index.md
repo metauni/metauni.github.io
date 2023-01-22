@@ -21,7 +21,8 @@ Some other introductory references:
 * [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s MSc thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
 * Tom Waring's MSc thesis, October 2021, [Geometric Perspectives on Program Synthesis and Semantics](http://therisingsea.org/notes/MSc-Waring.pdf).
 * S. Wei, D. Murfet, M. Gong, H. Li , J. Gell-Redman, T. Quella "[Deep learning is singular, and that's good](https://www.suswei.com/publication/wei-2022-singular/wei-2022-singular.pdf)" 2022.
-* E. Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
+* Edmund Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
+* Shaowei Lin's PhD thesis, 2011, [Algebraic Methods for Evaluating Integrals in Bayesian Statistics](https://escholarship.org/content/qt6r99035v/qt6r99035v_noSplash_55ad6962455379ca776283fed8278b40.pdf).
 
 ## Upcoming seminars
 
