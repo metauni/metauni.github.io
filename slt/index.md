@@ -26,8 +26,7 @@ Some other introductory references:
 
 The seminar is on hiatus until 19-1-2023. Scheduled talks in 2023:
 
-* **19-1-22** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4))
-* **26-1-22** (*Ben Gerraty*): The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
+* **26-1-23** (*Ben Gerraty*): The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
 * **TBD** (*Dan Murfet*): Revisiting the renormalisation condition 
 * **TBD** (*Zhongtian Chen*): Proof of the Koopman-Pitman-Darmois theorem
 * **TBD** (*Dan Murfet*): Jet schemes III
@@ -83,8 +82,13 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3 ([video](https://youtu.be/FngNdKxCIuY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2017)).
 * **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)).
+* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4))
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
+
+## Getting started
+
+A minimal subset of the above talks, that gets you to a point where you know enough theory to be useful.
 
 ## Background reading
 
