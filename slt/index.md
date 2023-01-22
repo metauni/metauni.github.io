@@ -16,6 +16,7 @@ The canonical references are Watanabe's two textbooks:
 
 Some other introductory references:
 
+* Matt Farrugia-Roberts' MSc thesis, October 2022, [Structural Degeneracy in Neural Networks](https://far.in.net/mthesis).
 * Spencer Wong's MSc thesis, May 2022, [From Analytic to Algebraic: The Algebraic Geometry of Two Layer Neural Networks](http://therisingsea.org/notes/MScThesisSpencerWong.pdf).
 * [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s MSc thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
 * Tom Waring's MSc thesis, October 2021, [Geometric Perspectives on Program Synthesis and Semantics](http://therisingsea.org/notes/MSc-Waring.pdf).
