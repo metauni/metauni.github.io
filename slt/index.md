@@ -26,7 +26,7 @@ Some other introductory references:
 
 The seminar is on hiatus until 19-1-2023. Scheduled talks in 2023:
 
-* **19-1-22** (*Russell Goyder*): Physical entropy vs information-theoretic entropy
+* **19-1-22** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4))
 * **26-1-22** (*Ben Gerraty*): The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
 * **TBD** (*Dan Murfet*): Revisiting the renormalisation condition 
 * **TBD** (*Zhongtian Chen*): Proof of the Koopman-Pitman-Darmois theorem
