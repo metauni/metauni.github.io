@@ -9,6 +9,10 @@ Weekly readings of Euclid's Elements, with Ken Chan and Dan Murfet at [metauni](
 
 ![seminar-euclid-banner-min](https://user-images.githubusercontent.com/320329/213587265-9cf1171a-f3b9-4e2e-8954-8ca31a6f4fda.png)
 
+## Book 2
+
+* **19-1-23** Seminar 22: Book 2 Proposition 1 ([video](https://youtu.be/wSIabvsGA30))
+
 ## Book 1
 
 * [Seminar 1](https://youtu.be/9U73KputtOU): Postulates and Proposition 1.
