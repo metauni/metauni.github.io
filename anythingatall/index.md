@@ -19,8 +19,8 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
 * **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds ([video](https://youtu.be/rZGAdaaq6C4))
 * **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles
-* **2-2-23** (*Will Troiani*): Composing music that hurts your brain (but in a good way)
+* **2-2-23** (*[Will Troiani](https://williamtroiani.github.io)*): Composing music that hurts your brain (but in a good way)
+* **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): TBC
 
 * **TBD** (*Billy Hibbard*): On homeschooling
-* **TBD** (*Alok Singh*): TBC
 * **TBD** (*Russell Goyder*): The algebra of the sun
