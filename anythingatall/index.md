@@ -5,7 +5,7 @@ description:
     Everything, Ouroboric
 ---
 
-Two important parts of the metauni community are sharing ideas (benefits the audience) and practicing the act of communicating ideas (benefits the speaker). This seminar a **Welcome Mat** for new speakers and new audience members. To speak you *do not* have to be an expert at giving talks, and talks should mostly be “no prerequisites”.
+Two important parts of the metauni community are sharing ideas (benefits the audience) and practicing the act of communicating ideas (benefits the speaker). This seminar is for everyone, and especially for new speakers and new audience members. To speak you *do not* have to be an expert at giving talks, and talks should mostly be “no prerequisites”.
 
 If you’re thinking “I know about this topic and I want a reason to engage with it seriously and an opportunity to practicing presenting/explaining, but I don’t really know who would be interested enough to attend and I’m not very confident in my presentation skills” then you do it at this seminar.
 
