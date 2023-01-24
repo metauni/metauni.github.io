@@ -23,16 +23,17 @@ References:
 * A [tour of renormalisation](https://www.complexityexplorer.org/courses/67-introduction-to-renormalization) by Simon Dedeo.
 * C. Bergbauer, R. Brunetti, D. Kreimer "[Renormalization and resolution of singularities](https://arxiv.org/abs/0908.0633)" 2009.
 * A. Pagano "[Lecture notes on statistical mechanics](https://github.com/AlicePagano/Lecture-Notes-of-Statistical-Mechanics)".
+* M. Shanahan "[Talking about large language models](https://arxiv.org/pdf/2212.03551.pdf)" 2022.
 
 ## Schedule
+
+* **TBD** (*Calin Lazaroiu*) RG flows and partial localisation.
+* **TBD** (*Daniel Murfet*) Resolution II: Embedded resolution of a quadratic form
+
+## Past talks
 
 * **29-9-22** (*Alexander Oldenziel*) Natural Abstraction I ([video](https://youtu.be/rll6LzXztDM)), [notes](https://drive.google.com/file/d/1mhqpeE7xmKP2BmcvZoU6PU6nrhogSrZm/view).
 * **13-10-22** (*Daniel Murfet*) Resolution I: Blowing up ([video](https://youtu.be/CWNaKMP8Teo)).
 * **27-10-22** (*Ben Gerraty*) Renormalisation I: The Ising model ([video](https://youtu.be/_Q0-HaNLrmw))
 * **10-11-22** (*Alexander Oldenziel*) Sufficient statistics and the Koopman-Pitman-Darmois theorem ([video](https://youtu.be/4hwdJuzlSqQ), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2014)).
 * **24-11-22** (*Ben Gerraty*) Renormalisation II ([video](https://youtu.be/hUUk62pWlKw))
-
-Future talks
-
-* **TBD** (*Calin Lazaroiu*) RG flows and partial localisation.
-* **TBD** (*Daniel Murfet*) Resolution II: Embedded resolution of a quadratic form
