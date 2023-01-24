@@ -29,13 +29,13 @@ Usually seminars are organised around a theme or area of research. The aim varie
 * A seminar can exist because the speakers want to learn the details in a topic and structure a seminar around their own expeditions into the texts (example: [Foundations](https://metauni.org/foundations)).
 * A seminar can be a social event in which people share cool things and work collaboratively (example: [Code seminar](https://metauni.org/code)).
 
-Some of us in the metauni community have a lot of experience preparing seminar talks, and mentoring others in preparing them. We're keen to pass on some of that expertise and help others organise seminars and give great seminar talks. To that end metauni is organised conceptually around the following flywheel:
+Many in the metauni community have experience organising seminars and preparing seminar talks and we're keen to help others to do the same. To that end metauni is organised conceptually around the following flywheel:
 
 <p align="center">
 <img width="331" src="https://user-images.githubusercontent.com/320329/210023359-afa573ba-b5bc-4f79-aa62-8c0985d3cbd1.png">
 </p>
 
-If we organise great seminars they'll attract participants, which will in turn inspire more people to join in and start their own seminars, which will attract more participants, and so on. In pratice, what happens is that people join metauni to attend a seminar, gain over time an appreciation of how it works and how they could benefit from running one, and then they start their own seminars.
+Great seminars attract participants, which inspires more seminars, which attracts more participants.
 
 ## History
 
@@ -51,21 +51,13 @@ As of November 2022, metauni is a small but stably growing community. Our YouTub
 
 ## Future
 
-The plan for 2023 is to double down on seminars. That means: more seminars, more effort to recruit attendees for your seminar, and more cool tech that everyone can use. The public-facing focus areas for 2023: 
+The plan for 2023 is to double down on seminars. Some focus areas for 2023: 
 
-* **Marketing**: on behalf of seminar organisers, we want more people to show up. Organising a seminar is to some extent its own reward, but it's effort, and that effort is hard to sustain unless there's an audience. In most cases there are people out there who *would* love to attend a seminar if they could discover it; over the next year we'll become more competent at enabling that discovery.
+* **Marketing**: organising a seminar is to some extent its own reward, but it's effort, and that effort is hard to sustain unless there's an audience. In most cases there are people out there who *would* love to attend a seminar if they could discover it; over the next year we'll become more competent at enabling that discovery.
 
 * **Replays**: right now there's nothing to do at metauni outside of metauni day (except ride the AstroTubes, I have the stats). In 2023 that will change, as we start to populate the worlds of metauni with *replays* (multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects). 
 
-* **Meta-metauni**: being more systematic about describing what a seminar is and how to run one successfully. That means writing guides for running seminars and giving talks, editing videos, attracting seminar participants, etc. We've run a lot of seminars and people can learn from what worked.
-
-The focus areas for the tech stack:
-
-* **Replays and Journeys**: this requires progress on VR, the replay system itself, and we'll need a system for incorporating multiple replays into Journeys that have tracked progress. The idea is that replays and journeys grow out of seminars (if you want your attendees to have an easy way to be onboarded into a technical seminar, maybe you should provide it).
-* **AI**: with tools like [ChatGPT](https://openai.com/blog/chatgpt/) reaching maturity, it seems clear that any future-looking institution should be incorporating these tools. We've already started integrating GPT3 into seminars (see [Tech](/about/tech)) and we'll build on this foundation in 2023 by for example fine-tuning models on transcripts and other data generated from seminars (eventually, AIs should be valuable contributors to your seminar, if you wish). We'll be experimenting with various kinds of AI agents and interaction modes.
-* **[metauniService](http://service.metauni.org)**: the website will steadily become a tool for seminar organisers to upload slides, manage permissions, signups and reminders, scheduling, pockets and boards, etc.
-
-All of this tech will be released as open source. If any of this sounds exciting to you, and you'd like to contribute to a project which will benefit everyone who attends and organises seminars at metauni, see below.
+* **AI**: with tools like [ChatGPT](https://openai.com/blog/chatgpt/) reaching maturity, any future-looking institution should be incorporating these tools. We've already started integrating GPT3 into seminars (see [Tech](/about/tech)) and we'll build on this foundation in 2023 by for example fine-tuning models on transcripts and other data generated from seminars (eventually, AIs should be valuable contributors to your seminar, if you wish). We'll be experimenting with various kinds of AI agents and interaction modes.
 
 ## Supporting metauni
 
