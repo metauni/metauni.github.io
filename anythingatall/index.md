@@ -20,11 +20,8 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles
 * **2-2-23** (*[Will Troiani](https://williamtroiani.github.io)*): Composing music that hurts your brain (but in a good way)
 * **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): TBC
-
-Currently unscheduled:
-
-* **TBD** (*Billy Hibbard*): On homeschooling
 * **TBD** (*Russell Goyder*): The algebra of the sun
+* **23-2-23** (*Billy Hibbard*): On homeschooling
 
 ## Past talks
 
