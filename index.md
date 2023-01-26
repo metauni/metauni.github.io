@@ -38,13 +38,13 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Working session on in-context learning. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)
 * **[Anything At All](https://metauni.org/anythingatall)** **17:30-18:30** (*Various*): The seminar for everyone. *This week* Tessa Snikkers on WTF - What the Fabric? Unexpected Textiles. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:30** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* something by David Krueger. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
-* **#metauni-dev** **22:30-23:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 <!-- END WHATS ON -->
 
 ### What's off
 
 <!-- BEGIN WHATS OFF -->
+* **#metauni-dev** **22:30-23:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203)
 * **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209)
 <!-- END WHATS OFF -->
