@@ -65,97 +65,48 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **TBD (2023):**
+* **2023.02.02:**
+  Jan Leike, David Krueger, Tom Everitt, *et al.*,
+  2018,
+  "Scalable agent alignment via reward modeling: a research direction".
+  [arXiv](https://arxiv.org/abs/1811.07871).
+
+* **2023.02.09:**
+  Paul Christiano, Jan Leike, *et al.*,
+  2017,
+  "Deep reinforcement learning from human preferences".
+  [NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/d5e2c0adad503c91f91df240d0cd4e49-Abstract.html).
+
+* **TBD:**
+  Tom Everitt *et al.*,
+  2021,
+  "Agent incentives: A causal perspective".
+  AAAI / [arXiv](https://arxiv.org/abs/2102.01685).
+
+* **TBD:**
   Guest speaker: Tom Everitt
   (Location: Discord)
 
-Past readings and discussions:
-
-* **2022.06.09:**
-  Norbert Wiener,
-  1960,
-  "Some moral and technical consequences of automation",
-  *Science*.
-
-* **2022.06.16:**
-  Stephen M. Omohundro,
-  2008,
-  "The basic AI drives",
-  *Proceedings of the 2008 conference on Artificial General Intelligence*.
-
-* **2022.06.23:**
-  Nick Bostrom,
-  2012,
-  "The superintelligent will: Motivation and instrumental rationality in
-  advanced artificial agents",
-  *Minds and Machines*.
-
-* **2022.06.30:**
-  Rachel Thomas and Louisa Bartolo,
+* **TBD:**
+  Lauro Langosco *et al.*,
   2022,
-  "AI harms are societal, not just individual",
-  [fast.ai blog](https://www.fast.ai/2022/05/17/societal-harms/).
-  Discussion led by Dan.
+  "Goal misgeneralization in deep reinforcement learning".
+  ICML / [arXiv](https://arxiv.org/abs/2105.14111).
 
-* **2022.07.21:**
-  Tobias Wängberg *et al.*,
-  2017,
-  "A game-theoretic analysis of the of the off-switch game",
-  *AGI 2017*.
-
-* **2022.07.28:**
-  Abram Demski and Scott Garrabrant,
-  2019,
-  "Embedded agency",
-  [arXiv](https://arxiv.org/abs/1902.09469)
-  / [sequence](https://www.lesswrong.com/s/Rm6oQRJJmhGCcLvxh).
-
-* **2022.08.04:**
-  Scott Garrabrant *et al.*,
-  2017,
-  "Logical induction",
-  [arXiv](https://arxiv.org/abs/1609.03543v4).
-  Discussion led by Dan.
-  Note: there is an updated 2020 version on arXiv.
-
-* **2022.08.11:**
-  Robin Hanson,
+* **TBD:**
+  Joar Skalse *et al.*, 
   2022,
-  "Why not wait on AI risk?",
-  [overcoming bias blog](https://www.overcomingbias.com/2022/06/why-not-wait-on-ai-risk.html)
-  and
-  "Foom update",
-  [overcoming bias blog](https://www.overcomingbias.com/2022/05/foom-update.html).
+  "Defining and characterizing reward hacking".
+  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
 
-* **2022.08.18:**
-  Evan Hubinger *et al.*,
-  2019,
-  "Risks from learned optimization"
-  [arXiv](https://arxiv.org/abs/1906.01820)
-  / [sequence](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB).
 
-* **2022.08.25:**
-  an original presentation by Matt about compression and learning in models
-  of computation embedded in the real world.
+Past readings and discussions (most recent first):
 
-* **2022.09.08:**
-  discussion of reading group direction.
-
-* **2022.09.15:**
-  Nate Soares,
-  2022,
-  "On how various plans miss the hard bits of the alignment challenge",
-  [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
-
-* **2022.11.24:**
-  Guest speaker: Elliot Catt.
-  An overview of mathematical approaches to AGI safety.
-
-* **2022.12.01:**
-  Eliezer Yudkowsky,
-  2013,
-  "Intelligence explosion microeconomics",
-  MIRI [technical report](https://intelligence.org/files/IEM.pdf).
+* **2023.01.26:**
+  Andrew Critch and David Krueger,
+  2020,
+  "AI research considerations for human existential safety (ARCHES)".
+  [arXiv](https://arxiv.org/abs/2006.04948).
 
 * **2022.12.15:**
   Scott Aaronson,
@@ -170,6 +121,91 @@ Past readings and discussions:
   [*Windows On Theory* blog](https://windowsontheory.org/2022/11/22/ai-will-change-the-world-but-wont-take-it-over-by-playing-3-dimensional-chess/).
   Discussion led by Dan.
 
+* **2022.12.01:**
+  Eliezer Yudkowsky,
+  2013,
+  "Intelligence explosion microeconomics",
+  MIRI [technical report](https://intelligence.org/files/IEM.pdf).
+
+* **2022.11.24:**
+  Guest speaker: Elliot Catt.
+  An overview of mathematical approaches to AGI safety.
+
+* **2022.09.15:**
+  Nate Soares,
+  2022,
+  "On how various plans miss the hard bits of the alignment challenge",
+  [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
+
+* **2022.09.08:**
+  discussion of reading group direction.
+
+* **2022.08.25:**
+  an original presentation by Matt about compression and learning in models
+  of computation embedded in the real world.
+
+* **2022.08.18:**
+  Evan Hubinger *et al.*,
+  2019,
+  "Risks from learned optimization in advanced machine learning systems"
+  [arXiv](https://arxiv.org/abs/1906.01820)
+  / [sequence](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB).
+
+* **2022.08.11:**
+  Robin Hanson,
+  2022,
+  "Why not wait on AI risk?",
+  [overcoming bias blog](https://www.overcomingbias.com/2022/06/why-not-wait-on-ai-risk.html)
+  and
+  "Foom update",
+  [overcoming bias blog](https://www.overcomingbias.com/2022/05/foom-update.html).
+
+* **2022.08.04:**
+  Scott Garrabrant *et al.*,
+  2017,
+  "Logical induction",
+  [arXiv](https://arxiv.org/abs/1609.03543v4).
+  Discussion led by Dan.
+  Note: there is an updated 2020 version on arXiv.
+
+* **2022.07.28:**
+  Abram Demski and Scott Garrabrant,
+  2019,
+  "Embedded agency",
+  [arXiv](https://arxiv.org/abs/1902.09469)
+  / [sequence](https://www.lesswrong.com/s/Rm6oQRJJmhGCcLvxh).
+
+* **2022.07.21:**
+  Tobias Wängberg *et al.*,
+  2017,
+  "A game-theoretic analysis of the of the off-switch game",
+  *AGI 2017*.
+
+* **2022.06.30:**
+  Rachel Thomas and Louisa Bartolo,
+  2022,
+  "AI harms are societal, not just individual",
+  [fast.ai blog](https://www.fast.ai/2022/05/17/societal-harms/).
+  Discussion led by Dan.
+
+* **2022.06.23:**
+  Nick Bostrom,
+  2012,
+  "The superintelligent will: Motivation and instrumental rationality in
+  advanced artificial agents",
+  *Minds and Machines*.
+
+* **2022.06.16:**
+  Stephen M. Omohundro,
+  2008,
+  "The basic AI drives",
+  *Proceedings of the 2008 conference on Artificial General Intelligence*.
+
+* **2022.06.09:**
+  Norbert Wiener,
+  1960,
+  "Some moral and technical consequences of automation",
+  *Science*.
 
 Topics brainstorm
 -----------------
@@ -204,3 +240,15 @@ Sources of readings (clearly with much mutual overlap):
 * The old 80kh AI safety
   [syllabus](https://80000hours.org/articles/ai-safety-syllabus/)
   and links therein (esp. EA Cambridge syllabus).
+
+
+Past readings
+-------------
+
+
+
+
+
+
+
+
