@@ -37,7 +37,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 2,3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Working session on in-context learning. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)
 * **[Anything At All](https://metauni.org/anythingatall)** **17:30-18:30** (*Various*): The seminar for everyone. *This week* Tessa Snikkers on WTF - What the Fabric? Unexpected Textiles. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:30** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* something by David Krueger. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:30** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Reward modeling. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
 
 <!-- END WHATS ON -->
 
