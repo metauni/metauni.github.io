@@ -41,6 +41,7 @@ Some topics and papers to be discussed:
 * "Statistical inference, Occam's razor, and statistical mechanics on the space of probability distributions" V. Balasubramanian.
 * "[Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html)" Anthropic.
 * "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
+* See this [survey of scaling laws](https://epochai.org/blog/scaling-laws-literature-review).
 
 ## Past seminars
 
