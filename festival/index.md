@@ -13,20 +13,20 @@ The 2023 [metauni](https://www.metauni.org) festival was on the 12th of January,
 
 Each 1hr block consisted of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break.
 
-* (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines ([video](https://youtu.be/EMPj9ch33gE))
-* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI))
-* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E))
-* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([video](https://youtu.be/ibjtIGxtTwU), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf))
-* (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one ([video](https://youtu.be/PDyzWFsAtUU))
+* (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines ([video](https://youtu.be/EMPj9ch33gE), [transcript](https://metauniservice.com/transcript?videoID=EMPj9ch33gE))
+* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI),[transcript](https://metauniservice.com/transcript?videoID=CJ1DUtpiYqI))
+* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E),[transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E))
+* (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([video](https://youtu.be/ibjtIGxtTwU), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf), [transcript](https://metauniservice.com/transcript?videoID=ibjtIGxtTwU))
+* (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one ([video](https://youtu.be/PDyzWFsAtUU), [transcript](https://metauniservice.com/transcript?videoID=PDyzWFsAtUU))
 
 * *GPT for NPCs*: **14:00-14:30** Making virtual worlds come alive with intelligent agents
 * *Classes & replays at metauni*: **14:30-15:00** what does higher education look like in the future?
 
-* (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track ([video](https://youtu.be/b551xqu54Zk))
-* (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem ([video](https://youtu.be/tI8AKSjl_1Y))
-* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([video](https://youtu.be/6pbedwGH2AM), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf))
-* (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety ([video](https://youtu.be/G5tyKpG20Wc))
-* (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing ([video](https://youtu.be/JMmR7iwmkK4))
+* (*Liam Carroll*): **16:00-17:00** In Wildness, walking Tasmania's Overland Track ([video](https://youtu.be/b551xqu54Zk), [transcript](https://metauniservice.com/transcript?videoID=b551xqu54Zk))
+* (*Ken Chan*): **18:00-19:00** An invitation to Euclid's Elements - the proof of Pythagoras' theorem ([video](https://youtu.be/tI8AKSjl_1Y), [transcript](https://metauniservice.com/transcript?videoID=tI8AKSjl_1Y))
+* (*Isaac David Smith*): **19:00-20:00** Quantum Combs, the min entropy and their uses ([video](https://youtu.be/6pbedwGH2AM), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-isaacsmith.pdf), [transcript](https://metauniservice.com/transcript?videoID=6pbedwGH2AM))
+* (*[Matthew Farrugia-Roberts](https://far.in.net)*): **20:00-21:00** Considering a Career in AI Safety ([video](https://youtu.be/G5tyKpG20Wc), [transcript](https://metauniservice.com/transcript?videoID=G5tyKpG20Wc))
+* (*[Will Troiani](https://williamtroiani.github.io)*): **22:00-23:00** Logic and Quantum Computing ([video](https://youtu.be/JMmR7iwmkK4), [transcript](https://metauniservice.com/transcript?videoID=JMmR7iwmkK4))
 
 Thanks to Billy Snikkers for a lot of bug fixing before the event in metauniOS, and to Tessa Snikkers for editing all of the videos.
 
