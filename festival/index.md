@@ -14,8 +14,8 @@ The 2023 [metauni](https://www.metauni.org) festival was on the 12th of January,
 Each 1hr block consisted of a ~30min talk, ~15min questions and ~15min roaming discussion and general friendly nonsense / tea break.
 
 * (*[Lucas Cantor](https://www.lucascantormusic.com)*): **08:00-09:00** Collaborating With Machines ([video](https://youtu.be/EMPj9ch33gE), [transcript](https://metauniservice.com/transcript?videoID=EMPj9ch33gE))
-* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI),[transcript](https://metauniservice.com/transcript?videoID=CJ1DUtpiYqI))
-* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E),[transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E))
+* (*[Dan Murfet](http://therisingsea.org)*): **09:00-10:00** The Case for Short AGI Timelines ([video](https://youtu.be/CJ1DUtpiYqI), [transcript](https://metauniservice.com/transcript?videoID=CJ1DUtpiYqI))
+* (*[Adam Dorr](https://adamdorr.com)*): **10:00-11:00** [Brighter](https://a.co/d/aNprf06) - Optimism, Progress, and the Future of Environmentalism ([video](https://youtu.be/JzT5LntIv_E), [transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E))
 * (*[Joey Velez-Ginorio](https://www.seas.upenn.edu/~joeyv/)*): **12:00-13:00** When do neurons represent True? ([video](https://youtu.be/ibjtIGxtTwU), [notes](http://www.therisingsea.org/notes/festival2023/festival2023-joeyvelezginorio.pdf), [transcript](https://metauniservice.com/transcript?videoID=ibjtIGxtTwU))
 * (*[Russell Goyder](https://www.linkedin.com/in/russell-goyder/)*): **13:00-14:00** Geometric Algebra in 2D - complex numbers without the square root of minus one ([video](https://youtu.be/PDyzWFsAtUU), [transcript](https://metauniservice.com/transcript?videoID=PDyzWFsAtUU))
 
