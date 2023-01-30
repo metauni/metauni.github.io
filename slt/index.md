@@ -47,15 +47,15 @@ Some topics and papers to be discussed:
 
 Below you can find the seminars for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
 
-* **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU)).
-* **13-1-22** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28)).
+* **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU), [transcript](https://metauniservice.com/transcript?videoID=QZG40ZY5TeU)).
+* **13-1-22** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28), [transcript](https://metauniservice.com/transcript?videoID=yniLt7ONj28)).
 * **20-1-22** (*Edmund Lau*):  Fisher information, KL-divergence and singular models ([video](https://youtu.be/U9bnkWuFSSM)).
 * **20-1-22** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
 * **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8))
 * **27-1-22** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
 * **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4)).
 * **3-2-22** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
-* **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf)).
+* **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf), [transcript](https://metauniservice.com/transcript?videoID=HXCpQWZfWIw)).
 * **10-2-22** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU)).
 * **17-2-22**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
@@ -75,9 +75,9 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem ([video](https://youtu.be/N30wJhaO68k), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
 * **13-10-22** (*Edmund Lau*): Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%202)).
 * **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%201)).
-* **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010)).
-* **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)).
-* **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012)).
+* **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2010), [transcript](https://metauniservice.com/transcript?videoID=7LzW8-wxdUE)).
+* **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=Vqmcn1q7VL0)).
+* **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2012), [transcript](https://metauniservice.com/transcript?videoID=ZdB0pWyPaFo)).
 * **10-11-22** (*Edmund Lau*): Newton diagrams in singular learning theory ([video](https://youtu.be/0FowiD36jwg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2013)).
 * **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis ([video](https://youtu.be/KwI-O8VKVv4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2015)).
 * **24-11-22** (*Dan Murfet*): Jet schemes I ([video](https://youtu.be/8g6dZZ7lWGk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
@@ -89,11 +89,9 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
-## Getting started
+## Background
 
-A minimal subset of the above talks, that gets you to a point where you know enough theory to be useful.
-
-## Background reading
+* A. Karpathy on [Transformers](https://youtu.be/kCc8FmEb1nY) (on [data distribution](https://youtu.be/kCc8FmEb1nY?t=867)).
 
 Some rough handwritten notes:
 
