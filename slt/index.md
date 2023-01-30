@@ -23,6 +23,7 @@ Some other introductory references:
 * S. Wei, D. Murfet, M. Gong, H. Li , J. Gell-Redman, T. Quella "[Deep learning is singular, and that's good](https://www.suswei.com/publication/wei-2022-singular/wei-2022-singular.pdf)" 2022.
 * Edmund Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 * Shaowei Lin's PhD thesis, 2011, [Algebraic Methods for Evaluating Integrals in Bayesian Statistics](https://escholarship.org/content/qt6r99035v/qt6r99035v_noSplash_55ad6962455379ca776283fed8278b40.pdf).
+* Jesse Hoogland's blog posts: [general intro to SLT](https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick), and [effects of singularities on dynamics](https://www.lesswrong.com/posts/2N7eEKDuL5sHQou3N/spooky-action-at-a-distance-in-the-loss-landscape).
 
 ## Upcoming seminars
 
@@ -101,3 +102,35 @@ Some rough handwritten notes:
 * [Singular Learning Theory 8](http://www.therisingsea.org/notes/metauni/slt8.pdf): Calculations for feedforward networks
 * [Singular Learning Theory 12](http://www.therisingsea.org/notes/metauni/slt12.pdf): Density of states
 * [Singular Learning Theory 13](http://www.therisingsea.org/notes/metauni/slt13.pdf): Asymptotics of the free energy
+
+## FAQ
+
+**Question:** Is SLT relevant to AI alignment?
+
+**Answer:** *tldr* Yes, but also relevant to capabilities. *Caveat emptor*.
+
+First some caveats: although we are optimistic SLT can be developed into theory of deep learning, it is not currently such a theory and it remains possible that there are fundamental obstacles. Putting those aside for a moment, it is plausible that phenomena like scaling laws and the related emergence of capabilities like in-context learning can be understood from first principles within a framework like SLT. This could contribute both to capabilities research and safety research.
+
+*Contribution to capabilities.* Right now it is not understood why Transformers obey scaling laws, and how capabilities like in-context learning relate to scaling in the loss; improved theoretical understanding could increase scaling exponents or allow them to be engineered in smaller systems. For example, some empirical already suggests that certain data distributions lead to in-context learning. It is possible that theoretical work in this direction could provide new ideas. Thermodynamics wasn't necessary to build steam engines, but it *certainly helped to push the technology to new levels of capability* once the systems became too big and complex for tinkering.
+
+*Contribution to alignment.* Broadly speaking it is hard to align what you do not understand. Either the aspects of intelligence relevant for alignment are universal, or they are not. If they are not, we have to get lucky (and stay lucky as the systems scale). If the relevant aspects are universal (in the sense that they arise for fundamental reasons in sufficiently intelligent systems across multiple different substrates) we can try to understand them and use them to control/align advanced systems (or at least be forewarned about their dangers) and be reasonably certain that the phenomena continue to behave as predicted across scales. This is one motivation behind the work on properties of optimal agents, such as Logical Inductors. SLT is a theory of universal aspects of learning machines, it could perhaps be developed in similar directions.
+
+*Does understanding scaling laws contribute to safety*. It depends on what causing scaling laws. If, as we suspect, it is about phases and phase transitions then it is deeply related to the nature of the intelligence that arises during the training process and so a theoretical understanding of scaling laws is likely to deeply inform the understanding of whatever structures are responsible for these phase transitions (concepts).
+
+Bayesian deep learning seems irrelevant. 
+
+*Theory hasn't been necessary so far*. There is almost no theory that has had a meaningful impact on the progress of deep learning as an engineering discipline. Perhaps the only exception are the scaling laws themselves. It seems to me that we can reach AGI without any theory at all.
+
+There is a research program (see the [Abstraction seminar](https://metauni.org/abstraction/)) to develop existing links in mathematical physics between renormalisation group flow and resolution of singularities, which applied in the context of SLT might give a fundamental understanding of how abstractions emerge in learning machines. One best case scenario of the application of SLT to alignment is that this line of research gives a theoretical framework in which to understand more empirical interpretability work.
+
+understanding mesa-optimization using models trained to do search, and interpreting those models.
+
+Maybe ther are not so many paths to understanding 
+
+understanding mesa-optimization using models trained to do search, and interpreting those models.
+
+My question is: how is this relevant to alignment? 
+
+Nerd sniped, not all elegant mathematics is relevant
+
+If there are universal aspects of intelligence, perhaps they are geometric in nature?
