@@ -5,7 +5,7 @@ whats on:
 - Disruption:
     time: 10:00-11:30
     organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: universal mind."
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: universal mind and privacy."
     website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
@@ -33,11 +33,11 @@ whats on:
     desc: "The seminar for everyone. *This week* Will Troiani - An opposite is whole only with its contrary; composing music and creating mathematics."
     website: https://metauni.org/anythingatall
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-whats off:
 - "#metauni-dev":
-    time: 22:30-23:30
+    time: 23:00-24:00
     desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
     location: "#metaboard-dev"
+whats off:
 - Abstraction:
     time: 20:00-21:00
     organizer: Alexander Oldenziel
