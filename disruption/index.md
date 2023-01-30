@@ -30,7 +30,7 @@ Past seminars and videos:
 * **17-11-22** Seminar 32: Individuals and AGI ([video](https://youtu.be/Y7eAZqUuV44)).
 * **24-11-22** Seminar 33: AGI and politics ([video](https://youtu.be/zP3zUDpUA54), [transcript](https://metauniservice.com/transcript?videoID=zP3zUDpUA54)).
 * **1-12-22** Seminar 34: Illusions and human limitation ([video](https://youtu.be/XFrEjVGOSG8)).
-* * **8-12-22** Seminar 35: Disrupting education pt1 ([video](https://youtu.be/h8Fb7PtX4uk), [transcript](https://metauniservice.com/transcript?videoID=h8Fb7PtX4uk)).
+* **8-12-22** Seminar 35: Disrupting education pt1 ([video](https://youtu.be/h8Fb7PtX4uk), [transcript](https://metauniservice.com/transcript?videoID=h8Fb7PtX4uk)).
 * **15-12-22** Seminar 36: Adam's new book Brighter ([video](https://youtu.be/ICxQgv1kcmU)).
 * **12-1-23** Adam's talk at the metauni festival on Brighter ([video](https://youtu.be/JzT5LntIv_E), [transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E)).
 * **19-1-23** Seminar 37: New players in the world of ideas ([video](https://youtu.be/2APLM1yq5dE), [transcript](https://metauniservice.com/transcript?videoID=2APLM1yq5dE))
