@@ -5,13 +5,13 @@ whats on:
 - Disruption:
     time: 10:00-11:30
     organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: new players, new games."
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: universal mind."
     website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 11:30-12:00
     organizer: Dan Murfet, Ken Chan
-    desc: "Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 2,3."
+    desc: "Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 5,6."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
@@ -20,19 +20,19 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Working session on in-context learning."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011
-- Anything At All:
-    time: 17:30-18:30
-    organizer: Various
-    desc: "The seminar for everyone. *This week* Tessa Snikkers on WTF - What the Fabric? Unexpected Textiles."
-    website: https://metauni.org/anythingatall
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - AI Safety:
-    time: 21:00-22:30
+    time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
     desc: "reading group on technical and philosophical topics in AI safety. *This week* Reward modeling."
     website: https://metauni.org/ai-safety
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
     pocket: Gemini Pulsar 1
+- Anything At All:
+    time: 22:00-23:00
+    organizer: Various
+    desc: "The seminar for everyone. *This week* Will Troiani - An opposite is whole only with its contrary; composing music and creating mathematics."
+    website: https://metauni.org/anythingatall
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 whats off:
 - "#metauni-dev":
     time: 22:30-23:30
