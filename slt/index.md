@@ -26,12 +26,9 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-The seminar is on hiatus until 19-1-2023. Scheduled talks in 2023:
-
-* **26-1-23** (*Ben Gerraty*): The mathematics of in-context learning ([paper](https://arxiv.org/abs/2212.07677)), see the **27-10-22** seminar.
-* **TBD** (*Dan Murfet*): Revisiting the renormalisation condition 
+* **2-2-23** (*Dan Murfet, Ben Gerraty*): The mathematics of in-context learning Pt 2
+* **9-2-23** (*Dan Murfet*): Revisiting the renormalisation condition 
 * **TBD** (*Zhongtian Chen*): Proof of the Koopman-Pitman-Darmois theorem
-* **TBD** (*Dan Murfet*): Jet schemes III
 * **TBD** (*Edmund Lau*): RLCT for 1-hidden layer ReLU networks
 * **TBD** (*Edmund Lau*): Main formulas 3, 4 (series of talks)
 
