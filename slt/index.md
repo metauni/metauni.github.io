@@ -41,8 +41,8 @@ Some topics and papers to be discussed:
 
 ## 2023
 
-* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4))
-* **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM))
+* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020))
+* **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011))
 * **2-2-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2
 
 ## 2022
