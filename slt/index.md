@@ -27,9 +27,7 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **2-2-23** (*Dan Murfet, Ben Gerraty*): The mathematics of in-context learning Pt 2
 * **9-2-23** (*Dan Murfet*): Revisiting the renormalisation condition 
-* **TBD** (*Zhongtian Chen*): Proof of the Koopman-Pitman-Darmois theorem
 * **TBD** (*Edmund Lau*): RLCT for 1-hidden layer ReLU networks
 * **TBD** (*Edmund Lau*): Main formulas 3, 4 (series of talks)
 
@@ -41,7 +39,13 @@ Some topics and papers to be discussed:
 * "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * See this [survey of scaling laws](https://epochai.org/blog/scaling-laws-literature-review).
 
-## Past seminars
+## 2023
+
+* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4))
+* **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM))
+* **2-2-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2
+
+## 2022
 
 Below you can find the seminars for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
 
@@ -83,7 +87,6 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3 ([video](https://youtu.be/FngNdKxCIuY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2017)).
 * **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020)).
-* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4))
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
