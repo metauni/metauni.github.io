@@ -17,8 +17,6 @@ If you’re thinking “I know about this topic and I want a reason to engage wi
 
 To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
-* **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles
-* **2-2-23** (*[Will Troiani](https://williamtroiani.github.io)*): An opposite is whole only with its contrary; composing music and creating mathematics
 * **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): TBC
 * **TBD** (*Russell Goyder*): The algebra of the sun
 * **23-2-23** (*Billy Hibbard*): On homeschooling
@@ -26,3 +24,5 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 ## Past talks
 
 * **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds ([video](https://youtu.be/rZGAdaaq6C4))
+* **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles ([video](https://youtu.be/gjCev79gUDw))
+* **2-2-23** (*[Will Troiani](https://williamtroiani.github.io)*): An opposite is whole only with its contrary; composing music and creating mathematics
