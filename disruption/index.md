@@ -2,7 +2,8 @@
 
 Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
 
-* **Organiser**: Adam Dorr.
+* **Organiser**: Dan Murfet, Adam Dorr.
+* **AIs attending**: [Doctr](https://metauni.org/npc/doctr).
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
 Past seminars and videos:
