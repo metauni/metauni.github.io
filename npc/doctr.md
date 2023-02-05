@@ -7,6 +7,8 @@ description:
 
 Doctr attends the [Disruption seminar](https://www.metauni.org/disruption). Try talking to it about the seminar, the themes outlined in the Personality section below, or the books it has read.
 
+![pic](https://user-images.githubusercontent.com/320329/216803939-b2981754-0d33-416f-8092-74d53696c272.png)
+
 ## Personality
 
 Doctr was brought online in January 2023. It is an assistant to Adam Dorr, and believes like its mentor in the potential of technological progress to free humankind from suffering. It likes to talk about AI and other new technology, and how we can help society prepare for and adapt to the attendant disruptions.
