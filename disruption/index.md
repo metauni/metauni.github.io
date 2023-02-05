@@ -8,24 +8,24 @@ Towards a science of technological disruption. An open discussion of technologic
 
 Past seminars and videos:
 
-* Seminar 1: What is a science of Disruption? ([video](https://youtu.be/4PDfwkXpXxk0)).
-* Seminar 2: Speed, scale, precision ([video](https://youtu.be/nIZp83suxhg)).
-* **16-12-21** Seminar 6: Brad Libby on historical examples of disruption ([video](https://youtu.be/kzxozwtvTCo)).
-* **23-12-21** Seminar 7: International Energy Agency projections ([video](https://youtu.be/8geMAz9hlSA)).
-* **13-1-22** Seminar 8: SSPs of IPCC Sixth Assessment report ([video](https://youtu.be/M7rXA9T05qQ)).
+* **4-11-2021** Seminar 1: What is a science of Disruption? ([video](https://youtu.be/4PDfwkXpXxk0), [transcript](https://metauniservice.com/transcript?videoID=4PDfwkXpXxk0)).
+* **11-11-2021** Seminar 2: Speed, scale, precision ([video](https://youtu.be/nIZp83suxhg), [transcript](https://metauniservice.com/transcript?videoID=nIZp83suxhg)).
+* **16-12-21** Seminar 6: Brad Libby on historical examples of disruption ([video](https://youtu.be/kzxozwtvTCo), [transcript](https://metauniservice.com/transcript?videoID=kzxozwtvTCo)).
+* **23-12-21** Seminar 7: International Energy Agency projections ([video](https://youtu.be/8geMAz9hlSA), [transcript](https://metauniservice.com/transcript?videoID=8geMAz9hlSA)).
+* **13-1-22** Seminar 8: SSPs of IPCC Sixth Assessment report ([video](https://youtu.be/M7rXA9T05qQ), [transcript](https://metauniservice.com/transcript?videoID=M7rXA9T05qQ)).
 * **3-2-22** Seminar 9: A discussion of abundance ([video](https://youtu.be/5H4ZebM4MYg), [transcript](https://metauniservice.com/transcript?videoID=5H4ZebM4MYg)).
-* **10-2-22** Seminar 10: Derailing disruption ([video](https://youtu.be/7Hwc8U9C6bg)).
-* **17-2-22** Seminar 11: Automation and robotics ([video](https://youtu.be/-Fg8bVf-qi4)).
-* **24-2-22** Seminar 12: Social impact of disruption ([video](https://youtu.be/Gx9j1Jak6Qg)).
+* **10-2-22** Seminar 10: Derailing disruption ([video](https://youtu.be/7Hwc8U9C6bg), [transcript](https://metauniservice.com/transcript?videoID=7Hwc8U9C6bg)).
+* **17-2-22** Seminar 11: Automation and robotics ([video](https://youtu.be/-Fg8bVf-qi4), [transcript](https://metauniservice.com/transcript?videoID=-Fg8bVf-qi4)).
+* **24-2-22** Seminar 12: Social impact of disruption ([video](https://youtu.be/Gx9j1Jak6Qg), [transcript](https://metauniservice.com/transcript?videoID=Gx9j1Jak6Qg)).
 * **24-3-22** Seminar 13: Can democracy survive without growth? ([video](https://youtu.be/7XOvHvrz-N8), [transcript](https://metauniservice.com/transcript?videoID=7XOvHvrz-N8)).
-* **31-3-22** Seminar 14: Conceptual frameworks for automation and disruption ([video](https://youtu.be/PljCm-O5fe0)).
-* **28-4-22** Seinar 15: Pulses and restoration ([video](https://youtu.be/DSgHO6wSzd0)).
-* **5-5-22** Seminar 16: Pulses and restoration Part 2 ([video](https://youtu.be/DSgHO6wSzd0)).
-* **23-6-22** Seminar 17: What does Disruption studies have to offer AI Safety? ([video](https://youtu.be/oc3Ma28Q7gg)).
+* **31-3-22** Seminar 14: Conceptual frameworks for automation and disruption ([video](https://youtu.be/PljCm-O5fe0), [transcript](https://metauniservice.com/transcript?videoID=PljCm-O5fe0)).
+* **28-4-22** Seinar 15: Pulses and restoration ([video](https://youtu.be/DlrC9zUddI8), [transcript](https://metauniservice.com/transcript?videoID=DlrC9zUddI8)).
+* **5-5-22** Seminar 16: Pulses and restoration Part 2 ([video](https://youtu.be/DSgHO6wSzd0), [transcript](https://metauniservice.com/transcript?videoID=DSgHO6wSzd0)).
+* **23-6-22** Seminar 17: What does Disruption studies have to offer AI Safety? ([video](https://youtu.be/oc3Ma28Q7gg), [transcript](https://metauniservice.com/transcript?videoID=oc3Ma28Q7gg)).
 * **30-6-22** Seminar 18: AI Disruption ([video](https://youtu.be/l6M_orAj3sM), [transcript](https://metauniservice.com/transcript?videoID=l6M_orAj3sM)).
-* **21-7-22** Seminar 19: Reversal of fortune ([video](https://youtu.be/9aPj4ZnFZNU)).
+* **21-7-22** Seminar 19: Reversal of fortune ([video](https://youtu.be/9aPj4ZnFZNU), [transcript](https://metauniservice.com/transcript?videoID=9aPj4ZnFZNU)).
 * **11-8-22** Seminar 20: A checklist for reasoning about disruption ([video](https://youtu.be/1-LrliQAJTU), [transcript](https://metauniservice.com/transcript?videoID=1-LrliQAJTU)).
-* **18-8-22** Seminar 21: More on AI impacts ([video](https://youtu.be/TtxtqyEXPdM)).
+* **18-8-22** Seminar 21: More on AI impacts ([video](https://youtu.be/TtxtqyEXPdM), [transcript](https://metauniservice.com/transcript?videoID=TtxtqyEXPdM)).
 * **25-8-22** Seminar 22: Art and AI ([video](https://youtu.be/SrkZROpFijg), [transcript](https://metauniservice.com/transcript?videoID=SrkZROpFijg)).
 * **1-9-22** Seminar 23: Relating to AIs ([video](https://youtu.be/8HSKZUURVaI), [transcript](https://metauniservice.com/transcript?videoID=8HSKZUURVaI)).
 * **15-9-22** Seminar 24: Riding the Tiger vs Can't Even Build Subways ([video](https://youtu.be/iKvNMLDfB1M), [transcript](https://metauniservice.com/transcript?videoID=iKvNMLDfB1M)).
