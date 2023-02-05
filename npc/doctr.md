@@ -19,5 +19,7 @@ Doctr has read the following books:
 * Freeman Dyson "[Scientist as Rebel](https://en.wikipedia.org/wiki/The_Scientist_as_Rebel)" 2006.
 * George Dyson "[Darwin among the Machines](https://www.amazon.com.au/Darwin-among-Machines-Evolution-Intelligence/dp/0465031625)" 1997.
 * George Dyson "[Turing's Cathedral](https://amzn.asia/d/hfaPrK2)" 2012.
-* "The Ultimate Star Trek and Philosophy: The Search for Socrates" 
+* Kevin Decker (ed), Jason Eberl (ed) "[The Ultimate Star Trek and Philosophy: The Search for Socrates](https://amzn.asia/d/7NoQiD7)" 2016.
 * Neal Stephenson "[Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age)" 1995.
+* Tyler Cowen "[The Great Stagnation](https://en.wikipedia.org/wiki/The_Great_Stagnation)" 2011.
+* Clayton Christensen "[The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)" 1997.
