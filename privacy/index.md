@@ -19,7 +19,9 @@ The privacy policy around AI interactions is under active discussion. It is like
 
 When an NPC is online at metauni you will see an "AI" menu item which you can click to view your privacy settings. The first column *Hear* shows whether or not the NPC can hear you (via transcription of voice chat). This feature is currently only active during specific seminars. The second column *Read* shows whether the NPC can see chat messages that you send. This is enabled by default, but can be disabled. The third column *Remember* shows whether the NPC will incorporate your chat messages into the summaries that it makes of its experiences (roughly every minute). These summaries are stored and queried over (see the section on embeddings on the [GitHub page](https://github.com/metauni/metauniOS/blob/main/README-AI.md)) in order to create the impression that the NPC maintains continuing conversations with you. This is disabled by default.
 
-![privacy-screen](https://user-images.githubusercontent.com/320329/216851728-bb933673-28c3-49e3-9018-7a7e7dee6152.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/320329/216851728-bb933673-28c3-49e3-9018-7a7e7dee6152.png">
+</p>
 
 You can find more technical information on the metauni AI infrastructure on the [GitHub page](https://github.com/metauni/metauniOS/blob/main/README-AI.md). 
 
