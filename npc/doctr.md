@@ -1,6 +1,6 @@
 ---
 title:
-    NPC: Doctr
+    Doctr
 description:
     Assistant to Doctor Disruption
 ---
