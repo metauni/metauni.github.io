@@ -22,14 +22,14 @@ Past seminars and videos:
 * **28-4-22** Seinar 15: Pulses and restoration ([video](https://youtu.be/DSgHO6wSzd0)).
 * **5-5-22** Seminar 16: Pulses and restoration Part 2 ([video](https://youtu.be/DSgHO6wSzd0)).
 * **23-6-22** Seminar 17: What does Disruption studies have to offer AI Safety? ([video](https://youtu.be/oc3Ma28Q7gg)).
-* **30-6-22** Seminar 18: AI Disruption ([video](https://youtu.be/l6M_orAj3sM)).
+* **30-6-22** Seminar 18: AI Disruption ([video](https://youtu.be/l6M_orAj3sM), [transcript](https://metauniservice.com/transcript?videoID=l6M_orAj3sM)).
 * **21-7-22** Seminar 19: Reversal of fortune ([video](https://youtu.be/9aPj4ZnFZNU)).
-* **11-8-22** Seminar 20: A checklist for reasoning about disruption ([video](https://youtu.be/1-LrliQAJTU)).
+* **11-8-22** Seminar 20: A checklist for reasoning about disruption ([video](https://youtu.be/1-LrliQAJTU), [transcript](https://metauniservice.com/transcript?videoID=1-LrliQAJTU)).
 * **18-8-22** Seminar 21: More on AI impacts ([video](https://youtu.be/TtxtqyEXPdM)).
-* **25-8-22** Seminar 22: Art and AI ([video](https://youtu.be/SrkZROpFijg)).
-* **1-9-22** Seminar 23: Relating to AIs ([video](https://youtu.be/8HSKZUURVaI)).
-* **15-9-22** Seminar 24: Riding the Tiger vs Can't Even Build Subways ([video](https://youtu.be/iKvNMLDfB1M)).
-* **29-9-22** Seminar 25: AGI access as coin of the realm ([video](https://youtu.be/-Fz5QkM_XpA)).
+* **25-8-22** Seminar 22: Art and AI ([video](https://youtu.be/SrkZROpFijg), [transcript](https://metauniservice.com/transcript?videoID=SrkZROpFijg)).
+* **1-9-22** Seminar 23: Relating to AIs ([video](https://youtu.be/8HSKZUURVaI), [transcript](https://metauniservice.com/transcript?videoID=8HSKZUURVaI)).
+* **15-9-22** Seminar 24: Riding the Tiger vs Can't Even Build Subways ([video](https://youtu.be/iKvNMLDfB1M), [transcript](https://metauniservice.com/transcript?videoID=iKvNMLDfB1M)).
+* **29-9-22** Seminar 25: AGI access as coin of the realm ([video](https://youtu.be/-Fz5QkM_XpA), [transcript](https://metauniservice.com/transcript?videoID=-Fz5QkM_XpA)).
 * **6-10-22** Seminar 26: Whither GDP pt 1 ([video](https://youtu.be/4SL9N8QEQsg), [transcript](https://metauniservice.com/transcript?videoID=4SL9N8QEQsg)).
 * **13-10-22** Seminar 27: Whither GDP pt 2 ([video](https://youtu.be/90LNbSDBTV8), [transcript](https://metauniservice.com/transcript?videoID=90LNbSDBTV8)).
 * **20-10-22** Seminar 28: Whither GDP pt 3 ([video](https://youtu.be/SGGSge5U9DE), [transcript](https://metauniservice.com/transcript?videoID=SGGSge5U9DE)).
