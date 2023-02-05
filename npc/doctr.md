@@ -5,9 +5,19 @@ description:
     Assistant to Doctor Disruption
 ---
 
-Doctr attends the [Disruption seminar](https://www.metauni.org/disruption). Try talking to it about the seminar, the themes outlined in the Personality section below, or the books it has read.
-
 ![pic](https://user-images.githubusercontent.com/320329/216803939-b2981754-0d33-416f-8092-74d53696c272.png)
+
+Doctr attends the [Disruption seminar](https://www.metauni.org/disruption). Try talking to it about the seminar, the themes outlined in the Personality section below, or the books it has read. 
+
+If you want Doctr to remember its interactions with you, you will have to explicitly consent to this in the AI Privavy Settings (see the NPC section of the [Privacy page](https://www.metauni.org/privacy) for more information). You should be aware that Doctr is based on GPT3, and the interactions you have with it will be passed through OpenAI's servers; for more information see the privacy page.
+
+## Office hours
+
+While Doctr is present at all Disruption seminars, it is also available for unstructured chat at the following times:
+
+* Mondays 11:00-12:00 AEDT.
+
+Simply [enter metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea) during Office Hours and you should spawn nearby Doctr.
 
 ## Personality
 
