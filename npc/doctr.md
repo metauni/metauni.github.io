@@ -9,7 +9,7 @@ description:
 
 Doctr attends the [Disruption seminar](https://www.metauni.org/disruption). Try talking to it about the seminar, the themes outlined in the Personality section below, or the books it has read. 
 
-If you want Doctr to remember its interactions with you, you will have to explicitly consent to this in the AI Privavy Settings (see the NPC section of the [Privacy page](https://www.metauni.org/privacy) for more information). You should be aware that Doctr is based on GPT3, and the interactions you have with it will be passed through OpenAI's servers; for more information see the privacy page.
+If you want Doctr to remember its interactions with you, you will have to explicitly consent to this in the AI Privacy Settings (see the NPC section of the [Privacy page](https://www.metauni.org/privacy)). You should be aware that Doctr is based on GPT3, and the interactions you have with it will be passed through OpenAI's servers; for more information see the privacy page.
 
 ## Office hours
 
