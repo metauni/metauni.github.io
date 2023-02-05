@@ -15,7 +15,7 @@ If you want Doctr to remember its interactions with you, you will have to explic
 
 While Doctr is present at all Disruption seminars, it is also available for unstructured chat at the following times:
 
-* Mondays 11:00-12:00 AEDT.
+* Mondays 11:00-12:00 AEDT, 16:00-17:00 AEDT.
 
 Simply [enter metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea) during Office Hours and you should spawn nearby Doctr.
 
