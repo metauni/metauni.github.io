@@ -27,9 +27,10 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **9-2-23** (*Dan Murfet*): Revisiting the renormalisation condition 
-* **TBD** (*Edmund Lau*): RLCT for 1-hidden layer ReLU networks
-* **TBD** (*Edmund Lau*): Main formulas 3, 4 (series of talks)
+* **9-2-23** (*Dan Murfet*): Solid state physics and SLT
+* **16-2-23** (*Edmund Lau*): Occam's razor following Balasubramanian 
+* **TBD** (*Russell Goyder*)
+* **TBD** (*Rohan Hitchcock*)
 
 Some topics and papers to be discussed:
 
