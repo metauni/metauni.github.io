@@ -40,13 +40,15 @@ Some topics and papers to be discussed:
 * "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * See this [survey of scaling laws](https://epochai.org/blog/scaling-laws-literature-review).
 
-## 2023
+## Previous seminars
+
+### 2023
 
 * **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=rw23vmz2MF4))
 * **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=TuFPGNBoOuM))
 * **2-2-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2
 
-## 2022
+### 2022
 
 Below you can find the seminars for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
 
