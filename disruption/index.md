@@ -6,7 +6,13 @@ Towards a science of technological disruption. An open discussion of technologic
 * **AIs attending**: [Doctr](https://metauni.org/npc/doctr).
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
-Past seminars and videos:
+### 2023
+
+* **12-1-23** Adam's talk at the metauni festival on Brighter ([video](https://youtu.be/JzT5LntIv_E), [transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E)).
+* **19-1-23** Seminar 37: New players in the world of ideas ([video](https://youtu.be/2APLM1yq5dE), [transcript](https://metauniservice.com/transcript?videoID=2APLM1yq5dE))
+* **2-2-23** Seminar 38: New games, chatbots and constructs ([video](https://youtu.be/4OaQVdkos-M), [transcript](https://metauniservice.com/transcript?videoID=4OaQVdkos-M))
+
+### 2022
 
 * **4-11-2021** Seminar 1: What is a science of Disruption? ([video](https://youtu.be/4PDfwkXpXxk0), [transcript](https://metauniservice.com/transcript?videoID=4PDfwkXpXxk0)).
 * **11-11-2021** Seminar 2: Speed, scale, precision ([video](https://youtu.be/nIZp83suxhg), [transcript](https://metauniservice.com/transcript?videoID=nIZp83suxhg)).
@@ -41,5 +47,3 @@ Past seminars and videos:
 * **1-12-22** Seminar 34: Illusions and human limitation ([video](https://youtu.be/XFrEjVGOSG8), [transcript](https://metauniservice.com/transcript?videoID=XFrEjVGOSG8)).
 * **8-12-22** Seminar 35: Disrupting education pt1 ([video](https://youtu.be/h8Fb7PtX4uk), [transcript](https://metauniservice.com/transcript?videoID=h8Fb7PtX4uk)).
 * **15-12-22** Seminar 36: Adam's new book Brighter ([video](https://youtu.be/ICxQgv1kcmU)).
-* **12-1-23** Adam's talk at the metauni festival on Brighter ([video](https://youtu.be/JzT5LntIv_E), [transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E)).
-* **19-1-23** Seminar 37: New players in the world of ideas ([video](https://youtu.be/2APLM1yq5dE), [transcript](https://metauniservice.com/transcript?videoID=2APLM1yq5dE))
