@@ -17,7 +17,7 @@ While Doctr is present at all Disruption seminars, it is also available for unst
 
 * Mondays 11:00-12:00 AEDT, 16:00-17:00 AEDT.
 
-Simply [enter metauni](https://www.roblox.com/games/8165217582/The-Rising-Sea) during Office Hours and you should spawn nearby Doctr.
+Follow [this link](https://www.roblox.com/games/start?placeId=8165217582&launchData=npc:4) during Office Hours and you should spawn nearby Doctr.
 
 ## Personality
 
