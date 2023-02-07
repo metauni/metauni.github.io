@@ -27,8 +27,9 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **9-2-23** (*Dan Murfet*): Solid state physics and SLT
-* **16-2-23** (*Edmund Lau*): Occam's razor following Balasubramanian 
+* **9-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 1
+* **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2
+* **23-2-23** (*Edmund Lau*): Occam's razor following Balasubramanian 
 * **TBD** (*Russell Goyder*)
 * **TBD** (*Rohan Hitchcock*)
 
