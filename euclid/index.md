@@ -11,7 +11,9 @@ Weekly readings of Euclid's Elements, with Ken Chan and Dan Murfet at [metauni](
 
 ## Book 2
 
-* **19-1-23** Seminar 22: Book 2 Proposition 1 ([video](https://youtu.be/wSIabvsGA30))
+* **19-1-23** Seminar 22: Book 2 Proposition 1 ([video](https://youtu.be/wSIabvsGA30), [transcript](https://metauniservice.com/transcript?videoID=wSIabvsGA30))
+* **26-1-23** Seminar 23: Book 2 Propositions 2, 3, 4 ([video](https://youtu.be/wSIabvsGA30), [transcript](https://metauniservice.com/transcript?videoID=wSIabvsGA30))
+* **2-2-23** Seminar 24: Book 2 Proposition 5 ([video](https://youtu.be/JCr3tvgM89w), [transcript](https://metauniservice.com/transcript?videoID=JCr3tvgM89w))
 
 ## Book 1
 
