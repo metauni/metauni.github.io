@@ -32,13 +32,13 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### February 02, 2023
+### February 09, 2023
 * **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: universal mind and privacy. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 5,6. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Working session on in-context learning. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Reward modeling. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
-* **[Anything At All](https://metauni.org/anythingatall)** **22:00-23:00** (*Various*): The seminar for everyone. *This week* Will Troiani - An opposite is whole only with its contrary; composing music and creating mathematics. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **#metauni-dev** **23:00-23:30**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 6,7. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Anything At All](https://metauni.org/anythingatall)** **15:00-16:00** (*Various*): The seminar for everyone. *This week* Alok Singh - Infinitely large numbers that act like they're finite. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Solid state physics Pt 1. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011)
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Deep reinforcement learning from human preferences. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201)
+* **#metauni-dev** **22:00-23:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 <!-- END WHATS ON -->
 
