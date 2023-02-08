@@ -5,13 +5,17 @@ description:
     Everything, Ouroboric
 ---
 
-Two important parts of the metauni community are sharing ideas (benefits the audience) and practicing the act of communicating ideas (benefits the speaker). This seminar is for everyone, and especially for new speakers and new audience members. To speak you *do not* have to be an expert at giving talks, and talks should mostly be “no prerequisites”.
+This is the seminar for everyone. Especially for new speakers and new audience members. This week's seminar is *[Alok Singh](https://twitter.com/TheRevAlokSingh)* on "Infinitely large numbers that act like they're finite" at **15:00-16:00 AEDT Thursday** (could be Wednesday where you are). To join in you'll need to install Roblox, setup voice chat (see the [Instructions](https://metauni.org/posts/instructions/instructions)) and then
 
-If you’re thinking “I know about this topic and I want a reason to engage with it seriously and an opportunity to practicing presenting/explaining, but I don’t really know who would be interested enough to attend and I’m not very confident in my presentation skills” then you do it at this seminar.
+<p align="center">
+  <span style="font-size:x-large;"><a target="_blank" href="https://www.roblox.com/games/8165217582/The-Rising-Sea">Enter metauni</a></span>
+</p>
 
 <p align="center">
 <img width="800" height="334.4" src="https://user-images.githubusercontent.com/320329/208765279-15388dff-ecd9-405a-97c2-993af89ea2cb.png">
 </p>
+
+Two important parts of the metauni community are sharing ideas (benefits the audience) and practicing the act of communicating ideas (benefits the speaker). To speak you *do not* have to be an expert at giving talks, and talks should mostly be “no prerequisites”. If you’re thinking “I know about this topic and I want a reason to engage with it seriously and an opportunity to practicing presenting/explaining, but I don’t really know who would be interested enough to attend and I’m not very confident in my presentation skills” then you do it at this seminar.
 
 ## Upcoming talks
 
