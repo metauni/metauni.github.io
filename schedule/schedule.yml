@@ -25,13 +25,13 @@ whats on:
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Solid state physics Pt 1."
     website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2011
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
     desc: "reading group on technical and philosophical topics in AI safety. *This week* Deep reinforcement learning from human preferences."
     website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Gemini%20Pulsar%201
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
     pocket: Gemini Pulsar 1
 - "#metauni-dev":
     time: 22:00-23:00
@@ -43,11 +43,11 @@ whats off:
     organizer: Alexander Oldenziel
     desc: "what is an abstraction? Are they universal? Runs biweekly. *On hiatus*."
     website: https://metauni.org/abstraction
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Big%20Sir%203
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%203
 - Landau-Ginzburg:
     time: 15:00-16:00
     organizer: Rohan Hitchcock
     desc: "on the geometry and (bi)category theory of isolated hypersurface singularities. *On hiatus*."
     website: https://metauni.org/lg
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%209
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%209
     alias: LG
