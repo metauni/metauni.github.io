@@ -7,10 +7,6 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems.
 
 ![foundations](moonlight-forest.png)
 
-## Schedule
-
-The seminar will run on a bi-weekly timeslot, on Thursdays at 21:00 AEDT (Melbourne, Australia time).
-
 ## Past seminars
 
 ### Season 1 - First Order Logic, Soundness, Completeness, Incompleteness
@@ -34,5 +30,5 @@ The seminar will run on a bi-weekly timeslot, on Thursdays at 21:00 AEDT (Melbou
 * **18-8-22** (*Will Troiani*): Skolemisation ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **15-9-22** (*Will Troiani*): Finishing the Ax-Grothendieck theorem ([video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
-* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilters ([notes](./notes/ultrafilters.pdf), [video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
+* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilters ([notes](./notes/ultrafilters.pdf), [video](https://youtu.be/SAbJae_gsv4))
 * **3-10-22** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf), [video](https://www.youtube.com/watch?v=PtFTpwcYGRM))
