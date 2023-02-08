@@ -17,7 +17,7 @@ If you’re thinking “I know about this topic and I want a reason to engage wi
 
 To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
-* **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): TBC
+* **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): Infinitely large numbers that act like they're finite
 * **TBD** (*Russell Goyder*): The algebra of the sun
 * **23-2-23** (*Billy Hibbard*): On homeschooling
 
