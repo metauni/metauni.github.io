@@ -38,7 +38,6 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Anything At All](https://metauni.org/anythingatall)** **15:00-16:00** (*Various*): The seminar for everyone. *This week* Alok Singh - Infinitely large numbers that act like they're finite. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Solid state physics Pt 1. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021)
 * **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Deep reinforcement learning from human preferences. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201)
-* **#metauni-dev** **22:00-23:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 <!-- END WHATS ON -->
 
