@@ -65,11 +65,42 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.02.02:**
-  Jan Leike, David Krueger, Tom Everitt, *et al.*,
-  2018,
-  "Scalable agent alignment via reward modeling: a research direction".
-  [arXiv](https://arxiv.org/abs/1811.07871).
+* **2022.02.16:**
+  Tom Everitt *et al.*,
+  2021,
+  "Agent incentives: A causal perspective".
+  AAAI / [arXiv](https://arxiv.org/abs/2102.01685).
+
+* **2023.02.23:**
+  Guest speaker: Tom Everitt
+  (Location: Discord)
+
+* **2023.03.02:**
+  Lauro Langosco *et al.*,
+  2022,
+  "Goal misgeneralization in deep reinforcement learning".
+  ICML / [arXiv](https://arxiv.org/abs/2105.14111).
+
+* **2023.03.09:**
+  Joar Skalse *et al.*, 
+  2022,
+  "Defining and characterizing reward hacking".
+  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
+  
+* **2022.03.23:**
+  Eliezer Yudkowsky,
+  2011,
+  "Complex value systems are required to realize valuable futures".
+  MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
+
+* **TBD:**
+  Paul Christiano *et al.*,
+  2022,
+  "Formalising the presumption of independence".
+  [arXiv](https://arxiv.org/abs/2211.06738).
+
+
+Past readings and discussions (most recent first):
 
 * **2023.02.09:**
   Paul Christiano, Jan Leike, *et al.*,
@@ -77,30 +108,11 @@ Upcoming readings and discussions:
   "Deep reinforcement learning from human preferences".
   [NeurIPS](https://proceedings.neurips.cc/paper/2017/hash/d5e2c0adad503c91f91df240d0cd4e49-Abstract.html).
 
-* **TBD:**
-  Tom Everitt *et al.*,
-  2021,
-  "Agent incentives: A causal perspective".
-  AAAI / [arXiv](https://arxiv.org/abs/2102.01685).
-
-* **TBD:**
-  Guest speaker: Tom Everitt
-  (Location: Discord)
-
-* **TBD:**
-  Lauro Langosco *et al.*,
-  2022,
-  "Goal misgeneralization in deep reinforcement learning".
-  ICML / [arXiv](https://arxiv.org/abs/2105.14111).
-
-* **TBD:**
-  Joar Skalse *et al.*, 
-  2022,
-  "Defining and characterizing reward hacking".
-  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
-
-
-Past readings and discussions (most recent first):
+* **2023.02.02:**
+  Jan Leike, David Krueger, Tom Everitt, *et al.*,
+  2018,
+  "Scalable agent alignment via reward modeling: a research direction".
+  [arXiv](https://arxiv.org/abs/1811.07871).
 
 * **2023.01.26:**
   Andrew Critch and David Krueger,
