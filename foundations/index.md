@@ -25,10 +25,10 @@ A seminar on the nature of mathematical objects, logic, Gödel's theorems.
 * **17-3-22** (*Will Troiani*): Gödel's incompleteness theorem Part 6 ([video](https://youtu.be/25ZGE0PiioE)).
 
 ### Season 2 - Ax-Grothendieck and Model Theory
-* **21-7-22** (*Will Troiani*): Ax-Grothendieck and model theory ([video](https://www.youtube.com/watch?v=Fccfv2DWUgM))
+* **21-7-22** (*Will Troiani*): Ax-Grothendieck and model theory ([video](https://www.youtube.com/watch?v=Fccfv2DWUgM), [transcript](https://metauniservice.com/transcript?videoID=Fccfv2DWUgM))
 * **4-8-22** (*Will Troiani*): The geometric part ([video](https://www.youtube.com/watch?v=49QuhzdEy50))
 * **18-8-22** (*Will Troiani*): Skolemisation ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **1-9-22** (*Will Troiani*): Lower-Lowenheim Skolem ([video](https://www.youtube.com/watch?v=VXJUwWBDJmQ))
 * **15-9-22** (*Will Troiani*): Finishing the Ax-Grothendieck theorem ([video](https://www.youtube.com/watch?v=m-LAhuMQZfM))
-* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilters ([notes](./notes/ultrafilters.pdf), [video](https://youtu.be/SAbJae_gsv4))
-* **3-10-22** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf), [video](https://www.youtube.com/watch?v=PtFTpwcYGRM))
+* **26-9-22** (*Billy Snikkers*): Filters and Ultrafilters ([notes](./notes/ultrafilters.pdf), [video](https://youtu.be/SAbJae_gsv4), [transcript](https://metauniservice.com/transcript?videoID=SAbJae_gsv4))
+* **3-10-22** (*Billy Snikkers*): Non-standard models of arithmetic ([notes](./notes/Non-Standard%20Models.pdf), [video](https://www.youtube.com/watch?v=PtFTpwcYGRM), [transcript](https://metauniservice.com/transcript?videoID=PtFTpwcYGRM))
