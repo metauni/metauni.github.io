@@ -15,7 +15,9 @@ Towards a science of technological disruption. An open discussion of technologic
 
 * **12-1-23** Adam's talk at the metauni festival on Brighter ([video](https://youtu.be/JzT5LntIv_E), [transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E)).
 * **19-1-23** Seminar 37: New players in the world of ideas ([video](https://youtu.be/2APLM1yq5dE), [transcript](https://metauniservice.com/transcript?videoID=2APLM1yq5dE))
-* **2-2-23** Seminar 38: New games, chatbots and constructs ([video](https://youtu.be/4OaQVdkos-M), [transcript](https://metauniservice.com/transcript?videoID=4OaQVdkos-M))
+* **26-1-23** Seminar 38: New players, new games ([video](https://youtu.be/HY82IYHo7Z8), [transcript](https://metauniservice.com/transcript?videoID=HY82IYHo7Z8))
+* **2-2-23** Seminar 39: New games, chatbots and constructs ([video](https://youtu.be/4OaQVdkos-M), [transcript](https://metauniservice.com/transcript?videoID=4OaQVdkos-M))
+* **9-2-23** Seminar 40: ChatGPT and rapid adoption of new software ([video](https://youtu.be/OZV028tZgUU), [transcript](https://metauniservice.com/transcript?videoID=OZV028tZgUU))
 
 ### 2022
 
