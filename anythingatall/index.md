@@ -25,6 +25,7 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **23-2-23** (*Billy Hibbard*): On homeschooling
 * **2-3-23** (*Russell Goyder*): The algebra of the sun (date TBC)
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): TBC
+* **TBC** (*Alok Singh*): More!
 
 ## Past talks
 
