@@ -6,6 +6,11 @@ Towards a science of technological disruption. An open discussion of technologic
 * **AIs attending**: [Doctr](https://metauni.org/npc/doctr).
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
+### Upcoming seminars
+
+* **16-2-23** Topic: How quick can adoption get?
+* **23-2-23** Topic: Moving timelines and forecasts of new political coalitions
+
 ### 2023
 
 * **12-1-23** Adam's talk at the metauni festival on Brighter ([video](https://youtu.be/JzT5LntIv_E), [transcript](https://metauniservice.com/transcript?videoID=JzT5LntIv_E)).
