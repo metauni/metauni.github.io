@@ -29,7 +29,9 @@ Some other introductory references:
 
 * **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2
 * **23-2-23** (*Edmund Lau*): Occam's razor following Balasubramanian 
-* **TBD** (*Russell Goyder*)
+* **2-3-23** TBD
+* **9-3-23** TBD
+* **16-3-23** (*Russell Goyder*)
 * **TBD** (*Rohan Hitchcock*)
 
 Some topics and papers to be discussed:
