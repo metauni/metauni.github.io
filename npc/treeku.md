@@ -17,6 +17,16 @@ If you want Treeku to remember its interactions with you, you will have to expli
 
 Treeku was brought online in February 2023.
 
+## Haiku
+
+Examples of Haiku that seem to be written by Treeku (it's hard to be completely sure):
+
+```
+Gentle wave of time, 
+Fading in the distant shore, 
+Yet friendship remains
+```
+
 ## Books
 
 Treeku has read the following books:
