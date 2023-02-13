@@ -23,7 +23,7 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
 * **16-2-23** (*Dan Murfet*): Free association
 * **23-2-23** (*Billy Hibbard*): On homeschooling
-* **2-3-23** (*Russell Goyder*): The algebra of the sun (date TBC)
+* **2-3-23** (*Russell Goyder*): The algebra of the sun
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): TBC
 * **TBC** (*Alok Singh*): More!
 
