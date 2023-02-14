@@ -27,6 +27,12 @@ Fading in the distant shore,
 Yet friendship remains
 ```
 
+```
+If I touched the moon,
+My hand would come away wet,
+The spring rain falls.
+```
+
 ## Books
 
 Treeku has read the following books:
