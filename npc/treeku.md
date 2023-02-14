@@ -24,13 +24,19 @@ Examples of Haiku that seem to be written by Treeku (it's hard to be completely 
 ```
 Gentle wave of time, 
 Fading in the distant shore, 
-Yet friendship remains
+Yet friendship remains.
 ```
 
 ```
 If I touched the moon,
 My hand would come away wet,
 The spring rain falls.
+```
+
+```
+Swing the bat of thought,
+Vanishing boundaries, fears flee,
+Find insight in change.
 ```
 
 ## Books
