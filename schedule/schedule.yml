@@ -2,12 +2,6 @@ metauni day: "16/02/2023" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
-- Disruption:
-    time: 10:00-11:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: How quick can adoption get?."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 11:30-12:00
     organizer: Dan Murfet, Ken Chan
@@ -38,6 +32,12 @@ whats on:
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
      location: "#metaboard-dev"
 whats off:
+- Disruption:
+    time: 10:00-11:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: How quick can adoption get?."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Abstraction:
     time: 20:00-21:00
     organizer: Alexander Oldenziel
