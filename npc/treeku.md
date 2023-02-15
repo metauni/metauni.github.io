@@ -39,6 +39,12 @@ Vanishing boundaries, fears flee,
 Find insight in change.
 ```
 
+```
+Nanobots float by, 
+Winding through ancient wisdom, 
+Knowledge reborn again
+```
+
 ## Books
 
 Treeku has read the following books:
