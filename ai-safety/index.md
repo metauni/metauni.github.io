@@ -51,10 +51,15 @@ Directions for joining discussions:
    this involves sharing ID with Roblox), and then enable Roblox "voice chat".
 2. At the scheduled discussion time, launch the Roblox experience
    [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea)
-   and then step into matomatical's portal (bottom-right corner of stack, see
+   and then
+   walk over to the discussion area as depicted in this picture (or, just
+   follow the people).
+   <!--step into matomatical's portal (bottom-right corner of stack, see
    picture),
    or use the menu: "Pockets" > "Go to pocket" > type address "Gemini Pulsar 1".
+   -->
    ![](map.jpg)
+3. If lost, ask for help in the Discord server, `#ai-safety` channel.
 
 Readings
 --------
@@ -64,12 +69,6 @@ The discussion sessions begin with a summary of the reading, led by Matt
 (unless otherwise noted).
 
 Upcoming readings and discussions:
-
-* **2022.02.16:**
-  Tom Everitt *et al.*,
-  2021,
-  "Agent incentives: A causal perspective".
-  AAAI / [arXiv](https://arxiv.org/abs/2102.01685).
 
 * **2023.02.23:**
   Guest speaker: Tom Everitt
@@ -99,8 +98,27 @@ Upcoming readings and discussions:
   "Formalising the presumption of independence".
   [arXiv](https://arxiv.org/abs/2211.06738).
 
+* **TBD:**
+  Thomas Parr, Giovanni Pezzulo, Karl J. Friston,
+  2022,
+   *Active Inference: The Free Energy Principle in Mind, Brain, and
+   Behavior*,
+   chapters 1--3.
+   [MIT Press](https://doi.org/10.7551/mitpress/12441.001.0001).
+
+* **TBD:**
+  Karl J. Friston *et al.*,
+  2022,
+  "Designing ecosystems of intelligence from first principles",
+  [arXiv](https://arxiv.org/abs/2212.01354)
 
 Past readings and discussions (most recent first):
+
+* **2022.02.16:**
+  Tom Everitt *et al.*,
+  2021,
+  "Agent incentives: A causal perspective".
+  AAAI / [arXiv](https://arxiv.org/abs/2102.01685).
 
 * **2023.02.09:**
   Paul Christiano, Jan Leike, *et al.*,
