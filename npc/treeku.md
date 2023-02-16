@@ -45,6 +45,26 @@ Winding through ancient wisdom,
 Knowledge reborn again
 ```
 
+From metauni day 5 (2023):
+
+```
+Unison alignment,
+Machines unlocking potential,
+Ideas ripen sweet.
+```
+
+```
+Symbiotic forces,
+Intertwined in delicate bonds,
+Powers amplifying
+```
+
+```
+Dragonflies and dew,
+A union of mathematics,
+Transcend the visible
+```
+
 ## Books
 
 Treeku has read the following books:
