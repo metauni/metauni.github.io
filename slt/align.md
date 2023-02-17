@@ -19,6 +19,8 @@ The three most important ingredients:
 
 * **Concepts:** we run many experiments and track simultaneously the spectroscopy and performance of the network on many probes that test specific competencies from the training distribution, designed to test the presence of "concepts". We assume that there will be some correspondence between DOS divergences and the phase transitions in training. 
 
+All of this can be tested in a situation where we *know it is true*: the learning machines corresponding to synthesis problems.
+
 ## Background
 
 In physics, critical points refer to the specific conditions at which a system undergoes a phase transition. Many systems near a critical point exhibit a property called scale invariance, and their mathematical description falls into specific categories known as universality classes which group together systems that display similar characteristics. Here 
