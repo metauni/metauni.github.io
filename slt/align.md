@@ -5,19 +5,25 @@ description:
     There are no algebraists in foxholes
 ---
 
-In physics, critical points refer to the specific conditions at which a system undergoes a phase transition. Many systems near a critical point exhibit a property called scale invariance, and their mathematical description falls into specific categories known as universality classes which group together systems that display similar characteristics. Here we sketch an approach to scalable mechanistic interpretability of neural networks based on the following hypothesis:
+We sketch an approach to scalable mechanistic interpretability of neural networks based on the following hypothesis:
 
 * **Universality hypothesis**: some of the representations and algorithms encoded by neural networks are approximately universal.
 
 If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, and we have tools that allow us to discover approximations to those representations and algorithms, then interpretability could be an effective foundation for aligning AI systems.
 
-At a high level, the ingredients in the Plan are:
+We begin with a high level sketch of the plan. This presumes familiarity with various concepts from statistical learning theory, physics, etc., see the Background section eblow. The ingredients:
 
 * **Devices:** we assume that it is possible to build probes that are sensitive to the density of states in parts of the parameter space encountered by the neural network during training, and that these probes ("microscopes") 
 
 * **Jet schemes**: Essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities, which are roughly speaking .
 
 * **Semantics:** Connections between microscope measurements and grounded concepts we care about, for example by tracking performance on a battery of probes and tests on sub-distributions.
+
+## Background
+
+In physics, critical points refer to the specific conditions at which a system undergoes a phase transition. Many systems near a critical point exhibit a property called scale invariance, and their mathematical description falls into specific categories known as universality classes which group together systems that display similar characteristics. Here 
+
+
 
 
 
