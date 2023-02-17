@@ -86,7 +86,12 @@ Upcoming readings and discussions:
   "Defining and characterizing reward hacking".
   NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
   
-* **2022.03.23:**
+* **2023.03.16:**
+  Ethan Perez *et al.*,
+  "Discovering language model behaviors with model-written evaluations".
+  [arXiv](https://arxiv.org/abs/2212.09251).
+
+* **2023.03.23:**
   Eliezer Yudkowsky,
   2011,
   "Complex value systems are required to realize valuable futures".
