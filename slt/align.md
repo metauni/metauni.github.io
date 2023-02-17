@@ -59,3 +59,5 @@ The theory in the background is via LG/CFT components of jet schemes = represent
 How are these programs actually executed? 
 
 Second-order phase transitions are deformations of singularities. We have some understanding of the "symbolic content" of these deformations, from LG/CFT. It can be operationalised to build probes.
+
+https://hep.uchicago.edu/seminars/semspr2019/zohar_komargodski.pdf
