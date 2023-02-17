@@ -1,6 +1,6 @@
 ---
 title:
-    metauni Alignment Project
+    metauni Alignment Plan
 description:
     There are no algebraists in foxholes
 ---
@@ -9,36 +9,39 @@ In physics, critical points refer to the specific conditions at which a system u
 
 * **Universality hypothesis**: some of the representations and algorithms encoded by neural networks are approximately universal.
 
-If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, then interpretability could be an effective foundation for aligning advanced AI systems.
+If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, and we have tools that allow us to discover approximations to those representations and algorithms, then interpretability could be an effective foundation for aligning AI systems.
 
+At a high level, the ingredients in the Plan are:
 
-Conformal field theory (CFT) plays a crucial role in understanding and describing the behavior of systems near critical points. CFT is a powerful mathematical framework that provides a way to understand the behavior of quantum field theories in two dimensions. By characterizing the critical behavior of a system within a specific universality class using CFT, physicists can make predictions about the system's behavior at critical points and beyond. This has significant implications for a wide range of fields, including condensed matter physics, statistical mechanics, and high-energy physics.
+* **Devices:** we assume that it is possible to build probes that are sensitive to the density of states in parts of the parameter space encountered by the neural network during training, and that these probes ("microscopes") 
 
-Physical systems near critical points often exhibit scale invariance, and a
-Some physical systems near critical points exhibit scale invariance, and as a result their behaviour is well-approximated by a 
+* **Jet schemes**: Essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities, which are roughly speaking .
 
-The following is a plan for scaling mechanistic interpretability of neural networks, assuming that there are scaling limits in which the behaviour is approximately universal. 
+* **Semantics:** Connections between microscope measurements and grounded concepts we care about, for example by tracking performance on a battery of probes and tests on sub-distributions.
 
-- **Hypothesis**: In scaling limits relevant to AGI, neural networks compute using representations that are approximately universal.
 
 
 - The relation between learning behaviour and jet schemes,
-- Renormalisation Group methods, and the LG/CFT correspondence.
+- Renormalisation Group methods (following SSP) and the LG/CFT correspondence.
 
+## Jargon
 
+SLT - Singular Learning Theory
+CFT - Conformal Field Theory
+LG - Landau-Ginzburg
+SSP - Solid State Physics
 
-All neural networks are assumed to be large, e.g. significantly larger than GPT3. We envision a large scale family of devices which have access to the training process of the model
+## CFT
 
-- Libraries of questions and probes on subdistributions that have been designed to capture concepts we care about
-- Checkpoints of the larger model are passed into this examination system
+Conformal field theory (CFT) plays a crucial role in understanding and describing the behavior of systems near critical points. CFT is a powerful mathematical framework that provides a way to understand the behavior of quantum field theories in two dimensions. By characterizing the critical behavior of a system within a specific universality class using CFT, physicists can make predictions about the system's behavior at critical points and beyond. This has significant implications for a wide range of fields, including condensed matter physics, statistical mechanics, and high-energy physics.
 
-If aligning an AGI is possible, it **must be because of affordances due to universality**. We're talking about controlling a system at scales that range from sub-human intelligence to vastly superhuman intelligence, and the key problem is how to engineer solutions that remain effective across this wide range of scales. The shadow of this problem can be seen in the "sharp left turn". This may be possible if enough critical components of the system being aligned are *universal*.
-
-## Neural Spectroscopy
+## Devices for Neural Spectroscopy
 
 By analogy with scanning tunneling microscopes in solid state physics (ref, ref), we assume that it is possible to construct "devices" (software) which 
 
-## Universal means interpretable
+## Jet schemes
+
+A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic particles" inside the singularity. These are the irreducible components of the exceptional divisor of the resolution of the singularity, or matrix factorisations (or representations of the associated CFT, conjecturally).
 
 ## We can develop a theory of universality in learning machines
 
