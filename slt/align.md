@@ -5,21 +5,19 @@ description:
     There are no algebraists in foxholes
 ---
 
-We sketch an approach to scalable mechanistic interpretability of neural networks based on the following hypothesis:
+We describe an approach to scalable mechanistic interpretability of neural networks based on the following hypothesis:
 
 * **Universality hypothesis**: some of the representations and algorithms encoded by neural networks are approximately universal.
 
 If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, and we have tools that allow us to discover approximations to those representations and algorithms, then interpretability could be an effective foundation for aligning AI systems.
 
-We begin with a high level sketch of the plan. This presumes familiarity with various concepts from statistical learning theory, physics, etc., see the Background section eblow. The ingredients:
+The three most important ingredients:
 
-* **Devices:** we assume that it is possible to build probes that are sensitive to the density of states in parts of the parameter space encountered by the neural network during training, and that these probes ("microscopes") . Using these devices we test the relation between theoretical predictions about DOS in toy models.
+* **Spectroscopy:** we consider devices that are sensitive to the density of states in parts of the parameter space encountered by the neural network during training (not just near the final trained parameter).
 
-* **Concepts as components**: Essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities, which are roughly speaking .
+* **Components**: essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities. We assume that these components can be distinguished in some form by spectroscopy, and that the components correlate with "concepts" in the following sense:
 
-* **Semantics:** Connections between microscope measurements and grounded concepts we care about, for example by tracking performance on a battery of probes and tests on sub-distributions.
-
-* **Dynamics**: Track how concepts form and combine, the computational process itself
+* **Concepts:** we run many experiments and track simultaneously the spectroscopy and performance of the network on many probes that test specific competencies from the training distribution, designed to test the presence of "concepts". We assume that there will be some correspondence between DOS divergences and the phase transitions in training. 
 
 ## Background
 
