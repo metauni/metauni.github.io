@@ -5,11 +5,11 @@ description:
     There are no algebraists in foxholes
 ---
 
-This working document contains ideas for applying SLT to AI alignment. There is an [FAQ](/align-faq).
+This working document contains ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq).
 
 # Interpretability via Universality
 
-We describe an approach to scalable mechanistic interpretability of neural networks based on the
+We describe an approach to scalable mechanistic interpretability of neural networks based on SLT and the
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
 
@@ -17,7 +17,7 @@ This hypothesis has been articulated for example [here](https://distill.pub/2020
 
 In outline, the plan has three parts:
 
-- **Spectroscopy of Singularities:** Co-evolve a set of **devices** in tandem with experiments, for probing the **density of states** of neural networks, modelled on the role of scanning tunneling microscopies in solid state physics (talk ref). These devices are presumed to reveal information about divergences of the density of states and the singularities in level sets of the loss function that generate them.
+- **Spectroscopy of Singularities:** Construct **devices** for probing the **density of states** of neural networks, modelled on the role of scanning tunneling microscopes in solid state physics (talk ref). These devices reveal information about divergences of the density of states and the singularities in level sets of the loss function that generate them.
 
 - **Components as Concepts:** Use the spectroscopy to get information about the essential components of the exceptional divisor of the resolution of the singularities dominating phases encountered during training, and match the phase transition structure to concepts learned during training, as tracked by other probes.
 
@@ -32,6 +32,8 @@ The plan is scoped on the order of ~10 years and presumes:
 - Modest progress on pure mathematical foundations in Singular Learning Theory (SLT) and related fields
 - Significant progress in a layer of "theoretical physics" between the pure theory of SLT and experiments (more on this below)
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
+
+Note: Universality here does *not* mean that all training runs will learn the same representations. The term is used in the physical sense: the representations and algorithms that compute with them are in some sense scale invariant (where scale here means something like how closely you are zoomed in on a level set of the loss function).
 
 * *Authors:* Dan Murfet, you?
 * *Last update:* 18/2/2023
