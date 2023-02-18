@@ -40,9 +40,9 @@ DOS - density of states
 
 ## Spectroscopy of Singularities
 
-Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason analogous devices cannot be constructed for learning machines. The plan depends on finding scalable devices of this kind.
+Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason analogous devices cannot be constructed for learning machines. The plan depends on finding scalable devices of this kind. Let us call them **spectroscopes**.
 
-Suppose we have a spectroscope. Then we can look at degenercies in the DOS for the network, or for parts of weight space encountered by training. This gives us some idea of the nature of the singularities encountered and the universality class. We match this against empirically observed behaviour (e.g. performance on a battery of tests) to infer what kind of progress was made in each phase transition. We develop a kind of spectroscope that can detect components of the resolution of singularities / via jet scheme ideas.
+We envision running such devices during a distribution of training runs of a neural network, and using them to examine the phases and phase transitions encountered. This gives us some idea of the nature of the singularities encountered and the universality class. We match this against empirically observed behaviour (e.g. performance on a battery of tests) to infer what kind of progress was made in each phase transition. It is likely to be impossible to accurately estimate the Bayesian posterior or RLCTs for very large networks, but if each phase transition only involves a smaller subset of the weight directions, then the spectroscope can look in these directions.
 
 **Work to be done:**
 
@@ -51,15 +51,17 @@ Suppose we have a spectroscope. Then we can look at degenercies in the DOS for t
 
 ## Concepts as Components
 
-* **Components**: essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities. We assume that these components can be distinguished in some form by spectroscopy, and that the components correlate with "concepts" in the following sense:
-* 
-* **Concepts:** we run many experiments and track simultaneously the spectroscopy and performance of the network on many probes that test specific competencies from the training distribution, designed to test the presence of "concepts". We assume that there will be some correspondence between DOS divergences and the phase transitions in training. 
+From SLT we know that singularities in the level sets of the loss function determine learning behaviour, and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
 
-A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic particles" inside the singularity. These are the irreducible components of the exceptional divisor of the resolution of the singularity, or matrix factorisations (or representations of the associated CFT, conjecturally).
+- components of the exceptional divisor of a resolution of singularities
+- matrix factorisations
+- representations of vertex algebras (i.e. of CFTs)
 
-Components are like the spectrum, if the phase transitions are gradual enough most of them won't change, and we can track the changes to particular components and match that up with the conceptual changes. This gives us a picture, over training, of the programs that are being formed.
+The relation among these three classes of objects is not bijective, and is mathematically complex (far from worked out, subject to various conjectures etc). But we understand enough to have a pretty good operational understanding of how trajectories governed by noise probe the jet scheme, how the geometry of the jet scheme relates to CFT, and how that relates to representations of the CFT (which in turn dominate the universal / scaling behaviour). Similarities to solid state physics suggest that the things we can measure are sufficiently closely related to the universal behaviour that experiments and devices might yield measurements that align with the theory (which in turn guides how the devices and experiments are build/designed).
 
-Resolution of singularities is impossible at scale, but probing the structure of the jet scheme (= low energy parts) should be possible.
+Where we step outside known mathematics is in the conjecture that the **concepts gained during training** are synonymous with these "subatomic particles" of the singularities encountered during training. This can be tested by using the spectroscope to determine signatures of the former, and matching the structure of phases and phase transitions for probes along various subdistributions for the overall model (i.e. probe for understanding of modular arithmetic on "the outside" while watching the spectroscope probing the "inside").
+
+Remark: A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic particles" inside the singularity. These are the irreducible components of the exceptional divisor of the resolution of the singularity, or matrix factorisations (or representations of the associated CFT, conjecturally).
 
 ## Programs as Constructions
 
@@ -70,5 +72,8 @@ The theory in the background is via LG/CFT components of jet schemes = represent
 How are these programs actually executed? 
 
 Second-order phase transitions are deformations of singularities. We have some understanding of the "symbolic content" of these deformations, from LG/CFT. It can be operationalised to build probes.
+
+## Renormalisation Group
+
 
 https://hep.uchicago.edu/seminars/semspr2019/zohar_komargodski.pdf
