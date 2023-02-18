@@ -69,14 +69,20 @@ We refer to the history of phases and phase transitions encountered during train
 
 Note that CFT theory / LG tells us that phase transitions between CFTs are themselves often modelled by representations of CFTs / defects.
 
+**Work to be done:**
+
+- Clarify the theoretical role of components of exceptional divisor in Bayesian statistics
+- Refine spectroscope to detect structure of components in small models
+- Test for alignment between spectroscope results and external probes of actual "concept acquisition"
+
 ## Programs as Constructions
 
 Under the Curry-Howard correspondence we learn how to think about programs as *constructions*, or to put it differently, as build up from deduction rules in logic. If we have the spectroscope, and we can use it to probe the phase structure of the final parameter, and if that matches up with the formation of concepts by external probes, then we can think of the final parameter as being *assembled* from the "subatomic pieces" / representations encountered during each phase transition.
 
-We can use the existing (provisional) correspondence between programs and singularities (see [here](http://therisingsea.org/notes/MSc-Waring.pdf)) as a guide.
-
 **Work to be done:**
 
+- We can use the existing (provisional) correspondence between programs and singularities (see [here](http://therisingsea.org/notes/MSc-Waring.pdf)) as a guide: we can see precisely how the existing notion of programs as constructions maps to the structure phase transitions and use that to bootstrap understanding in neural networks.
+- Track concept evolution "on the outside" and "on the inside" and relate the dynamics of concepts (refinement, decomposition, structural formation) to DOS features as detected by spectroscope.
 - Survey use of DOS in chemistry to detect formation of certain kinds of bonds
 - How are these programs actually executed? 
 
