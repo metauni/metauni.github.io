@@ -5,7 +5,7 @@ description:
     There are no algebraists in foxholes
 ---
 
-This working document contains ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq).
+This working document contains ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
 
 # Interpretability via Universality
 
@@ -34,6 +34,8 @@ The plan is scoped on the order of ~10 years and presumes:
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
 
 Note: Universality here does *not* mean that all training runs will learn the same representations. The term is used in the physical sense: the representations and algorithms that compute with them are in some sense scale invariant (where scale here means something like how closely you are zoomed in on a level set of the loss function).
+
+For an outline of how mechanistic interpretability impacts alignment, see [here](https://www.lesswrong.com/posts/Jgs7LQwmvErxR9BCC/current-themes-in-mechanistic-interpretability-research).
 
 * *Authors:* Dan Murfet, you?
 * *Last update:* 18/2/2023
