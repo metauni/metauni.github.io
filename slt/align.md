@@ -19,32 +19,16 @@ In outline, the plan has three parts:
 
 - **Programs as Constructions:** By tracking the phase transitions in the network, obtain an understanding of (parts of) the final trained parameter as a function of the history of the formation and deformation of concepts encountered during training.
 
-This depends on many assumptions, more details are given in sections below. The plan is scoped on the order of ~10 years and presumes:
+These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the LG/CFT correspondence). 
+
+The plan is scoped on the order of ~10 years and presumes:
 
 - Modest progress on pure mathematical foundations in Singular Learning Theory (SLT) and related fields
 - Significant progress in a layer of "theoretical physics" between the pure theory of SLT and experiments (more on this below)
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
 
-
-* **Components**: essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities. We assume that these components can be distinguished in some form by spectroscopy, and that the components correlate with "concepts" in the following sense:
-
-* **Concepts:** we run many experiments and track simultaneously the spectroscopy and performance of the network on many probes that test specific competencies from the training distribution, designed to test the presence of "concepts". We assume that there will be some correspondence between DOS divergences and the phase transitions in training. 
-
 *Authors:* Dan Murfet, you?
 *Last update:* 18/2/2023
-
-**References**:
-
-- Introductions to mechanistic interpretability: Olah's [Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases](https://transformer-circuits.pub/2022/mech-interp-essay/index.html), Nanda's [resource list](https://www.neelnanda.io/mechanistic-interpretability).
-
-## Background
-
-In physics, critical points refer to the specific conditions at which a system undergoes a phase transition. Many systems near a critical point exhibit a property called scale invariance, and their mathematical description falls into specific categories known as universality classes which group together systems that display similar characteristics. Here 
-
-- The relation between learning behaviour and jet schemes,
-- Renormalisation Group methods (following SSP) and the LG/CFT correspondence.
-
-Conformal field theory (CFT) plays a crucial role in understanding and describing the behavior of systems near critical points. CFT is a powerful mathematical framework that provides a way to understand the behavior of quantum field theories in two dimensions. By characterizing the critical behavior of a system within a specific universality class using CFT, physicists can make predictions about the system's behavior at critical points and beyond. This has significant implications for a wide range of fields, including condensed matter physics, statistical mechanics, and high-energy physics.
 
 ## Jargon
 
@@ -56,11 +40,20 @@ DOS - density of states
 
 ## Spectroscopy of Singularities
 
-By analogy with scanning tunneling microscopes in solid state physics (ref, ref), we assume that it is possible to construct "devices" (software) which 
+Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason analogous devices cannot be constructed for learning machines. The plan depends on finding scalable devices of this kind.
 
 Suppose we have a spectroscope. Then we can look at degenercies in the DOS for the network, or for parts of weight space encountered by training. This gives us some idea of the nature of the singularities encountered and the universality class. We match this against empirically observed behaviour (e.g. performance on a battery of tests) to infer what kind of progress was made in each phase transition. We develop a kind of spectroscope that can detect components of the resolution of singularities / via jet scheme ideas.
 
+**Work to be done:**
+
+- Find candidate targets (analogues of differential conductance) and experiment with measurements in toy models
+- Survey applications of deep learning to microscopy, simulating materials and obtaining accurate estimates of DOS
+
 ## Concepts as Components
+
+* **Components**: essential components of the arc scheme loosely correspond to irreducible components of the exceptional divisor of the resolution of singularities. We assume that these components can be distinguished in some form by spectroscopy, and that the components correlate with "concepts" in the following sense:
+* 
+* **Concepts:** we run many experiments and track simultaneously the spectroscopy and performance of the network on many probes that test specific competencies from the training distribution, designed to test the presence of "concepts". We assume that there will be some correspondence between DOS divergences and the phase transitions in training. 
 
 A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic particles" inside the singularity. These are the irreducible components of the exceptional divisor of the resolution of the singularity, or matrix factorisations (or representations of the associated CFT, conjecturally).
 
