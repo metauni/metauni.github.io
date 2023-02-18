@@ -19,7 +19,9 @@ In outline, the plan has three parts:
 
 - **Programs as Constructions:** By tracking the phase transitions in the network, obtain an understanding of (parts of) the final trained parameter as a function of the history of the formation and deformation of concepts encountered during training.
 
-These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the LG/CFT correspondence). 
+These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the LG/CFT correspondence).
+
+This picture is in some sense a *necessary consequence* of the universality hypothesis: given the content of SLT and the relation between singularities and CFT etc., plus the presence of scaling laws, *if* there are universal representations and algorithms in neural networks then the natural explanation given what we know about mathematics and mathematical physics is something like the above.
 
 The plan is scoped on the order of ~10 years and presumes:
 
@@ -32,11 +34,11 @@ The plan is scoped on the order of ~10 years and presumes:
 
 ## Jargon
 
-SLT - Singular Learning Theory
-CFT - Conformal Field Theory
-LG - Landau-Ginzburg
-SSP - Solid State Physics
-DOS - density of states
+* SLT - Singular Learning Theory
+* CFT - Conformal Field Theory
+* LG - Landau-Ginzburg
+* SSP - Solid State Physics
+* DOS - density of states
 
 ## Spectroscopy of Singularities
 
@@ -63,17 +65,23 @@ Where we step outside known mathematics is in the conjecture that the **concepts
 
 Remark: A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic particles" inside the singularity. These are the irreducible components of the exceptional divisor of the resolution of the singularity, or matrix factorisations (or representations of the associated CFT, conjecturally).
 
+We refer to the history of phases and phase transitions encountered during training as the *phase structure* of the final parameter.
+
+Note that CFT theory / LG tells us that phase transitions between CFTs are themselves often modelled by representations of CFTs / defects.
+
 ## Programs as Constructions
 
-Programs as singularities, we can test out these ideas on models of computation that we understand and build up a dictionary.
+Under the Curry-Howard correspondence we learn how to think about programs as *constructions*, or to put it differently, as build up from deduction rules in logic. If we have the spectroscope, and we can use it to probe the phase structure of the final parameter, and if that matches up with the formation of concepts by external probes, then we can think of the final parameter as being *assembled* from the "subatomic pieces" / representations encountered during each phase transition.
 
-The theory in the background is via LG/CFT components of jet schemes = representations of vertex algebras, we know how that fits into universality, RG flows.
+We can use the existing (provisional) correspondence between programs and singularities (see [here](http://therisingsea.org/notes/MSc-Waring.pdf)) as a guide.
 
-How are these programs actually executed? 
+**Work to be done:**
 
-Second-order phase transitions are deformations of singularities. We have some understanding of the "symbolic content" of these deformations, from LG/CFT. It can be operationalised to build probes.
+- Survey use of DOS in chemistry to detect formation of certain kinds of bonds
+- How are these programs actually executed? 
 
 ## Renormalisation Group
 
+A key technique for relating the spectroscope measurements, theoretical physics and mathematical theory will be RG methods (we can borrow from solid state physics for ideas).
 
 https://hep.uchicago.edu/seminars/semspr2019/zohar_komargodski.pdf
