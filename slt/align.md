@@ -99,3 +99,14 @@ Under the Curry-Howard correspondence we learn how to think about programs as *c
 A key technique for relating the spectroscope measurements, theoretical physics and mathematical theory will be RG methods (we can borrow from solid state physics for ideas).
 
 https://hep.uchicago.edu/seminars/semspr2019/zohar_komargodski.pdf
+
+## Questions
+
+TODO: more on how AI itself can help with the above components
+
+* Do mesa-optimisers have a universality class? https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers?s=r 
+* Localisation [paper](https://arxiv.org/abs/2302.06600)
+* Evidence for/against universality [paper](https://arxiv.org/abs/2302.03025)
+* Searching for search [paper](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)
+
+> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations.
