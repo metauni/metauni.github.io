@@ -1,15 +1,18 @@
 ---
 title:
-    metauni Alignment Plan
+    metauni Alignment Project
 description:
     There are no algebraists in foxholes
 ---
 
-We describe an approach to scalable mechanistic interpretability of neural networks based on the following hypothesis:
+*Authors:* Dan Murfet, you?
+*Last update:* 18/2/2023
 
-* **Universality hypothesis**: some of the representations and algorithms encoded by neural networks are approximately universal.
+We describe an approach to scalable mechanistic interpretability of neural networks based on the
 
-If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, and we have tools that allow us to discover approximations to those representations and algorithms, then interpretability could be an effective foundation for aligning AI systems.
+* **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
+
+This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, and we have tools that allow us to discover approximations to those representations and algorithms, then interpretability could be 
 
 The three most important ingredients:
 
@@ -20,6 +23,10 @@ The three most important ingredients:
 * **Concepts:** we run many experiments and track simultaneously the spectroscopy and performance of the network on many probes that test specific competencies from the training distribution, designed to test the presence of "concepts". We assume that there will be some correspondence between DOS divergences and the phase transitions in training. 
 
 All of this can be tested in a situation where we *know it is true*: the learning machines corresponding to synthesis problems.
+
+**References**:
+
+- Introductions to mechanistic interpretability: Olah's [Mechanistic Interpretability, Variables, and the Importance of Interpretable Bases](https://transformer-circuits.pub/2022/mech-interp-essay/index.html), Nanda's [resource list](https://www.neelnanda.io/mechanistic-interpretability).
 
 ## Background
 
