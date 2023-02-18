@@ -5,6 +5,10 @@ description:
     There are no algebraists in foxholes
 ---
 
+This working document contains ideas for applying SLT to AI alignment. There is an [FAQ](/align-faq).
+
+# Interpretability via Universality
+
 We describe an approach to scalable mechanistic interpretability of neural networks based on the
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
@@ -29,10 +33,10 @@ The plan is scoped on the order of ~10 years and presumes:
 - Significant progress in a layer of "theoretical physics" between the pure theory of SLT and experiments (more on this below)
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
 
-*Authors:* Dan Murfet, you?
-*Last update:* 18/2/2023
+* *Authors:* Dan Murfet, you?
+* *Last update:* 18/2/2023
 
-## Jargon
+Jargon
 
 * SLT - Singular Learning Theory
 * CFT - Conformal Field Theory
