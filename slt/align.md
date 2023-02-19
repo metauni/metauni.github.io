@@ -76,13 +76,13 @@ We envision running such devices during a distribution of training runs of a neu
 
 ## Concepts as Components
 
-From SLT we know that singularities in the level sets of the loss function determine learning behaviour, and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
+From SLT we know that singularities in the level sets of the loss function determine both learning behaviour and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
 
 - components of the exceptional divisor of a resolution of singularities
 - matrix factorisations
 - representations of vertex algebras (i.e. of CFTs)
 
-The relation among these three classes of objects is not bijective, and is mathematically complex (far from worked out, subject to various conjectures etc). But we understand enough to have a pretty good operational understanding of how trajectories governed by noise probe the jet scheme, how the geometry of the jet scheme relates to CFT, and how that relates to representations of the CFT (which in turn dominate the universal / scaling behaviour). Similarities to solid state physics suggest that the things we can measure are sufficiently closely related to the universal behaviour that experiments and devices might yield measurements that align with the theory (which in turn guides how the devices and experiments are build/designed).
+The relation among these three classes of objects is not bijective, and is mathematically complex (far from worked out, subject to various conjectures, etc.). But we understand enough to have a pretty good operational understanding of how trajectories governed by noise probe the jet scheme, how the geometry of the jet scheme relates to CFT, and how that relates to representations of the CFT (which in turn dominate the universal / scaling behaviour). Similarities to solid state physics suggest that the things we can measure are sufficiently closely related to the universal behaviour that experiments and devices might yield measurements that align with the theory (which in turn guides how the devices and experiments are build/designed).
 
 Note: resolution of singularities is too hard to do exactly, but components of jet schemes are more likely to be approximately accessible. Needs checking. The LG/CFT correspondence is doing a lot of work here conceptually, TODO: explain.
 
@@ -102,7 +102,7 @@ Note that CFT theory / LG tells us that phase transitions between CFTs are thems
 
 ## Programs as Constructions
 
-Under the Curry-Howard correspondence we learn how to think about programs as *constructions*, or to put it differently, as build up from deduction rules in logic. If we have the spectroscope, and we can use it to probe the phase structure of the final parameter, and if that matches up with the formation of concepts by external probes, then we can think of the final parameter as being *assembled* from the "subatomic pieces" / representations encountered during each phase transition.
+Under the Curry-Howard correspondence we learn how to think about programs as *constructions*, or to put it differently, as built up from deduction rules in logic. If we have the spectroscope, and we can use it to probe the phase structure of the final parameter, and if that matches up with the formation of concepts by external probes, then we can think of the final parameter as being *assembled* from the "subatomic pieces" / representations encountered during each phase transition.
 
 **Work to be done:**
 
