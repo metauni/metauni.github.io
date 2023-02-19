@@ -13,7 +13,7 @@ We describe an approach to scalable mechanistic interpretability of neural netwo
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
 
-This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, we have tools that allow us to discover approximations to those representations and algorithms, and those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
+This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If (1) this hypothesis holds for a sufficiently broad class of the computations carried out by a network, (2) we have tools that allow us to discover approximations to those representations and algorithms, and (3) those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
 
 In outline, the plan has three parts:
 
