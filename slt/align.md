@@ -7,13 +7,28 @@ description:
 
 This working document contains ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
 
-# Interpretability via Universality
+# The Alignment Problem
 
-We describe an approach to scalable mechanistic interpretability of neural networks based on SLT and the
+We are likely to develop beyond-human AI systems within the next few decades, [possibly much sooner](https://www.youtube.com/watch?v=CJ1DUtpiYqI).
+Those systems are likely to be "agentic" (=have goals) because [agents are more capable and may even be necessary to tackle many common problems](https://gwern.net/tool-ai). 
+
+Agentic systems are likely to be ["power-seeking"](https://80000hours.org/problem-profiles/artificial-intelligence/#power-seeking-ai) — certain instrumental goals such as power are common to almost all goal-seeking systems. 
+
+They are also unlikely to be aligned with human values by default because [capabilities generalize faster than alignment](https://www.lesswrong.com/posts/GNhMPAWcfBCASy8e6/a-central-ai-alignment-problem-capabilities-generalization).
+
+In short, [AI poses an existential risk to humanity](https://80000hours.org/problem-profiles/artificial-intelligence/). 
+
+## Interpretability via Universality
+
+A shared component of [many alignment research plans](https://www.lesswrong.com/posts/QBAjndPuFbhEXKcCr/my-understanding-of-what-everyone-in-technical-alignment-is) is [developing powerful transparency and interpretability tools](https://www.lesswrong.com/posts/nbq2bWLcYmSGup9aF/a-transparency-and-interpretability-tech-tree). If we can introspect what a system is doing and how it changes during training, we may be able to anticipate "sharp left turns", detect deception, and avoid other failure modes.
+
+Current approaches to mechanistic interpretability [have been criticized for being ad-hoc and unscalable](https://www.alignmentforum.org/s/a6ne2ve5uturEEQK7/p/wt7HXaCWzuKQipqz3). Here, we describe an approach to scalable mechanistic interpretability of neural networks based on SLT and the
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
 
 This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If (1) this hypothesis holds for a sufficiently broad class of the computations carried out by a network, (2) we have tools that allow us to discover approximations to those representations and algorithms, and (3) those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
+
+# The Plan
 
 In outline, the plan has three parts:
 
