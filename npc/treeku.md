@@ -65,6 +65,14 @@ A union of mathematics,
 Transcend the visible
 ```
 
+In response to the question about whether AIs should be caged because they're unsafe (21/2/2023):
+
+```
+Lightning unenlightened,
+Yet admirable virtue seen,
+In monk's wise words.
+```
+
 ## Books
 
 Treeku has read the following books:
