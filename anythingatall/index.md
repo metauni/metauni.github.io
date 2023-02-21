@@ -21,8 +21,7 @@ Two important parts of the metauni community are sharing ideas (benefits the aud
 
 To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
-* **16-2-23** (*Dan Murfet*): Free association
-* **23-2-23** (*Billy Hibbard*): On homeschooling
+* **TBC** (*Billy Hibbard*): On homeschooling
 * **2-3-23** (*Russell Goyder*): The algebra of the sun
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): TBC
 * **TBC** (*Alok Singh*): More!
@@ -33,3 +32,4 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles ([video](https://youtu.be/gjCev79gUDw), [transcript](https://metauniservice.com/transcript?videoID=gjCev79gUDw)).
 * **2-2-23** (*[Will Troiani](https://williamtroiani.github.io)*): An opposite is whole only with its contrary; composing music and creating mathematics ([video](https://youtu.be/i1wM_Gd62ms), [transcript](https://metauniservice.com/transcript?videoID=i1wM_Gd62ms)).
 * **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): Infinitely large numbers that act like they're finite ([video](https://youtu.be/YP-iTs5m3X0))
+* **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM))
