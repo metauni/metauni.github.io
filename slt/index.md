@@ -27,8 +27,7 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2
-* **23-2-23** (*Edmund Lau*): Occam's razor following Balasubramanian 
+* **23-2-23** (*Edmund Lau*): Variational Bayesian posterior and learning resolutions
 * **2-3-23** TBD
 * **9-3-23** TBD
 * **16-3-23** (*Russell Goyder*)
@@ -50,6 +49,7 @@ Some topics and papers to be discussed:
 * **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=TuFPGNBoOuM))
 * **2-2-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2 ([video](https://youtu.be/LG7b587q8T0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011))
 * **9-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 1 ([video](https://youtu.be/Ut4gKDJsmro), [notes](http://www.therisingsea.org/notes/slt22.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=Ut4gKDJsmro))
+* **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2 ([video](https://youtu.be/xnMEfgbSKNs), [notes](http://www.therisingsea.org/notes/slt22-2.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=xnMEfgbSKNs))
 
 ### 2022
 
