@@ -1,11 +1,11 @@
 ---
 title:
-    metauni Alignment Project
+    metauni Alignment Plan
 description:
-    There are no algebraists in foxholes
+    Lightning unenlightened
 ---
 
-This working document contains ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
+This working document contains sketches of ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
 
 # Interpretability via Universality
 
