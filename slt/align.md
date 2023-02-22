@@ -17,11 +17,11 @@ This hypothesis has been articulated for example [here](https://distill.pub/2020
 
 In outline, the plan has three parts:
 
-- **Spectroscopy of Singularities:** Construct **devices** for probing the **density of states** of neural networks, modelled on the role of scanning tunneling microscopes in solid state physics (talk ref). These devices reveal information about divergences of the density of states and the singularities in level sets of the loss function that generate them.
+- **Spectroscopy of Singularities:** Construct devices for probing the *density of states* of neural networks, modelled on the role of scanning tunneling microscopes in [solid state physics](https://youtu.be/xnMEfgbSKNs). These devices reveal information about divergences of the density of states caused by singularities in level sets of the loss function in large scale systems, comparable in complexity to large neural networks.
 
-- **Substructure and Semantics:** Use the spectroscopy to get substructural information of the singularities (e.g. about the essential components of the exceptional divisor of the resolution of the singularities) dominating phases encountered during training, how that substructure changes during phase transitions, and match those changes to concepts learned during training, as tracked by other probes.
+- **Substructure and Semantics:** Use the spectroscopic probe to get substructural information about the singularities dominating phases encountered during training, and use information from those probes to measure how that substructure changes during phase transitions. Match the signatures of these changes to concepts learned during training ("semantics") as tracked by other probes.
 
-- **Programs as Constructions:** By tracking the phase transitions in the network, obtain an understanding of (parts of) the final trained parameter as a function of the history of the formation and deformation of concepts encountered during training.
+- **Programs as Constructions:** Making use of the alignment between substructural changes in the singularities and semantics across training, and the structure of the network, obtain an understanding of the final trained network.
 
 These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the LG/CFT correspondence).
 
