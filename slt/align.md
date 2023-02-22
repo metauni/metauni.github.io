@@ -19,7 +19,7 @@ In outline, the plan has three parts:
 
 - **Spectroscopy of Singularities:** Construct **devices** for probing the **density of states** of neural networks, modelled on the role of scanning tunneling microscopes in solid state physics (talk ref). These devices reveal information about divergences of the density of states and the singularities in level sets of the loss function that generate them.
 
-- **Components as Concepts:** Use the spectroscopy to get information about the essential components of the exceptional divisor of the resolution of the singularities dominating phases encountered during training, and match the phase transition structure to concepts learned during training, as tracked by other probes.
+- **Substructure and Semantics:** Use the spectroscopy to get substructural information of the singularities (e.g. about the essential components of the exceptional divisor of the resolution of the singularities) dominating phases encountered during training, how that substructure changes during phase transitions, and match those changes to concepts learned during training, as tracked by other probes.
 
 - **Programs as Constructions:** By tracking the phase transitions in the network, obtain an understanding of (parts of) the final trained parameter as a function of the history of the formation and deformation of concepts encountered during training.
 
@@ -33,12 +33,9 @@ The plan is scoped on the order of ~10 years and presumes:
 - Significant progress in a layer of "theoretical physics" between the pure theory of SLT and experiments (more on this below)
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
 
-Note: Universality here does *not* mean that all training runs will learn the same representations. The term is used in the physical sense: the representations and algorithms that compute with them are in some sense scale invariant (where scale here means something like how closely you are zoomed in on a level set of the loss function).
-
 For an outline of how mechanistic interpretability impacts alignment, see [here](https://www.lesswrong.com/posts/Jgs7LQwmvErxR9BCC/current-themes-in-mechanistic-interpretability-research).
 
-* *Authors:* Dan Murfet, you?
-* *Last update:* 18/2/2023
+*Last update:* 18/2/2023
 
 Jargon
 
@@ -59,7 +56,7 @@ We envision running such devices during a distribution of training runs of a neu
 - Find candidate targets (analogues of differential conductance) and experiment with measurements in toy models
 - Survey applications of deep learning to microscopy, simulating materials and obtaining accurate estimates of DOS
 
-## Concepts as Components
+## Substructure and Semantics
 
 From SLT we know that singularities in the level sets of the loss function determine learning behaviour, and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
 
@@ -96,11 +93,35 @@ Under the Curry-Howard correspondence we learn how to think about programs as *c
 - Survey use of DOS in chemistry to detect formation of certain kinds of bonds
 - How are these programs actually executed? 
 
-## Renormalisation Group
+## Notes
+
+### The Localisation Problem
+
+A Scanning Tunnelling Microscope (STM) is sensitive to divergences in the density of states *scaled by the wavefunction at a position in space*. This localisation in space plays a key role in how the tool is used to interpret the behaviour of systems in solid state physics, because it exponentially reduces the number of degrees of freedom to which the probe is sensitive (some would say that's more or less what space *is*). 
+
+The most serious obstacle to building spectroscopic probes of singularities in large neural networks is that it is prohibitively difficult to estimate the Bayesian posterior near a singular point in a large-dimensional model. We need *localisation procedures* for reducing the number of degrees of freedom we need to care about (e.g. by freezing all but a small number of directions and doing MCMC or variational inference in the others). 
+
+There are two keys sources of localisation:
+
+* **Network architecture:** e.g. layers, or in Transformers, heads.
+* **Phase structure:** if the transition `P1 -> P2` between phases involves significant changes in only a small fraction of the weights, then we can localise the spectroscopic probe in these directions.
+
+The latter is inspired by viewing the set of phases encountered during training as a kind of emergent spatial direction. The need to leverage the second kind of localisation is the key reason why we do **not** propose to directly study the final weights / singularity of a trained large neural network.
+
+## Where is the mechanism?
+
+The substructural information, tracked across phases during training, by itself does not consistute a *mechanistic* understanding of the neural network, since it doesn't for example necessarily say anything about how information is passed from entity to entity between layers in a Transformer. It is supposed that, however, the information provided by the spectroscope is a foundation for that kind of higher-level reasoning.
+
+### Renormalisation Group
 
 A key technique for relating the spectroscope measurements, theoretical physics and mathematical theory will be RG methods (we can borrow from solid state physics for ideas).
 
 https://hep.uchicago.edu/seminars/semspr2019/zohar_komargodski.pdf
+
+
+## Q & A
+
+
 
 ## Questions
 
