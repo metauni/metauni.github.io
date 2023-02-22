@@ -7,13 +7,28 @@ description:
 
 This document contains a research plan leading to applications of Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
 
-# Interpretability via Universality
+# The Alignment Problem
 
-We describe an approach to scalable mechanistic interpretability of neural networks based on SLT and the
+We are likely to develop beyond-human AI systems within the next few decades, [possibly much sooner](https://www.youtube.com/watch?v=CJ1DUtpiYqI).
+Those systems are likely to be "agentic" (=have goals) because [agents are more capable and may even be necessary to tackle many common problems](https://gwern.net/tool-ai). 
+
+Agentic systems are likely to be ["power-seeking"](https://80000hours.org/problem-profiles/artificial-intelligence/#power-seeking-ai) — certain instrumental goals such as power are common to almost all goal-seeking systems. 
+
+They are also unlikely to be aligned with human values by default because [capabilities generalize faster than alignment](https://www.lesswrong.com/posts/GNhMPAWcfBCASy8e6/a-central-ai-alignment-problem-capabilities-generalization).
+
+In short, [AI poses an existential risk to humanity](https://80000hours.org/problem-profiles/artificial-intelligence/). 
+
+## Interpretability via Universality
+
+A shared component of [many alignment research plans](https://www.lesswrong.com/posts/QBAjndPuFbhEXKcCr/my-understanding-of-what-everyone-in-technical-alignment-is) is [developing powerful transparency and interpretability tools](https://www.lesswrong.com/posts/nbq2bWLcYmSGup9aF/a-transparency-and-interpretability-tech-tree). If we can introspect what a system is doing and how it changes during training, we may be able to anticipate "sharp left turns", detect deception, and avoid other failure modes.
+
+Current approaches to mechanistic interpretability [have been criticized for being ad-hoc and unscalable](https://www.alignmentforum.org/s/a6ne2ve5uturEEQK7/p/wt7HXaCWzuKQipqz3). Here, we describe an approach to scalable mechanistic interpretability of neural networks based on SLT and the
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
 
-This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, we have tools that allow us to discover approximations to those representations and algorithms, and those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
+This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If (1) this hypothesis holds for a sufficiently broad class of the computations carried out by a network, (2) we have tools that allow us to discover approximations to those representations and algorithms, and (3) those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
+
+# The Plan
 
 In outline, the plan has three parts:
 
@@ -60,13 +75,13 @@ We envision running such devices during a distribution of training runs of a neu
 
 ## Substructure and Semantics
 
-From SLT we know that singularities in the level sets of the loss function determine learning behaviour, and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
+From SLT we know that singularities in the level sets of the loss function determine both learning behaviour and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
 
 - components of the exceptional divisor of a resolution of singularities
 - matrix factorisations
 - representations of vertex algebras (i.e. of CFTs)
 
-The relation among these three classes of objects is not bijective, and is mathematically complex (far from worked out, subject to various conjectures etc). But we understand enough to have a pretty good operational understanding of how trajectories governed by noise probe the jet scheme, how the geometry of the jet scheme relates to CFT, and how that relates to representations of the CFT (which in turn dominate the universal / scaling behaviour). Similarities to solid state physics suggest that the things we can measure are sufficiently closely related to the universal behaviour that experiments and devices might yield measurements that align with the theory (which in turn guides how the devices and experiments are build/designed).
+The relation among these three classes of objects is not bijective, and is mathematically complex (far from worked out, subject to various conjectures, etc.). But we understand enough to have a pretty good operational understanding of how trajectories governed by noise probe the jet scheme, how the geometry of the jet scheme relates to CFT, and how that relates to representations of the CFT (which in turn dominate the universal / scaling behaviour). Similarities to solid state physics suggest that the things we can measure are sufficiently closely related to the universal behaviour that experiments and devices might yield measurements that align with the theory (which in turn guides how the devices and experiments are build/designed).
 
 Note: resolution of singularities is too hard to do exactly, but components of jet schemes are more likely to be approximately accessible. Needs checking. The LG/CFT correspondence is doing a lot of work here conceptually, TODO: explain.
 
@@ -86,7 +101,7 @@ Note that CFT theory / LG tells us that phase transitions between CFTs are thems
 
 ## Programs as Constructions
 
-Under the Curry-Howard correspondence we learn how to think about programs as *constructions*, or to put it differently, as build up from deduction rules in logic. If we have the spectroscope, and we can use it to probe the phase structure of the final parameter, and if that matches up with the formation of concepts by external probes, then we can think of the final parameter as being *assembled* from the "subatomic pieces" / representations encountered during each phase transition.
+Under the Curry-Howard correspondence we learn how to think about programs as *constructions*, or to put it differently, as built up from deduction rules in logic. If we have the spectroscope, and we can use it to probe the phase structure of the final parameter, and if that matches up with the formation of concepts by external probes, then we can think of the final parameter as being *assembled* from the "subatomic pieces" / representations encountered during each phase transition.
 
 **Work to be done:**
 
