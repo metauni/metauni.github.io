@@ -5,7 +5,7 @@ description:
     Lightning unenlightened
 ---
 
-This working document contains sketches of ideas for applying Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
+This document contains a research plan leading to applications of Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
 
 # Interpretability via Universality
 
@@ -34,8 +34,6 @@ The plan is scoped on the order of ~10 years and presumes:
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
 
 For an outline of how mechanistic interpretability impacts alignment, see [here](https://www.lesswrong.com/posts/Jgs7LQwmvErxR9BCC/current-themes-in-mechanistic-interpretability-research).
-
-*Last update:* 18/2/2023
 
 Jargon
 
