@@ -11,16 +11,17 @@ whats on:
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Edmund on Balasubramanian."
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Edmund on variational inference and learning resolutions."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
-    desc: "reading group on technical and philosophical topics in AI safety. *This week* Tom Everitt."
+    desc: "reading group on technical and philosophical topics in AI safety. *This week* Tom Everitt - Towards Causal foundation for safe AGI (in the [Discord](https://discord.gg/9yBaAxPSK8))."
     website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
-    pocket: Gemini Pulsar 1
+    #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
+    #pocket: Gemini Pulsar 1
+    location: "#General"
 - "#metauni-dev":
      time: 22:00-23:00
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
