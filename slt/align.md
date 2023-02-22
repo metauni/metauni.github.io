@@ -23,7 +23,7 @@ In outline, the plan has three parts:
 
 - **Programs as Constructions:** Making use of the alignment between substructural changes in the singularities and semantics across training, and the structure of the network, obtain an understanding of the final trained network.
 
-These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the LG/CFT correspondence).
+These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the [LG/CFT correspondence](http://therisingsea.org/notes/talk-lgcft.pdf)).
 
 This picture is in some sense a *necessary consequence* of the universality hypothesis: given the content of SLT and the relation between singularities and CFT etc., plus the presence of scaling laws, *if* there are universal representations and algorithms in neural networks then the natural explanation given what we know about mathematics and mathematical physics is something like the above.
 
@@ -42,6 +42,10 @@ Jargon
 * LG - Landau-Ginzburg
 * SSP - Solid State Physics
 * DOS - density of states
+
+From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)":
+
+> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations.
 
 ## Spectroscopy of Singularities
 
@@ -106,6 +110,10 @@ There are two keys sources of localisation:
 
 The latter is inspired by viewing the set of phases encountered during training as a kind of emergent spatial direction. The need to leverage the second kind of localisation is the key reason why we do **not** propose to directly study the final weights / singularity of a trained large neural network.
 
+**References**:
+
+* [paper](https://arxiv.org/abs/2302.06600)
+
 ## Where is the mechanism?
 
 The substructural information, tracked across phases during training, by itself does not consistute a *mechanistic* understanding of the neural network, since it doesn't for example necessarily say anything about how information is passed from entity to entity between layers in a Transformer. It is supposed that, however, the information provided by the spectroscope is a foundation for that kind of higher-level reasoning.
@@ -116,18 +124,7 @@ A key technique for relating the spectroscope measurements, theoretical physics 
 
 https://hep.uchicago.edu/seminars/semspr2019/zohar_komargodski.pdf
 
-
-## Q & A
-
-
-
 ## Questions
 
-TODO: more on how AI itself can help with the above components
-
 * Do mesa-optimisers have a universality class? https://astralcodexten.substack.com/p/deceptively-aligned-mesa-optimizers?s=r 
-* Localisation [paper](https://arxiv.org/abs/2302.06600)
 * Evidence for/against universality [paper](https://arxiv.org/abs/2302.03025)
-* Searching for search [paper](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)
-
-> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations.
