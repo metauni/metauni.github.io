@@ -71,7 +71,7 @@ The discussion sessions begin with a summary of the reading, led by Matt
 Upcoming readings and discussions:
 
 * **2023.02.23:**
-  Guest speaker: Tom Everitt
+  Guest speaker: [Tom Everitt](https://www.tomeveritt.se)
   (Location: Discord)
 
 * **2023.03.02:**
