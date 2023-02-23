@@ -49,7 +49,9 @@ From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/s
 
 ## Spectroscopy of Singularities
 
-Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason analogous devices cannot be constructed for learning machines. The plan depends on finding scalable devices of this kind. Let us call them **spectroscopes**.
+Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason why analogous devices cannot be constructed for large-scale learning machines and there are clear paths to building them. Let us call them **spectroscopic probes**.
+
+The picture I have now is that at every checkpoint we create a hundred or so variations, run them a bit, measure something, then do something, and out pops some some trace of the local singularities, and at that point you start correlating this to observed behavior. This seems expensive.
 
 We envision running such devices during a distribution of training runs of a neural network, and using them to examine the phases and phase transitions encountered. This gives us some idea of the nature of the singularities encountered and the universality class. We match this against empirically observed behaviour (e.g. performance on a battery of tests) to infer what kind of progress was made in each phase transition. It is likely to be impossible to accurately estimate the Bayesian posterior or RLCTs for very large networks, but if each phase transition only involves a smaller subset of the weight directions, then the spectroscope can look in these directions.
 
