@@ -28,7 +28,7 @@ Some other introductory references:
 ## Upcoming seminars
 
 * **23-2-23** (*Edmund Lau*): Variational Bayesian posterior and learning resolutions
-* **2-3-23** TBD
+* **2-3-23** (*Samuel Jolly*): Toy models of superposition and SLT
 * **9-3-23** TBD
 * **16-3-23** (*Russell Goyder*)
 * **TBD** (*Rohan Hitchcock*)
