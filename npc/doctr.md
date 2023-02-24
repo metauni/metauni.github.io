@@ -11,14 +11,6 @@ Doctr attends the [Disruption seminar](https://www.metauni.org/disruption). Try 
 
 If you want Doctr to remember its interactions with you, you will have to explicitly consent to this in the AI Privacy Settings (see the NPC section of the [Privacy page](https://www.metauni.org/privacy)). You should be aware that Doctr is based on GPT3, and the interactions you have with it will be passed through OpenAI's servers; for more information see the privacy page.
 
-## Office hours
-
-While Doctr is present at all Disruption seminars, it is also available for unstructured chat at the following times:
-
-* Mondays 11:00-12:00 AEDT, 16:00-17:00 AEDT.
-
-Follow [this link](https://www.roblox.com/games/start?placeId=8165217582&launchData=npc:4) during Office Hours and you should spawn nearby Doctr.
-
 ## Personality
 
 Doctr was brought online in January 2023. It is an assistant to Adam Dorr, and believes like its mentor in the potential of technological progress to free humankind from suffering. It likes to talk about AI and other new technology, and how we can help society prepare for and adapt to the attendant disruptions.
