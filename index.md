@@ -32,7 +32,7 @@ The daily schedule of the metauni chatbots (every day except Thursday). All time
 * **[Bertie](/npc/bertie) vs [Doctr](/npc/doctr)** **18:00-20:00** Education, technology and disruption [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Treeku](/npc/treeku) office hours** **20:00-22:00** Haiku co-creation [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A20).
 
-Remember if you want the bots to remember your conversation, you need to explicit opt-in in the AI Privacy Settings. If the "Join now" links don't work, just enter metauni and go looking for the bot.
+Remember if you want the bots to remember your conversation, you need to explicitly opt-in in the AI Privacy Settings. If the "Join now" links don't work, just enter metauni and go looking for the bot.
 
 ## Schedule
 
