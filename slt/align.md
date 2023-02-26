@@ -9,11 +9,15 @@ This document contains a research plan leading to applications of Singular Learn
 
 # Interpretability via Universality
 
-We describe an approach to scalable mechanistic interpretability of neural networks based on SLT and the
+We describe an approach to scalable mechanistic interpretability of neural networks based on SLT. 
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
 
 This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, we have tools that allow us to discover approximations to those representations and algorithms, and those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
+
+* **Locality hypothesis**: 
+
+* **Stability hypothesis**:
 
 In outline, the plan has three parts:
 
@@ -99,7 +103,7 @@ Under the Curry-Howard correspondence we learn how to think about programs as *c
 
 ## Notes
 
-### The Localisation Problem
+### The Locality Hypothesis
 
 A Scanning Tunnelling Microscope (STM) is sensitive to divergences in the density of states *scaled by the wavefunction at a position in space*. This localisation in space plays a key role in how the tool is used to interpret the behaviour of systems in solid state physics, because it exponentially reduces the number of degrees of freedom to which the probe is sensitive (some would say that's more or less what space *is*). 
 
