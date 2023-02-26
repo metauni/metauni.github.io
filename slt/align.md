@@ -102,14 +102,12 @@ We understand how to represent traditional programs (e.g. Turing machines) as si
 
 A Scanning Tunnelling Microscope (STM) is sensitive to divergences in the density of states *scaled by the wavefunction at a position in space*. This localisation in space plays a key role in how the tool is used to interpret the behaviour of systems in solid state physics, because it exponentially reduces the number of degrees of freedom to which the probe is sensitive (some would say that's more or less what space *is*). 
 
-The most serious obstacle to building spectroscopic probes of singularities in large neural networks is that it is prohibitively difficult to estimate the Bayesian posterior near a singular point in a large-dimensional model. We need *localisation procedures* for reducing the number of degrees of freedom we need to care about (e.g. by freezing all but a small number of directions and doing MCMC or variational inference in the others). 
-
-There are two keys sources of localisation:
+The most serious obstacle to building spectroscopic probes of singularities in large neural networks is that it is prohibitively difficult to estimate the Bayesian posterior near a singular point in a large-dimensional model. We need *localisation procedures* for reducing the number of degrees of freedom we need to care about (e.g. by freezing all but a small number of directions and doing MCMC or variational inference in the others). There are three keys sources of localisation:
 
 * **Network architecture:** e.g. layers, or in Transformers, heads.
 * **Phase structure:** if the transition `P1 -> P2` between phases involves significant changes in only a small fraction of the weights, then we can localise the spectroscopic probe in these directions.
 
-The latter is inspired by viewing the set of phases encountered during training as a kind of emergent spatial direction. The need to leverage the second kind of localisation is the key reason why we do **not** propose to directly study the final weights / singularity of a trained large neural network.
+Note that when we speak of phases, we mean with respect to the sublosses discussed above. Firstly, because the overall loss does not undergo (discrete) phase transitions in large neural network training, and secondly because we only expect strong localisation for phase transitions in the sublosses.
 
 **References**:
 
