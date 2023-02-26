@@ -9,17 +9,19 @@ This document contains a research plan leading to applications of Singular Learn
 
 # Interpretability via Universality
 
-We describe an approach to scalable mechanistic interpretability of neural networks based on SLT. 
+We describe an approach to scalable interpretability of neural networks based on SLT and the
 
 * **Universality hypothesis**: many of the representations and algorithms encoded by neural networks are approximately universal.
 
-This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If this hypothesis holds for a sufficiently broad class of the computations carried out by a network, we have tools that allow us to discover approximations to those representations and algorithms, and those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
+This hypothesis has been articulated for example [here](https://distill.pub/2020/circuits/zoom-in/#claim-3). If (a) this hypothesis holds for a sufficiently broad class of the computations carried out by a network (b) we have tools that allow us to discover approximations to those representations and algorithms, and (c) those tools can be run at industrial scale, then interpretability could contribute to aligning advanced AI systems.
 
-* **Locality hypothesis**: 
+We do not expect that our approach will work unless the problem can be effectively subdivided. Thus we further assume the
 
-* **Stability hypothesis**:
+* **Locality hypothesis**: in order to understand the final trained parameter, it (a) suffices to understand the set of phases and phase transitions encountered during training and (b) the set of relevant degrees of freedom for each phase transition is "small enough".
 
-In outline, the plan has three parts:
+Typically the overall training loss does not undergo phase transitions for large models, so this hypothesis has to be understood quite carefully: see the section on the Locality Hypothesis below.
+
+Under these hypotheses, the plan has three parts:
 
 - **Spectroscopy of Singularities:** Construct devices for probing the *density of states* of neural networks, modelled on the role of scanning tunneling microscopes in [solid state physics](https://youtu.be/xnMEfgbSKNs). These devices reveal information about divergences of the density of states caused by singularities in level sets of the loss function in large scale systems, comparable in complexity to large neural networks.
 
@@ -29,15 +31,15 @@ In outline, the plan has three parts:
 
 These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the [LG/CFT correspondence](http://therisingsea.org/notes/talk-lgcft.pdf)).
 
-This picture is in some sense a *necessary consequence* of the universality hypothesis: given the content of SLT and the relation between singularities and CFT etc., plus the presence of scaling laws, *if* there are universal representations and algorithms in neural networks then the natural explanation given what we know about mathematics and mathematical physics is something like the above.
-
 The plan is scoped on the order of ~10 years and presumes:
 
 - Modest progress on pure mathematical foundations in Singular Learning Theory (SLT) and related fields
 - Significant progress in a layer of "theoretical physics" between the pure theory of SLT and experiments (more on this below)
 - Large scale investment in experiments and ecosystems of devices and interpretability stacks
 
-For an outline of how mechanistic interpretability impacts alignment, see [here](https://www.lesswrong.com/posts/Jgs7LQwmvErxR9BCC/current-themes-in-mechanistic-interpretability-research).
+For an outline of how mechanistic interpretability impacts alignment, see [here](https://www.lesswrong.com/posts/Jgs7LQwmvErxR9BCC/current-themes-in-mechanistic-interpretability-research). From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)":
+
+> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations.
 
 Jargon
 
@@ -47,48 +49,46 @@ Jargon
 * SSP - Solid State Physics
 * DOS - density of states
 
-From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)":
-
-> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations.
-
 ## Spectroscopy of Singularities
 
 Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason why analogous devices cannot be constructed for large-scale learning machines and there are clear paths to building them. Let us call them **spectroscopic probes**.
 
-The picture I have now is that at every checkpoint we create a hundred or so variations, run them a bit, measure something, then do something, and out pops some some trace of the local singularities, and at that point you start correlating this to observed behavior. This seems expensive.
-
-We envision running such devices during a distribution of training runs of a neural network, and using them to examine the phases and phase transitions encountered. This gives us some idea of the nature of the singularities encountered and the universality class. We match this against empirically observed behaviour (e.g. performance on a battery of tests) to infer what kind of progress was made in each phase transition. It is likely to be impossible to accurately estimate the Bayesian posterior or RLCTs for very large networks, but if each phase transition only involves a smaller subset of the weight directions, then the spectroscope can look in these directions.
+We assume that the true loss `L` is a sum of **sublosses** `L_i`, which we may view as arising from subdistributions of the true distribution (instances of addition within GPT's larger training/test set, for example). During training `w_0, w_1, ... ` we track the performance of the network on each of these sublosses, and sample checkpoints `w_{c0}, w_{c1}, ... ` at points of interest which include phase transitions in the sublosses. These checkpoints are passed to a separate analytics system which uses the spectroscopic probe to analyse the neighbourhood of each checkpoint.
 
 **Work to be done:**
 
 - Find candidate targets (analogues of differential conductance) and experiment with measurements in toy models
 - Survey applications of deep learning to microscopy, simulating materials and obtaining accurate estimates of DOS
+- Relation of phase transition in sublosses to overall Bayesian posterior
+
+**References:**
+
+- C. Kittel "Solid state physics" 8th edition ([link](http://metal.elte.hu/~groma/Anyagtudomany/kittel.pdf)).
+- Talk on solid state physics and SLT ([video](https://youtu.be/xnMEfgbSKNs)).
 
 ## Substructure and Semantics
 
-From SLT we know that singularities in the level sets of the loss function determine learning behaviour, and the local free energy of phases (hence the coarse grained Bayesian posterior, potentially also learning trajectories). Singularities are points, but they nonetheless have "subatomic" structure, which can be seen in various equivalent ways:
+The spectroscopic analysis of these checkpoints is correlated with **semantic development** in the network, as measured by an independent set of probes of performance on tests separate from the primary training objective (or sublosses). We conjecture that there is a relationship between the structure of the semantic development (e.g. logical structure) and the substructure of the singularities, as reflected in the spectroscopic analysis.
 
-- components of the exceptional divisor of a resolution of singularities
+This substructure is well-understood mathematically, and already plays some role in solid state physics (although is perhaps not fully developed even there). While singularities are points, they nonetheless have "internal" structure (one might say "subatomic" structure) which can be seen in various equivalent ways:
+
+- (essential) components of the exceptional divisor of a resolution of singularities
 - matrix factorisations
-- representations of vertex algebras (i.e. of CFTs)
+- representations of vertex algebras (i.e. of CFTs) associated to jet schemes
 
-The relation among these three classes of objects is not bijective, and is mathematically complex (far from worked out, subject to various conjectures etc). But we understand enough to have a pretty good operational understanding of how trajectories governed by noise probe the jet scheme, how the geometry of the jet scheme relates to CFT, and how that relates to representations of the CFT (which in turn dominate the universal / scaling behaviour). Similarities to solid state physics suggest that the things we can measure are sufficiently closely related to the universal behaviour that experiments and devices might yield measurements that align with the theory (which in turn guides how the devices and experiments are build/designed).
-
-Note: resolution of singularities is too hard to do exactly, but components of jet schemes are more likely to be approximately accessible. Needs checking. The LG/CFT correspondence is doing a lot of work here conceptually, TODO: explain.
-
-Where we step outside known mathematics is in the conjecture that the **concepts gained during training** are synonymous with these "subatomic particles" of the singularities encountered during training. This can be tested by using the spectroscope to determine signatures of the former, and matching the structure of phases and phase transitions for probes along various subdistributions for the overall model (i.e. probe for understanding of modular arithmetic on "the outside" while watching the spectroscope probing the "inside").
-
-Remark: A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic particles" inside the singularity. These are the irreducible components of the exceptional divisor of the resolution of the singularity, or matrix factorisations (or representations of the associated CFT, conjecturally).
-
-We refer to the history of phases and phase transitions encountered during training as the *phase structure* of the final parameter.
-
-Note that CFT theory / LG tells us that phase transitions between CFTs are themselves often modelled by representations of CFTs / defects.
+The relation among these three classes of objects is complex, and a full understanding is not critical to designing substructural spectroscopic probes. However, the theory does suggest that stochastic processes near a singularity are probing the jet scheme, and therefore that quantities involved in scaling (i.e. "universal" quantities) should be sensitive to this substructure.
 
 **Work to be done:**
 
 - Clarify the theoretical role of components of exceptional divisor in Bayesian statistics
 - Refine spectroscope to detect structure of components in small models
+- Work with solid state physicists to find analogues of substructural probes in that domain
 - Test for alignment between spectroscope results and external probes of actual "concept acquisition"
+
+**Notes:**
+
+- A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic structure".
+- Resolution of singularities is too hard to do exactly, but components of jet schemes are more likely to be approximately accessible.
 
 ## Programs as Constructions
 
