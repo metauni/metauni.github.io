@@ -45,9 +45,11 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- BEGIN WHATS ON -->
 ### February 23, 2023
-* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 8, 9. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Edmund on variational inference and learning resolutions. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2022)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Tom Everitt - Towards Causal foundation for safe AGI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: Revisiting timelines and political coalitions. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Propositions 9, 10. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:00** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Samuel Jolly on toy models of superposition. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2022)
+* **[Anything At All](https://metauni.org/anythingatall)** **17:00-18:00** (*Various*): The seminar for everyone. *This week* Billy Hibbard on homeschooling (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Lauro Langosco et al., 2022, 'Goal misgeneralization in deep reinforcement learning' [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **#metauni-dev** **22:00-23:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 <!-- END WHATS ON -->
@@ -55,8 +57,6 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 ### What's off
 
 <!-- BEGIN WHATS OFF -->
-* **[Anything At All](https://metauni.org/anythingatall)** **15:00-16:00** (*Various*): The seminar for everyone. *This week* Dan Murfet - free assocation / acceleration - education edition. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: How quick can adoption get?. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%203)
 * **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%209)
 <!-- END WHATS OFF -->
