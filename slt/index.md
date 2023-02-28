@@ -50,7 +50,7 @@ Some topics and papers to be discussed:
 * **2-2-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2 ([video](https://youtu.be/LG7b587q8T0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=LG7b587q8T0))
 * **9-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 1 ([video](https://youtu.be/Ut4gKDJsmro), [notes](http://www.therisingsea.org/notes/slt22.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=Ut4gKDJsmro))
 * **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2 ([video](https://youtu.be/xnMEfgbSKNs), [notes](http://www.therisingsea.org/notes/slt22-2.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=xnMEfgbSKNs))
-* **23-2-23** (*Edmund Lau*): Variational Bayesian posterior and learning resolutions ([video](https://youtu.be/BkqZfwVv_WY), [transcript](https://metauniservice.com/transcript?videoID=BkqZfwVv_WY))
+* **23-2-23** (*Edmund Lau*): Variational Bayesian posterior and learning resolutions ([video](https://youtu.be/BkqZfwVv_WY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2022), [transcript](https://metauniservice.com/transcript?videoID=BkqZfwVv_WY))
 
 ### 2022
 
