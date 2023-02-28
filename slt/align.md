@@ -23,7 +23,7 @@ We do not expect that our approach will work unless the problem can be effective
 
 Typically the overall training loss does not undergo phase transitions for large models, so this hypothesis has to be understood quite carefully: see the section on the Locality Hypothesis below.
 
-Under these hypotheses, the plan has three parts:
+Under these hypotheses, the plan has two parts:
 
 - **Spectroscopy of Singularities:** Construct devices for probing the *density of states* of neural networks, modelled on the role of scanning tunneling microscopes in [solid state physics](https://youtu.be/xnMEfgbSKNs). These devices reveal information about divergences of the density of states caused by singularities in level sets of the loss function in large scale systems, comparable in complexity to large neural networks.
 
