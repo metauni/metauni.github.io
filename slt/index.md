@@ -30,6 +30,7 @@ Some other introductory references:
 * **2-3-23** (*Samuel Jolly*): Toy models of superposition and SLT
 * **9-3-23** (*Dan Murfet*): If we're lucky - mathematics for AI Alignment
 * **16-3-23** (*Edmund Lau*): Occam's razor following Balasubramanian
+* **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2
 * **TBD** (*Russell Goyder*)
 * **TBD** (*Rohan Hitchcock*)
 
