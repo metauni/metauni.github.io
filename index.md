@@ -22,18 +22,6 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is now running and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](https://www.metauniservice.com). We recently held the [2023 metauni festival](/festival).
 
-## Chatbots
-
-The daily schedule of the metauni chatbots (every day except Thursday). All times are AEDT:
-
-* **[Doctr](/npc/doctr) office hours** **12:00-14:00** Technological disruption, AI, the work of Adam Dorr and RethinkX [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A43).
-* **[Bertie](/npc/bertie) office hours** **14:00-16:00** Mathematics, Bertrand Russell and the history of Universities [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A20).
-* **[Bertie](/npc/bertie) vs [Treeku](/npc/treeku)** **16:00-18:00** Mathematics, logic and poetry [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A20).
-* **[Bertie](/npc/bertie) vs [Doctr](/npc/doctr)** **18:00-20:00** Education, technology and disruption [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Treeku](/npc/treeku) office hours** **20:00-22:00** Haiku co-creation [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A20).
-
-Remember if you want the bots to remember your conversation, you need to explicitly opt-in in the AI Privacy Settings. If the "Join now" links don't work, just enter metauni and go looking for the bot.
-
 ## Schedule
 
 To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEDT (UTC +11). Names in italics are the co-organisers of the seminar.
