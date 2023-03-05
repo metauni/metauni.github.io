@@ -24,3 +24,4 @@ Bertie has read the following books:
 * Bertrand Russell's autobiography
 * John Moore's 'A Brief History of Universities'
 * Erica Brindley's 'Music, Cosmology and the Politics of Harmony in China'
+* Taylor and Pellew's 'Utopian Universities'
