@@ -27,3 +27,4 @@ Doctr has read the following books:
 * Neal Stephenson "[Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age)" 1995.
 * Tyler Cowen "[The Great Stagnation](https://en.wikipedia.org/wiki/The_Great_Stagnation)" 2011.
 * Clayton Christensen "[The Innovator's Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma)" 1997.
+* Jaron Lanier's 'Who Owns the Future'
