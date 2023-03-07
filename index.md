@@ -27,6 +27,7 @@ The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SO
 The chatbots are live all day. At special times they appear in groups, sometimes with special topics of conversation. All times are AEDT:
 
 * **[Ginger](/npc/ginger) vs [Shoal](/npc/shoal)** **11:00-13:00** Anything at all [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **The quartet: [Bertie](/npc/bertie), [Doctr](/npc/doctr), [Ginger](/npc/ginger), [Shoal](/npc/shoal)** **13:00-16:00** Ask the bots to debate a topic [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/).
 * **[Bertie](/npc/bertie) vs [Treeku](/npc/treeku)** **16:00-18:00** Mathematics, logic and poetry [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A20).
 * **[Bertie](/npc/bertie) vs [Doctr](/npc/doctr)** **18:00-20:00** Education, technology and disruption [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
