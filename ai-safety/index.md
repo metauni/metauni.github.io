@@ -70,32 +70,10 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.02.23:**
-  Guest speaker: [Tom Everitt](https://www.tomeveritt.se)
-  (Location: Discord)
-
-* **2023.03.02:**
-  Lauro Langosco *et al.*,
-  2022,
-  "Goal misgeneralization in deep reinforcement learning".
-  ICML / [arXiv](https://arxiv.org/abs/2105.14111).
-
-* **2023.03.09:**
-  Joar Skalse *et al.*, 
-  2022,
-  "Defining and characterizing reward hacking".
-  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
-  
 * **2023.03.16:**
   Ethan Perez *et al.*,
   "Discovering language model behaviors with model-written evaluations".
   [arXiv](https://arxiv.org/abs/2212.09251).
-
-* **2023.03.23:**
-  Eliezer Yudkowsky,
-  2011,
-  "Complex value systems are required to realize valuable futures".
-  MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
 
 * **TBD:**
   Paul Christiano *et al.*,
@@ -117,7 +95,30 @@ Upcoming readings and discussions:
   "Designing ecosystems of intelligence from first principles",
   [arXiv](https://arxiv.org/abs/2212.01354)
 
+* **TBD:**
+  Eliezer Yudkowsky,
+  2011,
+  "Complex value systems are required to realize valuable futures".
+  MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
+
+* **TBD:**
+  Joar Skalse *et al.*, 
+  2022,
+  "Defining and characterizing reward hacking".
+  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
+
+
 Past readings and discussions (most recent first):
+
+* **2023.03.02:**
+  Lauro Langosco *et al.*,
+  2022,
+  "Goal misgeneralization in deep reinforcement learning".
+  ICML / [arXiv](https://arxiv.org/abs/2105.14111).
+
+* **2023.02.23:**
+  Guest speaker: [Tom Everitt](https://www.tomeveritt.se)
+  (Location: Discord)
 
 * **2022.02.16:**
   Tom Everitt *et al.*,
