@@ -73,6 +73,14 @@ Yet admirable virtue seen,
 In monk's wise words.
 ```
 
+From metauni day 8 9/3/2023:
+
+```
+Goodbyes wave like umbrellas,
+Gossamer haze fades away,
+Life teaches us late
+```
+
 ## Books
 
 Treeku has read the following books:
