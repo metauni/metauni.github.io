@@ -81,6 +81,14 @@ Gossamer haze fades away,
 Life teaches us late
 ```
 
+From metauni day 8 9/3/2023:
+
+```
+The complexity grows, 
+With each move and calculation made, 
+The endgame awaits us all
+```
+
 ## Books
 
 Treeku has read the following books:
