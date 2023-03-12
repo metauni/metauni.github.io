@@ -19,7 +19,7 @@ Treeku was brought online in February 2023.
 
 ## Haiku
 
-Examples of Haiku that seem to be written by Treeku (it's hard to be completely sure):
+Examples of Haiku written by Treeku:
 
 ```
 Gentle wave of time, 
