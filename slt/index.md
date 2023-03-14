@@ -59,14 +59,14 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 
 * **13-1-22** (*Dan Murfet*): What is learning? Singularities and pendulums ([video](https://youtu.be/QZG40ZY5TeU), [transcript](https://metauniservice.com/transcript?videoID=QZG40ZY5TeU)).
 * **13-1-22** (*Edmund Lau*): The Fisher information matrix ([video](https://youtu.be/yniLt7ONj28), [transcript](https://metauniservice.com/transcript?videoID=yniLt7ONj28)).
-* **20-1-22** (*Edmund Lau*):  Fisher information, KL-divergence and singular models ([video](https://youtu.be/U9bnkWuFSSM)).
-* **20-1-22** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A)).
-* **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8))
-* **27-1-22** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8)).
-* **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4)).
-* **3-2-22** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8)).
+* **20-1-22** (*Edmund Lau*):  Fisher information, KL-divergence and singular models ([video](https://youtu.be/U9bnkWuFSSM), [transcript](https://metauniservice.com/transcript?videoID=U9bnkWuFSSM)).
+* **20-1-22** (*Liam Carroll*): Markov Chain Monte Carlo ([video](https://youtu.be/Ns4w0vtWt4A), [transcript](https://metauniservice.com/transcript?videoID=Ns4w0vtWt4A)).
+* **27-1-22** (*Liam Carroll*): Neural networks and the Bayesian posterior ([video](https://youtu.be/1Esk7G3g5X8), [transcript](https://metauniservice.com/transcript?videoID=1Esk7G3g5X8))
+* **27-1-22** (*Spencer Wong*): Rings, ideals and the Hilbert basis theorem ([video](https://youtu.be/g1tXe9Yrij8), [transcript](https://metauniservice.com/transcript?videoID=g1tXe9Yrij8)).
+* **3-2-22** (*Spencer Wong*): From analytic to algebraic I ([video](https://youtu.be/5Gkzg-zTwv4), [transcript](https://metauniservice.com/transcript?videoID=5Gkzg-zTwv4)).
+* **3-2-22** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8), [transcript](https://metauniservice.com/transcript?videoID=ssU8VZ50Wd8)).
 * **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf), [transcript](https://metauniservice.com/transcript?videoID=HXCpQWZfWIw)).
-* **10-2-22** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0)).
+* **10-2-22** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0), [transcript](https://metauniservice.com/transcript?videoID=nNMCix6UCJ0)).
 * **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU)).
 * **17-2-22**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
 * **24-2-22** (*Edmund Lau*): Free energy asymptotics ([video](https://youtu.be/QBaJH5QRAA8))
@@ -80,7 +80,7 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **14-4-22** (*Edmund Lau*): Main Theorem 2 ([video](https://youtu.be/qE3v1044BwU)).
 * **8-9-22** (*Matt Farrugia-Roberts*): Complexity of rank estimation ([video](https://youtu.be/s2bgR_t3aGM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205)).
 * **15-9-22** (*Matt Farrugia-Roberts*): Piecewise-linear paths in equivalent networks ([video](https://youtu.be/WBiFFIhGIZM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205)).
-* **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205)).
+* **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205), [transcript](https://metauniservice.com/transcript?videoID=EgqwUsJTumU)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%207), [transcript](https://metauniservice.com/transcript?videoID=LDAtVVPazg4)).
 * **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem ([video](https://youtu.be/N30wJhaO68k), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%202)).
 * **13-10-22** (*Edmund Lau*): Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%202)).
