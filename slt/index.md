@@ -27,8 +27,6 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **2-3-23** (*Samuel Jolly*): Toy models of superposition and SLT
-* **9-3-23** (*Dan Murfet*): If we're lucky - mathematics for AI Alignment
 * **16-3-23** (*Edmund Lau*): Occam's razor following Balasubramanian
 * **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2
 * **TBD** (*Russell Goyder*)
@@ -52,6 +50,8 @@ Some topics and papers to be discussed:
 * **9-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 1 ([video](https://youtu.be/Ut4gKDJsmro), [notes](http://www.therisingsea.org/notes/slt22.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=Ut4gKDJsmro))
 * **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2 ([video](https://youtu.be/xnMEfgbSKNs), [notes](http://www.therisingsea.org/notes/slt22-2.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=xnMEfgbSKNs))
 * **23-2-23** (*Edmund Lau*): Variational Bayesian posterior and learning resolutions ([video](https://youtu.be/BkqZfwVv_WY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2022), [transcript](https://metauniservice.com/transcript?videoID=BkqZfwVv_WY))
+* **2-3-23** (*Samuel Jolly*): Toy models of superposition and SLT
+* **9-3-23** (*Dan Murfet*): If we're lucky - mathematics for AI Alignment
 
 ### 2022
 
