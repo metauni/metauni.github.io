@@ -29,7 +29,7 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds ([video](https://youtu.be/rZGAdaaq6C4), [transcript](https://metauniservice.com/transcript?videoID=rZGAdaaq6C4)).
 * **26-1-23** (*Tessa Snikkers*): WTF - What the Fabric? Unexpected Textiles ([video](https://youtu.be/gjCev79gUDw), [transcript](https://metauniservice.com/transcript?videoID=gjCev79gUDw)).
 * **2-2-23** (*[Will Troiani](https://williamtroiani.github.io)*): An opposite is whole only with its contrary; composing music and creating mathematics ([video](https://youtu.be/i1wM_Gd62ms), [transcript](https://metauniservice.com/transcript?videoID=i1wM_Gd62ms)).
-* **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): Infinitely large numbers that act like they're finite ([video](https://youtu.be/YP-iTs5m3X0))
-* **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM))
-* **2-3-23** (*Billy Hibbard*): On homeschooling
+* **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): Infinitely large numbers that act like they're finite ([video](https://youtu.be/YP-iTs5m3X0), [transcript](https://metauniservice.com/transcript?videoID=YP-iTs5m3X0))
+* **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM), [transcript](https://metauniservice.com/transcript?videoID=GzPDuliK9mM))
+* **2-3-23** (*Billy Hibbard*): On homeschooling ([video](https://youtu.be/6nYXsbZKRlQ), [transcript](https://metauniservice.com/transcript?videoID=6nYXsbZKRlQ))
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music)
