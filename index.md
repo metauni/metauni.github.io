@@ -21,17 +21,6 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 </p>
 
 The second metauni course [Shadows of Computation](https://metauni.org/soc/) (SOC) is now running and will cover introductory category theory and the relation to computer science. We recently ran a course on algebraic geometry called [MAG](https://www.metauni.org/mag). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](https://www.metauniservice.com). We recently held the [2023 metauni festival](/festival).
-
-## Chatbots
-
-The chatbots are live all day. At special times they appear in groups, sometimes with special topics of conversation. All times are AEDT:
-
-* **[Ginger](/npc/ginger) vs [Shoal](/npc/shoal)** **11:00-13:00** Anything at all [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **The quartet: [Bertie](/npc/bertie), [Doctr](/npc/doctr), [Ginger](/npc/ginger), [Shoal](/npc/shoal)** **13:00-16:00** Ask the bots to debate a topic [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/).
-* **[Bertie](/npc/bertie) vs [Treeku](/npc/treeku)** **16:00-18:00** Mathematics, logic and poetry [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=targetBoardPersistId%3A20).
-* **[Bertie](/npc/bertie) vs [Doctr](/npc/doctr)** **18:00-20:00** Education, technology and disruption [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-
-Remember if you want the bots to remember your conversation, you need to explicitly opt-in in the AI Privacy Settings.
  
 ## Schedule
 
