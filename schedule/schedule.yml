@@ -1,45 +1,45 @@
-metauni day: "09/03/2023" # dd/mm/yyyy
+metauni day: "16/03/2023" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
 - Disruption:
     time: 10:00-11:30
     organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: Revisiting timelines and political coalitions."
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: TBC."
     website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 11:30-12:00
     organizer: Dan Murfet, Ken Chan
-    desc: "Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Proposition 11."
+    desc: "Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Proposition 12."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan Murfet on SLT and alignment."
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Edmund Lau on Occam's razor following Balasubramanian."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2024
+- AI Safety:
+    time: 21:00-22:00
+    organizer: Matthew Farrugia-Roberts
+    desc: "reading group on technical and philosophical topics in AI safety. *This week* TBC"
+    website: https://metauni.org/ai-safety
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+    #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
+    #pocket: Gemini Pulsar 1
+    #location: "#General"
+- "#metauni-dev":
+     time: 22:00-23:00
+     desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
+     location: "#metaboard-dev"
+whats off:
 - Anything At All:
     time: 17:30-18:30
     organizer: Various
     desc: "The seminar for everyone. *This week* Will Troiani on music."
     website: https://metauni.org/anythingatall
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- "#metauni-dev":
-     time: 22:00-23:00
-     desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
-     location: "#metaboard-dev"
-whats off:
-- AI Safety:
-    time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts
-    desc: "reading group on technical and philosophical topics in AI safety. *This week* Lauro Langosco et al., 2022, 'Goal misgeneralization in deep reinforcement learning'"
-    website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-    #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
-    #pocket: Gemini Pulsar 1
-    #location: "#General"
 - Abstraction:
     time: 20:00-21:00
     organizer: Alexander Oldenziel
