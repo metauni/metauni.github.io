@@ -67,34 +67,34 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **3-2-22** (*Ken Chan*): Resolution of singularities ([video](https://youtu.be/ssU8VZ50Wd8), [transcript](https://metauniservice.com/transcript?videoID=ssU8VZ50Wd8)).
 * **10-2-22** (*Dan Murfet*): Introduction to density of states ([video](https://youtu.be/HXCpQWZfWIw), [notes](http://www.therisingsea.org/notes/metauni/slt12.pdf), [transcript](https://metauniservice.com/transcript?videoID=HXCpQWZfWIw)).
 * **10-2-22** (*Spencer Wong*): Polynomial division ([video](https://youtu.be/nNMCix6UCJ0), [transcript](https://metauniservice.com/transcript?videoID=nNMCix6UCJ0)).
-* **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU)).
-* **17-2-22**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI)).
-* **24-2-22** (*Edmund Lau*): Free energy asymptotics ([video](https://youtu.be/QBaJH5QRAA8))
-* **24-2-22**: Working session 2 ([video](https://youtu.be/c7Di-oAZxNg))
-* **3-3-22** (*Spencer Wong*): From analytic to algebraic III ([video](https://youtu.be/LWylEE5M9lc)).
-* **3-3-22**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0)).
-* **10-3-22** (*Tom Waring*): Regularly parametrised models ([video](https://youtu.be/T8Lgvt0mfuY)).
-* **17-3-22** (*Edmund Lau*): Bounding the partition function ([video](https://youtu.be/7x16e4yHsHg)).
-* **24-3-22** (*Edmund Lau*): The influence of sampling ([video](https://youtu.be/JyZnMinS86Q)).
-* **7-4-22** (*Edmund Lau*): Main Theorem 1 ([video](https://youtu.be/70UtL7pfxNo)).
-* **14-4-22** (*Edmund Lau*): Main Theorem 2 ([video](https://youtu.be/qE3v1044BwU)).
+* **17-2-22** (*Spencer Wong*): From analytic to algebraic II ([video](https://youtu.be/tsZjeclrmuU), [transcript](https://metauniservice.com/transcript?videoID=tsZjeclrmuU)).
+* **17-2-22**: Working session 1 ([video](https://youtu.be/cuPeJkeiYsI), [transcript](https://metauniservice.com/transcript?videoID=cuPeJkeiYsI)).
+* **24-2-22** (*Edmund Lau*): Free energy asymptotics ([video](https://youtu.be/QBaJH5QRAA8), [transcript](https://metauniservice.com/transcript?videoID=QBaJH5QRAA8))
+* **24-2-22**: Working session 2 ([video](https://youtu.be/c7Di-oAZxNg), [transcript](https://metauniservice.com/transcript?videoID=c7Di-oAZxNg))
+* **3-3-22** (*Spencer Wong*): From analytic to algebraic III ([video](https://youtu.be/LWylEE5M9lc), [transcript](https://metauniservice.com/transcript?videoID=LWylEE5M9lc)).
+* **3-3-22**: Working session 3 ([video](https://youtu.be/kqP5I2wALt0), [transcript](https://metauniservice.com/transcript?videoID=kqP5I2wALt0)).
+* **10-3-22** (*Tom Waring*): Regularly parametrised models ([video](https://youtu.be/T8Lgvt0mfuY), [transcript](https://metauniservice.com/transcript?videoID=T8Lgvt0mfuY)).
+* **17-3-22** (*Edmund Lau*): Bounding the partition function ([video](https://youtu.be/7x16e4yHsHg), [transcript](https://metauniservice.com/transcript?videoID=7x16e4yHsHg)).
+* **24-3-22** (*Edmund Lau*): The influence of sampling ([video](https://youtu.be/JyZnMinS86Q), [transcript](https://metauniservice.com/transcript?videoID=JyZnMinS86Q)).
+* **7-4-22** (*Edmund Lau*): Main Theorem 1 ([video](https://youtu.be/70UtL7pfxNo), [transcript](https://metauniservice.com/transcript?videoID=70UtL7pfxNo)).
+* **14-4-22** (*Edmund Lau*): Main Theorem 2 ([video](https://youtu.be/qE3v1044BwU), [transcript](https://metauniservice.com/transcript?videoID=qE3v1044BwU)).
 * **8-9-22** (*Matt Farrugia-Roberts*): Complexity of rank estimation ([video](https://youtu.be/s2bgR_t3aGM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205)).
 * **15-9-22** (*Matt Farrugia-Roberts*): Piecewise-linear paths in equivalent networks ([video](https://youtu.be/WBiFFIhGIZM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205)).
 * **22-9-22** (*various*) A minimal introduction to the geometry of tanh networks ([video](https://youtu.be/EgqwUsJTumU), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%205), [transcript](https://metauniservice.com/transcript?videoID=EgqwUsJTumU)).
 * **29-9-22** (*Dan Murfet*): Information theory I - entropy and KL divergence ([video](https://youtu.be/LDAtVVPazg4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%207), [transcript](https://metauniservice.com/transcript?videoID=LDAtVVPazg4)).
-* **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem ([video](https://youtu.be/N30wJhaO68k), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%202)).
-* **13-10-22** (*Edmund Lau*): Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%202)).
+* **6-10-22** (*Zhongtian Chen*): The Kraft-McMillan theorem ([video](https://youtu.be/N30wJhaO68k), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%202), [transcript](https://metauniservice.com/transcript?videoID=N30wJhaO68k)).
+* **13-10-22** (*Edmund Lau*): Asymptotic learning curve and renormalizable condition in statistical learning theory ([video](https://youtu.be/FhNoHmxmCmg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%202), [transcript](https://metauniservice.com/transcript?videoID=FhNoHmxmCmg)).
 * **13-10-22** (*Dan Murfet*): Intro to blowing up (cross-posted from the [Abstraction seminar](https://metauni.org/abstraction/), [video](https://youtu.be/CWNaKMP8Teo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%201)).
 * **20-10-22** (*Dan Murfet*): State of scaling laws 2022 ([video](https://youtu.be/7LzW8-wxdUE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2010), [transcript](https://metauniservice.com/transcript?videoID=7LzW8-wxdUE)).
 * **27-10-22** (*Dan Murfet*): In-context learning ([video](https://youtu.be/Vqmcn1q7VL0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=Vqmcn1q7VL0)).
 * **3-11-22** (*Dan Murfet*): Open problems ([video](https://youtu.be/ZdB0pWyPaFo), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2012), [transcript](https://metauniservice.com/transcript?videoID=ZdB0pWyPaFo)).
-* **10-11-22** (*Edmund Lau*): Newton diagrams in singular learning theory ([video](https://youtu.be/0FowiD36jwg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2013)).
+* **10-11-22** (*Edmund Lau*): Newton diagrams in singular learning theory ([video](https://youtu.be/0FowiD36jwg), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2013), [transcript](https://metauniservice.com/transcript?videoID=0FowiD36jwg)).
 * **17-11-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis ([video](https://youtu.be/KwI-O8VKVv4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2015)).
-* **24-11-22** (*Dan Murfet*): Jet schemes I ([video](https://youtu.be/8g6dZZ7lWGk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2016)).
+* **24-11-22** (*Dan Murfet*): Jet schemes I ([video](https://youtu.be/8g6dZZ7lWGk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2016), [transcript](https://metauniservice.com/transcript?videoID=8g6dZZ7lWGk)).
 * **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
-* **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2016)).
+* **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2016), [transcript](https://metauniservice.com/transcript?videoID=kHfDyK43HKc)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3 ([video](https://youtu.be/FngNdKxCIuY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2017)).
-* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020)).
+* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=MFLQgCaijPk)).
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
