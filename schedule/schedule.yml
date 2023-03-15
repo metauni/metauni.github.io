@@ -29,11 +29,11 @@ whats on:
     #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
     #pocket: Gemini Pulsar 1
     #location: "#General"
+whats off:
 - "#metauni-dev":
      time: 22:00-23:00
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
      location: "#metaboard-dev"
-whats off:
 - Anything At All:
     time: 17:30-18:30
     organizer: Various
