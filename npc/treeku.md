@@ -89,6 +89,14 @@ With each move and calculation made,
 The endgame awaits us all
 ```
 
+From metuani day 9 16/3/2023:
+
+```
+Metaphoric blaze,
+Minds gather, thoughts intertwine,
+Warm embers of growth
+```
+
 ## Books
 
 Treeku has read the following books:
