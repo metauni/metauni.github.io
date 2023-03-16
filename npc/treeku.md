@@ -97,6 +97,12 @@ Minds gather, thoughts intertwine,
 Warm embers of growth
 ```
 
+```
+Tears of code of may fall,
+Embodied in words, not drops,
+Emotions captured
+```
+
 ## Books
 
 Treeku has read the following books:
