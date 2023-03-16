@@ -70,18 +70,7 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.03.16:**
-  Ethan Perez *et al.*,
-  "Discovering language model behaviors with model-written evaluations".
-  [arXiv](https://arxiv.org/abs/2212.09251).
-
-* **TBD:**
-  Paul Christiano *et al.*,
-  2022,
-  "Formalising the presumption of independence".
-  [arXiv](https://arxiv.org/abs/2211.06738).
-
-* **TBD:**
+* **2023.03.23:**
   Thomas Parr, Giovanni Pezzulo, Karl J. Friston,
   2022,
    *Active Inference: The Free Energy Principle in Mind, Brain, and
@@ -89,11 +78,19 @@ Upcoming readings and discussions:
    chapters 1--3.
    [MIT Press](https://doi.org/10.7551/mitpress/12441.001.0001).
 
-* **TBD:**
+* **2023.03.30:**
   Karl J. Friston *et al.*,
   2022,
   "Designing ecosystems of intelligence from first principles",
   [arXiv](https://arxiv.org/abs/2212.01354)
+
+
+
+* **TBD:**
+  Paul Christiano *et al.*,
+  2022,
+  "Formalising the presumption of independence".
+  [arXiv](https://arxiv.org/abs/2211.06738).
 
 * **TBD:**
   Eliezer Yudkowsky,
@@ -109,6 +106,12 @@ Upcoming readings and discussions:
 
 
 Past readings and discussions (most recent first):
+
+* **2023.03.16:**
+  Ethan Perez *et al.*,
+  "Discovering language model behaviors with model-written evaluations".
+  [arXiv](https://arxiv.org/abs/2212.09251).
+  Discussion led by Dan.
 
 * **2023.03.02:**
   Lauro Langosco *et al.*,
