@@ -24,7 +24,7 @@ We have run a course on algebraic geometry ([MAG](https://www.metauni.org/mag)) 
 
 ## NPCs
 
-The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice).
+The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice). Have a conversation, and then [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
 
 ## Schedule
 
