@@ -36,11 +36,12 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### March 16, 2023
-* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: GPT4. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Proposition 12. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Edmund Lau on Occam's razor following Balasubramanian. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2025)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Ethan Perez et al., Discovering language model behaviors with model-written evaluations [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+### March 23, 2023
+* **[Disruption](https://metauni.org/disruption)** **10:00-11:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: Framing and language models. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Euclid](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Proposition 13, 14. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Ben Gerraty on Toy Models of Superposition Pt 2. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2027)
+* **[Anything At All](https://metauni.org/anythingatall)** **17:30-18:30** (*Various*): The seminar for everyone. *This week* Russell Goyder on the algebra of the sun. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* On Friston's Active Inference and the Free Energy Principle. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
 <!-- END WHATS ON -->
 
@@ -48,7 +49,6 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- BEGIN WHATS OFF -->
 * **#metauni-dev** **22:00-23:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Anything At All](https://metauni.org/anythingatall)** **17:30-18:30** (*Various*): The seminar for everyone. *This week* Will Troiani on music. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%203)
 * **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%209)
 <!-- END WHATS OFF -->
