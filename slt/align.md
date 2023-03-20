@@ -9,6 +9,12 @@ This document contains a research plan leading to applications of Singular Learn
 
 > Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations -- From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)"
 
+# Why should mathematicians work on Alignment?
+
+Take it from Demis Hassabis, [CEO of DeepMind](https://www.lesswrong.com/posts/SbAgRYo8tkHwhd9Qx/deepmind-the-podcast-excerpts-on-agi#_Avengers_assembled__for_AI_Safety__Pause_AI_development_to_prove_things_mathematically):
+
+> I always imagine that as we got closer to the sort of gray zone that you were talking about earlier, the best thing to do might be to pause the pushing of the performance of these systems so that you can analyze down to minute detail exactly and maybe even prove things mathematically about the system so that you know the limits and otherwise of the systems that you're building. At that point I think all the world's greatest minds should probably be thinking about this problem. So that was what I would be advocating to you know the Terence Tao’s of this world, the best mathematicians. Actually I've even talked to him about this—I know you're working on the Riemann hypothesis or something which is the best thing in mathematics but actually this is more pressing.
+
 # Interpretability via Universality
 
 We describe an approach to scalable interpretability of neural networks based on SLT and the
@@ -93,6 +99,7 @@ The relation among these three classes of objects is complex, and a full underst
 
 - A microscope probing a singularity, or a distribution of trajectories near that point in weight space, do not interact directly with the singularity but rather with a kind of "cloud" of nearby functions in function space. This means that the precise divergence of the DOS that we observe can be thought of as being determined by "subatomic structure".
 - Resolution of singularities is too hard to do exactly, but components of jet schemes are more likely to be approximately accessible (see the jet scheme lectures [here](https://metauni.org/slt/)).
+- See [emergent capabilities](https://openreview.net/forum?id=yzkSU5zdwD).
 
 ### Programs as Singularities
 
