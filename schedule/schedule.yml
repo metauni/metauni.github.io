@@ -2,17 +2,17 @@ metauni day: "23/03/2023" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
-- Disruption:
-    time: 10:00-11:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: Framing and language models."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 11:30-12:00
     organizer: Dan Murfet, Ken Chan
     desc: "Book two of Euclid with an AI assistant, just for fun. *This week* Book 2 Proposition 13, 14."
     website: https://metauni.org/euclid
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Anything At All:
+    time: 14:30-15:30
+    organizer: Various
+    desc: "The seminar for everyone. *This week* Russell Goyder on 'The sundial problem from a new angle'."
+    website: https://metauni.org/anythingatall
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
@@ -20,12 +20,6 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Ben Gerraty on Toy Models of Superposition Pt 2."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2027
-- Anything At All:
-    time: 17:30-18:30
-    organizer: Various
-    desc: "The seminar for everyone. *This week* Russell Goyder on the algebra of the sun."
-    website: https://metauni.org/anythingatall
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -36,6 +30,12 @@ whats on:
     #pocket: Gemini Pulsar 1
     #location: "#General"
 whats off:
+- Disruption:
+    time: 10:00-11:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: Framing and language models."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - "#metauni-dev":
      time: 22:00-23:00
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
