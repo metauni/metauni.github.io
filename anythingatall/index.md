@@ -23,6 +23,7 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
 * **23-3-23** (*Russell Goyder*): The algebra of the sun
 * **30-3-23** (*Alok Singh*): More!
+* **6-3-23** (*Billy Hibbard*): Taking Children Seriously
 
 ## Past talks
 
