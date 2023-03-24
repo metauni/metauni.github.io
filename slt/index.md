@@ -27,11 +27,8 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **16-3-23** (*Edmund Lau*): Occam's razor following Balasubramanian
-* **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2
-* **30-3-23** (*Dan Murfet*): If we're lucky - mathematics for AI Alignment Pt 2
+* **30-3-23** (*Dan Murfet*): SLT and Alignment Pt 2
 * **6-4-23** (*Rohan Hitchcock*): Induction heads
-
 * **TBD** (*Russell Goyder*): Saxe et al
 
 Some topics and papers to be discussed:
@@ -53,7 +50,9 @@ Some topics and papers to be discussed:
 * **16-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 2 ([video](https://youtu.be/xnMEfgbSKNs), [notes](http://www.therisingsea.org/notes/slt22-2.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=xnMEfgbSKNs))
 * **23-2-23** (*Edmund Lau*): Variational Bayesian posterior and learning resolutions ([video](https://youtu.be/BkqZfwVv_WY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2022), [transcript](https://metauniservice.com/transcript?videoID=BkqZfwVv_WY))
 * **2-3-23** (*Samuel Jolly*): Toy models of superposition and SLT ([video](https://youtu.be/QWanKcCkFS8), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2023), [transcript](https://metauniservice.com/transcript?videoID=QWanKcCkFS8))
-* **9-3-23** (*Dan Murfet*): If we're lucky - mathematics for AI Alignment
+* **9-3-23** (*Dan Murfet*): SLT and Alignment Pt 1 ([video](https://youtu.be/6LULirDt8Qw), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2024), [transcript](https://metauniservice.com/transcript?videoID=6LULirDt8Qw))
+* **16-3-23** (*Edmund Lau*): Occam's razor following Balasubramanian ([video](https://youtu.be/civbL6SAXS0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2025), [transcript](https://metauniservice.com/transcript?videoID=civbL6SAXS0))
+* **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2
 
 ### 2022
 
