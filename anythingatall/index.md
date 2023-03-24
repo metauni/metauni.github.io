@@ -21,9 +21,9 @@ Two important parts of the metauni community are sharing ideas (benefits the aud
 
 To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
-* **23-3-23** (*Russell Goyder*): The algebra of the sun
 * **30-3-23** (*Alok Singh*): More!
 * **6-4-23** (*Billy Hibbard*): Taking Children Seriously
+* **13-4-23** (*Russell Goyder*): Algebra of the Sun Pt 2
 
 ## Past talks
 
@@ -34,3 +34,4 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM), [transcript](https://metauniservice.com/transcript?videoID=GzPDuliK9mM))
 * **2-3-23** (*Billy Hibbard*): On homeschooling ([video](https://youtu.be/6nYXsbZKRlQ), [transcript](https://metauniservice.com/transcript?videoID=6nYXsbZKRlQ))
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music)
+* **23-3-23** (*Russell Goyder*): Algebra of the Sun
