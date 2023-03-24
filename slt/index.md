@@ -31,7 +31,8 @@ Some other introductory references:
 * **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2
 * **30-3-23** (*Dan Murfet*): If we're lucky - mathematics for AI Alignment Pt 2
 * **6-4-23** (*Rohan Hitchcock*): Induction heads
-* **13-4-23** (*Russell Goyder*): TBD
+
+* **TBD** (*Russell Goyder*): Saxe et al
 
 Some topics and papers to be discussed:
 
