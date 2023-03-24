@@ -33,5 +33,5 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **9-2-23** (*[Alok Singh](https://twitter.com/TheRevAlokSingh)*): Infinitely large numbers that act like they're finite ([video](https://youtu.be/YP-iTs5m3X0), [transcript](https://metauniservice.com/transcript?videoID=YP-iTs5m3X0))
 * **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM), [transcript](https://metauniservice.com/transcript?videoID=GzPDuliK9mM))
 * **2-3-23** (*Billy Hibbard*): On homeschooling ([video](https://youtu.be/6nYXsbZKRlQ), [transcript](https://metauniservice.com/transcript?videoID=6nYXsbZKRlQ))
-* **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music)
+* **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music) ([video](https://youtu.be/WmsXyUjZGHs), [transcript](https://metauniservice.com/transcript?videoID=WmsXyUjZGHs))
 * **23-3-23** (*Russell Goyder*): Algebra of the Sun
