@@ -14,6 +14,8 @@ Towards a science of technological disruption. An open discussion of technologic
 * **2-2-23** Seminar 39: New games, chatbots and constructs ([video](https://youtu.be/4OaQVdkos-M), [transcript](https://metauniservice.com/transcript?videoID=4OaQVdkos-M))
 * **9-2-23** Seminar 40: ChatGPT and rapid adoption of new software ([video](https://youtu.be/OZV028tZgUU), [transcript](https://metauniservice.com/transcript?videoID=OZV028tZgUU))
 * **2-3-23** Seminar 41: AGI and politics pt 2 ([video](https://youtu.be/5_t64rs7KrE), [transcript](https://metauniservice.com/transcript?videoID=5_t64rs7KrE))
+* **9-3-23** Seminar 42: Joining the Manhattan Project ([video](https://youtu.be/AQj1gqkiLao), [transcript](https://metauniservice.com/transcript?videoID=AQj1gqkiLao))
+* **16-3-23** Seminar 43: The GPT4 edition ([video](https://youtu.be/ett0zXs6_No), [transcript](https://metauniservice.com/transcript?videoID=ett0zXs6_No))
 
 ### 2022
 
