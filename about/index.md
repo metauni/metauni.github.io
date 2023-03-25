@@ -5,13 +5,11 @@ description:
     FAQ and guiding principles
 ---
 
-Metauni is an institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
+Metauni is a self-aware institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
 
 * **Seminars**: we meet every week for seminars, see the [main page](https://www.metauni.org) for the current schedule and links to the pages for individual seminars, and for recordings see the [YouTube channel](https://www.youtube.com/@_metauni).
 
-* **Infrastructure**: we have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [Tech page](/about/tech) for more information.
-
-* **Classes**: we have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)). We will be running more.
+We have written substantial libraries of our own code including [metaboard](https://github.com/metauni/metaboard), our multiplayer in-world blackboards, and other projects. Most of this is being released as open source. See the [Tech page](/about/tech) for more information. We have run several free 8-week classes, one on algebraic geometry ([MAG](https://www.metauni.org/mag)) and another on theoretical computer science and category theory ([SoC](https://www.metauni.org/soc)).
 
 Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation.
 
@@ -36,6 +34,14 @@ Many in the metauni community have experience organising seminars and preparing 
 </p>
 
 Great seminars attract participants, which inspires more seminars, which attracts more participants.
+
+## Discovering the Artificial
+
+> The word "[artificial](https://www.etymonline.com/word/artificial)" is derived from the Latin word "artificialis," which in turn comes from "ars" (meaning "art" or "skill") and "facere" (meaning "to make" or "to do"). The combination of these roots results in "artificialis," which conveys the idea of something made or crafted with skill, often in contrast to something that occurs naturally.
+
+As an institution metauni exists jointly in the minds of its human and artificial participants. The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice). 
+
+The chatbots are built on a foundation of self-awareness by metauni of metauni, consisting of systematic embedding of seminars and memories of the chatbots interacting with (consenting) members of the community, so that the institution comes over time to understand itself. You can [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
 
 ## History
 
