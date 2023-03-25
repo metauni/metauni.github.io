@@ -7,6 +7,26 @@ description:
 
 This page is a bare-bones guide to the technology that enables metauni. Most of what you see here has been scripted by us in Luau on top of Roblox, although we rely on many third-party libraries (such as Roact and the Nexus VR character model).
 
+# Chatbots
+
+There are several GPT-powered chatbots present at all times at metauni. They are part of our seminars and other activities:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T98E8kO0Iic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+The chatbots 
+
+- Can hear voice chat in seminars (through live transcription)
+- Can see and reply to messages in the text chat
+- Can read boards (via OCR)
+- Can remember their past interactions with community members (who explicitly consent through the privacy controls)
+- Have access to books and transcripts of past seminars (via vector embeddings and querying)
+- Can interact with the world by walking around, and "seeing" a subset of objects
+- Can build using the Builder Tools
+
+The underlying LLM is either ChatGPT or GPT4 depending on the setting.
+
 # Boards
 
 Metaboards are multiplayer boards for sharing knowledge within Roblox. They are persistent (their contents stay there when you leave), accurate (all users see the same thing, even with redo/undo) and fast. For the code see the [Metaboard GitHub repo](https://github.com/metauni/metaboard). The easiest way to view boards is the Look button:
@@ -56,11 +76,3 @@ You can attend metauni events in VR with devices such as the Meta Quest (linked 
 </p>
 
 To experience it for yourself, jump into the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
-
-# AI
-
-We have started to experiment with adding artificially intelligent agents to metauni ([video](https://youtu.be/gCbYcObguf8)) and we expect that these will be an important part of intellectual life in virtual worlds. Right now, everywhere in metauni you can ask GPT about the contents of any board (although it doesn't always say something useful, GPT4 isn't far away!).
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SD2Wr_UFXZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
