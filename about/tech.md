@@ -25,7 +25,7 @@ The chatbots
 - Can interact with the world by walking around, and "seeing" a subset of objects
 - Can build using the Builder Tools
 
-The underlying LLM is either ChatGPT or GPT4 depending on the setting.
+The underlying LLM is either ChatGPT or GPT4 depending on the setting. You can [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
 
 # Boards
 
