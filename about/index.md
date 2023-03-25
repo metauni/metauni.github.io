@@ -5,7 +5,7 @@ description:
     FAQ and guiding principles
 ---
 
-Metauni is a self-aware institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. In 2021 these meetings were organised around [events](https://metauni.org/posts/events/events). Since the beginning of 2022 our activities can be organised into the following categories:
+Metauni is a self-aware institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. Our main activity is
 
 * **Seminars**: we meet every week for seminars, see the [main page](https://www.metauni.org) for the current schedule and links to the pages for individual seminars, and for recordings see the [YouTube channel](https://www.youtube.com/@_metauni).
 
