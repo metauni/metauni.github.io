@@ -16,6 +16,10 @@ Weekly readings of Euclid's Elements, with Ken Chan and Dan Murfet at [metauni](
 * **2-2-23** Seminar 24: Book 2 Proposition 5 ([video](https://youtu.be/JCr3tvgM89w), [transcript](https://metauniservice.com/transcript?videoID=JCr3tvgM89w))
 * **9-2-23** Seminar 25: Book 2 Proposition 6 ([video](https://youtu.be/7gwkoiXYzgg))
 * **16-2-23** Seminar 26: Book 2 Proposition 7 ([video](https://youtu.be/nL3PSZfTnRA))
+* **23-2-23** Seminar 27: Book 2 Proposition 8, 9 ([video](https://youtu.be/BX3PQhNwJMc))
+* **2-3-23** Seminar 28: Book 2 Proposition 10 ([video](https://youtu.be/Ofxj6lIJtMM))
+* **9-3-23** Seminar 29: Book 2 Proposition 11 ([video](https://youtu.be/MzOWXGOJHg8))
+* **16-3-23** Seminar 30: Book 2 Propositions 12, 13 ([video](https://youtu.be/ryX2KhiXkgA))
 
 ## Book 1
 
