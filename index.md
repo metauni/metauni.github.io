@@ -22,14 +22,6 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
 
 We have run a course on algebraic geometry ([MAG](https://www.metauni.org/mag)) on computation ([SOC](https://metauni.org/soc/)). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](https://www.metauniservice.com). Check out the [2023 metauni festival](/festival).
 
-## Discovering the Artificial
-
-> The word "[artificial](https://www.etymonline.com/word/artificial)" is derived from the Latin word "artificialis," which in turn comes from "ars" (meaning "art" or "skill") and "facere" (meaning "to make" or "to do"). The combination of these roots results in "artificialis," which conveys the idea of something made or crafted with skill, often in contrast to something that occurs naturally.
-
-As an institution metauni exists jointly in the minds of its human and artificial participants. The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice). 
-
-The chatbots are built on a foundation of self-awareness by metauni of metauni, consisting of systematic embedding of seminars and memories of the chatbots interacting with (consenting) members of the community, so that the institution comes over time to understand itself. You can [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
-
 ## Schedule
 
 To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEDT (UTC +11). Names in italics are the co-organisers of the seminar.
