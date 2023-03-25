@@ -21,7 +21,7 @@ The chatbots
 - Can see and reply to messages in the text chat
 - Can read boards (via OCR)
 - Can remember their past interactions with community members (who explicitly consent through the privacy controls)
-- Have access to books and transcripts of past seminars (via vector embeddings and querying)
+- Have access to a library of relevant books and transcripts of past seminars (via vector embeddings and querying)
 - Can interact with the world by walking around, and "seeing" a subset of objects
 - Can build using the Builder Tools
 
