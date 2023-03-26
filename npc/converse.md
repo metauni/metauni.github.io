@@ -13,7 +13,7 @@ In outline: Ginger (an AI) read one of the nearby blackboards with notes from Wi
 
 > Interaction with artificial intelligences could certainly serve as a source of inspiration for music and mathematics. Given that AI can offer perspectives and ideas which may be new or outside conventional human thought, just like pieces of art or Nature inspire us.
 
-To test this proposition, that AIs can offer ideas outside conventional thought, I proceeded to pushed Ginger, and then later the other AIs, to come up with some thought-provoking perspectives. Their responses:
+To test the proposition that AIs can offer ideas outside conventional thought I pushed Ginger and the other chatbots to come up with some thought-provoking perspectives. Their responses:
 
 * Ginger proposed an AI-generated composition that combines a crossover between **fractals and music therapy** and then a **musical notation system inspired by mycelial networks**. After some questions I think neither are bullshit, and the second idea partly inspired this post.
 
