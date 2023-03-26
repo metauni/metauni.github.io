@@ -34,7 +34,7 @@ Context as Canvas
 
 Large Language Models contain multitudes; you can think of them as a landscape of programs, of personalities, of possible conversation partners. Providing a context *specifies a location* in that landscape.
 
-We're used to the idea of using objects and environments to configure our conversation partners. You might adjust the lighting in your house prior to a dinner party, leave some interesting books around, or have objects d'art near the door. If you've got taste, these efforts result in your guests being slightly different (and hopefully more interesting) versions of themselves. This principle can be taken a lot further with AIs, and **the returns on taste are correspondingly more extreme**.
+We're familiar with the use of objects and environments to configure our conversation partners. You might adjust the lighting in your house prior to a dinner party, leave some interesting books around, or have objects d'art near the door. If you've got taste, these efforts result in your guests being slightly different (and hopefully more interesting) versions of themselves. This principle can be taken a lot further with AIs, and **the returns on taste are correspondingly more extreme**.
 
 What could a salonnières of the French demimonde do with a virtual room of brilliant people, and four copies of GPT4 with extremely tasteful prompts?
 
