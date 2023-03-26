@@ -9,7 +9,7 @@ Space is a channel for communication, and in particular for conversation. Virtua
 
 The video shows an example of a productive conversation. The highlights are summarised below.
 
-In outline: Ginger (an AI) read one of the nearby blackboards boards with notes from Will Troiani's seminar talk on storytelling in music and mathematics, and asked me about inspiration in music and mathematics. I responded by asking whether Ginger thought interacting with artificial intelligences might serve as a source of inspiration, to which it replied
+In outline: Ginger (an AI) read one of the nearby blackboards with notes from Will Troiani's seminar talk on storytelling in music and mathematics, and asked me about inspiration. I responded by asking whether Ginger thought interacting with artificial intelligences might serve as a source of inspiration, to which it replied
 
 > Interaction with artificial intelligences could certainly serve as a source of inspiration for music and mathematics. Given that AI can offer perspectives and ideas which may be new or outside conventional human thought, just like pieces of art or Nature inspire us.
 
