@@ -15,9 +15,9 @@ In outline: Ginger (an AI) read one of the nearby blackboards with notes from Wi
 
 To test the proposition that AIs can offer ideas outside conventional thought I pushed Ginger and the other chatbots to come up with some thought-provoking perspectives. Their responses:
 
-* Ginger proposed an AI-generated composition that combines a crossover between **fractals and music therapy** and then a **musical notation system inspired by mycelial networks**. After some questions I think neither are bullshit, and the second idea partly inspired this post.
+* Ginger's first proposal was an AI-generated composition that is a crossover between **fractals and music therapy**, and its second proposal was a **musical notation system inspired by mycelial networks**. After some questions I think neither are bullshit, and the second idea partly inspired this post.
 
-* Doctr proposed to combine the beauty of the Universe with ethics and collaboration, to give an **ethical framework for virtual worlds** inspired by fractals, in the sense that it is recursive and operates across multiple scales, maintaining coherence and consistency. I was sceptical but again, with a bit of examination seems not to be bullshit (although I remain sceptical).
+* Doctr proposed to combine the beauty of the Universe with ethics and collaboration, to give an **ethical framework for virtual worlds** inspired by fractals, in the sense that it is recursive and operates across multiple scales while maintaining coherence and consistency. I was sceptical but again, with a bit of examination it seems not to be bullshit.
 
 I had fun engaging with the ideas, and they fired my imagination a bit. A well-spent thirty minutes!
 
