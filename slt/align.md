@@ -1,11 +1,11 @@
 ---
 title:
-    metauni Alignment Plan
+    SLT for Alignment
 description:
     Lightning unenlightened
 ---
 
-This document contains a research plan leading to applications of Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). 
+This document contains a research plan leading to applications of Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). Some of the MSc and PhD students in Daniel Murfet's group at the University of Melbourne are working on aspects of this, but it's far too much for a small group. You should consider biting off a piece. We'll help!
 
 > Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations -- From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)"
 
@@ -33,7 +33,7 @@ Under these hypotheses, the plan has two parts:
 
 - **Spectroscopy of Singularities:** Construct devices for probing the *density of states* of neural networks, modelled on the role of scanning tunneling microscopes in [solid state physics](https://youtu.be/xnMEfgbSKNs). These devices reveal information about divergences of the density of states caused by singularities in level sets of the loss function in large scale systems, comparable in complexity to large neural networks.
 
-- **Substructure and Semantics:** Use the spectroscopic probe to get substructural information about the singularities dominating phases encountered during training, and use information from those probes to measure how that substructure changes during phase transitions. Match the signatures of these changes to concepts learned during training ("semantics") as tracked by other probes.
+- **Substructure and Semantics:** Use the spectroscopic probe to get substructural information about the singularities dominating phases encountered during training, and use information from those probes to measure how that substructure changes during phase transitions. Match the signatures of these changes to concepts learned during training, capabilities detected, and other evaluations.
 
 These ideas are grounded in **Singular Learning Theory (SLT)**, a theory of universal behaviour of learning machines based on algebraic geometry and statistics, and **Conformal Field Theory (CFT)**, a theory of universality classes of physical systems, their "representations" and the RG flows between them. Both fields have a deep relation to singularity theory, in SLT because singularities in the KL divergence cause divergences in the density of states, which determine key quantities in Bayesian learning, and in CFT due to the classification of universality classes (this is the subject of the [LG/CFT correspondence](http://therisingsea.org/notes/talk-lgcft.pdf)).
 
@@ -59,9 +59,15 @@ Jargon
 
 The learning behaviour of singular models is dominated by the geometry of singularities. Moreover, the structure of phases and phase transitions encountered during training are dominated by singularities of level sets of the loss function. We can build scalable devices that provide useful signatures of these singularities, and thus of the "knowledge" they contain.
 
-The motivating example of this working in practice is solid state physics. Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique in solid state physics. There is no principled reason why analogous devices cannot be constructed for large-scale learning machines and there are clear paths to building them. Let us call them **spectroscopic probes**.
+The motivating example of this working in practice is solid state physics. Divergences in the density of states are responsible for many electrical properties of materials, and detecting these divergences by indirect probes (which look for example at differential conductance) is a key experimental technique. There is no principled reason why analogous devices cannot be constructed for large-scale learning machines. Let us call them **spectroscopic probes**.
 
-We assume that the true loss `L` is a sum of **sublosses** `L_i`, which we may view as arising from subdistributions of the true distribution (instances of addition within GPT's larger training/test set, for example). During training `w_0, w_1, ... ` we track the performance of the network on each of these sublosses, and sample checkpoints `w_{c0}, w_{c1}, ... ` at points of interest which include phase transitions in the sublosses. These checkpoints are passed to a separate analytics system which uses the spectroscopic probe to analyse the neighbourhood of each checkpoint.
+We assume that during training a series of points of interest are identified `w_0, w_1, ... ` and that these checkpoints are passed to a separate analytics system which uses the spectroscopic probe to analyse the neighbourhood of each checkpoint. How are these checkpoints selected? The general idea is to track a wide range of metrics across training, and watch them for phase transitions. These transitions contribute checkpoints.
+
+* **Sublosses:** The true loss `L` could be a sum of **sublosses** `L_i`, which we may view as arising from subdistributions of the true distribution (instances of addition within GPT's larger training/test set, for example).
+
+* **Evaluations:** There is likely to be a growing library of open source evaluations of LLM performance (see OpenAI's [Eval]s(https://github.com/openai/evals)).
+
+* **Latent knowledge:** it is possible to extract from middle layers representations that are indicate an [understanding of logical structure](https://www.lesswrong.com/posts/L4anhrxjv8j2yRKKp/how-discovering-latent-knowledge-in-language-models-without) in text.
 
 **Work to be done:**
 
