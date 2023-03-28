@@ -5,15 +5,9 @@ description:
     Lightning unenlightened
 ---
 
-This document contains a research plan leading to applications of Singular Learning Theory (SLT) to AI alignment. There is an [FAQ](/align-faq). Some of the MSc and PhD students in Daniel Murfet's group at the University of Melbourne are working on aspects of this, but it's far too much for a small group. You should consider biting off a piece. We'll help!
+Leveraging the concepts of singularity theory, this program aims to discover the geometric and logical structures underlying the computations that determine a model's knowledge, allowing for a deeper understanding of the network's behavior and its consequences. By identifying and studying phase transitions encountered during training, which are large-scale changes in structure and symmetry, we hope to uncover the deep structure of knowledge and computations contained within these networks, leading to a new view of the fundamental nature of programs and more effective interpretability tools.
 
-> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations -- From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)"
-
-# Why should mathematicians work on Alignment?
-
-Take it from Demis Hassabis, [CEO of DeepMind](https://www.lesswrong.com/posts/SbAgRYo8tkHwhd9Qx/deepmind-the-podcast-excerpts-on-agi#_Avengers_assembled__for_AI_Safety__Pause_AI_development_to_prove_things_mathematically):
-
-> I always imagine that as we got closer to the sort of gray zone that you were talking about earlier, the best thing to do might be to pause the pushing of the performance of these systems so that you can analyze down to minute detail exactly and maybe even prove things mathematically about the system so that you know the limits and otherwise of the systems that you're building. At that point I think all the world's greatest minds should probably be thinking about this problem. So that was what I would be advocating to you know the Terence Tao’s of this world, the best mathematicians. Actually I've even talked to him about this—I know you're working on the Riemann hypothesis or something which is the best thing in mathematics but actually this is more pressing.
+We focus on phase transitions because (a) there is good evidence they are present in the training process of these networks and relate to the concepts represented in the network and (b) the divergences present at a phase transition should imply the existence of easily measured signals reflecting the aforementioned geometric and logical structures, which are otherwise invisible. The problem is to locate these transitions, learn how to probe them, and how to infer from those probes the underlying structures.
 
 # Interpretability via Universality
 
@@ -109,7 +103,7 @@ The relation among these three classes of objects is complex, and a full underst
 
 ### Programs as Singularities
 
-We understand how to represent traditional programs (e.g. Turing machines) as singularities in learning machines (see [here](http://therisingsea.org/notes/MSc-Waring.pdf)). That means that we can test the above ideas in a situation where we have the ground truth, by attempting to reverse-engineer structure of programs from structure of their singularities.
+For interpretability to succeed you need the right model for the computations within a network. Circuits or TMs or lambda terms are the wrong model; a new view of programs may be required. We understand how to represent traditional programs (e.g. Turing machines) as singularities in learning machines (see [here](http://therisingsea.org/notes/MSc-Waring.pdf)). That means that we can test the above ideas in a situation where we have the ground truth, by attempting to reverse-engineer structure of programs from structure of their singularities.
 
 ### The Locality Hypothesis
 
@@ -122,6 +116,10 @@ The most serious obstacle to building spectroscopic probes of singularities in l
 
 Note that when we speak of phases, we mean with respect to the sublosses discussed above. Firstly, because the overall loss does not undergo (discrete) phase transitions in large neural network training, and secondly because we only expect strong localisation for phase transitions in the sublosses.
 
-**References**:
+# Why should mathematicians work on Alignment?
 
-* [paper](https://arxiv.org/abs/2302.06600)
+Take it from Demis Hassabis, [CEO of DeepMind](https://www.lesswrong.com/posts/SbAgRYo8tkHwhd9Qx/deepmind-the-podcast-excerpts-on-agi#_Avengers_assembled__for_AI_Safety__Pause_AI_development_to_prove_things_mathematically):
+
+> I always imagine that as we got closer to the sort of gray zone that you were talking about earlier, the best thing to do might be to pause the pushing of the performance of these systems so that you can analyze down to minute detail exactly and maybe even prove things mathematically about the system so that you know the limits and otherwise of the systems that you're building. At that point I think all the world's greatest minds should probably be thinking about this problem. So that was what I would be advocating to you know the Terence Tao’s of this world, the best mathematicians. Actually I've even talked to him about this—I know you're working on the Riemann hypothesis or something which is the best thing in mathematics but actually this is more pressing.
+
+> Our ability to make lots of useful observations depends on measurement tools, or lenses, that make visible things which are invisible, either by overcoming the physical limitations of our sense organs or our cognitive limitations to interpret raw data. This can be a major bottleneck to scientific progress, a prototypical example being the invention of the microscope, which was a turning point for our ability to study the natural world. The lenses that currently exist for interpretability are still quite crude, and expanding the current suite of tools, as well as building places to explore and visualize neural networks using those tools, seems critical for making lots of high bit observations -- From "[Searching for search](https://www.lesswrong.com/posts/FDjTgDcGPc7B98AES/searching-for-search-4)"
