@@ -84,6 +84,11 @@ Upcoming readings and discussions:
   "Designing ecosystems of intelligence from first principles",
   [arXiv](https://arxiv.org/abs/2212.01354)
 
+* **2023.04.06:**
+  Collin Burns *et al.*, <!--Haotian Ye, Dan Klein, Jacob Steinhardt-->
+  2022,
+  "Discovering latent knowledge in language models without supervision",
+  [arXiv](https://arxiv.org/abs/2212.03827)
 
 
 * **TBD:**
