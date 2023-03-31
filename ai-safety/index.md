@@ -70,26 +70,11 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.03.23:**
-  Thomas Parr, Giovanni Pezzulo, Karl J. Friston,
-  2022,
-   *Active Inference: The Free Energy Principle in Mind, Brain, and
-   Behavior*,
-   chapters 1--3.
-   [MIT Press](https://doi.org/10.7551/mitpress/12441.001.0001).
-
-* **2023.03.30:**
-  Karl J. Friston *et al.*,
-  2022,
-  "Designing ecosystems of intelligence from first principles",
-  [arXiv](https://arxiv.org/abs/2212.01354)
-
 * **2023.04.06:**
-  Collin Burns *et al.*, <!--Haotian Ye, Dan Klein, Jacob Steinhardt-->
+  Collin Burns *et al.*,
   2022,
   "Discovering latent knowledge in language models without supervision",
-  [arXiv](https://arxiv.org/abs/2212.03827)
-
+  [arXiv](https://arxiv.org/abs/2212.03827).
 
 * **TBD:**
   Paul Christiano *et al.*,
@@ -111,6 +96,20 @@ Upcoming readings and discussions:
 
 
 Past readings and discussions (most recent first):
+
+* **2023.03.30:**
+  Karl J. Friston *et al.*,
+  2022,
+  "Designing ecosystems of intelligence from first principles",
+  [arXiv](https://arxiv.org/abs/2212.01354).
+
+* **2023.03.23:**
+  Thomas Parr, Giovanni Pezzulo, Karl J. Friston,
+  2022,
+  *Active Inference: The Free Energy Principle in Mind, Brain, and
+  Behavior*,
+  chapters 1--3.
+  [MIT Press](https://doi.org/10.7551/mitpress/12441.001.0001).
 
 * **2023.03.16:**
   Ethan Perez *et al.*,
@@ -284,15 +283,4 @@ Sources of readings (clearly with much mutual overlap):
 * The old 80kh AI safety
   [syllabus](https://80000hours.org/articles/ai-safety-syllabus/)
   and links therein (esp. EA Cambridge syllabus).
-
-
-Past readings
--------------
-
-
-
-
-
-
-
 
