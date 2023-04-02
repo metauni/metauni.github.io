@@ -9,6 +9,8 @@ Leveraging the concepts of singularity theory, this program aims to discover the
 
 We focus on phase transitions because (a) there is good evidence they are present in the training process of these networks and relate to the concepts represented in the network and (b) the divergences present at a phase transition should imply the existence of easily measured signals reflecting the aforementioned geometric and logical structures, which are otherwise invisible. The problem is to locate these transitions, learn how to probe them, and how to infer from those probes the underlying structures.
 
+Notes from a recent talk explaining the contents of this document: [SLT 4 Alignment](http://therisingsea.org/notes/SLT4Alignment-1.pdf).
+
 # Interpretability via Universality
 
 We describe an approach to scalable interpretability of neural networks based on SLT and the
