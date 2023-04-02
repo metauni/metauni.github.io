@@ -5,11 +5,8 @@ description:
     Workshop on SLT and Alignment
 ---
 
-[Announcement](https://www.lesswrong.com/posts/HtxLbGvD7htCybLmZ/singularities-against-the-singularity-announcing-workshop-on)
+This is the webpage for the 2023 conference "Singularities against the Singularity" in Berkeley, CA. For further information see the [announcement](https://www.lesswrong.com/posts/HtxLbGvD7htCybLmZ/singularities-against-the-singularity-announcing-workshop-on) and the page for [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfehQkokQeTd9KzRRhw9QsjNB25iOuTOrEeA-V93OW0zsUnlg/viewform?usp=sf_link).
 
-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSfehQkokQeTd9KzRRhw9QsjNB25iOuTOrEeA-V93OW0zsUnlg/viewform?usp=sf_link)
-
-[notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf)
 
 ## The Primer
 
