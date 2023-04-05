@@ -26,6 +26,7 @@ whats on:
     desc: "The seminar for everyone. *This week* Billy Hibbard - Comments on parenting (on Zoom)."
     website: https://metauni.org/anythingatall
     location: https://unimelb.zoom.us/j/85458350250?pwd=QlVHc1FadGM5aFhuSkhoMTN6R3Ztdz09
+whats off:
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
@@ -35,7 +36,6 @@ whats on:
     #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
     #pocket: Gemini Pulsar 1
     #location: "#General"
-whats off:
 - Disruption:
     time: 10:00-11:30
     organizer: Adam Dorr
