@@ -27,7 +27,6 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **30-3-23** (*Dan Murfet*): SLT and Alignment Pt 2
 * **6-4-23** (*Rohan Hitchcock*): Induction heads
 * **TBD** (*Russell Goyder*): Saxe et al
 
@@ -52,7 +51,8 @@ Some topics and papers to be discussed:
 * **2-3-23** (*Samuel Jolly*): Toy models of superposition and SLT ([video](https://youtu.be/QWanKcCkFS8), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2023), [transcript](https://metauniservice.com/transcript?videoID=QWanKcCkFS8))
 * **9-3-23** (*Dan Murfet*): SLT and Alignment Pt 1 ([video](https://youtu.be/6LULirDt8Qw), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2024), [transcript](https://metauniservice.com/transcript?videoID=6LULirDt8Qw))
 * **16-3-23** (*Edmund Lau*): Occam's razor following Balasubramanian ([video](https://youtu.be/civbL6SAXS0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2025), [transcript](https://metauniservice.com/transcript?videoID=civbL6SAXS0))
-* **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2
+* **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2 ([video](https://youtu.be/cJ6tdhOpUSE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2027), [transcript](https://metauniservice.com/transcript?videoID=cJ6tdhOpUSE)
+* **30-3-23** (*Dan Murfet*): SLT and Alignment Pt 2 ([video](https://youtu.be/MaqXwDzPm_0), [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2028), [transcript](https://metauniservice.com/transcript?videoID=MaqXwDzPm_0))
 
 ### 2022
 
