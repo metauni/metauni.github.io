@@ -14,18 +14,18 @@ whats on:
     desc: "Exploring math education with GPT4."
     website: https://metauni.org/euclid
     location: "#General"
-- Anything At All:
-    time: 13:00-14:30
-    organizer: Various
-    desc: "The seminar for everyone. *This week* Billy Hibbard - Comments on parenting."
-    website: https://metauni.org/anythingatall
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 15:00-16:30
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Rohan Hitchcock - Induction Heads."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2029
+- Anything At All:
+    time: 16:30-17:30
+    organizer: Various
+    desc: "The seminar for everyone. *This week* Billy Hibbard - Comments on parenting (on Zoom)."
+    website: https://metauni.org/anythingatall
+    location: https://unimelb.zoom.us/j/85458350250?pwd=QlVHc1FadGM5aFhuSkhoMTN6R3Ztdz09
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
