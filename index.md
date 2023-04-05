@@ -32,12 +32,12 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### March 30, 2023
+### April 06, 2023
 * **[Neuro](https://metauni.org/neuro)** **09:00-10:00** (*Tom Burns*): Geometry, topology and algebra in your brain. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[EuclidGPT](https://metauni.org/euclid)** **11:30-12:00** (*Dan Murfet, Ken Chan*): Exploring math education with GPT4.
-* **[Anything At All](https://metauni.org/anythingatall)** **15:00-16:00** (*Various*): The seminar for everyone. *This week* Alok Singh - Closed curves are polygons, really. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan Murfet - SLT and Alignment Pt 2. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2028)
-* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* On Friston's Active Inference and the Free Energy Principle Pt 2. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[EuclidGPT](https://metauni.org/euclid)** **10:30-11:00** (*Dan Murfet, Ken Chan*): Exploring math education with GPT4.
+* **[Anything At All](https://metauni.org/anythingatall)** **13:00-14:30** (*Various*): The seminar for everyone. *This week* Billy Hibbard - Comments on parenting. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Singular Learning Theory](https://metauni.org/slt)** **15:00-16:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Rohan Hitchcock - Induction Heads. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2029)
+* **[AI Safety](https://metauni.org/ai-safety)** **21:00-22:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week* Discovering latent knowledge in language models without supervision. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
 <!-- END WHATS ON -->
 
