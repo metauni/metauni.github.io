@@ -1,5 +1,5 @@
-metauni day: "30/03/2023" # dd/mm/yyyy
-timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
+metauni day: "06/04/2023" # dd/mm/yyyy
+timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - Neuro:
@@ -9,27 +9,27 @@ whats on:
     website: https://metauni.org/neuro
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - EuclidGPT:
-    time: 11:30-12:00
+    time: 10:30-11:00
     organizer: Dan Murfet, Ken Chan
     desc: "Exploring math education with GPT4."
     website: https://metauni.org/euclid
     location: "#General"
 - Anything At All:
-    time: 15:00-16:00
+    time: 13:00-14:30
     organizer: Various
-    desc: "The seminar for everyone. *This week* Alok Singh - Closed curves are polygons, really."
+    desc: "The seminar for everyone. *This week* Billy Hibbard - Comments on parenting."
     website: https://metauni.org/anythingatall
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
-    time: 16:00-17:30
+    time: 15:00-16:30
     organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Dan Murfet - SLT and Alignment Pt 2."
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Rohan Hitchcock - Induction Heads."
     website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2028
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2029
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
-    desc: "reading group on technical and philosophical topics in AI safety. *This week* On Friston's Active Inference and the Free Energy Principle Pt 2."
+    desc: "reading group on technical and philosophical topics in AI safety. *This week* Discovering latent knowledge in language models without supervision."
     website: https://metauni.org/ai-safety
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
     #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
