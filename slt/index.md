@@ -29,6 +29,7 @@ Some other introductory references:
 
 * **6-4-23** (*Rohan Hitchcock*): Induction heads
 * **13-4-23** (*Eric Michaud*): The Quantization Model of Neural Scaling ([paper](https://arxiv.org/abs/2303.13506))
+* **20-4-23** (*Zhongtian Chen*): Jet schemes of monomial ideals
 
 Some topics and papers to be discussed:
 
