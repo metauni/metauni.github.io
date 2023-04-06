@@ -28,7 +28,7 @@ Some other introductory references:
 ## Upcoming seminars
 
 * **6-4-23** (*Rohan Hitchcock*): Induction heads
-* **TBD** (*Russell Goyder*): Saxe et al
+* **13-4-23** (*Eric Michaud*): The Quantization Model of Neural Scaling ([paper](https://arxiv.org/abs/2303.13506))
 
 Some topics and papers to be discussed:
 
