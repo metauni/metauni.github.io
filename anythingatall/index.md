@@ -21,7 +21,6 @@ Two important parts of the metauni community are sharing ideas (benefits the aud
 
 To propose a talk, post in `#anything-at-all` on the metauni Discord.
 
-* **30-3-23** (*Alok Singh*): More!
 * **6-4-23** (*Billy Hibbard*): Taking Children Seriously
 * **13-4-23** (*Russell Goyder*): Algebra of the Sun Pt 2
 
@@ -34,4 +33,5 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM), [transcript](https://metauniservice.com/transcript?videoID=GzPDuliK9mM))
 * **2-3-23** (*Billy Hibbard*): On homeschooling ([video](https://youtu.be/6nYXsbZKRlQ), [transcript](https://metauniservice.com/transcript?videoID=6nYXsbZKRlQ))
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music) ([video](https://youtu.be/WmsXyUjZGHs), [transcript](https://metauniservice.com/transcript?videoID=WmsXyUjZGHs))
-* **23-3-23** (*Russell Goyder*): Algebra of the Sun
+* **23-3-23** (*Russell Goyder*): Algebra of the Sun ([video](https://youtu.be/gO77fMRwn5E))
+* **30-3-23** (*Alok Singh*): Closed curves are polygons, really
