@@ -9,7 +9,7 @@ Leveraging the concepts of singularity theory, this program aims to discover the
 
 We focus on phase transitions because (a) there is good evidence they are present in the training process of these networks and relate to the concepts represented in the network and (b) the divergences present at a phase transition should imply the existence of easily measured signals reflecting the aforementioned geometric and logical structures, which are otherwise invisible. The problem is to locate these transitions, learn how to probe them, and how to infer from those probes the underlying structures.
 
-The approach is summarised in the following seminar (with [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf))
+The program is grounded in [Singular Learning Theory](https://www.metauni.org/slt) and is summarised in the following seminar (with [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf))
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/MaqXwDzPm_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
