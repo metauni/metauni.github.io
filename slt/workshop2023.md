@@ -33,8 +33,8 @@ Each day is organised around a general theme, with the final day culminating in 
 ### SLT High Road
 
 * **SLT High 1** (*Dan Murfet*): Welcome and introduction, survey of the Primer
-* **SLT High 2**: Phases, free energy formula, phase transitions in `n` and the true distribution
-* **SLT High 3**: Definitions of and intuitions for the RLCT, volume codimension, `E[nL_n(w)]`, examples
+* **SLT High 2** (*Dan Murfet*): Phases, free energy formula, phase transitions in `n` and the true distribution
+* **SLT High 3** (*Edmund Lau*): Definitions of and intuitions for the RLCT, volume codimension, `E[nL_n(w)]`, examples
 * **SLT High 4** (*Edmund Lau*): Myths, SGD is not Langevin, Flatness, Laplace, etc
 * **SLT High 5** (*Dan Murfet*): Complex vs simple, logic of phase transitions, effective learning curves, "phase structure is geometry of level sets"
 
@@ -44,15 +44,15 @@ Each day is organised around a general theme, with the final day culminating in 
 * **SLT Low 2** (*Liam Carroll*): Phase transitions in toy ReLU networks
 * **SLT Low 3** (*Zhongtian Chen*): Introduction to Algebraic Geometry I, resolution of singularities
 * **SLT Low 4** (*Dan Murfet*): Introduction to Algebraic Geometry II, singularities and Density of States
-* **SLT Low 5**: Sketch of derivation of Free Energy Formula (i.e. p.31 of gray book)
+* **SLT Low 5** (*Zhongtian Chen*): Sketch of derivation of Free Energy Formula (i.e. p.31 of gray book)
 
 ### Physics
 
 * **Physics 1** (*Jesse Hoogland*): The Physics of Intelligence: from Classical to Singular Learning Theory
-* **Physics 2**: Statistical mechanics, Boltzmann distribution, free energy, phases and phase transitions
+* **Physics 2** (*Jesse Hoogland*): Statistical mechanics, Boltzmann distribution, free energy, phases and phase transitions
 * **Physics 3** (*Dan Murfet*): Density of states in solid state physics, van Hove singularities
-* **Physics 4**: Singularities and nonlinear dynamics (following e.g. Strogatz)
-* **Physics 5**: Critical phenomena and universality
+* **Physics 4** (*Jesse Hoogland*): Singularities and nonlinear dynamics (following e.g. Strogatz)
+* **Physics 5** (*??*): Critical phenomena and universality (speaker TBC)
 
 ### Alignment and Mechanistic Interpretability
 
