@@ -71,3 +71,14 @@ The SLT "low road" looks at detailed examples and calculations and sketches of h
 
 * The [metauni SLT seminar](https://www.metauni.org/slt).
 * The [SLT for Alignment](https://www.metauni.org/slt/align) page.
+
+# Week 2
+
+The second week of the workshop is for discussing open problems, collaboration and more mathematical details beyond the introductions in the first week.
+
+* (*Liam Carroll*) The MCMC life
+* (*Dan Murfet*) Programs as Singularities - structure vs structure
+* Open Problem sessions
+* Toy Models of Superposition
+* Analytic to algebraic for 1-layer tanh (?)
+* Exercise sessions
