@@ -83,3 +83,4 @@ The second week of the workshop is for discussing open problems, collaboration a
 * Analytic to algebraic for 1-layer tanh (?)
 * Exercise sessions
 * The plan
+* Singular structure inference vs circuit inference (e.g. [causal scrubbing](https://www.lesswrong.com/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing), [looking for circuits](https://www.alignmentforum.org/posts/XNjRwEX9kxbpzWFWd/200-cop-in-mi-looking-for-circuits-in-the-wild)).
