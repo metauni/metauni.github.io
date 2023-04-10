@@ -10,17 +10,60 @@ This is the webpage for the 2023 conference "Singularities against the Singulari
 
 ## The Primer
 
-In the first week of the workshop we will give primers in SLT and Alignment, covering the following topics. This is a provisional list, subject to lots of change:
+The aim of the Primer is to give a general introduction to Singular Learning Theory (SLT) and related areas of mathematics and physics, with the aim of providing a foundation for theoretical and experimental work on AI alignment. More concretely, we aim to explain the **Free Energy Formula** derived by Watanabe, what its terms mean, how to apply it to understand the phase structure of a learning machine, and how to derive intuition for the resulting picture from physics.
 
-- **Thermodynamics** (following Callen) [ 3 hours ] Macroscopic observables, free energy, phases, phase transitions, microcanonical / canonical ensembles, Boltzmann distributions, generalised susceptibilities.
-- **Catastrophe theory** (following Gilmore "Catastrophe theory for scientists and engineers") [ 2 hours ] The basics of function germs, splitting lemma, deformations plus phase transitions in Ch. 10, attempting to bridge the thermo story with the geometry store in a "hands on, I can do calculations" form (rather than "go read Hartshorne")
-- **SLT high road**: [ 4 hours ] Big picture, regular vs singular, no to flatness etc., Free Energy Formula and how to use it, phase transitions, overall structure, current status (i.e. WBIC paper / green book vs gray book, open problems, what is known and unknown)
-- **SLT low road**: [ 4 hours ] Some well-chosen detailed proofs, getting one's hands onto the math. Maybe going in some detail with 1-layer tanh all the way from KL divergence to the equivalent polynomial, to illustrate how the singularities arise. Maybe this includes background in Mellin transforms etc. etc.
-- **Experiments**: What you need to know to run experiments (MCMC, estimating RLCTs) ? Ideally should involve releasing some preliminary library of tools on GitHub + invitation for participants to hack on it over the week
-- **Intro to Alignment**:
-- **Intro to Interpretability**:
+| Time          | Monday | Tuesday | Wednesday | Thursday | Friday |
+|---------------|--------|---------|-----------|----------|--------|
+| 9:00-10:00     | Welcome / SLT High 1 | SLT High 2 | SLT High 3 | SLT High 4 | SLT High 5 |
+| 10:30-11:00    | break  | break   | break     | break    | break  |
+| 11:00-12:00    | SLT Low 1 | SLT Low 2 | SLT Low 3 | SLT Low 4 | SLT Low 5 |
+| 12:00-1:30     | lunch  | lunch   | lunch     | lunch    | lunch  |
+| 1:30-3:00      | Physics 1 | Physics 2 | Physics 3 | Physics 4 | Physics 5 |
+| 3:00-3:30      | break  | break   | break     | break    | break  |
+| 3:30-4:30      | Alignment 1 | Alignment 2 | Mech interp 1 | Mech interp 2 | Wrapup |
 
-## Resources
+Each day is organised around a general theme, with the final day culminating in a sketch of the derivation of the Free Energy Formula.
+
+* **Monday**: Introduction
+* **Tuesday**: Phases and phase transitions
+* **Wednesday**: Geometry and RLCTs
+* **Thursday**: Loss landscape
+* **Friday**: The Picture
+
+### SLT High Road
+
+* **SLT High 1** (*Dan Murfet*): Welcome and introduction, survey of the Primer
+* **SLT High 2**: Phases, free energy formula, phase transitions in `n` and the true distribution
+* **SLT High 3**: Definitions of and intuitions for the RLCT, volume codimension, `E[nL_n(w)]`, examples
+* **SLT High 4** (*Edmund Lau*): Myths, SGD is not Langevin, Flatness, Laplace, etc
+* **SLT High 5** (*Dan Murfet*): Complex vs simple, logic of phase transitions, effective learning curves, "phase structure is geometry of level sets"
+
+### SLT Low Road
+
+* **SLT Low 1** (*Edmund Lau*): Introduction to Bayesian probability, Bayesian posterior and model selection, regular vs singular
+* **SLT Low 2** (*Liam Carroll*): Phase transitions in toy ReLU networks
+* **SLT Low 3** (*Zhongtian Chen*): Introduction to Algebraic Geometry I, resolution of singularities
+* **SLT Low 4** (*Dan Murfet*): Introduction to Algebraic Geometry II, singularities and Density of States
+* **SLT Low 5**: Sketch of derivation of Free Energy Formula (i.e. p.31 of gray book)
+
+### Physics
+
+* **Physics 1** (*Jesse Hoogland*): The Physics of Intelligence: from Classical to Singular Learning Theory
+* **Physics 2**: Statistical mechanics, Boltzmann distribution, free energy, phases and phase transitions
+* **Physics 3** (*Dan Murfet*): Density of states in solid state physics, van Hove singularities
+* **Physics 4**: Singularities and nonlinear dynamics (following e.g. Strogatz)
+* **Physics 5**: Critical phenomena and universality
+
+### Alignment and Mechanistic Interpretability
+
+* **Alignment 1**
+* **Alignment 2**
+* **Mech interp 1**
+* **Mech interp 2**
+
+### References
+
+* For thermodynamics, we recommend Callen, H. B. (1985). Thermodynamics and an introduction to thermostatistics (2nd ed.). John Wiley & Sons.
 
 * The [metauni SLT seminar](https://www.metauni.org/slt).
 * The [SLT for Alignment](https://www.metauni.org/slt/align) page.
