@@ -82,3 +82,4 @@ The second week of the workshop is for discussing open problems, collaboration a
 * Toy Models of Superposition
 * Analytic to algebraic for 1-layer tanh (?)
 * Exercise sessions
+* The plan
