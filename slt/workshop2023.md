@@ -32,6 +32,8 @@ Each day is organised around a general theme, with the final day culminating in 
 
 ### SLT High Road
 
+The SLT "high road" explains the conceptual toolkit and how to use it to reason about learning machines, leaving the proofs and details for later ("just tell me why it's useful to know this").
+
 * **SLT High 1** (*Dan Murfet*): Welcome and introduction, survey of the Primer
 * **SLT High 2** (*Dan Murfet*): Phases, free energy formula, phase transitions in `n` and the true distribution
 * **SLT High 3** (*Edmund Lau*): Definitions of and intuitions for the RLCT, volume codimension, `E[nL_n(w)]`, examples
@@ -39,6 +41,8 @@ Each day is organised around a general theme, with the final day culminating in 
 * **SLT High 5** (*Dan Murfet*): Complex vs simple, logic of phase transitions, effective learning curves, "phase structure is geometry of level sets"
 
 ### SLT Low Road
+
+The SLT "low road" looks at detailed examples and calculations and sketches of how the mathematical theory fits together ("show me how it works in an example").
 
 * **SLT Low 1** (*Edmund Lau*): Introduction to Bayesian probability, Bayesian posterior and model selection, regular vs singular
 * **SLT Low 2** (*Liam Carroll*): Phase transitions in toy ReLU networks
