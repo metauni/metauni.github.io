@@ -1,4 +1,4 @@
-metauni day: "06/04/2023" # dd/mm/yyyy
+metauni day: "13/04/2023" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -15,33 +15,33 @@ whats on:
     website: https://metauni.org/euclid
     location: "#General"
 - Singular Learning Theory:
-    time: 15:00-16:30
+    time: 11:00-12:30
     organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Rohan Hitchcock - Induction Heads."
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Eric Michaud on Quantisation and Scaling Laws."
     website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2029
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2030
+- Disruption:
+    time: 12:30-14:00
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Anything At All:
     time: 16:30-17:30
     organizer: Various
-    desc: "The seminar for everyone. *This week* Billy Hibbard - Comments on parenting (on Zoom)."
+    desc: "The seminar for everyone. *This week* Russell Goyder, Algebra of the Sun Pt 2."
     website: https://metauni.org/anythingatall
     location: https://unimelb.zoom.us/j/85458350250?pwd=QlVHc1FadGM5aFhuSkhoMTN6R3Ztdz09
-whats off:
 - AI Safety:
     time: 21:00-22:00
     organizer: Matthew Farrugia-Roberts
-    desc: "reading group on technical and philosophical topics in AI safety. *This week* Discovering latent knowledge in language models without supervision."
+    desc: "reading group on technical and philosophical topics in AI safety. *This week:* Discovering latent knowledge in language models without supervision"
     website: https://metauni.org/ai-safety
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
     #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
     #pocket: Gemini Pulsar 1
     #location: "#General"
-- Disruption:
-    time: 10:00-11:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. *This week*: Framing and language models."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+whats off:
 - "#metauni-dev":
      time: 22:00-23:00
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
