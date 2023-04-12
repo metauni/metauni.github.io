@@ -20,14 +20,8 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Eric Michaud on Quantisation and Scaling Laws."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2030
-- Disruption:
-    time: 12:30-14:00
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Anything At All:
-    time: 16:30-17:30
+    time: 12:30-13:30
     organizer: Various
     desc: "The seminar for everyone. *This week* Russell Goyder, Algebra of the Sun Pt 2."
     website: https://metauni.org/anythingatall
@@ -42,6 +36,12 @@ whats on:
     #pocket: Gemini Pulsar 1
     #location: "#General"
 whats off:
+- Disruption:
+    time: 12:30-14:00
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - "#metauni-dev":
      time: 22:00-23:00
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
