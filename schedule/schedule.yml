@@ -3,16 +3,10 @@ timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
 - Disruption:
-    time: 08:00-09:00
+    time: 08:00-09:30
     organizer: Adam Dorr
     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- Neuro:
-    time: 09:00-10:30
-    organizer: Tom Burns
-    desc: "Geometry, topology and algebra in your brain."
-    website: https://metauni.org/neuro
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - EuclidGPT:
     time: 10:30-11:00
@@ -20,6 +14,12 @@ whats on:
     desc: "Exploring math education with GPT4 (in Discord)."
     website: https://metauni.org/euclid
     location: "#General"
+- Neuro:
+    time: 14:30-16:00
+    organizer: Tom Burns
+    desc: "Geometry, topology and algebra in your brain."
+    website: https://metauni.org/neuro
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
