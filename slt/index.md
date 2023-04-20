@@ -27,9 +27,7 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **6-4-23** (*Rohan Hitchcock*): Induction heads
-* **13-4-23** (*Eric Michaud*): The Quantization Model of Neural Scaling ([paper](https://arxiv.org/abs/2303.13506))
-* **20-4-23** (*Zhongtian Chen*): Jet schemes of monomial ideals
+* **27-4-23** (*Dan Murfet*): [Primer](https://metauni.org/slt/workshop2023) planning session
 
 Some topics and papers to be discussed:
 
@@ -54,6 +52,9 @@ Some topics and papers to be discussed:
 * **16-3-23** (*Edmund Lau*): Occam's razor following Balasubramanian ([video](https://youtu.be/civbL6SAXS0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2025), [transcript](https://metauniservice.com/transcript?videoID=civbL6SAXS0))
 * **23-3-23** (*Ben Gerraty*): Toy models of superposition Pt 2 ([video](https://youtu.be/cJ6tdhOpUSE), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2027), [transcript](https://metauniservice.com/transcript?videoID=cJ6tdhOpUSE)
 * **30-3-23** (*Dan Murfet*): SLT and Alignment Pt 2 ([video](https://youtu.be/MaqXwDzPm_0), [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2028), [transcript](https://metauniservice.com/transcript?videoID=MaqXwDzPm_0))
+* **6-4-23** (*Rohan Hitchcock*): Induction heads ([video](https://youtu.be/eCQWIla-TSY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2029), [transcript](https://metauniservice.com/transcript?videoID=eCQWIla-TSY))
+* **13-4-23** (*Eric Michaud*): The Quantization Model of Neural Scaling ([paper](https://arxiv.org/abs/2303.13506))
+* **20-4-23** (*Zhongtian Chen*): Jet schemes of monomial ideals
 
 ### 2022
 
