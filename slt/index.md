@@ -28,6 +28,7 @@ Some other introductory references:
 ## Upcoming seminars
 
 * **27-4-23** (*Dan Murfet*): [Primer](https://metauni.org/slt/workshop2023) planning session
+* **25-5-23** (*Neel Nanda*): Mechanistic Interpretability
 
 Some topics and papers to be discussed:
 
