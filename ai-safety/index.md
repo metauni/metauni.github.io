@@ -70,11 +70,17 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.04.06:**
-  Collin Burns *et al.*,
+* **2023.04.27:**
+  Erik Jenner,
+  2023,
+  "Research agenda: Formalizing abstractions of computations".
+  [lesswrong](https://www.lesswrong.com/posts/L8LHBTMvhLDpxDaqv/research-agenda-formalizing-abstractions-of-computations-1).
+
+* **2023.05.04:**
+  Joar Skalse *et al.*, 
   2022,
-  "Discovering latent knowledge in language models without supervision",
-  [arXiv](https://arxiv.org/abs/2212.03827).
+  "Defining and characterizing reward hacking".
+  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
 
 * **TBD:**
   Paul Christiano *et al.*,
@@ -88,14 +94,22 @@ Upcoming readings and discussions:
   "Complex value systems are required to realize valuable futures".
   MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
 
-* **TBD:**
-  Joar Skalse *et al.*, 
-  2022,
-  "Defining and characterizing reward hacking".
-  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
-
 
 Past readings and discussions (most recent first):
+
+* **2023.04.20:**
+  Bai *et al.*,
+  2022,
+  "Consitutional AI: Harmlessness from AI feedback".
+  [arXiv](https://arxiv.org/abs/2212.08073);
+  Discussion led by Dan.
+
+* **2023.04.06:**
+  Collin Burns *et al.*,
+  2022,
+  "Discovering latent knowledge in language models without supervision",
+  [arXiv](https://arxiv.org/abs/2212.03827).
+  Discussion led by Dan.
 
 * **2023.03.30:**
   Karl J. Friston *et al.*,
@@ -113,6 +127,7 @@ Past readings and discussions (most recent first):
 
 * **2023.03.16:**
   Ethan Perez *et al.*,
+  2022,
   "Discovering language model behaviors with model-written evaluations".
   [arXiv](https://arxiv.org/abs/2212.09251).
   Discussion led by Dan.
