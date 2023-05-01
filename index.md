@@ -35,7 +35,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 ### May 04, 2023
 * **[Disruption](https://metauni.org/disruption)** **08:00-09:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[AI Safety](https://metauni.org/ai-safety)** **10:00-11:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week*: Formalizing abstractions of computations. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Code](https://metauni.org/code)** **16:00-17:30** (*Ethan Curtiss, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on galaxy brained UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Code](https://metauni.org/code)** **16:00-17:30** (*Ethan Curtiss, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 
 <!-- END WHATS ON -->
 
