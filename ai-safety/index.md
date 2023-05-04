@@ -70,17 +70,11 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.04.27:**
-  Erik Jenner,
+* **2023.05.11:**
+  Alan Chan *et al.*,
   2023,
-  "Research agenda: Formalizing abstractions of computations".
-  [lesswrong](https://www.lesswrong.com/posts/L8LHBTMvhLDpxDaqv/research-agenda-formalizing-abstractions-of-computations-1).
-
-* **2023.05.04:**
-  Joar Skalse *et al.*, 
-  2022,
-  "Defining and characterizing reward hacking".
-  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
+  "Harms from increasingly agentic algorithmic systems".
+  [arXiv](https://arxiv.org/abs/2302.10329).
 
 * **TBD:**
   Paul Christiano *et al.*,
@@ -96,6 +90,18 @@ Upcoming readings and discussions:
 
 
 Past readings and discussions (most recent first):
+
+* **2023.05.04:**
+  Joar Skalse *et al.*, 
+  2022,
+  "Defining and characterizing reward hacking".
+  NeurIPS / [arXiv](https://arxiv.org/abs/2209.13085).
+
+* **2023.04.27:**
+  Erik Jenner,
+  2023,
+  "Research agenda: Formalizing abstractions of computations".
+  [lesswrong](https://www.lesswrong.com/posts/L8LHBTMvhLDpxDaqv/research-agenda-formalizing-abstractions-of-computations-1).
 
 * **2023.04.20:**
   Bai *et al.*,
