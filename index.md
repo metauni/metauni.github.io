@@ -32,16 +32,16 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### May 04, 2023
+### May 11, 2023
 * **[Disruption](https://metauni.org/disruption)** **08:00-09:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[AI Safety](https://metauni.org/ai-safety)** **10:00-11:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week*: Formalizing abstractions of computations. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Code](https://metauni.org/code)** **16:00-17:30** (*Ethan Curtiss, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[AI Safety](https://metauni.org/ai-safety)** **10:00-11:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. *This week*: Harms from increasingly agentic systems. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
 <!-- END WHATS ON -->
 
 ### What's off
 
 <!-- BEGIN WHATS OFF -->
+* **[Code](https://metauni.org/code)** **16:00-17:30** (*Ethan Curtiss, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Neuro](https://metauni.org/neuro)** **14:30-16:00** (*Tom Burns*): Geometry, topology and algebra in your brain. *This week*: AMA on neuroscience, math. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. *This week*: Primer planning. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2032)
 * **[EuclidGPT](https://metauni.org/euclid)** **10:30-11:00** (*Dan Murfet, Ken Chan*): Exploring math education with GPT4 (in Discord).
