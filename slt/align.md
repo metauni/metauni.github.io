@@ -1,15 +1,19 @@
 ---
 title:
-    SLT for Alignment
+    Singular Learning Theory for Alignment
 description:
     Lightning unenlightened
 ---
 
-Leveraging the concepts of singularity theory, this program aims to discover the geometric and logical structures underlying the computations that determine a model's knowledge, allowing for a deeper understanding of the network's behavior and its consequences. By identifying and studying phase transitions encountered during training, which are large-scale changes in structure and symmetry, we hope to uncover the deep structure of knowledge and computations contained within these networks, leading to a new view of the fundamental nature of programs and more effective interpretability tools.
+We aim to discover and understand the geometric and logical structures underlying the computations that are learned by large neural networks. Our approach to **discovery** is based on observing phase transitions in learning machines, theoretically grounded in [Singular Learning Theory](https://www.metauni.org/slt) (SLT). We focus on phase transitions because there is evidence that
 
-We focus on phase transitions because (a) there is good evidence they are present in the training process of these networks and relate to the concepts represented in the network and (b) the divergences present at a phase transition should imply the existence of easily measured signals reflecting the aforementioned geometric and logical structures, which are otherwise invisible. The problem is to locate these transitions, learn how to probe them, and how to infer from those probes the underlying structures.
+* phase transitions occur during the training process, and that
+* transitions correspond to changes in the computations encoded in the network parameter, and
+* the divergences associated to these phase transition imply the existence of measurable signals, which contain information about the aforementioned geometric and logical structures.
 
-The program is grounded in [Singular Learning Theory](https://www.metauni.org/slt) and is summarised in the following seminar (with [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf))
+The problem is to locate these transitions, learn how to probe them, learn how to infer from those probes the underlying structures and then synthesise this into an **understanding** of the computational content of the final trained network. In this way we hope to develop a mathematical foundation for scalable interpretability.
+
+The program is outlined in the following seminar (with [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf))
 <p align="center">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/MaqXwDzPm_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
