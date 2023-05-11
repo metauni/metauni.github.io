@@ -5,13 +5,12 @@ description:
     Lightning unenlightened
 ---
 
-We aim to discover and understand the geometric and logical structures underlying the computations that are learned by large neural networks. Our approach to **discovery** is based on observing phase transitions in learning machines, theoretically grounded in [Singular Learning Theory](https://www.metauni.org/slt) (SLT). We focus on phase transitions because there is evidence that
+We aim to discover and understand the geometric and logical structures underlying the computations that are learned by large neural networks. Our approach to **discovery** is based on observing phase transitions in learning machines, theoretically grounded in [Singular Learning Theory](https://www.metauni.org/slt) (SLT). We focus on phase transitions because there is evidence that phase transitions
 
-* phase transitions occur during the training process, and that
-* transitions correspond to changes in the computations encoded in the network parameter, and
-* the divergences associated to these phase transition imply the existence of measurable signals, which contain information about the aforementioned geometric and logical structures.
+* occur during the training process, and
+* correspond to changes in the computations encoded in the network
 
-The problem is to locate these transitions, learn how to probe them, learn how to infer from those probes the underlying structures and then synthesise this into an **understanding** of the computational content of the final trained network. In this way we hope to develop a mathematical foundation for scalable interpretability.
+The divergences associated to these phase transition imply the existence of measurable signals, which contain information about the aforementioned geometric and logical structures. The problem is to locate these transitions, learn how to probe them, learn how to infer from those probes the underlying structures and then synthesise this into an **understanding** of the computational content of the final trained network. In this way we hope to develop a mathematical foundation for scalable interpretability.
 
 The program is outlined in the following seminar (with [notes](http://therisingsea.org/notes/SLT4Alignment-1.pdf))
 <p align="center">
