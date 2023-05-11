@@ -70,11 +70,12 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.05.11:**
-  Alan Chan *et al.*,
+* **2023.05.18:**
+  Bills *et al.* of OpenAI,
   2023,
-  "Harms from increasingly agentic algorithmic systems".
-  [arXiv](https://arxiv.org/abs/2302.10329).
+  "Language models can explain neurons in language models".
+  [blog post](https://openai.com/research/language-models-can-explain-neurons-in-language-models),
+  [full paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html).
 
 * **TBD:**
   Paul Christiano *et al.*,
@@ -90,6 +91,12 @@ Upcoming readings and discussions:
 
 
 Past readings and discussions (most recent first):
+
+* **2023.05.11:**
+  Alan Chan *et al.*,
+  2023,
+  "Harms from increasingly agentic algorithmic systems".
+  [arXiv](https://arxiv.org/abs/2302.10329).
 
 * **2023.05.04:**
   Joar Skalse *et al.*, 
@@ -148,7 +155,7 @@ Past readings and discussions (most recent first):
   Guest speaker: [Tom Everitt](https://www.tomeveritt.se)
   (Location: Discord)
 
-* **2022.02.16:**
+* **2023.02.16:**
   Tom Everitt *et al.*,
   2021,
   "Agent incentives: A causal perspective".
