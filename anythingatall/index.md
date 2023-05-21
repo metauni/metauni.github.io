@@ -17,13 +17,6 @@ This is the seminar for everyone. Especially for new speakers and new audience m
 
 Two important parts of the metauni community are sharing ideas (benefits the audience) and practicing the act of communicating ideas (benefits the speaker). To speak you *do not* have to be an expert at giving talks, and talks should mostly be “no prerequisites”. If you’re thinking “I know about this topic and I want a reason to engage with it seriously and an opportunity to practicing presenting/explaining, but I don’t really know who would be interested enough to attend and I’m not very confident in my presentation skills” then you do it at this seminar.
 
-## Upcoming talks
-
-To propose a talk, post in `#anything-at-all` on the metauni Discord.
-
-* **6-4-23** (*Billy Hibbard*): Taking Children Seriously
-* **13-4-23** (*Russell Goyder*): Algebra of the Sun Pt 2
-
 ## Past talks
 
 * **19-1-23** (*Blake Barbeau aka [CorrivalRhyme](https://twitter.com/CorrivalRhyme)*): ArchViz in Virtual Worlds ([video](https://youtu.be/rZGAdaaq6C4), [transcript](https://metauniservice.com/transcript?videoID=rZGAdaaq6C4)).
@@ -34,4 +27,5 @@ To propose a talk, post in `#anything-at-all` on the metauni Discord.
 * **2-3-23** (*Billy Hibbard*): On homeschooling ([video](https://youtu.be/6nYXsbZKRlQ), [transcript](https://metauniservice.com/transcript?videoID=6nYXsbZKRlQ))
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music) ([video](https://youtu.be/WmsXyUjZGHs), [transcript](https://metauniservice.com/transcript?videoID=WmsXyUjZGHs))
 * **23-3-23** (*Russell Goyder*): Algebra of the Sun ([video](https://youtu.be/gO77fMRwn5E))
-* **30-3-23** (*Alok Singh*): Closed curves are polygons, really
+* **30-3-23** (*Alok Singh*): Closed curves are polygons, really ([video](https://youtu.be/7JdXlYbBMNo))
+* **13-4-23** (*Russell Goyder*): Algebra of the Sun Pt 2 ([video](https://youtu.be/w6-A_uJp15M))
