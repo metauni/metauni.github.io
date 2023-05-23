@@ -41,7 +41,7 @@ Some topics and papers to be discussed:
 
 ### 2023
 
-* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=rw23vmz2MF4))
+* **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=rw23vmz2MF4), [notes](https://github.com/russellgoyder/handwritten-notes/blob/main/Physical%20And%20Information%20Entropy%20-%20Russell%20Goyder%20-%20metauni%20-%20Nov%202022.pdf))
 * **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=TuFPGNBoOuM))
 * **2-2-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2 ([video](https://youtu.be/LG7b587q8T0), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=LG7b587q8T0))
 * **9-2-23** (*Dan Murfet*): Solid state physics and SLT Pt 1 ([video](https://youtu.be/Ut4gKDJsmro), [notes](http://www.therisingsea.org/notes/slt22.pdf), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2021), [transcript](https://metauniservice.com/transcript?videoID=Ut4gKDJsmro))
@@ -98,7 +98,7 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 * **1-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 2 ([video](https://youtu.be/eBdm1pPGsco), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket:Symbolic%20Wilds%2016)).
 * **8-12-22** (*Dan Murfet*): Jet schemes II ([video](https://youtu.be/kHfDyK43HKc), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2016), [transcript](https://metauniservice.com/transcript?videoID=kHfDyK43HKc)).
 * **15-12-22** (*Matt Farrugia-Roberts*): Overview of MSc thesis Pt 3 ([video](https://youtu.be/FngNdKxCIuY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2017)).
-* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=MFLQgCaijPk)).
+* **22-12-22** (*Russell Goyder*) Physical entropy vs information-theoretic entropy ([video](https://youtu.be/MFLQgCaijPk), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=MFLQgCaijPk), [notes](https://github.com/russellgoyder/handwritten-notes/blob/main/Physical%20And%20Information%20Entropy%20-%20Russell%20Goyder%20-%20metauni%20-%20Nov%202022.pdf)).
 
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
