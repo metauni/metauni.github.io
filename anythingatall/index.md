@@ -26,6 +26,6 @@ Two important parts of the metauni community are sharing ideas (benefits the aud
 * **16-2-23** (*Dan Murfet*): Free associating education ([video](https://youtu.be/GzPDuliK9mM), [transcript](https://metauniservice.com/transcript?videoID=GzPDuliK9mM))
 * **2-3-23** (*Billy Hibbard*): On homeschooling ([video](https://youtu.be/6nYXsbZKRlQ), [transcript](https://metauniservice.com/transcript?videoID=6nYXsbZKRlQ))
 * **9-3-23** (*[Will Troiani](https://williamtroiani.github.io)*): Story telling (in mathematics and music) ([video](https://youtu.be/WmsXyUjZGHs), [transcript](https://metauniservice.com/transcript?videoID=WmsXyUjZGHs))
-* **23-3-23** (*Russell Goyder*): Algebra of the Sun ([video](https://youtu.be/gO77fMRwn5E))
+* **23-3-23** (*Russell Goyder*): Algebra of the Sun ([video](https://youtu.be/gO77fMRwn5E), [paper](https://github.com/russellgoyder/sundial-latex/blob/main/RGoyderSundial.pdf))
 * **30-3-23** (*Alok Singh*): Closed curves are polygons, really ([video](https://youtu.be/7JdXlYbBMNo))
-* **13-4-23** (*Russell Goyder*): Algebra of the Sun Pt 2 ([video](https://youtu.be/w6-A_uJp15M))
+* **13-4-23** (*Russell Goyder*): Algebra of the Sun Pt 2 ([video](https://youtu.be/w6-A_uJp15M), [paper](https://github.com/russellgoyder/sundial-latex/blob/main/RGoyderSundial.pdf))
