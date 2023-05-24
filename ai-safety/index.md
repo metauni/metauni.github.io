@@ -70,12 +70,12 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.05.18:**
-  Bills *et al.* of OpenAI,
+* **2023.05.25:**
+  Wu *et al.*
   2023,
-  "Language models can explain neurons in language models".
-  [blog post](https://openai.com/research/language-models-can-explain-neurons-in-language-models),
-  [full paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html).
+  "Interpretability at scale: Identifying causal mechanisms in Alpaca".
+  [arXiv](https://arxiv.org/abs/2305.08809).
+
 
 * **TBD:**
   Paul Christiano *et al.*,
@@ -91,6 +91,13 @@ Upcoming readings and discussions:
 
 
 Past readings and discussions (most recent first):
+
+* **2023.05.18:**
+  Bills *et al.* of OpenAI,
+  2023,
+  "Language models can explain neurons in language models".
+  [blog post](https://openai.com/research/language-models-can-explain-neurons-in-language-models),
+  [full paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html).
 
 * **2023.05.11:**
   Alan Chan *et al.*,
