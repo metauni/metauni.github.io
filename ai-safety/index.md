@@ -70,27 +70,38 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.05.25:**
-  Wu *et al.*
-  2023,
-  "Interpretability at scale: Identifying causal mechanisms in Alpaca".
-  [arXiv](https://arxiv.org/abs/2305.08809).
+* **2023.06.01:** break week
 
+* **2023.06.08:**
+  Daniel S. Brown *et al.*,
+  2021,
+  "Value alignment verification".
+  ICML 2021 / [arXiv](https://arxiv.org/abs/2305.08809).
 
-* **TBD:**
+* **2023.06.15:**
+  Possibly another paper on identifying causal mechanisms in LLMs, TBA.
+
+* **Looking for volunteer to lead:**
   Paul Christiano *et al.*,
   2022,
   "Formalising the presumption of independence".
   [arXiv](https://arxiv.org/abs/2211.06738).
 
-* **TBD:**
+<!--
+* **At some point:**
   Eliezer Yudkowsky,
   2011,
   "Complex value systems are required to realize valuable futures".
   MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
-
+-->
 
 Past readings and discussions (most recent first):
+
+* **2023.05.25:**
+  Wu *et al.*
+  2023,
+  "Interpretability at scale: Identifying causal mechanisms in Alpaca".
+  [arXiv](https://arxiv.org/abs/2305.08809).
 
 * **2023.05.18:**
   Bills *et al.* of OpenAI,
