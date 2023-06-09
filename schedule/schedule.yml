@@ -1,4 +1,4 @@
-metauni day: "08/06/2023" # dd/mm/yyyy
+metauni day: "15/06/2023" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -18,9 +18,9 @@ whats on:
     #pocket: Gemini Pulsar 1
     #location: "#General"
 - NeuroInterp:
-    time: 15:30-17:00
+    time: 14:00-15:30
     organizer: Tom Burns
-    desc: "Neuroscience for AI interpretability. *This week*: Discreteness and continuity of neurons."
+    desc: "Neuroscience for AI interpretability."
     website: https://metauni.org/neuro
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 whats off:
