@@ -8,6 +8,13 @@ whats on:
     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- NeuroInterp:
+    time: 14:00-15:30
+    organizer: Tom Burns
+    desc: "Neuroscience for AI interpretability."
+    website: https://metauni.org/neuro
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+whats off:
 - AI Safety:
     time: 10:00-11:00
     organizer: Matthew Farrugia-Roberts
@@ -17,13 +24,6 @@ whats on:
     #location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3AGemini%20Pulsar%201
     #pocket: Gemini Pulsar 1
     #location: "#General"
-- NeuroInterp:
-    time: 14:00-15:30
-    organizer: Tom Burns
-    desc: "Neuroscience for AI interpretability."
-    website: https://metauni.org/neuro
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-whats off:
 - Singular Learning Theory:
     time: 10:00-11:00
     organizer: Dan Murfet, Edmund Lau
