@@ -27,19 +27,20 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* **25-5-23** (*Neel Nanda*): Mechanistic Interpretability
+* Open problems redux
+* Lottery tickets and locality
+* In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
 
 Some topics and papers to be discussed:
 
 * "[Scaling laws for reward model overoptimization](https://arxiv.org/abs/2210.10760)" L. Gao, J. Schulman, J. Hilton (played a role in the creation of ChatGPT).
 * "Statistical inference, Occam's razor, and statistical mechanics on the space of probability distributions" V. Balasubramanian.
-* "[Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html)" Anthropic.
 * "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * See this [survey of scaling laws](https://epochai.org/blog/scaling-laws-literature-review).
 
 ## Previous seminars
 
-### 2023
+### S1 2023
 
 * **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=rw23vmz2MF4), [notes](https://github.com/russellgoyder/handwritten-notes/blob/main/Physical%20And%20Information%20Entropy%20-%20Russell%20Goyder%20-%20metauni%20-%20Nov%202022.pdf))
 * **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 1 ([video](https://youtu.be/TuFPGNBoOuM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=TuFPGNBoOuM))
@@ -56,6 +57,7 @@ Some topics and papers to be discussed:
 * **13-4-23** (*Eric Michaud*): The Quantization Model of Neural Scaling ([paper](https://arxiv.org/abs/2303.13506))
 * **20-4-23** (*Zhongtian Chen*): Jet schemes of monomial ideals ([video](https://youtu.be/tfFMHDRstgM))
 * **27-4-23** (*Dan Murfet*): [Primer](https://metauni.org/slt/workshop2023) planning session
+* **25-5-23** (*Neel Nanda*): Mechanistic Interpretability
 
 ### 2022
 
