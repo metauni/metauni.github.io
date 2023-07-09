@@ -70,22 +70,30 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.06.01:** break week
-
 * **2023.06.08:**
   Daniel S. Brown *et al.*,
   2021,
   "Value alignment verification".
   ICML 2021 / [arXiv](https://arxiv.org/abs/2305.08809).
+  (Discussion part 1: definitions).
 
-* **2023.06.15:**
-  Possibly another paper on identifying causal mechanisms in LLMs, TBA.
+* **2023.07.13:**
+  Daniel S. Brown *et al.*,
+  2021,
+  "Value alignment verification".
+  ICML 2021 / [arXiv](https://arxiv.org/abs/2305.08809).
+  (Discussion part 2: results).
 
-* **Looking for volunteer to lead:**
+* **2023.07.20:**
   Paul Christiano *et al.*,
   2022,
   "Formalising the presumption of independence".
   [arXiv](https://arxiv.org/abs/2211.06738).
+
+* **2023.07.27:** Break for ICML.
+
+* **2023.08.03:** Resume (reading TBD).
+
 
 <!--
 * **At some point:**
