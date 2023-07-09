@@ -74,14 +74,14 @@ Upcoming readings and discussions:
   Daniel S. Brown *et al.*,
   2021,
   "Value alignment verification".
-  ICML 2021 / [arXiv](https://arxiv.org/abs/2305.08809).
+  ICML 2021 / [arXiv](https://arxiv.org/abs/2012.01557).
   (Discussion part 1: definitions).
 
 * **2023.07.13:**
   Daniel S. Brown *et al.*,
   2021,
   "Value alignment verification".
-  ICML 2021 / [arXiv](https://arxiv.org/abs/2305.08809).
+  ICML 2021 / [arXiv](https://arxiv.org/abs/2012.01557).
   (Discussion part 2: results).
 
 * **2023.07.20:**
