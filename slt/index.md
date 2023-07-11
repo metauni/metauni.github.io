@@ -30,6 +30,7 @@ Some other introductory references:
 * Open problems redux
 * Lottery tickets and locality
 * In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
+* Acquisition of chess knowledge in AlphaZero ([paoer](https://www.pnas.org/doi/10.1073/pnas.2206625119))
 
 Some topics and papers to be discussed:
 
