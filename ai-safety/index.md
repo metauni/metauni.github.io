@@ -34,7 +34,7 @@ Seminar information:
 * **Organisers:**
   [Matthew Farrugia-Roberts](https://far.in.net) and Dan Murfet.
 * **Time:**
-  Thursday mornings, 10am, Melbourne time (currently AEST, UTC+10),
+  Thursday afternoons, 3pm, Melbourne time (currently AEST, UTC+10),
   most weeks (see [home page](/) for most up-to-date schedule).
 * **Venue:**
   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
@@ -93,6 +93,16 @@ Upcoming readings and discussions:
 * **2023.07.27:** Break for ICML.
 
 * **2023.08.03:** Resume (reading TBD).
+
+* **Date TBD:**
+  K. Eric Drexler,
+  2019,
+  *Reframing Superintelligence*,
+  FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf);
+  and/or the recent update,
+  2023,
+  "'Reframing Superintelligence' + LLMs + 4 years"
+  [LessWrong](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
 
 
 <!--
