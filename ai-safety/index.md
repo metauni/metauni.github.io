@@ -70,20 +70,6 @@ The discussion sessions begin with a summary of the reading, led by Matt
 
 Upcoming readings and discussions:
 
-* **2023.06.08:**
-  Daniel S. Brown *et al.*,
-  2021,
-  "Value alignment verification".
-  ICML 2021 / [arXiv](https://arxiv.org/abs/2012.01557).
-  (Discussion part 1: definitions).
-
-* **2023.07.13:**
-  Daniel S. Brown *et al.*,
-  2021,
-  "Value alignment verification".
-  ICML 2021 / [arXiv](https://arxiv.org/abs/2012.01557).
-  (Discussion part 2: results).
-
 * **2023.07.20:**
   Paul Christiano *et al.*,
   2022,
@@ -92,17 +78,29 @@ Upcoming readings and discussions:
 
 * **2023.07.27:** Break for ICML.
 
-* **2023.08.03:** Resume (reading TBD).
+* **2023.08.03:**
+  Vladimir Mikulik,
+  2019,
+  "Utility ≠ Reward", [LessWrong post](https://www.lesswrong.com/posts/bG4PR9uSsZqHg2gYY/utility-reward).
+  Also,
+  Alex Turner,
+  2022,
+  "Reward is not the optimization target",
+  [LessWrong post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target).
+  Discussion led by Dalcy.
 
 * **Date TBD:**
   K. Eric Drexler,
   2019,
   *Reframing Superintelligence*,
-  FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf);
-  and/or the recent update,
+  FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf).
+  And/or, Drexler's recent update,
   2023,
   "'Reframing Superintelligence' + LLMs + 4 years"
-  [LessWrong](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
+  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
+
+* **Date TBD:**
+  We should discuss "Reward is Enough" at some point.
 
 
 <!--
@@ -114,6 +112,20 @@ Upcoming readings and discussions:
 -->
 
 Past readings and discussions (most recent first):
+
+* **2023.07.13:**
+  Daniel S. Brown *et al.*,
+  2021,
+  "Value alignment verification".
+  ICML 2021 / [arXiv](https://arxiv.org/abs/2012.01557).
+  (Discussion part 2: results).
+
+* **2023.06.08:**
+  Daniel S. Brown *et al.*,
+  2021,
+  "Value alignment verification".
+  ICML 2021 / [arXiv](https://arxiv.org/abs/2012.01557).
+  (Discussion part 1: definitions).
 
 * **2023.05.25:**
   Wu *et al.*
@@ -242,7 +254,7 @@ Past readings and discussions (most recent first):
   Nate Soares,
   2022,
   "On how various plans miss the hard bits of the alignment challenge",
-  [lesswrong](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
+  [LessWrong post](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment).
 
 * **2022.09.08:**
   discussion of reading group direction.
@@ -256,7 +268,7 @@ Past readings and discussions (most recent first):
   2019,
   "Risks from learned optimization in advanced machine learning systems"
   [arXiv](https://arxiv.org/abs/1906.01820)
-  / [sequence](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB).
+  / [LessWrong sequence](https://www.lesswrong.com/s/r9tYkB2a8Fp4DN8yB).
 
 * **2022.08.11:**
   Robin Hanson,
@@ -280,7 +292,7 @@ Past readings and discussions (most recent first):
   2019,
   "Embedded agency",
   [arXiv](https://arxiv.org/abs/1902.09469)
-  / [sequence](https://www.lesswrong.com/s/Rm6oQRJJmhGCcLvxh).
+  / [LessWrong sequence](https://www.lesswrong.com/s/Rm6oQRJJmhGCcLvxh).
 
 * **2022.07.21:**
   Tobias Wängberg *et al.*,
