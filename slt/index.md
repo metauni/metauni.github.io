@@ -27,9 +27,9 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* Lottery tickets and locality
+* Lottery tickets
 * In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
-* Acquisition of chess knowledge in AlphaZero ([paoer](https://www.pnas.org/doi/10.1073/pnas.2206625119))
+* Acquisition of chess knowledge in AlphaZero ([paper](https://www.pnas.org/doi/10.1073/pnas.2206625119))
 * "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 
 ## Previous seminars
