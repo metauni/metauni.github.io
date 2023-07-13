@@ -27,17 +27,10 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* Open problems redux
-* Lottery tickets and locality
+* Lottery tickets
 * In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
-* Acquisition of chess knowledge in AlphaZero ([paoer](https://www.pnas.org/doi/10.1073/pnas.2206625119))
-
-Some topics and papers to be discussed:
-
-* "[Scaling laws for reward model overoptimization](https://arxiv.org/abs/2210.10760)" L. Gao, J. Schulman, J. Hilton (played a role in the creation of ChatGPT).
-* "Statistical inference, Occam's razor, and statistical mechanics on the space of probability distributions" V. Balasubramanian.
+* Acquisition of chess knowledge in AlphaZero ([paper](https://www.pnas.org/doi/10.1073/pnas.2206625119))
 * "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
-* See this [survey of scaling laws](https://epochai.org/blog/scaling-laws-literature-review).
 
 ## Previous seminars
 
