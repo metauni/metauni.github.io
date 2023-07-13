@@ -16,6 +16,8 @@ The canonical references are Watanabe's two textbooks:
 
 Some other introductory references:
 
+* Liam Carroll's sequence: [Distilling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC).
+* Jesse Hoogland's blog post: [general intro to SLT](https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick).
 * Matt Farrugia-Roberts' MSc thesis, October 2022, [Structural Degeneracy in Neural Networks](https://far.in.net/mthesis).
 * Spencer Wong's MSc thesis, May 2022, [From Analytic to Algebraic: The Algebraic Geometry of Two Layer Neural Networks](http://therisingsea.org/notes/MScThesisSpencerWong.pdf).
 * [Liam Carroll](https://lemmykc.github.io/MDLG_lemmykc/)'s MSc thesis, October 2021, [Phase transitions in neural networks](http://therisingsea.org/notes/MSc-Carroll.pdf).
@@ -23,7 +25,6 @@ Some other introductory references:
 * S. Wei, D. Murfet, M. Gong, H. Li , J. Gell-Redman, T. Quella "[Deep learning is singular, and that's good](https://www.suswei.com/publication/wei-2022-singular/wei-2022-singular.pdf)" 2022.
 * Edmund Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 * Shaowei Lin's PhD thesis, 2011, [Algebraic Methods for Evaluating Integrals in Bayesian Statistics](https://escholarship.org/content/qt6r99035v/qt6r99035v_noSplash_55ad6962455379ca776283fed8278b40.pdf).
-* Jesse Hoogland's blog posts: [general intro to SLT](https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick), and [effects of singularities on dynamics](https://www.lesswrong.com/posts/2N7eEKDuL5sHQou3N/spooky-action-at-a-distance-in-the-loss-landscape).
 
 ## Upcoming seminars
 
