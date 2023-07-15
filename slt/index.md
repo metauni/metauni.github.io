@@ -51,8 +51,8 @@ Some other introductory references:
 * **6-4-23** (*Rohan Hitchcock*): Induction heads ([video](https://youtu.be/eCQWIla-TSY), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2029), [transcript](https://metauniservice.com/transcript?videoID=eCQWIla-TSY))
 * **13-4-23** (*Eric Michaud*): The Quantization Model of Neural Scaling ([paper](https://arxiv.org/abs/2303.13506))
 * **20-4-23** (*Zhongtian Chen*): Jet schemes of monomial ideals ([video](https://youtu.be/tfFMHDRstgM))
-* **27-4-23** (*Dan Murfet*): [Primer](https://metauni.org/slt/workshop2023) planning session
-* **25-5-23** (*Neel Nanda*): Mechanistic Interpretability
+* **27-4-23** (*Dan Murfet*): [Primer](https://metauni.org/slt/workshop2023) planning session ([video](https://youtu.be/t8fRCgTm5S4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2032))
+* **25-5-23** (*Neel Nanda*): Mechanistic Interpretability ([video](https://youtu.be/n6Dcl6Uf73s))
 
 ### 2022
 
