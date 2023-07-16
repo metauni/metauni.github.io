@@ -65,16 +65,16 @@ Readings
 --------
 
 Completing weekly readings is recommended, but ultimately optional.
-The discussion sessions begin with a summary of the reading, led by Matt
-(unless otherwise noted).
+The discussion sessions begin with a summary of the reading, loosely led by
+Matt (unless otherwise noted).
 
 Upcoming readings and discussions:
 
 * **2023.07.20:**
-  Paul Christiano *et al.*,
-  2022,
-  "Formalising the presumption of independence".
-  [arXiv](https://arxiv.org/abs/2211.06738).
+  Australian Government,
+  2023,
+  "Safe and Responsible AI in Australia".
+  [AU Government discussion paper](https://storage.googleapis.com/converlens-au-industry/industry/p/prj2452c8e24d7a400c72429/public_assets/Safe-and-responsible-AI-in-Australia-discussion-paper.pdf) (1.9MB pdf).
 
 * **2023.07.27:** Break for ICML.
 
@@ -89,6 +89,15 @@ Upcoming readings and discussions:
   [LessWrong post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target).
   Discussion led by Dalcy.
 
+* **2023.08.10:**
+  Paul Christiano *et al.*,
+  2022,
+  "Formalising the presumption of independence".
+  [arXiv](https://arxiv.org/abs/2211.06738).
+
+* **Date TBD:**
+  We should discuss "Reward is Enough" at some point.
+
 * **Date TBD:**
   K. Eric Drexler,
   2019,
@@ -99,8 +108,6 @@ Upcoming readings and discussions:
   "'Reframing Superintelligence' + LLMs + 4 years"
   [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
 
-* **Date TBD:**
-  We should discuss "Reward is Enough" at some point.
 
 
 <!--
