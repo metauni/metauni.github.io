@@ -28,10 +28,19 @@ Some other introductory references:
 
 ## Upcoming seminars
 
-* Lottery tickets
+* **20-7-23** (*Dan Murfet*): Intro to Developmental Biology
+* **27-7-23** (*Dan Murfet*): Details of the Toy Models of Superposition bifurcation
+*  "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
+* "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
+* (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
+* (*Matt Farrugia-Roberts*): Lottery tickets ([survey](https://www.lesswrong.com/posts/Z7R6jFjce3J2Ryj44/exploring-the-lottery-ticket-hypothesis))
+
+Unscheduled:
+
+* "[Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit](https://arxiv.org/abs/2207.08799)" B. Barak et al 2022.
+* Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
 * In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
 * Acquisition of chess knowledge in AlphaZero ([paper](https://www.pnas.org/doi/10.1073/pnas.2206625119))
-* "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 
 ## Previous seminars
 
