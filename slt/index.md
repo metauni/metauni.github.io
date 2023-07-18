@@ -30,7 +30,7 @@ Some other introductory references:
 
 * **20-7-23** (*Dan Murfet*): Intro to Developmental Biology
 * **27-7-23** (*Dan Murfet*): Details of the Toy Models of Superposition bifurcation
-*  "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
+* **17-8-23** (*Jesse Hoogland*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
 * (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
 * (*Matt Farrugia-Roberts*): Lottery tickets ([survey](https://www.lesswrong.com/posts/Z7R6jFjce3J2Ryj44/exploring-the-lottery-ticket-hypothesis))
