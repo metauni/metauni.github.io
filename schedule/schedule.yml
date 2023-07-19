@@ -8,6 +8,12 @@ whats on:
     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
     website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Euclid:
+    time: 09:30-10:00
+    organizer: Dan Murfet, Ken Chan
+    desc: "Euclid's Elements Book 3."
+    website: https://metauni.org/euclid
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - AI Safety:
     time: 15:00-16:00
     organizer: Matthew Farrugia-Roberts
@@ -35,12 +41,6 @@ whats off:
     organizer: Ethan Curtiss, Billy Price
     desc: "Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8))."
     website: https://metauni.org/code
-    location: "#General"
-- EuclidGPT:
-    time: 10:30-11:00
-    organizer: Dan Murfet, Ken Chan
-    desc: "Exploring math education with GPT4 (in Discord)."
-    website: https://metauni.org/euclid
     location: "#General"
 - Anything At All:
     time: 12:30-13:30
