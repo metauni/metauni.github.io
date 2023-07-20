@@ -32,7 +32,7 @@ Some other introductory references:
 * **3-8-23** (*Dan Murfet*, *Zhongtian Chen*): The Toy Models Potential
 * **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
 * **17-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
-* **24-8-23** "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
+* **24-8-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * **31-8-23** (*Rohan Hithcock*) The replica trick.
 * (*Matt Farrugia-Roberts*): Lottery tickets ([survey](https://www.lesswrong.com/posts/Z7R6jFjce3J2Ryj44/exploring-the-lottery-ticket-hypothesis))
 
