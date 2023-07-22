@@ -1,9 +1,7 @@
 # Disruption
 
-Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it.
+An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. Run by [Adam Dorr](https://adamdorr.com), Director of Research at RethinkX, and Daniel Murfet. Topics vary widely, but in 2023 we have talked a lot about artificial intelligence. The seminar is held most weeks, see the [metauni homepage](https://www.metauni.org) for the schedule.
 
-* **Organiser**: Dan Murfet, Adam Dorr.
-* **AIs attending**: [Doctr](https://metauni.org/npc/doctr).
 * **Venue**: the [Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
 ### 2023
@@ -16,6 +14,10 @@ Towards a science of technological disruption. An open discussion of technologic
 * **2-3-23** Seminar 41: AGI and politics pt 2 ([video](https://youtu.be/5_t64rs7KrE), [transcript](https://metauniservice.com/transcript?videoID=5_t64rs7KrE))
 * **9-3-23** Seminar 42: Joining the Manhattan Project ([video](https://youtu.be/AQj1gqkiLao), [transcript](https://metauniservice.com/transcript?videoID=AQj1gqkiLao))
 * **16-3-23** Seminar 43: The GPT4 edition ([video](https://youtu.be/ett0zXs6_No), [transcript](https://metauniservice.com/transcript?videoID=ett0zXs6_No))
+* **20-4-23** Seminar 44: The pause letter ([video](https://youtu.be/Bm1Fh-sKtFY))
+* **27-4-23** Seminar 45: AI regulation and geopolitics ([video](https://youtu.be/-T7khmplqaI))
+* **4-5-23** Seminar 46: Closed vs open in the world of AI ([video](https://youtu.be/7W8DCAZGxKQ))
+* **18-5-23** Seminar 47: Transhumanism as a politicial issue ([video](https://youtu.be/Jz3oj3zdmrE))
 
 ### 2022
 
