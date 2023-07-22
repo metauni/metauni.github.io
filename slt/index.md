@@ -33,7 +33,7 @@ Some other introductory references:
 * **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
 * **17-8-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
-* **31-8-23** (*Rohan Hithcock*): The replica trick.
+* **31-8-23** (*Rohan Hitchcock*): The replica trick.
 * **7-9-23** (*Alok Singh*): "[Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit](https://arxiv.org/abs/2207.08799)" B. Barak et al 2022.
 * **14-7-23** (*Arthur Conmy*): Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
 * (*Matt Farrugia-Roberts*): Lottery tickets ([survey](https://www.lesswrong.com/posts/Z7R6jFjce3J2Ryj44/exploring-the-lottery-ticket-hypothesis))
