@@ -47,8 +47,6 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Code](https://metauni.org/code)** **16:00-17:30** (*Ethan Curtiss, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Anything At All](https://metauni.org/anythingatall)** **12:30-13:30** (*Various*): The seminar for everyone.
 * **#metauni-dev** **22:00-23:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
-* **[Abstraction](https://metauni.org/abstraction)** **20:00-21:00** (*Alexander Oldenziel*): what is an abstraction? Are they universal? Runs biweekly. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ABig%20Sir%203)
-* **[Landau-Ginzburg](https://metauni.org/lg)** **15:00-16:00** (*Rohan Hitchcock*): on the geometry and (bi)category theory of isolated hypersurface singularities. *On hiatus*. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%209)
 <!-- END WHATS OFF -->
 
 ### On hiatus
