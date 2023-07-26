@@ -2,12 +2,6 @@ metauni day: "27/07/2023" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
-- Disruption:
-    time: 08:00-09:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 09:30-10:00
     organizer: Dan Murfet, Ken Chan
@@ -21,6 +15,12 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2036
 whats off:
+- Disruption:
+    time: 08:00-09:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - AI Safety:
     time: 15:00-16:00
     organizer: Matthew Farrugia-Roberts
