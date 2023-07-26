@@ -83,12 +83,12 @@ def build_event_request_data(name, event):
     if re.fullmatch("\d+", location) and channels_by_id.get(location):
         # Location is the ID of a Discord channel
         data["channel_id"] = location
-        data["entity_type"] = "2"
+        data["entity_type"] = 2
     else:
         data["entity_metadata"] = {
             "location": location
         }
-        data["entity_type"] = "3"
+        data["entity_type"] = 3
 
     return data
 
