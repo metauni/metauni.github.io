@@ -30,7 +30,7 @@ Some other introductory references:
 
 * **20-7-23** (*Dan Murfet*): The Research Agenda ([video](https://youtu.be/_C_7xHtHZAw))
 * **27-7-23** (*Dan Murfet*): Intro to Developmental Biology
-* **3-8-23** (*Dan Murfet*, *Zhongtian Chen*): The Toy Models Potential
+* **3-8-23** (*Dan Murfet*): In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
 * **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
 * **17-8-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
 * **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
@@ -41,7 +41,6 @@ Some other introductory references:
 
 Unscheduled:
 
-* In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
 * Acquisition of chess knowledge in AlphaZero ([paper](https://www.pnas.org/doi/10.1073/pnas.2206625119))
 
 ## Previous seminars
