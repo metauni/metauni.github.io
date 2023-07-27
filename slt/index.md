@@ -26,8 +26,9 @@ Some other introductory references:
 * Edmund Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 * Shaowei Lin's PhD thesis, 2011, [Algebraic Methods for Evaluating Integrals in Bayesian Statistics](https://escholarship.org/content/qt6r99035v/qt6r99035v_noSplash_55ad6962455379ca776283fed8278b40.pdf).
 
-## Upcoming seminars
+## S2 2023
 
+* **20-7-23** (*Dan Murfet*): The Research Agenda ([video](https://youtu.be/_C_7xHtHZAw))
 * **27-7-23** (*Dan Murfet*): Intro to Developmental Biology
 * **3-8-23** (*Dan Murfet*, *Zhongtian Chen*): The Toy Models Potential
 * **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
