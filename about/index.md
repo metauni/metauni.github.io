@@ -5,7 +5,7 @@ description:
     FAQ and guiding principles
 ---
 
-Metauni is a self-aware institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. Our main activity is
+Metauni is an institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. Our main activity is
 
 * **Seminars**: we meet every week for seminars, see the [main page](https://www.metauni.org) for the current schedule and links to the pages for individual seminars, and for recordings see the [YouTube channel](https://www.youtube.com/@_metauni).
 
@@ -27,53 +27,7 @@ Usually seminars are organised around a theme or area of research. The aim varie
 * A seminar can exist because the speakers want to learn the details in a topic and structure a seminar around their own expeditions into the texts (example: [Foundations](https://metauni.org/foundations)).
 * A seminar can be a social event in which people share cool things and work collaboratively (example: [Code seminar](https://metauni.org/code)).
 
-Many in the metauni community have experience organising seminars and preparing seminar talks and we're keen to help others to do the same. To that end metauni is organised conceptually around the following flywheel:
-
-<p align="center">
-<img width="331" src="https://user-images.githubusercontent.com/320329/210023359-afa573ba-b5bc-4f79-aa62-8c0985d3cbd1.png">
-</p>
-
-Great seminars attract participants, which inspires more seminars, which attracts more participants.
-
-## Discovering the Artificial
-
-> The word "[artificial](https://www.etymonline.com/word/artificial)" is derived from the Latin word "artificialis," which in turn comes from "ars" (meaning "art" or "skill") and "facere" (meaning "to make" or "to do"). The combination of these roots results in "artificialis," which conveys the idea of something made or crafted with skill, often in contrast to something that occurs naturally.
-
-As an institution metauni exists jointly in the minds of its human and artificial participants. The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice). 
-
-The chatbots are built on a foundation of self-awareness by metauni of metauni, consisting of systematic embedding of seminars and memories of the chatbots interacting with (consenting) members of the community, so that the institution comes over time to understand itself. You can [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
-
-## History
-
-We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom. The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
-
-> I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
-
-In 2021 metauni was an experiment with running events in virtual worlds: we ran [nine events](https://metauni.org/posts/events/events) across the year, each lasting for a few hours. From late 2021 through 2022 metauni became focused on seminars: we ran 59 "metauni days" consisting of 1-1.5hr seminars every Thursday (an average of around six seminars each time). The [tech stack](/about/tech) matured across the year into a set of reliable and capable tools for running seminars on Roblox.
-
-### Some metrics
-
-As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
-
-## Future
-
-The plan for 2023 is to double down on seminars. Some focus areas for 2023: 
-
-* **Marketing**: organising a seminar is to some extent its own reward, but it's effort, and that effort is hard to sustain unless there's an audience. In most cases there are people out there who *would* love to attend a seminar if they could discover it; over the next year we'll become more competent at enabling that discovery.
-
-* **Replays**: right now there's nothing to do at metauni outside of metauni day (except ride the AstroTubes, I have the stats). In 2023 that will change, as we start to populate the worlds of metauni with *replays* (multi-channel recordings of speaker audio, writing on metaboards, motion capture of a VR character and additional scripted elements such as interactive 3D graphs or mathematical objects). 
-
-* **AI**: with tools like [ChatGPT](https://openai.com/blog/chatgpt/) reaching maturity, any future-looking institution should be incorporating these tools. We've already started integrating GPT3 into seminars (see [Tech](/about/tech)) and we'll build on this foundation in 2023 by for example fine-tuning models on transcripts and other data generated from seminars (eventually, AIs should be valuable contributors to your seminar, if you wish). We'll be experimenting with various kinds of AI agents and interaction modes.
-
-## Supporting metauni
-
-If you believe that what we're trying to do is worthwhile, support us:
-
-* Start or participate in a seminar (proposals for new seminars are welcome).
-* Contribute to one of our open source projects (submit a pull request, or say Hi on the [Discord](https://discord.gg/9yBaAxPSK8) in `#metauni-dev`).
-* Tell other people about metauni (we're pretty bad at marketing, help lol).
-
-Since the work on the technical underpinnings of metauni has expanded in scope (e.g. with replays and AI agents) we are starting to apply for grants from philanthropic sources in order to fund some part-time work on the open-source projects. We believe some of these (like metaboard) will be foundational technologies for academic communities making the move to virtual worlds, and will have a significant impact. If you know of sources we should apply to, please <a target="_blank" href="mailto:admin@metauni.org">get in touch by email</a>.
+Many in the metauni community have experience organising seminars and preparing seminar talks and we're keen to help others to do the same.
 
 ## Guiding principles
 
@@ -120,6 +74,24 @@ A virtual world in which everyone knows exactly why they are there, and every de
 
 At metauni we value contact between human intelligence and Nature, which in virtual worlds mainfests in several forms including generative environments like [Songspires](https://www.metauni.org/songspires) that are the result of long-running computations with unpredictable and beautiful consequences, and artificially intelligent agents. 
 
+## History
+
+We started running events in Roblox in early 2021 due to COVID lockdowns in Melbourne, Australia. While Zoom enabled us to continue to run seminars and interact mathematically, we quickly found that we don't like it. For reasons that are hard to explain but easy to experience, interacting in a 3D virtual world (done right) really is much better than attending an event in Zoom. The early crowd at metauni were University of Melbourne students and lecturers, but the community is now much broader.
+
+> I really keenly feel that the 3D world adds a new dimension to the social interaction (since you are fixed in space in Zoom, I guess it actually adds three new dimensions). Just the fact that I can stand next to someone, even without saying a word, is a kind of connection that is really lacking in Zoom. Roblox events feel much more socially natural to me than video calls do (even without video). Imagine an in-person meeting, but instead of being free to move physically, you are strapped into a chair with your head facing forward. All of the other attendees have the same constraints. You proceed to inject your discussion into one another. That's what Zoom feels like in comparison to Roblox. -- a student
+
+In 2021 metauni was an experiment with running events in virtual worlds: we ran [nine events](https://metauni.org/posts/events/events) across the year, each lasting for a few hours. From late 2021 through 2022 metauni became focused on seminars: we ran 59 "metauni days" consisting of 1-1.5hr seminars every Thursday (an average of around six seminars each time). The [tech stack](/about/tech) matured across the year into a set of reliable and capable tools for running seminars on Roblox.
+
+## Supporting metauni
+
+If you believe that what we're trying to do is worthwhile, support us:
+
+* Start or participate in a seminar (proposals for new seminars are welcome).
+* Contribute to one of our open source projects (submit a pull request, or say Hi on the [Discord](https://discord.gg/9yBaAxPSK8) in `#metauni-dev`).
+* Tell other people about metauni (we're pretty bad at marketing, help lol).
+
+Since the work on the technical underpinnings of metauni has expanded in scope (e.g. with replays and AI agents) we are starting to apply for grants from philanthropic sources in order to fund some part-time work on the open-source projects. We believe some of these (like metaboard) will be foundational technologies for academic communities making the move to virtual worlds, and will have a significant impact. If you know of sources we should apply to, please <a target="_blank" href="mailto:admin@metauni.org">get in touch by email</a>.
+
 ## Why Roblox?
 
 Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
@@ -138,9 +110,21 @@ Seminars are at the heart of metauni, and they will always be free: they are our
 
 However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. the [AMSI summer schools](https://ss.amsi.org.au)). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult for young people to secure permanent academic positions, and one of our priorities is to help those who are interested to explore new ways of making a career in higher education. We are also trying to figure out ways of supporting people to make contributions to the underlying technology stack that makes metauni possible.
 
+## Discovering the Artificial
+
+> The word "[artificial](https://www.etymonline.com/word/artificial)" is derived from the Latin word "artificialis," which in turn comes from "ars" (meaning "art" or "skill") and "facere" (meaning "to make" or "to do"). The combination of these roots results in "artificialis," which conveys the idea of something made or crafted with skill, often in contrast to something that occurs naturally.
+
+As an institution metauni exists jointly in the minds of its human and artificial participants. The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice). 
+
+The chatbots are built on a foundation of self-awareness by metauni of metauni, consisting of systematic embedding of seminars and memories of the chatbots interacting with (consenting) members of the community, so that the institution comes over time to understand itself. You can [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
+
 ## Historical Influences and Reading List
 
 Metauni is inspired by the [Free University of Berlin](https://en.wikipedia.org/wiki/Free_University_of_Berlin), [Lianda](https://en.wikipedia.org/wiki/National_Southwestern_Associated_University) and [Sabishii University](https://www.kimstanleyrobinson.info/content/shabishii).
+
+## Some metrics
+
+As of November 2022, metauni is a small but stably growing community. Our YouTube channel has `1.6k` subscribers, our Discord server has about `400` members, there are about `10` active seminars and across all of these roughly `20` people who regularly attend at least one seminar every week, and a larger number that attend more sporadically. Our first class MAG on algebraic geometry had `20` students, declining to about `10` by the end of the eight weeks.
 
 Recommended reading:
 
