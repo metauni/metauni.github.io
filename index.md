@@ -34,6 +34,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!-- BEGIN WHATS ON -->
 ### August 03, 2023
 * **[Euclid](https://metauni.org/euclid)** **09:30-10:00** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[Physics](https://rohanhitchcock.com/stat-mech)** **12:30-13:30** (*Rohan Hitchcock*): An introductory seminar on statistical mechanics for a mathematically inclined audience. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[AI Safety](https://metauni.org/ai-safety)** **15:00-16:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2037)
 
