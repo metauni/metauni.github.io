@@ -6,27 +6,43 @@ A seminar about the programming involved in building virtual worlds and the cool
 
 ## Past seminars
 
-* **5-11-2021** Seminar 1 (*Dan Murfet*): Tessell Tunes ([video](https://youtu.be/zAjl848o_fg), [game](https://www.roblox.com/games/7662464095/Tessell-Tunes))
-* **11-11-2021** Seminar 2 (*Dan Murfet*): Tessell Tunes with zombies ([video](https://youtu.be/pKDruEjZPg8))
-* **20-11-2021** Seminar 3 (*Ethan Curtiss*): Fourier series ([video](https://youtu.be/F1gdI2eWqc8))
-* [Seminar 3](https://youtu.be/dO3fi6WjjM0) ([Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni))
-* Songspires remix (some [video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl))
-* [Seminar 6](https://youtu.be/3z6AK1KqqtQ) on metaboard
-* [Seminar 7](https://youtu.be/7arwndlZMKo) adding hunt mode to Songspires
-* [Seminar 8](https://youtu.be/ecCmWvCm1Ts) on spatial voice
-* **6-1-22** [Seminar 9](https://youtu.be/RWP21_3xLc0) on TeleportService.
-* **13-1-22** [Seminar 10](https://youtu.be/x3UDwI3FUFI) on Attach as Luggage.
+* **5-11-21** Seminar 1: Tessell Tunes ([video](https://youtu.be/zAjl848o_fg), [game](https://www.roblox.com/games/7662464095/Tessell-Tunes))
+* **11-11-21** Seminar 2: Tessell Tunes with zombies ([video](https://youtu.be/pKDruEjZPg8))
+* **20-11-21** Seminar 3 (*Ethan Curtiss*): Fourier series ([video](https://youtu.be/F1gdI2eWqc8))
+* **20-11-21** Seminar 4: ([video](https://youtu.be/dO3fi6WjjM0), [Songspires](https://www.roblox.com/games/8157928012/Songspires-metauni))
+* **28-11-21** Seminar 5: Songspires remix ([video](https://youtu.be/wW3bEA-dcM8) and [download the Roblox Studio file](https://metauni.org/files/songspires.rbxl))
+* **9-12-21** Seminar 6: Intro to metaboard ([video](https://youtu.be/3z6AK1KqqtQ))
+* **17-12-21** Seminar 7: Adding hunt mode to Songspires ([video](https://youtu.be/7arwndlZMKo))
+* **23-12-21** Seminar 8: Spatial voice ([video](https://youtu.be/ecCmWvCm1Ts))
+* **6-1-22** Seminar 9: TeleportService ([video](https://youtu.be/RWP21_3xLc0))
+* **13-1-22** Seminar 10: Attach as Luggage ([video](https://youtu.be/x3UDwI3FUFI))
 * **20-1-22** (*[Jaipack](https://github.com/jaipack17/)*): [Nature2D](https://github.com/jaipack17/Nature2D) ([video](https://youtu.be/iJuSpmNAwEk), [presentation](https://quill-clam-cfe.notion.site/Nature2D-a5f61599d8ef4660861ea96a8f91fa7e)).
-* **3-2-22** (*Dan Murfet*): History places for historical copies of boards ([video]([video](https://youtu.be/UDx8K53Nd8g))).
-* **10-2-22** (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Inverse kinematics ([video](https://youtu.be/2HZVDpbEB40)).
-* **17-2-22** (*[Mathias/draainhp](https://twitter.com/draainhp)*): Simulating physics ([video](https://youtu.be/JdWbr5AnHvI)).
-* **3-3-22** (*CodeSmoke*): On generating rails and roads ([video](https://youtu.be/DSo15XMjmek)).
-* **10-3-22** (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Futurama tubes ([video](https://youtu.be/XB9NfkPO6d0)).
-* **24-3-22** Seminar 16 - Hacking on pockets and portals ([video](https://youtu.be/CF4ncxeO9mc)).
-* **31-3-22** Seminar 17 - Pockets again ([video](https://youtu.be/unvjvTxinr0)).
+* **3-2-22** Seminar 11: History places for historical copies of boards ([video](https://youtu.be/UDx8K53Nd8g)).
+* **10-2-22** Seminar 12 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Inverse kinematics ([video](https://youtu.be/2HZVDpbEB40)).
+* **17-2-22** Seminar 13 (*[Mathias/draainhp](https://twitter.com/draainhp)*): Simulating physics ([video](https://youtu.be/JdWbr5AnHvI)).
+* **3-3-22** Seminar 14 (*CodeSmoke*): On generating rails and roads ([video](https://youtu.be/DSo15XMjmek)).
+* **10-3-22** Seminar 15 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Futurama tubes ([video](https://youtu.be/XB9NfkPO6d0)).
+* **24-3-22** Seminar 16: Hacking on pockets and portals ([video](https://youtu.be/CF4ncxeO9mc)).
+* **31-3-22** Seminar 17: Pockets again ([video](https://youtu.be/unvjvTxinr0)).
 * **7-4-22** Seminar 18 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Arc-length parametrisation and Pneumatic tubes ([video](https://youtu.be/9eVCjRTnDrs)).
 * **14-4-22** Seminar 19 (*[Ethan Curtiss/AstroCode](https://twitter.com/AstroCodeRblx)*): Frenet frames and completing the Pneumatic tubes ([video](https://youtu.be/m_ylyBAsvVM)).
 * **5-5-22** Seminar 20 (*[Mathias/draainhp](https://twitter.com/draainhp)*): Tracking and firing at projectiles ([video](https://youtu.be/9P-2pipTUxk))
+* **26-5-22** Seminar 21 (*Ethan Curtiss*): Catenaries ([video](https://youtu.be/0Vy7LiMGNnY))
+* **2-6-22** Seminar 22 (*Peter McNeill*): Networking in ChickyNoid ([video](https://youtu.be/Y90hPDhz0Kc))
+* **9-6-22** Seminar 23 (*Billy Snikkers*): Principles of Metaboard ([video](https://youtu.be/NQxE4H6JmQI))
+* **16-6-22** Seminar 24 (*Ethan Curtiss*): AstroTubes ([video](https://youtu.be/ggpx--7Qn9A))
+* **23-6-22** Seminar 25 (*Ethan Curtiss*): Voronoided ([video](https://youtu.be/7cWagvprVpY))
+* **30-6-22** Seminar 26: Livecoding metaboard VR ([video](https://youtu.be/xlbvT6GvtWI))
+* **7-7-22** Seminar 27: Celebrating metaboard v1 ([video](https://youtu.be/ZQMJ0VBdvYk))
+* **14-7-22** Seminar 28 (*Ince*): Robust and Fast Collision Detection in Games ([video](https://youtu.be/trPYLf4SHLM))
+* **21-7-22** Seminar 29: Excursion #1 ([video](https://youtu.be/zIrS_KSzNCY))
+* **28-7-22** Seminar 30: Metaboard UI in VR, first steps ([video](https://youtu.be/cr4EYVwwkTE))
+* **4-8-22** Seminar 31: Developer deeplinking in metaportal ([video](https://youtu.be/vSTaeQAjc98))
+* **11-8-22** Seminar 32 (*Ethan Curtiss*): Becoming the cockroach ([video](https://youtu.be/i9_cRTy2qOk))
+* **25-8-22** Seminar 33 (*Billy Snikkers*): Metaboard UI in VR ([video](https://youtu.be/fruZICH04fk))
+* **1-9-22** Seminar 34: Game Jam 2022 ([video](https://youtu.be/lc8y0hnzLY8))
+* **8-9-22** Seminar 35: Excursion #2 ([video](https://youtu.be/vrIPMpeAR6I))
+* **15-9-22** Seminar 36: Building Big Sir ([video](https://youtu.be/9wQlirIU5uw))
 * **22-9-22** Seminar 37: Putting pictures on boards ([video](https://youtu.be/UBhuBTIQGY4))
 * **29-9-22** Seminar 38: How to build a gallery ([video](https://youtu.be/_wjqSjH0OYA))
 * **6-10-22** Seminar 39: Odd jobs ([video](https://youtu.be/fYDQGUO4hhc))
