@@ -8,33 +8,7 @@ description:
 Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat. Roblox is a massively popular game platform, with over [60 million daily active users](https://ir.roblox.com/news/news-details/2023/Roblox-Reports-February-2023-Key-Metrics/default.aspx) in early 2023. The games you'll see on the Roblox homepage reflect this wide userbase, and don't necessarily give an accurate impression of the wealth of deeply creative experiences that you can find on the platform.
 
 Many of the games below I found out about in the [Code seminar](https://metauni.org/code/) excursions, thanks to Ethan Curtiss, BenSBk and others. So thanks!
-
-## Hard to classify
-
-Some of the best stuff on Roblox leaves you thinking "what".
-
-* Infinite road trip ([link](https://www.roblox.com/games/5032892136/An-Infinite-Road-Trip))
-* Natural disaster survival ([link](https://www.roblox.com/games/189707/Natural-Disaster-Survival))
-* Tiny Bread Factory ([link](https://www.roblox.com/games/7664045612/Tiny-Bread-Factory))
-* The Office ([link](https://www.roblox.com/games/220801305/The-Office))
-* Block Town ([link](https://www.roblox.com/games/65110594/Block-Town))
-* Songspires ([link](https://www.roblox.com/games/8157928012/Songspires)) music/art
-* Times of Change ([link](https://www.roblox.com/games/102948830/Times-of-Change))
-
-## General games
-
-* Dawn of Aurora ([link](https://www.roblox.com/games/5049335549/DoA-Edgerunners-UPDATE))
-* Doors ([link](https://www.roblox.com/games/6516141723/DOORS)) (scary)
-* POV: You are a cockroach in my house ([link](https://www.roblox.com/games/5938672061/POV-You-are-a-cockroach-in-my-house))
-* Free Draw ([link](https://www.roblox.com/games/1547610457/Free-Draw))
-* Deepwoken ([link](https://www.roblox.com/games/4111023553/Deepwoken-Verse-2)) fighting
-* Driving Simulator ([link](https://www.roblox.com/games/4410049285/Driving-Simulator))
-* Wild West ([link](https://www.roblox.com/games/2317712696/The-Wild-West))
-* Rift Royale ([link](https://www.roblox.com/games/9611595239/Rift-Royale-OPERATORS))
-* STARS: Dare to explore ([link](https://www.roblox.com/games/1412794081/STARS-Dare-to-Explore))
-* BuildWorld ([link](https://www.roblox.com/games/714541439/BuildWorld-F3X))
-* Northwind ([link](https://www.roblox.com/games/4540286603/NORTHWIND))
-
+  
 ## Showcase
 
 Experiences that might not have gameplay, they're just interesting, beautiful or cool.
@@ -50,6 +24,33 @@ Experiences that might not have gameplay, they're just interesting, beautiful or
 * Ancient Machine ([link](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE))
 * Garden of Hestia ([link](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE))
 * Flower garden in the clouds ([link](https://www.roblox.com/games/10707252093/Flower-Garden-in-the-Clouds-Showcase))
+
+## Hard to classify
+
+Some of the best stuff on Roblox leaves you thinking "what".
+
+* Tiny Bread Factory ([link](https://www.roblox.com/games/7664045612/Tiny-Bread-Factory))
+* Songspires ([link](https://www.roblox.com/games/8157928012/Songspires)) music/art
+* The Office ([link](https://www.roblox.com/games/220801305/The-Office))
+* Block Town ([link](https://www.roblox.com/games/65110594/Block-Town))
+* Times of Change ([link](https://www.roblox.com/games/102948830/Times-of-Change))
+* Infinite road trip ([link](https://www.roblox.com/games/5032892136/An-Infinite-Road-Trip))
+  
+## General games
+
+* POV: You are a cockroach in my house ([link](https://www.roblox.com/games/5938672061/POV-You-are-a-cockroach-in-my-house))
+* Natural disaster survival ([link](https://www.roblox.com/games/189707/Natural-Disaster-Survival))
+* Free Draw ([link](https://www.roblox.com/games/1547610457/Free-Draw))
+* BuildWorld ([link](https://www.roblox.com/games/714541439/BuildWorld-F3X))
+* Brookhaven ([link](https://www.roblox.com/games/4924922222/Brookhaven-RP))
+* Wild West ([link](https://www.roblox.com/games/2317712696/The-Wild-West))
+* Dawn of Aurora ([link](https://www.roblox.com/games/5049335549/DoA-Edgerunners-UPDATE))
+* Doors ([link](https://www.roblox.com/games/6516141723/DOORS)) (scary)
+* Deepwoken ([link](https://www.roblox.com/games/4111023553/Deepwoken-Verse-2)) fighting
+* Driving Simulator ([link](https://www.roblox.com/games/4410049285/Driving-Simulator))
+* Rift Royale ([link](https://www.roblox.com/games/9611595239/Rift-Royale-OPERATORS))
+* STARS: Dare to explore ([link](https://www.roblox.com/games/1412794081/STARS-Dare-to-Explore))
+* Northwind ([link](https://www.roblox.com/games/4540286603/NORTHWIND))
 
 ## Math
 
