@@ -8,7 +8,7 @@ description:
 Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat. Roblox is a massively popular game platform, with over [60 million daily active users](https://ir.roblox.com/news/news-details/2023/Roblox-Reports-February-2023-Key-Metrics/default.aspx) in early 2023. The games you'll see on the Roblox homepage reflect this wide userbase, and don't necessarily give an accurate impression of the wealth of deeply creative experiences that you can find on the platform.
 
 Many of the games below I found out about in the [Code seminar](https://metauni.org/code/) excursions, thanks to Ethan Curtiss, BenSBk and others. So thanks!
-  
+
 ## Showcase
 
 Experiences that might not have gameplay, they're just interesting, beautiful or cool.
@@ -52,6 +52,10 @@ Some of the best stuff on Roblox leaves you thinking "what".
 * STARS: Dare to explore ([link](https://www.roblox.com/games/1412794081/STARS-Dare-to-Explore))
 * Northwind ([link](https://www.roblox.com/games/4540286603/NORTHWIND))
 
+## Award winners
+
+* [RDC Innovation Awards 2022](https://blog.roblox.com/2022/09/roblox-innovation-awards-2022-complete-winners-list/)
+  
 ## Math
 
 * Voronoided ([link](https://www.roblox.com/games/9896509122/Voronoid))
