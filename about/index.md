@@ -29,6 +29,17 @@ Usually seminars are organised around a theme or area of research. The aim varie
 
 Many in the metauni community have experience organising seminars and preparing seminar talks and we're keen to help others to do the same.
 
+## Keyboard controls
+
+* `Esc`: open the Roblox menu
+* `Arrow keys`: move around the world
+* `Space`: jump
+* `Shift-H`: toggle metauni GUI (for recording)
+* `Cmd-Shift-G` on Mac / `Ctrl-Shift-G` on Windows: toggle Roblox GUI
+* `Cmd-Shift-G-H` on Mac / `Ctrl-Shift-G-H` on Windows: toggle all GUI
+* `Shift` (held down): Run
+* `Ctrl-Alt-Del`: Summon Billy
+
 ## Guiding principles
 
 1. Virtual Is Real
