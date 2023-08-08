@@ -35,7 +35,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 ### August 10, 2023
 * **[Disruption](https://metauni.org/disruption)** **08:00-09:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Euclid](https://metauni.org/euclid)** **09:30-10:00** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[AI Safety](https://metauni.org/ai-safety)** **15:00-16:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+* **[AI Safety](https://metauni.org/ai-safety)** **15:00-16:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety.
 * **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2037)
 
 <!-- END WHATS ON -->
