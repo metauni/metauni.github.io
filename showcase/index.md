@@ -35,10 +35,10 @@ Some of the best stuff on Roblox leaves you thinking "what".
 * Block Town ([link](https://www.roblox.com/games/65110594/Block-Town))
 * Times of Change ([link](https://www.roblox.com/games/102948830/Times-of-Change))
 * Infinite road trip ([link](https://www.roblox.com/games/5032892136/An-Infinite-Road-Trip))
-  
+* POV: You are a cockroach in my house ([link](https://www.roblox.com/games/5938672061/POV-You-are-a-cockroach-in-my-house))
+    
 ## General games
 
-* POV: You are a cockroach in my house ([link](https://www.roblox.com/games/5938672061/POV-You-are-a-cockroach-in-my-house))
 * Natural disaster survival ([link](https://www.roblox.com/games/189707/Natural-Disaster-Survival))
 * Free Draw ([link](https://www.roblox.com/games/1547610457/Free-Draw))
 * BuildWorld ([link](https://www.roblox.com/games/714541439/BuildWorld-F3X))
@@ -51,6 +51,16 @@ Some of the best stuff on Roblox leaves you thinking "what".
 * Rift Royale ([link](https://www.roblox.com/games/9611595239/Rift-Royale-OPERATORS))
 * STARS: Dare to explore ([link](https://www.roblox.com/games/1412794081/STARS-Dare-to-Explore))
 * Northwind ([link](https://www.roblox.com/games/4540286603/NORTHWIND))
+* Blood and Iron ([link](https://www.roblox.com/games/9528010/Blood-and-Iron)) a bit violent
+* Doomspire brickbattle ([link](https://www.roblox.com/games/1215581239/Doomspire-Brickbattle))
+* Isle ([link](https://www.roblox.com/games/3095204897/Isle)) scary/violent
+* ROBLOX Library ([link](https://www.roblox.com/games/331780620/ROBLOX-Library-2023)) (has a secret cave complex)
+* Ice Climbing Expedition Antarctica ([link](https://www.roblox.com/games/2693023319/ICE-CLIMBING-Expedition-Antarctica))
+* 1300M Steep Steps ([link](https://www.roblox.com/games/11606818992/1300M-STEEP-STEPS))
+* Altitorture 2 Player Obby ([link](https://www.roblox.com/games/14086581572/Altitorture-2-Player-Obby))
+* Mt Everest Climbing Roleplay ([link](https://www.roblox.com/games/3145447020/Mt-Everest-Climbing-Roleplay))
+* Realm of the 9 Portals ([link](https://www.roblox.com/games/2550463899/Realm-of-the-9-Portals)) (scary/maybe violent)
+* Wings of Glory ([link](https://www.roblox.com/games/338574920/Wings-of-Glory))
 
 ## Award winners
 
