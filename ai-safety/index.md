@@ -69,46 +69,33 @@ The discussion sessions begin with a summary of the reading, loosely led by
 Matt (unless otherwise noted).
 
 Upcoming readings and discussions:
-
-* **2023.07.20:**
-  Australian Government,
-  2023,
-  "Safe and Responsible AI in Australia".
-  [AU Government discussion paper](https://storage.googleapis.com/converlens-au-industry/industry/p/prj2452c8e24d7a400c72429/public_assets/Safe-and-responsible-AI-in-Australia-discussion-paper.pdf) (1.9MB pdf).
-
-* **2023.07.27:** Break week (ICML).
-
-* **2023.08.03:**
-  Vladimir Mikulik,
-  2019,
-  "Utility ≠ Reward", [LessWrong post](https://www.lesswrong.com/posts/bG4PR9uSsZqHg2gYY/utility-reward).
-  Also,
+  
+* **2023.08.17:**
   Alex Turner,
   2022,
   "Reward is not the optimization target",
   [LessWrong post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target).
-  Discussion led by Dalcy.
 
-* **2023.08.10:**
-  Paul Christiano *et al.*,
-  2022,
-  "Formalising the presumption of independence".
-  [arXiv](https://arxiv.org/abs/2211.06738).
+* **2023.08.24:**
+  Roger Grosse *et al.*,
+  2023,
+  "Studying large language model generalization with influence functions".
+  [arXiv](https://arxiv.org/abs/2308.03296).
 
-* **2023.08.17 (tentative):**
+* **2023.08.31:**
+  Blake Richards *et al.*,
+  2023,
+  "The illusion of AI's existential risk".
+  Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
+
+* **2023.08.31** (tentative)**:**
   Alex Turner,
   2022,
   "Inner and outer alignment decompose one hard problem into two extremely
   hard problems"
   [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into)
 
-* **2023.08.24 (tentative):**
-  Blake Richards *et al.*,
-  2023,
-  "The illusion of AI's existential risk".
-  Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
-
-* **2023.08.31 (tentative):**
+* **2023.09.07** (tentative)**:**
   K. Eric Drexler,
   2019,
   *Reframing Superintelligence*,
@@ -118,13 +105,14 @@ Upcoming readings and discussions:
   "'Reframing Superintelligence' + LLMs + 4 years"
   [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
 
-* **2023.09.07 (tentative):** Break (Matt travelling).
+* **2023.09.14** (tentative)**:** Break (Matt travelling).
 
-* **2023.09.14 (tentative):** "Reward is Enough".
+* **2023.09.21** (tentative)**:** "Reward is Enough".
 
-
+* **2023.09.28** (tentative)**:** Something on multi-objective RL.
 
 <!--
+
 * **At some point:**
   Eliezer Yudkowsky,
   2011,
@@ -133,6 +121,24 @@ Upcoming readings and discussions:
 -->
 
 Past readings and discussions (most recent first):
+
+* **2023.08.10:**
+  Paul Christiano *et al.*,
+  2022,
+  "Formalising the presumption of independence".
+  [arXiv](https://arxiv.org/abs/2211.06738).
+
+* **2023.08.03:**
+  Vladimir Mikulik,
+  2019,
+  "Utility ≠ Reward", [LessWrong post](https://www.lesswrong.com/posts/bG4PR9uSsZqHg2gYY/utility-reward).
+  Discussion led by Dalcy.
+
+* **2023.07.20:**
+  Australian Government,
+  2023,
+  "Safe and Responsible AI in Australia".
+  [AU Government discussion paper](https://storage.googleapis.com/converlens-au-industry/industry/p/prj2452c8e24d7a400c72429/public_assets/Safe-and-responsible-AI-in-Australia-discussion-paper.pdf) (1.9MB pdf).
 
 * **2023.07.13:**
   Daniel S. Brown *et al.*,
