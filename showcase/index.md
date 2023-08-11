@@ -39,6 +39,7 @@ Some of the best stuff on Roblox leaves you thinking "what".
     
 ## General games
 
+* Scuba diving at Quill Lake ([link](https://www.roblox.com/games/35397735/Scuba-Diving-at-Quill-Lake))
 * Natural disaster survival ([link](https://www.roblox.com/games/189707/Natural-Disaster-Survival))
 * Free Draw ([link](https://www.roblox.com/games/1547610457/Free-Draw))
 * BuildWorld ([link](https://www.roblox.com/games/714541439/BuildWorld-F3X))
