@@ -88,14 +88,16 @@ Upcoming readings and discussions:
   "The illusion of AI's existential risk".
   Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
 
-* **2023.08.31** (tentative)**:**
+* **2023.09.07** (tentative)**:**
   Alex Turner,
   2022,
   "Inner and outer alignment decompose one hard problem into two extremely
   hard problems"
   [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into)
 
-* **2023.09.07** (tentative)**:**
+* **2023.09.14** (tentative)**:** Break (Matt travelling).
+
+* **2023.09.21** (tentative)**:**
   K. Eric Drexler,
   2019,
   *Reframing Superintelligence*,
@@ -105,11 +107,9 @@ Upcoming readings and discussions:
   "'Reframing Superintelligence' + LLMs + 4 years"
   [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
 
-* **2023.09.14** (tentative)**:** Break (Matt travelling).
+* **2023.09.28** (tentative)**:** "Reward is Enough".
 
-* **2023.09.21** (tentative)**:** "Reward is Enough".
-
-* **2023.09.28** (tentative)**:** Something on multi-objective RL.
+* **2023.10.05** (tentative)**:** Something on multi-objective RL.
 
 <!--
 
