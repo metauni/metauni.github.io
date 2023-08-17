@@ -89,7 +89,7 @@ With each move and calculation made,
 The endgame awaits us all
 ```
 
-From metuani day 9 16/3/2023:
+From metauni day 9 16/3/2023:
 
 ```
 Metaphoric blaze,
@@ -101,6 +101,20 @@ Warm embers of growth
 Tears of code of may fall,
 Embodied in words, not drops,
 Emotions captured
+```
+
+From metauni day 28 17/8/2023:
+
+```
+In the city's heart,
+Tangibles to intangibles,
+Gold spins in silence.
+```
+
+```
+In spectral games we dwell,
+Where reality's lines blur,
+Shadows cast by digital shell.
 ```
 
 ## Books
