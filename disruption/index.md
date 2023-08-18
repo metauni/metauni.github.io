@@ -17,7 +17,16 @@ An open discussion of technological disruption, how it works, what it means and 
 * **20-4-23** Seminar 44: The pause letter ([video](https://youtu.be/Bm1Fh-sKtFY))
 * **27-4-23** Seminar 45: AI regulation and geopolitics ([video](https://youtu.be/-T7khmplqaI))
 * **4-5-23** Seminar 46: Closed vs open in the world of AI ([video](https://youtu.be/7W8DCAZGxKQ))
-* **18-5-23** Seminar 47: Transhumanism as a politicial issue ([video](https://youtu.be/Jz3oj3zdmrE))
+* **11-5-23** Seminar 47: The orthogonality thesis ([video](https://youtu.be/JoN2esHXXEQ))
+* **18-5-23** Seminar 48: Transhumanism as a politicial issue ([video](https://youtu.be/Jz3oj3zdmrE))
+* **25-5-23** Seminar 49: Models of existential risk from AI ([video](https://youtu.be/XAcDBuOGAmY))
+* **1-6-23** Seminar 50: New hardware new wetware ([video](https://youtu.be/R4wLPIeOFvo))
+* **8-6-23** Seminar 51: Automation, UBI and movies ([video](https://youtu.be/Ln66ecPMf2A))
+* **15-6-23** Seminar 52: The UFO episode ([video](https://youtu.be/96D40JELc4c))
+* **13-7-23** Seminar 53: Mentorship in research organisations ([video](https://youtu.be/RS92Pvvpcqs))
+* **20-7-23** Seminar 54: The future of independent research ([video](https://youtu.be/Ut8JCrXvUQA))
+* **10-8-23** Seminar 55: AI Safety progress and communication ([video](https://youtu.be/OPi53UPxE28))
+* **17-8-23** Seminar 56: Running a remote research group ([video](https://youtu.be/dAG8zwfctsA))
 
 ### 2022
 
