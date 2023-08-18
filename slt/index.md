@@ -31,7 +31,7 @@ Some other introductory references:
 * **20-7-23** (*Dan Murfet*): The Research Agenda ([video](https://youtu.be/_C_7xHtHZAw))
 * **27-7-23** (*Dan Murfet*): Intro to Developmental Biology ([video](https://youtu.be/ms8iQunIh0I))
 * **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
-* **17-8-23** (*Dan Murfet*): In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080))
+* **17-8-23** (*Dan Murfet*): In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080), [video](https://youtu.be/Y00HtwKO3BY))
 * **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
 * **31-8-23** Unscheduled
 * **7-9-23** (*Alok Singh*): "[Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit](https://arxiv.org/abs/2207.08799)" B. Barak et al 2022.
