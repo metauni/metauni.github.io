@@ -64,23 +64,11 @@ Directions for joining discussions:
 Readings
 --------
 
-Completing weekly readings is recommended, but ultimately optional.
-The discussion sessions begin with a summary of the reading, loosely led by
-Matt (unless otherwise noted).
+Completing weekly readings is recommended. We sometimes briefly summarise the
+paper. Usually we dive in to discussing particular credits, concerns, or
+confusions.
 
 Upcoming readings and discussions:
-  
-* **2023.08.17:**
-  Alex Turner,
-  2022,
-  "Reward is not the optimization target",
-  [LessWrong post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target).
-
-* **2023.08.24:**
-  Roger Grosse *et al.*,
-  2023,
-  "Studying large language model generalization with influence functions".
-  [arXiv](https://arxiv.org/abs/2308.03296).
 
 * **2023.08.31:**
   Blake Richards *et al.*,
@@ -88,31 +76,56 @@ Upcoming readings and discussions:
   "The illusion of AI's existential risk".
   Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
 
-* **2023.09.07** (tentative)**:**
+* **2023.09.07:**
   Alex Turner,
   2022,
   "Inner and outer alignment decompose one hard problem into two extremely
-  hard problems"
+  hard problems".
   [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into)
 
-* **2023.09.14** (tentative)**:** Break (Matt travelling).
+* **2023.08.14:** Break (Matt travelling).
 
-* **2023.09.21** (tentative)**:**
+* **2023.09.21:** Break (Matt travelling).
+
+* **2023.09.28**
   K. Eric Drexler,
-  2019,
-  *Reframing Superintelligence*,
-  FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf).
-  And/or, Drexler's recent update,
   2023,
-  "'Reframing Superintelligence' + LLMs + 4 years"
-  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years).
+  "'Reframing Superintelligence' + LLMs + 4 years".
+  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years)
+  * Background:
+    Drexler, 2019, *Reframing Superintelligence*.
+    FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)
+  * See also:
+    Rohin Shah's summary in the
+    [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG/reframing-superintelligence-comprehensive-ai-services-as).
 
-* **2023.09.28** (tentative)**:** "Reward is Enough".
+* **2023.10.05:**
+  Yonadav Shavit,
+  2023,
+  "What does it take to catch a Chinchilla? Verifying rules on large-scale
+  neural network training via compute monitoring"
+  [arXiv](https://arxiv.org/abs/2303.11341).
 
-* **2023.10.05** (tentative)**:** Something on multi-objective RL.
+On reserve (waiting for a week with no set reading):
+
+* Alex Turner's work on power seeking AI
+  * "Parametrically Retargetable Decision-Makers Tend To Seek Power"
+    [arXiv](https://arxiv.org/abs/2206.13477)
+  * "Optimal Policies Tend to Seek Power"
+    [arXiv](https://arxiv.org/abs/1912.01683)
+  * note to self see also Turner's PhD thesis
+    [arXiv](https://arxiv.org/abs/2206.11831)
+* "Settling the reward hypothesis"
+  [arXiv](https://arxiv.org/abs/2212.10420)
+* "Reward is Enough"
+  [DeepMind](https://www.deepmind.com/publications/reward-is-enough)
+  * there are many replies but I'm interested in looking at a local one:
+    "Scalar reward is not enough"
+    [arXiv](https://arxiv.org/abs/2112.15422)
+* Also some other work from the ARAAC / Richard Dazeley on causal impact
+  regularisation, and potentially other work on this topic.
 
 <!--
-
 * **At some point:**
   Eliezer Yudkowsky,
   2011,
@@ -122,11 +135,26 @@ Upcoming readings and discussions:
 
 Past readings and discussions (most recent first):
 
+* **2023.08.24:**
+  Roger Grosse *et al.*,
+  2023,
+  "Studying large language model generalization with influence functions".
+  [arXiv](https://arxiv.org/abs/2308.03296).
+  Discussion led by Dan.
+  
+* **2023.08.17:**
+  Alex Turner,
+  2022,
+  "Reward is not the optimization target",
+  [LessWrong post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target).
+
 * **2023.08.10:**
-  Paul Christiano *et al.*,
+  Paul Christiano, Eric Neyman, and Mark Xu,
   2022,
   "Formalising the presumption of independence".
   [arXiv](https://arxiv.org/abs/2211.06738).
+  Including discussion with guest speaker Eric Neyman.
+  Location: Discord.
 
 * **2023.08.03:**
   Vladimir Mikulik,
@@ -228,7 +256,7 @@ Past readings and discussions (most recent first):
 
 * **2023.02.23:**
   Guest speaker: [Tom Everitt](https://www.tomeveritt.se)
-  (Location: Discord)
+  (Location: Discord).
 
 * **2023.02.16:**
   Tom Everitt *et al.*,
