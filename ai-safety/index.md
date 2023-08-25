@@ -77,11 +77,10 @@ Upcoming readings and discussions:
   Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
 
 * **2023.09.07:**
-  Alex Turner,
-  2022,
-  "Inner and outer alignment decompose one hard problem into two extremely
-  hard problems".
-  [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into)
+  Hadassah Harland, Richard Dazeley, *et al.,*
+  2023,
+  "AI apology: interactive multi-objective reinforcement learning for human-aligned AI".
+  [Springer Link](https://link.springer.com/article/10.1007/s00521-023-08586-x)
 
 * **2023.08.14:** Break (Matt travelling).
 
@@ -106,28 +105,16 @@ Upcoming readings and discussions:
   neural network training via compute monitoring"
   [arXiv](https://arxiv.org/abs/2303.11341).
 
-On reserve (waiting for a week with no set reading):
-
-* Alex Turner's work on power seeking AI
-  * "Parametrically Retargetable Decision-Makers Tend To Seek Power"
-    [arXiv](https://arxiv.org/abs/2206.13477)
-  * "Optimal Policies Tend to Seek Power"
-    [arXiv](https://arxiv.org/abs/1912.01683)
-  * note to self see also Turner's PhD thesis
-    [arXiv](https://arxiv.org/abs/2206.11831)
-* "Settling the reward hypothesis"
-  [arXiv](https://arxiv.org/abs/2212.10420)
-* "Reward is Enough"
-  [DeepMind](https://www.deepmind.com/publications/reward-is-enough)
-  * there are many replies but I'm interested in looking at a local one:
-    "Scalar reward is not enough"
-    [arXiv](https://arxiv.org/abs/2112.15422)
-* Also some other work from the ARAAC / Richard Dazeley on causal impact
-  regularisation, and potentially other work on this topic.
-
 <!--
-* **At some point:**
-  Eliezer Yudkowsky,
+Cut:
+
+* Alex Turner,
+  2022,
+  "Inner and outer alignment decompose one hard problem into two extremely
+  hard problems".
+  [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into)
+
+* Eliezer Yudkowsky,
   2011,
   "Complex value systems are required to realize valuable futures".
   MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
@@ -393,11 +380,36 @@ AI safety is political philosophy complete:
   can't fully control, like civilisation, capitalism, etc.?
 * What other literatures could help us here?
 
-Other topics
+
+Alex Turner's work on power seeking AI
+
+* "Parametrically Retargetable Decision-Makers Tend To Seek Power"
+  [arXiv](https://arxiv.org/abs/2206.13477)
+* "Optimal Policies Tend to Seek Power"
+  [arXiv](https://arxiv.org/abs/1912.01683)
+* note to self see also Turner's PhD thesis
+  [arXiv](https://arxiv.org/abs/2206.11831)
+
+On modelling tasks with reward functions:
+
+* "Settling the reward hypothesis"
+  [arXiv](https://arxiv.org/abs/2212.10420)
+* "Reward is Enough"
+  [DeepMind](https://www.deepmind.com/publications/reward-is-enough)
+* There are many replies to that controversial paper but I'm interested in
+  looking at a local one:
+  "Scalar reward is not enough"
+  [arXiv](https://arxiv.org/abs/2112.15422)
+
+On impact regularisation:
+
+* Also some other work from ARAAC / Richard Dazeley
+* Find other papers here
+
+Other topics:
 
 * AI governance
-* Is there literature on technology and society?
-* Specific safety proposals
+* Broader literature on technology and society?
 
 Sources of readings (clearly with much mutual overlap):
 
