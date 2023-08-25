@@ -414,4 +414,4 @@ Sources of readings (clearly with much mutual overlap):
 * The old 80kh AI safety
   [syllabus](https://80000hours.org/articles/ai-safety-syllabus/)
   and links therein (esp. EA Cambridge syllabus).
-
+* Princeton course [with reading list](https://sites.google.com/view/cos598aisafety/)
