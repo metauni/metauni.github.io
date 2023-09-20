@@ -1,4 +1,4 @@
-metauni day: "14/09/2023" # dd/mm/yyyy
+metauni day: "21/09/2023" # dd/mm/yyyy
 timezone: "+10:00" # AEST is 10 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -14,19 +14,19 @@ whats on:
     desc: "Euclid's Elements Book 3."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Singular Learning Theory:
+    time: 17:00-18:30
+    organizer: Dan Murfet, Edmund Lau
+    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
+    website: https://metauni.org/slt
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2044
+whats off:
 - Physics:
     time: 12:30-13:30
     organizer: Rohan Hitchcock
     desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
     website: https://rohanhitchcock.com/stat-mech
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- Singular Learning Theory:
-    time: 17:00-18:30
-    organizer: Dan Murfet, Edmund Lau
-    desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
-    website: https://metauni.org/slt
-    location: https://unimelb.zoom.us/j/88649393710?pwd=N1Q5VDVLK0FBM3Y0VzR0SmpzUTBFZz09
-whats off:
 - AI Safety:
     time: 15:00-16:00
     organizer: Matthew Farrugia-Roberts
