@@ -70,33 +70,17 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2023.08.31:**
-  Blake Richards *et al.*,
-  2023,
-  "The illusion of AI's existential risk".
-  Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
-
-* **2023.09.07:**
-  Hadassah Harland, Richard Dazeley, *et al.,*
-  2023,
-  "AI apology: interactive multi-objective reinforcement learning for human-aligned AI".
-  [Springer Link](https://link.springer.com/article/10.1007/s00521-023-08586-x)
-
-* **2023.08.14:** Break (Matt travelling).
-
-* **2023.09.21:** Break (Matt travelling).
-
 * **2023.09.28**
   K. Eric Drexler,
   2023,
   "'Reframing Superintelligence' + LLMs + 4 years".
-  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/reframing-superintelligence-llms-4-years)
+  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/).
   * Background:
     Drexler, 2019, *Reframing Superintelligence*.
-    FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf)
+    FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf).
   * See also:
     Rohin Shah's summary in the
-    [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG/reframing-superintelligence-comprehensive-ai-services-as).
+    [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG).
 
 * **2023.10.05:**
   Yonadav Shavit,
@@ -104,6 +88,20 @@ Upcoming readings and discussions:
   "What does it take to catch a Chinchilla? Verifying rules on large-scale
   neural network training via compute monitoring"
   [arXiv](https://arxiv.org/abs/2303.11341).
+
+Tentative:
+
+* **2023.10.12:**
+  Max Tegmark and Steve Omohundro,
+  2023,
+  "Provably safe systems: the only path to controllable AGI".
+  [arXiv](https://arxiv.org/abs/2309.01933).
+
+* **2023.10.19:**
+  Peter Vamplew, Richard Dazeley, *et al.*,
+  2018,
+  "Human-aligned artificial intelligence is a multiobjective problem".
+  [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
 
 <!--
 Cut:
@@ -121,6 +119,24 @@ Cut:
 -->
 
 Past readings and discussions (most recent first):
+
+<!--
+* **2023.09.21:** Break (Matt travelling).
+
+* **2023.09.14:** Break (Matt travelling).
+-->
+
+* **2023.09.07:**
+  Hadassah Harland, Richard Dazeley, *et al.,*
+  2023,
+  "AI apology: interactive multi-objective reinforcement learning for human-aligned AI".
+  [Springer Link](https://link.springer.com/article/10.1007/s00521-023-08586-x)
+
+* **2023.08.31:**
+  Blake Richards *et al.*,
+  2023,
+  "The illusion of AI's existential risk".
+  Essay in [Noema Magazine](https://www.noemamag.com/the-illusion-of-ais-existential-risk/).
 
 * **2023.08.24:**
   Roger Grosse *et al.*,
