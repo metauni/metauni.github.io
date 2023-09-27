@@ -70,7 +70,16 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2023.09.28**
+* **2023.09.28:** Break (ICLR deadline & Matt travelling).
+
+* **2023.10.05:**
+  Yonadav Shavit,
+  2023,
+  "What does it take to catch a Chinchilla? Verifying rules on large-scale
+  neural network training via compute monitoring"
+  [arXiv](https://arxiv.org/abs/2303.11341).
+
+* **2023.10.12:**
   K. Eric Drexler,
   2023,
   "'Reframing Superintelligence' + LLMs + 4 years".
@@ -82,26 +91,21 @@ Upcoming readings and discussions:
     Rohin Shah's summary in the
     [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG).
 
-* **2023.10.05:**
-  Yonadav Shavit,
-  2023,
-  "What does it take to catch a Chinchilla? Verifying rules on large-scale
-  neural network training via compute monitoring"
-  [arXiv](https://arxiv.org/abs/2303.11341).
 
 Tentative:
 
-* **2023.10.12:**
+* **2023.10.19:**
   Max Tegmark and Steve Omohundro,
   2023,
   "Provably safe systems: the only path to controllable AGI".
   [arXiv](https://arxiv.org/abs/2309.01933).
 
-* **2023.10.19:**
+* **2023.10.26:**
   Peter Vamplew, Richard Dazeley, *et al.*,
   2018,
   "Human-aligned artificial intelligence is a multiobjective problem".
   [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
+
 
 <!--
 Cut:
@@ -110,13 +114,14 @@ Cut:
   2022,
   "Inner and outer alignment decompose one hard problem into two extremely
   hard problems".
-  [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/inner-and-outer-alignment-decompose-one-hard-problem-into)
+  [LessWrong post](https://www.lesswrong.com/posts/gHefoxiznGfsbiAu9/)
 
 * Eliezer Yudkowsky,
   2011,
   "Complex value systems are required to realize valuable futures".
   MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
 -->
+
 
 Past readings and discussions (most recent first):
 
