@@ -20,12 +20,6 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory (on Discord this week)."
     website: https://metauni.org/slt
     location: "#General"
-- AI Safety:
-    time: 21:00-22:00
-    organizer: Matthew Farrugia-Roberts
-    desc: "reading group on technical and philosophical topics in AI safety."
-    website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 whats off:
 - Physics:
     time: 12:30-13:30
@@ -51,6 +45,12 @@ whats off:
     desc: "The seminar for everyone."
     website: https://metauni.org/anythingatall
     location: https://unimelb.zoom.us/j/85458350250?pwd=QlVHc1FadGM5aFhuSkhoMTN6R3Ztdz09
+- AI Safety:
+    time: 21:00-22:00
+    organizer: Matthew Farrugia-Roberts
+    desc: "reading group on technical and philosophical topics in AI safety."
+    website: https://metauni.org/ai-safety
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - "#metauni-dev":
      time: 22:00-23:00
      desc: "development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8))."
