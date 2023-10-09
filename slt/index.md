@@ -37,7 +37,6 @@ Some other introductory references:
 * **6-9-23** (*Dan Murfet*): Research updates
 * **14-9-23** (*Arthur Conmy*): Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
 * **21-9-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
-* **28-9-23** (*Alok Singh*): "[Hidden Progress in Deep Learning: SGD Learns Parities Near the Computational Limit](https://arxiv.org/abs/2207.08799)" B. Barak et al 2022.
 * **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr)) (video)
 
 Unscheduled:
