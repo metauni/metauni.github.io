@@ -70,20 +70,6 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2023.10.05:** Yet another break (Matt still busy).
-
-* **2023.10.12:**
-  K. Eric Drexler,
-  2023,
-  "'Reframing Superintelligence' + LLMs + 4 years".
-  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/).
-  * Background:
-    Drexler, 2019, *Reframing Superintelligence*.
-    FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf).
-  * See also:
-    Rohin Shah's summary in the
-    [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG).
-
 * **2023.10.19:**
   Yonadav Shavit,
   2023,
@@ -126,7 +112,21 @@ Cut:
 
 Past readings and discussions (most recent first):
 
+* **2023.10.12:**
+  K. Eric Drexler,
+  2023,
+  "'Reframing Superintelligence' + LLMs + 4 years".
+  [LessWrong post](https://www.lesswrong.com/posts/LxNwBNxXktvzAko65/).
+  * Background:
+    Drexler, 2019, *Reframing Superintelligence*.
+    FHI [technical report](https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf).
+  * See also:
+    Rohin Shah's summary in the
+    [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG).
+
 <!--
+* **2023.10.05:** Yet another break (Matt still busy).
+
 * **2023.09.28:** Break (ICLR deadline & Matt travelling).
 
 * **2023.09.21:** Break (Matt travelling).
