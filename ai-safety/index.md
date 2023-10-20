@@ -70,24 +70,17 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2023.10.19:**
-  Yonadav Shavit,
-  2023,
-  "What does it take to catch a Chinchilla? Verifying rules on large-scale
-  neural network training via compute monitoring"
-  [arXiv](https://arxiv.org/abs/2303.11341).
-  Discussion led by Rohan.
+* On hiatus until mid/late November. See Discord for latest updates.
 
-* **2023.10.26:**
+Tentative:
+
+* **2023.11.23:**
   Max Tegmark and Steve Omohundro,
   2023,
   "Provably safe systems: the only path to controllable AGI".
   [arXiv](https://arxiv.org/abs/2309.01933).
 
-
-Tentative:
-
-* **2023.11.02:**
+* **2023.11.30:**
   Peter Vamplew, Richard Dazeley, *et al.*,
   2018,
   "Human-aligned artificial intelligence is a multiobjective problem".
@@ -112,6 +105,15 @@ Cut:
 
 Past readings and discussions (most recent first):
 
+* **2023.10.19:**
+  Yonadav Shavit,
+  2023,
+  "What does it take to catch a Chinchilla? Verifying rules on large-scale
+  neural network training via compute monitoring"
+  [arXiv](https://arxiv.org/abs/2303.11341).
+  Discussion led by Rohan
+  [[notes](https://rohanhitchcock.com/notes/2023-10-19-ai-safety-seminar)].
+
 * **2023.10.12:**
   K. Eric Drexler,
   2023,
@@ -123,6 +125,8 @@ Past readings and discussions (most recent first):
   * See also:
     Rohin Shah's summary in the
     [LessWrong linkpost](https://www.lesswrong.com/posts/x3fNwSe5aWZb5yXEG).
+  
+  Discussion led by Dan.
 
 <!--
 * **2023.10.05:** Yet another break (Matt still busy).
