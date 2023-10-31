@@ -20,7 +20,7 @@ Metauni is a community of scholars in the Metaverse, with 3D virtual environment
   <a target="_blank" href="/about">About</a>
 </p>
 
-We have run a course on algebraic geometry ([MAG](https://www.metauni.org/mag)) on computation ([SOC](https://metauni.org/soc/)). Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](https://www.metauniservice.com). Check out the [2023 metauni festival](/festival).
+Got a Board Key from Roblox? To view the board on the web enter the Key at [metauniService](https://www.metauniservice.com). Check out the [2023 metauni festival](/festival).
 
 ## Schedule
 
