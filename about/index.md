@@ -5,7 +5,7 @@ description:
     FAQ and guiding principles
 ---
 
-Metauni is an institution of higher learning, founded at the beginning of 2021. This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. Our main activity is
+This is a working document which aims to explain what is going on here. We are a community of scholars who meet in a virtual world based in Roblox. Our main activity is
 
 * **Seminars**: we meet every week for seminars, see the [main page](https://www.metauni.org) for the current schedule and links to the pages for individual seminars, and for recordings see the [YouTube channel](https://www.youtube.com/@_metauni).
 
@@ -14,8 +14,6 @@ We have written substantial libraries of our own code including [metaboard](http
 Metauni uses [Roblox](https://www.roblox.com/) for the 3D virtual environment with voice chat and [Discord](https://www.discord.com) for community discussion and organisation.
 
 ## Seminar-first
-
-Metauni is a seminar-first institution.
 
 Seminars are live social events, where a small group of people explore a set of ideas. Seminars have organisers, and naturally some attendees are more knowledgeable than others, but they have no formal division between "teacher" and "students". 
 
@@ -99,35 +97,11 @@ If you believe that what we're trying to do is worthwhile, support us:
 
 * Start or participate in a seminar (proposals for new seminars are welcome).
 * Contribute to one of our open source projects (submit a pull request, or say Hi on the [Discord](https://discord.gg/9yBaAxPSK8) in `#metauni-dev`).
-* Tell other people about metauni (we're pretty bad at marketing, help lol).
-
-Since the work on the technical underpinnings of metauni has expanded in scope (e.g. with replays and AI agents) we are starting to apply for grants from philanthropic sources in order to fund some part-time work on the open-source projects. We believe some of these (like metaboard) will be foundational technologies for academic communities making the move to virtual worlds, and will have a significant impact. If you know of sources we should apply to, please <a target="_blank" href="mailto:admin@metauni.org">get in touch by email</a>.
+* Tell other people about metauni.
 
 ## Why Roblox?
 
 Roblox is a utility platform for large-scale 3D social environments (see [Baszucki keynote](https://www.youtube.com/watch?v=G00GlCJc0mU) and their [SEC S-1 filing](https://www.sec.gov/Archives/edgar/data/1315098/000119312520298230/d87104ds1.htm)). We chose Roblox because of its massive user base and accessibility on a wide array of platforms (43 million daily active users as of early 2021) and user-friendly tooling supported by many tutorials (Roblox Studio). It's remarkable that you can deploy an attractive 3D world with 100 simultaneous multiplayer users for free, in minutes, from your laptop. While you can make ugly things with Roblox, you can make [beautiful](https://www.roblox.com/games/3158922185/Toyokawa-Inari-Shrine-Showcase) [things](https://www.roblox.com/games/7056870928/Ancient-Machine-SHOWCASE) [too](https://www.roblox.com/games/6524322789/Garden-Of-Hestia-SHOWCASE).
-
-## Not a University 
-
-Metauni is not a University, and is not aiming to become one.
-
-Universities are large bureaucratic solutions to a set of problems of how to coordinate lecturers, students, knowledge, research, certification of job readiness and physical infrastructure. Some of these, like certification of job readiness and physical infrastructure, metauni is not concerned with at all. For the remaining items, our observation is that new technology, particularly the Internet maturing enough to support vibrant virtual worlds full of people and artificial intelligence, has allowed for some of these coordination problems to be solved in a new and better way. 
-
-Metauni is a contraction mapping iterating towards one of the fixed points in this newly enlarged space.
-
-## Not always free
-
-Seminars are at the heart of metauni, and they will always be free: they are our gift to each other. We also expect to continue releasing the key parts of our infrastructure (such as [metaboard](https://github.com/metauni/metaboard)) as open source.
-
-However, we expect to be running paid classes at some point, probably along the lines of summer schools (e.g. the [AMSI summer schools](https://ss.amsi.org.au)). Those of us with secure academic positions have used, and will continue to use, metauni as a platform for outreach and are not seeking to monetise it. However it is increasingly difficult for young people to secure permanent academic positions, and one of our priorities is to help those who are interested to explore new ways of making a career in higher education. We are also trying to figure out ways of supporting people to make contributions to the underlying technology stack that makes metauni possible.
-
-## Discovering the Artificial
-
-> The word "[artificial](https://www.etymonline.com/word/artificial)" is derived from the Latin word "artificialis," which in turn comes from "ars" (meaning "art" or "skill") and "facere" (meaning "to make" or "to do"). The combination of these roots results in "artificialis," which conveys the idea of something made or crafted with skill, often in contrast to something that occurs naturally.
-
-As an institution metauni exists jointly in the minds of its human and artificial participants. The non-player characters (chatbots) at metauni have different personalities and different areas of interest (which includes the seminars whose transcripts they have access to, as well as the books they query in conversation). You can see more details about individual characters: [Treeku](https://metauni.org/npc/treeku), [Doctr](https://metauni.org/npc/doctr), [Bertie](https://metauni.org/npc/bertie), [Shoal](https://metauni.org/npc/shoal), [Ginger](https://metauni.org/npc/ginger) and [Youtwice](https://metauni.org/npc/youtwice). 
-
-The chatbots are built on a foundation of self-awareness by metauni of metauni, consisting of systematic embedding of seminars and memories of the chatbots interacting with (consenting) members of the community, so that the institution comes over time to understand itself. You can [learn how the tech works](https://github.com/metauni/metauniOS/blob/main/README-AI.md).
 
 ## Historical Influences and Reading List
 
