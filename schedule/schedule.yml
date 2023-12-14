@@ -1,5 +1,5 @@
 metauni day: "14/12/2023" # dd/mm/yyyy
-timezone: "+11:00" # AEST is 10 hours and 00 minutes ahead of UTC
+timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
 - Euclid:
@@ -9,7 +9,7 @@ whats on:
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Physics:
-    time: 13:30-14:30
+    time: 12:30-13:30
     organizer: Rohan Hitchcock
     desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
     website: https://rohanhitchcock.com/stat-mech
