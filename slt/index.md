@@ -26,26 +26,7 @@ Some other introductory references:
 * Edmund Lau's blog [Probably Singular](https://edmundlth.github.io/posts/singular-learning-theory-part-1/).
 * Shaowei Lin's PhD thesis, 2011, [Algebraic Methods for Evaluating Integrals in Bayesian Statistics](https://escholarship.org/content/qt6r99035v/qt6r99035v_noSplash_55ad6962455379ca776283fed8278b40.pdf).
 
-## S2 2023
-
-* **20-7-23** (*Dan Murfet*): The Research Agenda ([video](https://youtu.be/_C_7xHtHZAw))
-* **27-7-23** (*Dan Murfet*): Intro to Developmental Biology ([video](https://youtu.be/ms8iQunIh0I))
-* **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
-* **17-8-23** (*Dan Murfet*): In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080), [video](https://youtu.be/Y00HtwKO3BY))
-* **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
-* **31-8-23** (*Edmund Lau*): Quantifying degeneracy in singular models via the learning coefficient
-* **6-9-23** (*Dan Murfet*): Research updates
-* **14-9-23** (*Arthur Conmy*): Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
-* **21-9-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
-* **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr)) (video)
-
-Unscheduled:
-
-* Acquisition of chess knowledge in AlphaZero ([paper](https://www.pnas.org/doi/10.1073/pnas.2206625119))
-
-## Previous seminars
-
-### S1 2023
+## 2023
 
 * **19-1-23** (*Russell Goyder*): Physical entropy vs information-theoretic entropy Pt 2 ([video](https://youtu.be/rw23vmz2MF4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2020), [transcript](https://metauniservice.com/transcript?videoID=rw23vmz2MF4), [notes](https://github.com/russellgoyder/handwritten-notes/blob/main/Physical%20And%20Information%20Entropy%20-%20Russell%20Goyder%20-%20metauni%20-%20Nov%202022.pdf))
 * **26-1-23** (*Dan Murfet*): Towards in-context learning in SLT Pt 2 ([video](https://youtu.be/TuFPGNBoOuM), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2011), [transcript](https://metauniservice.com/transcript?videoID=TuFPGNBoOuM))
@@ -63,7 +44,17 @@ Unscheduled:
 * **20-4-23** (*Zhongtian Chen*): Jet schemes of monomial ideals ([video](https://youtu.be/tfFMHDRstgM))
 * **27-4-23** (*Dan Murfet*): [Primer](https://metauni.org/slt/workshop2023) planning session ([video](https://youtu.be/t8fRCgTm5S4), [pocket](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2032))
 * **25-5-23** (*Neel Nanda*): Mechanistic Interpretability ([video](https://youtu.be/n6Dcl6Uf73s))
-
+* **20-7-23** (*Dan Murfet*): The Research Agenda ([video](https://youtu.be/_C_7xHtHZAw))
+* **27-7-23** (*Dan Murfet*): Intro to Developmental Biology ([video](https://youtu.be/ms8iQunIh0I))
+* **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
+* **17-8-23** (*Dan Murfet*): In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080), [video](https://youtu.be/Y00HtwKO3BY))
+* **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
+* **31-8-23** (*Edmund Lau*): Quantifying degeneracy in singular models via the learning coefficient
+* **6-9-23** (*Dan Murfet*): Research updates
+* **14-9-23** (*Arthur Conmy*): Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
+* **21-9-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
+* **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr)) (video)
+  
 ### 2022
 
 Below you can find the seminars for 2022, with videos and pocket links (which take you to the virtual world where the talk took place, with the blackboards just as we left them at the end of the talk).
