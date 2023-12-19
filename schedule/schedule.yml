@@ -2,6 +2,12 @@ metauni day: "21/12/2023" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
+- Disruption:
+    time: 09:00-10:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 10:30-11:00
     organizer: Dan Murfet, Ken Chan
@@ -26,12 +32,6 @@ whats off:
     organizer: Rohan Hitchcock
     desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
     website: https://rohanhitchcock.com/stat-mech
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- Disruption:
-    time: 09:00-10:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-    website: https://metauni.org/disruption
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Neuro:
     time: 14:00-15:30
