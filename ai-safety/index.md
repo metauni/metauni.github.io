@@ -70,49 +70,29 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2023.11.30:**
-  Open AI edition. Readings:
-  * Zvi Mowshowitz's summaries
-      [facts from a weekend](https://thezvi.substack.com/p/openai-facts-from-a-weekend)
-    and
-      [battle of the board](https://thezvi.substack.com/p/openai-the-battle-of-the-board).
-  * Andrew Imbrie, Owen Daniels, and Helen Toner,
-    2023,
-    "Decoding intentions".
-    Center for Security and Emerging Technology
-    [technical report](https://cset.georgetown.edu/publication/decoding-intentions/).
-    (Especially "Private Sector Signaling" section on pages 27--30).
-  * Maybe there will be more updates by Thursday.
-
-* **2023.12.07:**
-  Yoshua Bengio,
+* **2024.01.04:**
+  Vanessa Kosoy,
   2023,
-  "Towards AI safety that improves with more compute".
-  [YouTube](https://www.youtube.com/watch?v=SlNvufmdBHU).
+  "AI alignment metastrategy".
+  [LessWrong post](https://www.lesswrong.com/posts/TALmStNf6479uTwzT/).
 
-* **2023.12.14:** break (Matt travelling)
-
-* **2023.12.21:**
-  Max Tegmark and Steve Omohundro,
-  2023,
-  "Provably safe systems: the only path to controllable AGI".
-  [arXiv](https://arxiv.org/abs/2309.01933).
-
-* **2023.12.28:** break (happy holidays!)
-
-Tentative:
-
-* **2024.01.04:** 
+* **2024.01.11:** 
   Arthur Douillard *et al.,*
   2023,
   "DiLoCo: Distributed low-communication training of language models".
   [arXiv](https://arxiv.org/abs/2311.08105).
 
-* **2023.01.11:**
+* **2024.01.18:**
   Peter Vamplew, Richard Dazeley, *et al.*,
   2018,
   "Human-aligned artificial intelligence is a multiobjective problem".
   [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
+  
+* **2024.01.25:**
+  Vanessa Kosoy,
+  2023,
+  "Critical review of Christiano's disagreements with Yudkowsky".
+  [LessWrong post](https://www.lesswrong.com/posts/8HYJwQepynHsRKr6j).
 
 
 <!--
@@ -130,8 +110,44 @@ Cut:
   MIRI [technical report](https://intelligence.org/files/ComplexValues.pdf).
 -->
 
-
 Past readings and discussions (most recent first):
+
+<!--
+* **2023.12.28:** break (happy holidays!)
+-->
+
+* **2023.12.21:**
+  Max Tegmark and Steve Omohundro,
+  2023,
+  "Provably safe systems: the only path to controllable AGI".
+  [arXiv](https://arxiv.org/abs/2309.01933).
+
+<!--
+* **2023.12.14:** break (Matt travelling)
+-->
+
+* **2023.12.07:**
+  Yoshua Bengio,
+  2023,
+  "Towards AI safety that improves with more compute".
+  [YouTube](https://www.youtube.com/watch?v=SlNvufmdBHU).
+
+
+* **2023.11.30:**
+  Open AI edition. Readings:
+  * Zvi Mowshowitz's summaries
+      [facts from a weekend](https://thezvi.substack.com/p/openai-facts-from-a-weekend)
+    and
+      [battle of the board](https://thezvi.substack.com/p/openai-the-battle-of-the-board).
+  * Andrew Imbrie, Owen Daniels, and Helen Toner,
+    2023,
+    "Decoding intentions".
+    Center for Security and Emerging Technology
+    [technical report](https://cset.georgetown.edu/publication/decoding-intentions/).
+    (Especially "Private Sector Signaling" section on pages 27--30).
+  <!--
+  * Maybe there will be more updates by Thursday.
+  -->
 
 <!--
 * On hiatus until mid/late November. See Discord for latest updates.
