@@ -145,9 +145,6 @@ Past readings and discussions (most recent first):
     Center for Security and Emerging Technology
     [technical report](https://cset.georgetown.edu/publication/decoding-intentions/).
     (Especially "Private Sector Signaling" section on pages 27--30).
-  <!--
-  * Maybe there will be more updates by Thursday.
-  -->
 
 <!--
 * On hiatus until mid/late November. See Discord for latest updates.
