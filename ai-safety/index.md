@@ -34,8 +34,8 @@ Seminar information:
 * **Organisers:**
   [Matthew Farrugia-Roberts](https://far.in.net) and Dan Murfet.
 * **Time:**
-  Thursday afternoons, 3pm, Melbourne time (currently AEST, UTC+10),
-  most weeks (see [home page](/) for most up-to-date schedule).
+  Thursday afternoons, 3pm, Melbourne time, most weeks
+  (see [home page](/) for most up-to-date schedule).
 * **Venue:**
   [The Rising Sea](https://www.roblox.com/games/8165217582/The-Rising-Sea).
 
