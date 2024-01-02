@@ -2,12 +2,6 @@ metauni day: "04/01/2024" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
-- Disruption:
-    time: 09:00-10:30
-    organizer: Adam Dorr
-    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-    website: https://metauni.org/disruption
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 10:30-11:00
     organizer: Dan Murfet, Ken Chan
@@ -27,6 +21,12 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2048
 whats off:
+- Disruption:
+    time: 09:00-10:30
+    organizer: Adam Dorr
+    desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+    website: https://metauni.org/disruption
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Physics:
     time: 12:30-13:30
     organizer: Rohan Hitchcock
