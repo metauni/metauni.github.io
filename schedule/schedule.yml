@@ -2,12 +2,6 @@ metauni day: "04/01/2024" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
-- AI Safety:
-    time: 15:00-16:00
-    organizer: Matthew Farrugia-Roberts
-    desc: "reading group on technical and philosophical topics in AI safety."
-    website: https://metauni.org/ai-safety
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
@@ -38,6 +32,12 @@ whats off:
     organizer: Tom Burns
     desc: "Neuroscience for AI interpretability."
     website: https://metauni.org/neuro
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- AI Safety:
+    time: 15:00-16:00
+    organizer: Matthew Farrugia-Roberts
+    desc: "reading group on technical and philosophical topics in AI safety."
+    website: https://metauni.org/ai-safety
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Code:
     time: 16:00-17:30

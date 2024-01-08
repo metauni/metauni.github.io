@@ -70,11 +70,7 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2024.01.11:** 
-  Arthur Douillard *et al.,*
-  2023,
-  "DiLoCo: Distributed low-communication training of language models".
-  [arXiv](https://arxiv.org/abs/2311.08105).
+* **2024.01.11:** Break.
 
 * **2024.01.18:**
   Peter Vamplew, Richard Dazeley, *et al.*,
@@ -101,6 +97,11 @@ Upcoming readings and discussions:
 
 <!--
 Cut:
+  
+* Arthur Douillard *et al.,*
+  2023,
+  "DiLoCo: Distributed low-communication training of language models".
+  [arXiv](https://arxiv.org/abs/2311.08105).
 
 * Paul Christiano,
   2022,
