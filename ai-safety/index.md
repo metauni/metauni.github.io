@@ -73,16 +73,16 @@ Upcoming readings and discussions:
 * **2024.01.11:** Break.
 
 * **2024.01.18:**
-  Peter Vamplew, Richard Dazeley, *et al.*,
-  2018,
-  "Human-aligned artificial intelligence is a multiobjective problem".
-  [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
-  
-* **2024.01.25:**
   Vanessa Kosoy,
   2023,
   "Critical review of Christiano's disagreements with Yudkowsky".
   [LessWrong post](https://www.lesswrong.com/posts/8HYJwQepynHsRKr6j).
+  
+* **2024.01.25:**
+  Peter Vamplew, Richard Dazeley, *et al.*,
+  2018,
+  "Human-aligned artificial intelligence is a multiobjective problem".
+  [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
 
 * **2024.02.01:** break (ICML deadline)
 
