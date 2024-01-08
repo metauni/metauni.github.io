@@ -70,12 +70,6 @@ confusions.
 
 Upcoming readings and discussions:
 
-* **2024.01.04:**
-  Vanessa Kosoy,
-  2023,
-  "AI alignment metastrategy".
-  [LessWrong post](https://www.lesswrong.com/posts/TALmStNf6479uTwzT/).
-
 * **2024.01.11:** 
   Arthur Douillard *et al.,*
   2023,
@@ -94,9 +88,29 @@ Upcoming readings and discussions:
   "Critical review of Christiano's disagreements with Yudkowsky".
   [LessWrong post](https://www.lesswrong.com/posts/8HYJwQepynHsRKr6j).
 
+* **2024.02.01:** break (ICML deadline)
+
+* **2024.02.08:**
+  John Wentworth, 2021, three posts on selection theorems:
+  * "Selection theorems: A program for understanding agents",
+    [LessWrong](https://www.lesswrong.com/posts/G2Lne2Fi7Qra5Lbuf).
+  * "Some existing selection theorems",
+    [LessWrong](https://www.lesswrong.com/posts/N2NebPD78ioyWHhNm).
+  * "What selection theorems do we expect/want",
+    [LessWrong](https://www.lesswrong.com/posts/RuDD3aQWLDSb4eTXP).
 
 <!--
 Cut:
+
+* Paul Christiano,
+  2022,
+  "Where I agree and disagree with Eliezer"
+  [LessWrong post](https://www.lesswrong.com/posts/CoZhXrhpQxpy9xw9y).
+
+* Eliezer Yudkowsky,
+  2022,
+  "AGI ruin: A list of lethalities".
+  [LessWrong post](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc)
 
 * Alex Turner,
   2022,
@@ -111,6 +125,12 @@ Cut:
 -->
 
 Past readings and discussions (most recent first):
+
+* **2024.01.04:**
+  Vanessa Kosoy,
+  2023,
+  "AI alignment metastrategy".
+  [LessWrong post](https://www.lesswrong.com/posts/TALmStNf6479uTwzT/).
 
 <!--
 * **2023.12.28:** break (happy holidays!)
