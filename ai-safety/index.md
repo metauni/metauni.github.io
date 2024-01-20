@@ -69,14 +69,6 @@ paper. Usually we dive in to discussing particular credits, concerns, or
 confusions.
 
 Upcoming readings and discussions:
-
-* **2024.01.11:** Break.
-
-* **2024.01.18:**
-  Vanessa Kosoy,
-  2023,
-  "Critical review of Christiano's disagreements with Yudkowsky".
-  [LessWrong post](https://www.lesswrong.com/posts/8HYJwQepynHsRKr6j).
   
 * **2024.01.25:**
   Peter Vamplew, Richard Dazeley, *et al.*,
@@ -94,6 +86,20 @@ Upcoming readings and discussions:
     [LessWrong](https://www.lesswrong.com/posts/N2NebPD78ioyWHhNm).
   * "What selection theorems do we expect/want",
     [LessWrong](https://www.lesswrong.com/posts/RuDD3aQWLDSb4eTXP).
+
+* **2024.02.15:**
+  Evan Hubinger *et al.,*
+  2024,
+  "Sleeper agents: Training deceptive LLMs that persist through safety
+  training".
+  [arXiv](https://arxiv.org/abs/2401.05566).
+  
+<!--
+If you already read it, look at wider commentary from, e.g.,
+  [Scott Alexander](https://www.astralcodexten.com/p/ai-sleeper-agents),
+  [Zvi Mowshowitz](https://www.lesswrong.com/posts/Sf5CBSo44kmgFdyGM/).
+-->
+
 
 <!--
 Cut:
@@ -126,6 +132,16 @@ Cut:
 -->
 
 Past readings and discussions (most recent first):
+
+* **2024.01.18:**
+  Vanessa Kosoy,
+  2023,
+  "Critical review of Christiano's disagreements with Yudkowsky".
+  [LessWrong post](https://www.lesswrong.com/posts/8HYJwQepynHsRKr6j).
+
+<!--
+* **2024.01.11:** Break.
+-->
 
 * **2024.01.04:**
   Vanessa Kosoy,
