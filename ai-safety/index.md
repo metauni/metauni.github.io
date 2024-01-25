@@ -70,16 +70,11 @@ confusions.
 
 Upcoming readings and discussions:
   
-* **2024.01.25:**
-  Peter Vamplew, Richard Dazeley, *et al.*,
-  2018,
-  "Human-aligned artificial intelligence is a multiobjective problem".
-  [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
-
 * **2024.02.01:** break (ICML deadline)
 
 * **2024.02.08:**
   John Wentworth, 2021, three posts on selection theorems:
+  
   * "Selection theorems: A program for understanding agents",
     [LessWrong](https://www.lesswrong.com/posts/G2Lne2Fi7Qra5Lbuf).
   * "Some existing selection theorems",
@@ -132,6 +127,13 @@ Cut:
 -->
 
 Past readings and discussions (most recent first):
+
+* **2024.01.25:**
+  Peter Vamplew, Richard Dazeley, *et al.*,
+  2018,
+  "Human-aligned artificial intelligence is a multiobjective problem".
+  [Springer Link](https://doi.org/10.1007/s10676-017-9440-6).
+
 
 * **2024.01.18:**
   Vanessa Kosoy,
