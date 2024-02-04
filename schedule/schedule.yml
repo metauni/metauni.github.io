@@ -1,4 +1,4 @@
-metauni day: "25/01/2024" # dd/mm/yyyy
+metauni day: "08/02/2024" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -14,6 +14,12 @@ whats on:
      desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
      website: https://metauni.org/disruption
      location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Physics:
+    time: 12:30-13:30
+    organizer: Rohan Hitchcock
+    desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
+    website: https://rohanhitchcock.com/stat-mech
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - AI Safety:
     time: 15:00-16:00
     organizer: Matthew Farrugia-Roberts
@@ -25,14 +31,8 @@ whats on:
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2052
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2053
 whats off:
-- Physics:
-    time: 12:30-13:30
-    organizer: Rohan Hitchcock
-    desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
-    website: https://rohanhitchcock.com/stat-mech
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Neuro:
     time: 14:00-15:30
     organizer: Tom Burns
