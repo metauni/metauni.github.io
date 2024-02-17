@@ -7,8 +7,6 @@ description:
 
 This is the homepage of a seminar on Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory founded by [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/). The seminar takes place at [metauni](https://www.metauni.org). For applications of SLT to alignment see the [initial document](align) and [developmental interpretability](https://www.devinterp.com).
 
-![slt-pic-min](https://user-images.githubusercontent.com/320329/208009611-93289eb6-4813-436d-864e-4deb487a8b73.png)
-
 The canonical references are Watanabe's two textbooks:
 
 * **The gray book:** S. Watanabe "[Algebraic geometry and statistical learning theory](https://www.cambridge.org/core/books/algebraic-geometry-and-statistical-learning-theory/9C8FD1BDC817E2FC79117C7F41544A3A)" 2009.
@@ -101,8 +99,6 @@ Below you can find the seminars for 2022, with videos and pocket links (which ta
 ![shot](https://user-images.githubusercontent.com/320329/200425686-62de6535-d334-4721-a6cb-712568a48b6a.png)
 
 ## Background
-
-* A. Karpathy on [Transformers](https://youtu.be/kCc8FmEb1nY) (on [data distribution](https://youtu.be/kCc8FmEb1nY?t=867)).
 
 Some rough handwritten notes:
 
