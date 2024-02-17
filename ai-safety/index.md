@@ -68,33 +68,10 @@ Completing weekly readings is recommended. We sometimes briefly summarise the
 paper. Usually we dive in to discussing particular credits, concerns, or
 confusions.
 
-Upcoming readings and discussions:
-  
-* **2024.02.01:** break (ICML deadline)
-
-* **2024.02.08:**
-  John Wentworth, 2021, three posts on selection theorems:
-  
-  * "Selection theorems: A program for understanding agents",
-    [LessWrong](https://www.lesswrong.com/posts/G2Lne2Fi7Qra5Lbuf).
-  * "Some existing selection theorems",
-    [LessWrong](https://www.lesswrong.com/posts/N2NebPD78ioyWHhNm).
-  * "What selection theorems do we expect/want",
-    [LessWrong](https://www.lesswrong.com/posts/RuDD3aQWLDSb4eTXP).
-
-* **2024.02.15:**
-  Evan Hubinger *et al.,*
-  2024,
-  "Sleeper agents: Training deceptive LLMs that persist through safety
-  training".
-  [arXiv](https://arxiv.org/abs/2401.05566).
-  
 <!--
-If you already read it, look at wider commentary from, e.g.,
-  [Scott Alexander](https://www.astralcodexten.com/p/ai-sleeper-agents),
-  [Zvi Mowshowitz](https://www.lesswrong.com/posts/Sf5CBSo44kmgFdyGM/).
+Upcoming readings and discussions:
 -->
-
+  
 
 <!--
 Cut:
@@ -127,6 +104,35 @@ Cut:
 -->
 
 Past readings and discussions (most recent first):
+
+* **2024.02.15:**
+  Evan Hubinger *et al.,*
+  2024,
+  "Sleeper agents: Training deceptive LLMs that persist through safety
+  training".
+  [arXiv](https://arxiv.org/abs/2401.05566).
+<!--
+If you already read it, look at wider commentary from, e.g.,
+  [Scott Alexander](https://www.astralcodexten.com/p/ai-sleeper-agents),
+  [Zvi Mowshowitz](https://www.lesswrong.com/posts/Sf5CBSo44kmgFdyGM/).
+-->
+
+* **2024.02.08:**
+  John Wentworth, 2021, three posts on selection theorems:
+  
+  * "Selection theorems: A program for understanding agents",
+    [LessWrong](https://www.lesswrong.com/posts/G2Lne2Fi7Qra5Lbuf).
+
+  * "Some existing selection theorems",
+    [LessWrong](https://www.lesswrong.com/posts/N2NebPD78ioyWHhNm).
+
+  * "What selection theorems do we expect/want",
+    [LessWrong](https://www.lesswrong.com/posts/RuDD3aQWLDSb4eTXP).
+
+
+<!--
+* **2024.02.01:** break (ICML deadline)
+-->
 
 * **2024.01.25:**
   Peter Vamplew, Richard Dazeley, *et al.*,
