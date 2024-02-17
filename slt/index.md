@@ -47,8 +47,10 @@ Some other introductory references:
 * **31-8-23** (*Edmund Lau*): Quantifying degeneracy in singular models via the learning coefficient ([video](https://youtu.be/xgJtoscCPFM))
 * **6-9-23** (*Dan Murfet*): Research updates ([video](https://youtu.be/C0QVMmnX0io))
 * **14-9-23** (*Arthur Conmy*): Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
-* **21-9-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
-* **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr))
+* **21-9-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019 ([video](https://youtu.be/KNS-xHb-uWw))
+* **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr), [video](https://youtu.be/VgnVLBpqmUo))
+* **12-10-23** The TMS paper
+* **14-12-23** (*Dan Murfet*) Complexity Beyond Parameter Counting, error correction and the RLCT ([video](https://youtu.be/_YfmwI2TRFQ))
   
 ### 2022
 
