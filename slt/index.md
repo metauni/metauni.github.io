@@ -48,12 +48,12 @@ Some other introductory references:
 * **27-7-23** (*Dan Murfet*): Intro to Developmental Biology ([video](https://youtu.be/ms8iQunIh0I))
 * **10-8-23** (*Ben Gerraty*): Hamiltonian Monte Carlo and the SLT Hamiltonian
 * **17-8-23** (*Dan Murfet*): In-context learning and implicit Bayesian inference ([paper](https://arxiv.org/abs/2111.02080), [video](https://youtu.be/Y00HtwKO3BY))
-* **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021.
-* **31-8-23** (*Edmund Lau*): Quantifying degeneracy in singular models via the learning coefficient
-* **6-9-23** (*Dan Murfet*): Research updates
+* **24-8-23** (*Jesse Hoogland*): "[Saddle-to-saddle dynamics in deep linear networks](https://arxiv.org/pdf/2106.15933.pdf)" A. Jacot et al 2021. ([video](https://youtu.be/2QvTCe0CFeY))
+* **31-8-23** (*Edmund Lau*): Quantifying degeneracy in singular models via the learning coefficient ([video](https://youtu.be/xgJtoscCPFM))
+* **6-9-23** (*Dan Murfet*): Research updates ([video](https://youtu.be/C0QVMmnX0io))
 * **14-9-23** (*Arthur Conmy*): Automated circuit discovery ([paper](https://arxiv.org/abs/2304.14997))
 * **21-9-23** (*Nisch*): "[A mathematical theory of semantic development in deep neural networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1820226116)" A. Saxe, J. McClelland, S. Ganguli 2019.
-* **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr)) (video)
+* **5-10-23** (*Matt Farrugia-Roberts*): "GPT on a TPU VM with PyTorch/XLA, or: How I Learned to Stop Worrying and Love the Brrr" ([workshop](https://far.in.net/tpu-go-brrr))
   
 ### 2022
 
