@@ -1,4 +1,4 @@
-metauni day: "22/02/2024" # dd/mm/yyyy
+metauni day: "29/02/2024" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -8,6 +8,7 @@ whats on:
     desc: "Euclid's Elements Book 3."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+whats off:
 - Disruption:
      time: 10:30-12:00
      organizer: Adam Dorr
@@ -26,7 +27,6 @@ whats on:
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2054
-whats off:
 - Neuro:
     time: 14:00-15:30
     organizer: Tom Burns
