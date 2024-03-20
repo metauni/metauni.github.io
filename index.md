@@ -32,7 +32,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### March 07, 2024
+### March 21, 2024
 * **[Euclid](https://metauni.org/euclid)** **10:00-10:30** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Physics](https://rohanhitchcock.com/stat-mech)** **13:30-14:30** (*Rohan Hitchcock*): An introductory seminar on statistical mechanics for a mathematically inclined audience. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
