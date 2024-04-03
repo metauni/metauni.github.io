@@ -1,4 +1,4 @@
-metauni day: "28/03/2024" # dd/mm/yyyy
+metauni day: "04/04/2024" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -8,19 +8,19 @@ whats on:
     desc: "Euclid's Elements Book 3."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-whats off:
-- Physics:
-    time: 13:30-14:30
-    organizer: Rohan Hitchcock
-    desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
-    website: https://rohanhitchcock.com/stat-mech
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Disruption:
      time: 10:30-12:00
      organizer: Adam Dorr
      desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
      website: https://metauni.org/disruption
      location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+- Physics:
+    time: 13:30-14:30
+    organizer: Rohan Hitchcock
+    desc: "An introductory seminar on statistical mechanics for a mathematically inclined audience."
+    website: https://rohanhitchcock.com/stat-mech
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+whats off:
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
