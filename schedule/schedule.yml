@@ -1,5 +1,5 @@
 metauni day: "11/04/2024" # dd/mm/yyyy
-timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC
+timezone: "+10:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
 - Euclid:
