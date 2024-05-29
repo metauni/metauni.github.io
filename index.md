@@ -32,8 +32,8 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### May 02, 2024
-* **[Euclid](https://metauni.org/euclid)** **10:00-10:30** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
+### May 30, 2024
+* **[Euclid](https://metauni.org/euclid)** **08:30-09:00** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 
 <!-- END WHATS ON -->
 
