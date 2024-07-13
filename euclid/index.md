@@ -47,7 +47,7 @@ Weekly readings of Euclid's Elements, with Ken Chan and Dan Murfet at [metauni](
 Thanks to those who attended the end of Book 1 celebrations:
 
 ```
-Ethan
+AstroCode
 DarkInfernoDrago
 Skarm174
 Edmund

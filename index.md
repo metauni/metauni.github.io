@@ -46,7 +46,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 * **[Physics](https://rohanhitchcock.com/stat-mech)** **13:30-14:00** (*Rohan Hitchcock*): An introductory seminar on statistical mechanics for a mathematically inclined audience. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Neuro](https://metauni.org/neuro)** **14:00-15:30** (*Tom Burns*): Neuroscience for AI interpretability. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[AI Safety](https://metauni.org/ai-safety)** **15:00-16:00** (*Matthew Farrugia-Roberts*): reading group on technical and philosophical topics in AI safety. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Code](https://metauni.org/code)** **16:00-17:30** (*Ethan Curtiss, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
+* **[Code](https://metauni.org/code)** **16:00-17:30** (*AstroCode, Billy Price*): Weaving meaning out of truth, and CFrames. *This week*: Billy Price on Temporal game state and reactive UI (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Anything At All](https://metauni.org/anythingatall)** **12:30-13:30** (*Various*): The seminar for everyone.
 * **#metauni-dev** **22:00-23:00**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 <!-- END WHATS OFF -->
@@ -55,7 +55,7 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 * **[Shadows of Computation](https://metauni.org/soc)** (*Billy Snikkers, Will Troiani*): The shadows cast by computation onto category theory.
 * **[Cryptography](https://lnor.net/uc-seminar.html)** (*Eleanor McMurtry*): on [zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof).
-* **[Code](https://metauni.org/code)** (*Ethan Curtiss*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
+* **[Code](https://metauni.org/code)** (*AstroCode*): coding and math in Roblox (in the [Discord](https://discord.gg/9yBaAxPSK8)). Sometimes we livestream working on metauni infrastructure, and sometimes we have guest speakers from the Roblox dev community presenting interesting projects they are working on.
 * **#metauni-dev**: development meeting (in the [Discord](https://discord.gg/9yBaAxPSK8)).
 * **[Foundations](https://metauni.org/foundations)** (*Billy Snikkers, Will Troiani*): The nature of mathematical objects and the languages we use to describe them. The surprising utility of these languages when considered as mathematical objects themselves. 
 
@@ -75,7 +75,7 @@ For more see the [about page](https://metauni.org/about/) and the [YouTube chann
 
 ## History
 
-Contributors to the tech stack in chronological order are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), [Ethan Curtiss](https://github.com/ecurtiss), [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
+Contributors to the tech stack in chronological order are [Daniel Murfet](http://www.therisingsea.org) `starsonthars`, [Lucas Cantor](https://www.lucascantormusic.com/) `HeadOfMusic`, James Clift (JC), Billy Snikkers (BS), AstroCode, [BenSBk](https://github.com/BenSBk), [jaipack17](https://jaipack17.github.io), [phoebe](https://phoebeivy.dev).
 
 * 11/1/2021 - metauni founded
 * 14/1/2021 - History start, got Discord integration working, [intro video](https://youtu.be/0K3sCNvFpWE).
@@ -102,7 +102,7 @@ Contributors to the tech stack in chronological order are [Daniel Murfet](http:/
 * 27/12/2021 - First open-source release of the [Orb system](https://github.com/metauni/orb) for integrating Roblox's spatial voice into metauni.
 * 8/1/2022 - Switch to spatial voice for metauni events.
 * 27/1/2022 - Integration of the Avatar Editor (by [phoebe](https://phoebeivy.dev)).
-* 8/6/2022 - Automated schedule deployment system (by Ethan and phoebe).
+* 8/6/2022 - Automated schedule deployment system (by AstroCode and phoebe).
 * 7/7/2022 - First VR lecture.
 * 9/7/2022 - Metaboard v1 (led by BS).
 * 10/9/2022 - First [VR replay](https://youtu.be/s4dfwxzXEFM) (code by BS).
