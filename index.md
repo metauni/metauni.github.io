@@ -32,10 +32,10 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### August 08, 2024
+### August 15, 2024
 * **[Euclid](https://metauni.org/euclid)** **10:00-10:30** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 3. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Hijax](https://far.in.net/hijax)** **14:00-15:00** (*Matthew Farrugia-Roberts*): A short introduction to JAX for deep learning researchers.
-* **[Singular Learning Theory](https://metauni.org/slt)** **15:00-16:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2062)
+* **[Singular Learning Theory](https://metauni.org/slt)** **15:00-16:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2063)
 
 <!-- END WHATS ON -->
 
