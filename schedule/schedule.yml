@@ -8,12 +8,6 @@ whats on:
     desc: "Euclid's Elements Book 3."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-- Disruption:
-     time: 10:30-12:00
-     organizer: Adam Dorr
-     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-     website: https://metauni.org/disruption
-     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Hijax:
      time: 14:00-15:00
      organizer: Matthew Farrugia-Roberts
@@ -27,6 +21,12 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2063
 whats off:
+- Disruption:
+     time: 10:30-12:00
+     organizer: Adam Dorr
+     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+     website: https://metauni.org/disruption
+     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Physics:
     time: 13:30-14:00
     organizer: Rohan Hitchcock
