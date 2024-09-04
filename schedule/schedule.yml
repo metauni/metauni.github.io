@@ -1,4 +1,4 @@
-metauni day: "22/08/2024" # dd/mm/yyyy
+metauni day: "05/09/2024" # dd/mm/yyyy
 timezone: "+10:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
@@ -8,13 +8,13 @@ whats on:
      desc: "A short introduction to JAX for deep learning researchers."
      website: https://far.in.net/hijax
      location: Discord
+whats off:
 - Singular Learning Theory:
     time: 15:00-16:30
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2063
-whats off:
 - Euclid:
     time: 10:00-10:30
     organizer: Dan Murfet, Ken Chan
