@@ -1,11 +1,11 @@
-metauni day: "19/09/2024" # dd/mm/yyyy
+metauni day: "26/09/2024" # dd/mm/yyyy
 timezone: "+10:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
 - Euclid:
     time: 10:00-10:30
     organizer: Dan Murfet, Ken Chan
-    desc: "Euclid's Elements Book 3."
+    desc: "Euclid's Elements Book 5."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Disruption:
@@ -19,7 +19,7 @@ whats on:
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2064
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2065
 whats off:
 - Hijax:
      time: 14:00-15:00
