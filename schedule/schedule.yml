@@ -2,12 +2,6 @@ metauni day: "10/10/2024" # dd/mm/yyyy
 timezone: "+10:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
-- Euclid:
-    time: 10:00-10:30
-    organizer: Dan Murfet, Ken Chan
-    desc: "Euclid's Elements Book 5."
-    website: https://metauni.org/euclid
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Disruption:
      time: 10:30-12:00
      organizer: Adam Dorr
@@ -15,12 +9,18 @@ whats on:
      website: https://metauni.org/disruption
      location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
-    time: 15:00-16:30
+    time: 14:00-15:30
     organizer: Dan Murfet, Edmund Lau
     desc: "Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory."
     website: https://metauni.org/slt
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2067
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2068
 whats off:
+- Euclid:
+    time: 10:00-10:30
+    organizer: Dan Murfet, Ken Chan
+    desc: "Euclid's Elements Book 5."
+    website: https://metauni.org/euclid
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Hijax:
      time: 14:00-15:00
      organizer: Matthew Farrugia-Roberts
