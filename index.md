@@ -33,15 +33,15 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 
 <!-- BEGIN WHATS ON -->
 ### October 10, 2024
-* **[Euclid](https://metauni.org/euclid)** **10:00-10:30** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 5. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Disruption](https://metauni.org/disruption)** **10:30-12:00** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **15:00-16:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2067)
+* **[Singular Learning Theory](https://metauni.org/slt)** **14:00-15:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2068)
 
 <!-- END WHATS ON -->
 
 ### What's off
 
 <!-- BEGIN WHATS OFF -->
+* **[Euclid](https://metauni.org/euclid)** **10:00-10:30** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 5. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Hijax](https://far.in.net/hijax)** **14:00-15:00** (*Matthew Farrugia-Roberts*): A short introduction to JAX for deep learning researchers.
 * **[Physics](https://rohanhitchcock.com/stat-mech)** **13:30-14:00** (*Rohan Hitchcock*): An introductory seminar on statistical mechanics for a mathematically inclined audience. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Neuro](https://metauni.org/neuro)** **14:00-15:30** (*Tom Burns*): Neuroscience for AI interpretability. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
