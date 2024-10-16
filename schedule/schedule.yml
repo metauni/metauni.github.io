@@ -2,12 +2,6 @@ metauni day: "17/10/2024" # dd/mm/yyyy
 timezone: "+10:00" # AEDT is 11 hours and 00 minutes ahead of UTC
 
 whats on:
-- Disruption:
-     time: 10:30-12:00
-     organizer: Adam Dorr
-     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
-     website: https://metauni.org/disruption
-     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 14:00-15:30
     organizer: Dan Murfet, Edmund Lau
@@ -15,6 +9,12 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2068
 whats off:
+- Disruption:
+     time: 10:30-12:00
+     organizer: Adam Dorr
+     desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
+     website: https://metauni.org/disruption
+     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Euclid:
     time: 10:00-10:30
     organizer: Dan Murfet, Ken Chan
