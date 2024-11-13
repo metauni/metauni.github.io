@@ -24,7 +24,7 @@ Got a Board Key from Roblox? To view the board on the web enter the Key at [meta
 
 ## Schedule
 
-To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEST (UTC +10). Names in italics are the co-organisers of the seminar. If the Join Now links do not work for you, please make sure you are logged into Roblox in your current browser.
+To join an event click the "Join now" button or, for Discord-based events, join the [metauni Discord](https://discord.gg/9yBaAxPSK8). Times are given in AEDT (UTC +11). Names in italics are the co-organisers of the seminar. If the Join Now links do not work for you, please make sure you are logged into Roblox in your current browser.
 <!-- The schedule is also available in the iCalendar format. -->
 
 <!--* [Google Calendar](https://www.google.com/calendar/render?cid=mtat12fcie0kaavivca4lgpp69oqpg6v@import.calendar.google.com)-->
