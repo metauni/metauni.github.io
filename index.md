@@ -32,10 +32,10 @@ To join an event click the "Join now" button or, for Discord-based events, join 
 <!--* <a class="copy-to-clipboard" data-clipboard-text="https://metauni.org/schedule.ics">Copy ICS Link</a> -->
 
 <!-- BEGIN WHATS ON -->
-### November 21, 2024
+### November 28, 2024
 * **[Euclid](https://metauni.org/euclid)** **11:00-11:30** (*Dan Murfet, Ken Chan*): Euclid's Elements Book 5. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
 * **[Disruption](https://metauni.org/disruption)** **11:30-12:30** (*Adam Dorr*): Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=/)
-* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2071)
+* **[Singular Learning Theory](https://metauni.org/slt)** **16:00-17:30** (*Dan Murfet, Edmund Lau*): Singularities are knowledge. A learning seminar on Watanabe’s Singular Learning Theory: algebraic geometry serves statistical learning theory. [Join now](https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2072)
 
 <!-- END WHATS ON -->
 
