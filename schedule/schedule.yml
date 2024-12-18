@@ -2,12 +2,6 @@ metauni day: "19/12/2024" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC, AEST is UTC + 10
 
 whats on:
-- Euclid:
-    time: 11:00-11:30
-    organizer: Dan Murfet, Ken Chan
-    desc: "Euclid's Elements Book 5."
-    website: https://metauni.org/euclid
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Disruption:
      time: 11:30-12:30
      organizer: Adam Dorr
@@ -21,6 +15,12 @@ whats on:
     website: https://metauni.org/slt
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=pocket%3ASymbolic%20Wilds%2075
 whats off:
+- Euclid:
+    time: 11:00-11:30
+    organizer: Dan Murfet, Ken Chan
+    desc: "Euclid's Elements Book 5."
+    website: https://metauni.org/euclid
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Hijax:
      time: 14:00-15:00
      organizer: Matthew Farrugia-Roberts
