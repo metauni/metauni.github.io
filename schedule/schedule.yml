@@ -1,4 +1,4 @@
-metauni day: "23/01/2025" # dd/mm/yyyy
+metauni day: "30/01/2025" # dd/mm/yyyy
 timezone: "+11:00" # AEDT is 11 hours and 00 minutes ahead of UTC, AEST is UTC + 10
 
 whats on:
@@ -8,13 +8,13 @@ whats on:
     desc: "Euclid's Elements Book 5."
     website: https://metauni.org/euclid
     location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
+whats off:
 - Disruption:
      time: 11:30-12:30
      organizer: Adam Dorr
      desc: "Towards a science of technological disruption. An open discussion of technological disruption, how it works, what it means and how to play a positive part in it."
      website: https://metauni.org/disruption
      location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
-whats off:
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet, Edmund Lau
