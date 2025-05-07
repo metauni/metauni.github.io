@@ -1,13 +1,7 @@
-metauni day: "07/05/2025" # dd/mm/yyyy
+metauni day: "08/05/2025" # dd/mm/yyyy
 timezone: "+10:00" # AEDT is 11 hours and 00 minutes ahead of UTC, AEST is UTC + 10
 
 whats on:
-- Euclid:
-    time: 11:00-11:30
-    organizer: Dan Murfet, Ken Chan
-    desc: "Euclid's Elements Book 5."
-    website: https://metauni.org/euclid
-    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Singular Learning Theory:
     time: 16:00-17:30
     organizer: Dan Murfet
@@ -15,6 +9,12 @@ whats on:
     website: https://metauni.org/slt
     location: Discord
 whats off:
+- Euclid:
+    time: 11:00-11:30
+    organizer: Dan Murfet, Ken Chan
+    desc: "Euclid's Elements Book 5."
+    website: https://metauni.org/euclid
+    location: https://www.roblox.com/games/start?placeId=8165217582&launchData=/
 - Disruption:
      time: 11:30-12:30
      organizer: Adam Dorr
