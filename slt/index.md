@@ -5,6 +5,8 @@ description:
     Algebraic Geometry & Statistical Learning Theory
 ---
 
+**The new SLT seminar can be found [here](https://zachfurman.com/singular-learning-theory-seminar/)**
+
 This is the homepage of a seminar on Singular Learning Theory (SLT), a theory applying algebraic geometry to statistical learning theory founded by [Sumio Watanabe](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/). The seminar takes place at [metauni](https://www.metauni.org). For applications of SLT to alignment see the [initial document](align) and [developmental interpretability](https://www.devinterp.com).
 
 The canonical references are Watanabe's two textbooks:
