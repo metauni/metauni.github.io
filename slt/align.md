@@ -5,6 +5,8 @@ description:
     Lightning unenlightened
 ---
 
+*Last updated May 2023.*
+
 We aim to discover and understand the geometric and logical structures underlying the computations that are learned by large neural networks. Our approach to **discovery** is based on observing phase transitions in learning machines, theoretically grounded in [Singular Learning Theory](https://www.metauni.org/slt) (SLT). We focus on phase transitions because there is evidence that phase transitions
 
 * occur during the training process, and
